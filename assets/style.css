@@ -245,11 +245,13 @@ body.edit-mode .link-edit-badge{display:inline-flex;align-items:center;justify-c
 
 /* Toolbar */
 #im-toolbar{
+  display:none;
   position:fixed;left:0;right:0;bottom:0;z-index:100;
   background:var(--ink-900);border-top:1px solid #000;
-  display:flex;align-items:center;gap:10px;padding:10px 18px;flex-wrap:wrap;
+  align-items:center;gap:10px;padding:10px 18px;flex-wrap:wrap;
   box-shadow:0 -6px 24px rgba(0,0,0,.3);font-size:.85rem;
 }
+body.edit-mode #im-toolbar{display:flex;}
 #im-toolbar .grow{flex:1;}
 #im-toolbar button, #im-toolbar label.tbtn{
   background:#262a31;border:1px solid #3a3f47;color:#fff;
