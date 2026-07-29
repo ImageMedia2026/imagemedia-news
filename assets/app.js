@@ -13,6 +13,19 @@
 
   var PREFIX = "at_";
   var LANG_KEY = "im_lang";
+  var GH_TOKEN_KEY = "im_gh_token";
+
+  /* ---------------- live publish (GitHub) ----------------
+     When this site is opened from its GitHub Pages URL, image
+     uploads are committed straight to the repo (images/ folder +
+     the page's own HTML file), so every visitor sees the new photo
+     — not just this browser. Everything else (text/links/cards)
+     stays local-only by design; real article text is authored and
+     published separately. */
+  var GH_OWNER = "ImageMedia2026";
+  var GH_REPO = "imagemedia-news";
+  var GH_BRANCH = "main";
+  var LIVE = /\.github\.io$/.test(location.hostname);
 
   var I18N = window.IM_I18N || { supported: ["en"], "default": "en", content: {}, chrome: {} };
 
@@ -44,6 +57,170 @@
   function key(id, lang){ return PREFIX + (lang || currentLang) + "_" + id; }
   function hrefKey(id, lang){ return PREFIX + (lang || currentLang) + "_" + id + "__href"; }
   function orderKey(){ return PREFIX + "order__" + (document.body.getAttribute("data-page") || "page"); }
+
+  /* ---------------- toast (small status feedback) ---------------- */
+
+  var toastEl = null;
+  var toastTimer = null;
+  function toast(msg, isError){
+    if(!toastEl){
+      toastEl = document.createElement("div");
+      toastEl.id = "im-toast";
+      document.body.appendChild(toastEl);
+    }
+    toastEl.textContent = msg;
+    toastEl.classList.toggle("error", !!isError);
+    toastEl.classList.add("show");
+    if(toastTimer) clearTimeout(toastTimer);
+    toastTimer = setTimeout(function(){ toastEl.classList.remove("show"); }, isError ? 5200 : 3400);
+  }
+
+  /* ---------------- GitHub live-publish helpers ---------------- */
+
+  function ghToken(){
+    try { return localStorage.getItem(GH_TOKEN_KEY); } catch(e){ return null; }
+  }
+
+  function ensureGhToken(){
+    var t = ghToken();
+    if(t) return t;
+    var entered = window.prompt(
+      "Publishing this photo to the live site needs a GitHub access token (one-time setup).\n\n" +
+      "Create one at github.com/settings/personal-access-tokens with “Contents: Read and write” " +
+      "access to the imagemedia-news repo, then paste it here. It is stored only in this browser.",
+      ""
+    );
+    if(entered){
+      entered = entered.trim();
+      if(entered){
+        try { localStorage.setItem(GH_TOKEN_KEY, entered); } catch(e){ /* ignore */ }
+        return entered;
+      }
+    }
+    return null;
+  }
+
+  function forgetGhToken(){
+    try { localStorage.removeItem(GH_TOKEN_KEY); } catch(e){ /* ignore */ }
+  }
+
+  function b64EncodeUnicode(str){
+    return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g, function(_, p1){
+      return String.fromCharCode("0x" + p1);
+    }));
+  }
+
+  function b64DecodeUnicode(str){
+    return decodeURIComponent(atob(str).split("").map(function(c){
+      return "%" + ("00" + c.charCodeAt(0).toString(16)).slice(-2);
+    }).join(""));
+  }
+
+  function escapeRegExp(s){ return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); }
+
+  function ghApi(path, opts, token){
+    opts = opts || {};
+    var headers = opts.headers || {};
+    headers["Authorization"] = "token " + token;
+    headers["Accept"] = "application/vnd.github+json";
+    opts.headers = headers;
+    return fetch("https://api.github.com/repos/" + GH_OWNER + "/" + GH_REPO + "/contents/" + path, opts)
+      .then(function(res){
+        if(res.status === 404) return { notFound: true };
+        return res.json().then(function(body){
+          if(!res.ok){
+            var msg = (body && body.message) || ("GitHub API error " + res.status);
+            var err = new Error(msg);
+            err.status = res.status;
+            throw err;
+          }
+          return body;
+        });
+      });
+  }
+
+  function ghGetFile(path, token){
+    return ghApi(path + "?ref=" + GH_BRANCH, { method: "GET" }, token).then(function(body){
+      if(body.notFound) return null;
+      var contentB64 = (body.content || "").replace(/\n/g, "");
+      return { sha: body.sha, text: b64DecodeUnicode(contentB64) };
+    });
+  }
+
+  function ghPutFile(path, base64Content, message, sha, token){
+    var body = { message: message, content: base64Content, branch: GH_BRANCH };
+    if(sha) body.sha = sha;
+    return ghApi(path, { method: "PUT", body: JSON.stringify(body) }, token);
+  }
+
+  function currentPagePath(){
+    var parts = location.pathname.split("/").filter(Boolean);
+    var last = parts[parts.length - 1] || "index.html";
+    if(last.indexOf(".html") === -1) last = "index.html";
+    return last;
+  }
+
+  function extFromFile(file){
+    var name = file.name || "";
+    var m = /\.([a-z0-9]+)$/i.exec(name);
+    if(m) return "." + m[1].toLowerCase();
+    if(file.type === "image/png") return ".png";
+    if(file.type === "image/webp") return ".webp";
+    if(file.type === "image/gif") return ".gif";
+    return ".jpg";
+  }
+
+  /* Publishes a single image replacement: uploads the binary to
+     images/, then rewrites that <img>'s src inside the current
+     page's committed HTML. Only works for images that already exist
+     in the published file (new, not-yet-published story cards are
+     skipped with a clear message). */
+  function publishImage(imgEl, file, dataUrl){
+    var id = imgEl.getAttribute("data-edit-id");
+    var token = ensureGhToken();
+    if(!token){
+      toast("Saved on this device only — paste a GitHub token to publish it live.", true);
+      return;
+    }
+    if(chromeRefresh) chromeRefresh();
+    toast("Publishing photo…");
+
+    var comma = dataUrl.indexOf(",");
+    var base64Payload = comma !== -1 ? dataUrl.slice(comma + 1) : dataUrl;
+    var imagePath = "images/" + id.replace(/[^a-z0-9_-]/gi, "") + "-" + Date.now() + extFromFile(file);
+    var pagePath = currentPagePath();
+
+    ghPutFile(imagePath, base64Payload, "Add photo for " + id, null, token)
+      .then(function(){ return ghGetFile(pagePath, token); })
+      .then(function(fileData){
+        if(!fileData) throw new Error("Could not read " + pagePath + " from the repo.");
+        var re = new RegExp('(<img\\b[^>]*data-edit-id="' + escapeRegExp(id) + '"[^>]*>)', "i");
+        var m = re.exec(fileData.text);
+        if(!m){
+          throw new Error("NEW_CARD");
+        }
+        var oldTag = m[1];
+        var newTag = oldTag.replace(/\ssrc="[^"]*"/i, ' src="' + imagePath + '"');
+        if(newTag === oldTag && !/\ssrc="/i.test(oldTag)){
+          newTag = oldTag.replace(/^<img\b/i, '<img src="' + imagePath + '"');
+        }
+        var newText = fileData.text.slice(0, m.index) + newTag + fileData.text.slice(m.index + oldTag.length);
+        return ghPutFile(pagePath, b64EncodeUnicode(newText), "Publish photo update: " + id, fileData.sha, token);
+      })
+      .then(function(){
+        toast("Published — live on the site in about a minute.");
+      })
+      .catch(function(err){
+        if(err && err.message === "NEW_CARD"){
+          toast("Saved locally. This card isn't published yet, so the photo can't go live on its own — ask Claude to publish this story first.", true);
+        } else if(err && err.status === 401){
+          forgetGhToken();
+          toast("That GitHub token was rejected. Try uploading again to enter a new one.", true);
+        } else {
+          toast("Saved on this device, but publishing failed: " + (err && err.message ? err.message : "unknown error"), true);
+        }
+      });
+  }
 
   /* ---------------- restore on load ---------------- */
 
@@ -171,6 +348,7 @@
         reader.onload = function(){
           img.setAttribute("src", reader.result);
           localStorage.setItem(key(img.getAttribute("data-edit-id")), reader.result);
+          if(LIVE) publishImage(img, file, reader.result);
         };
         reader.readAsDataURL(file);
       }
@@ -365,9 +543,13 @@
 
     function render(){
       launcher.textContent = T("toolbar.edit");
+      var livePill = LIVE
+        ? '<span class="live-pill' + (ghToken() ? ' on' : '') + '">' + (ghToken() ? "🌐 Live photos" : "🌐 Live (connect on upload)") + '</span>'
+        : '<span class="live-pill">Offline copy</span>';
       bar.innerHTML =
         '<button class="primary" data-action="done">' + T("toolbar.done") + '</button>' +
         '<span class="status">' + T("toolbar.status") + '</span>' +
+        livePill +
         '<span class="grow"></span>' +
         '<label class="tbtn" data-action="import">' + T("toolbar.import") +
           '<input type="file" accept="application/json" style="display:none" data-import-input></label>' +

@@ -273,3 +273,18 @@ body.edit-mode{padding-bottom:64px;}
 #im-help-modal ul{color:var(--ink-700);padding-left:20px;}
 #im-help-modal li{margin-bottom:8px;}
 #im-help-modal .close-btn{margin-top:10px;}
+
+/* Live-publish status pill + toast */
+#im-toolbar .live-pill{
+  font-size:.72rem;font-weight:800;text-transform:uppercase;letter-spacing:.03em;
+  padding:5px 10px;border-radius:999px;border:1px solid #3a3f47;color:#9aa0ac;
+}
+#im-toolbar .live-pill.on{color:#7be0a0;border-color:#2f6b46;background:rgba(47,107,70,.25);}
+#im-toast{
+  position:fixed;left:50%;bottom:88px;transform:translateX(-50%) translateY(12px);
+  background:var(--ink-900);color:#fff;padding:11px 18px;border-radius:8px;font-size:.85rem;font-weight:700;
+  box-shadow:var(--shadow-lg);z-index:120;opacity:0;pointer-events:none;transition:opacity .2s ease, transform .2s ease;
+  max-width:min(90vw,420px);text-align:center;
+}
+#im-toast.show{opacity:1;transform:translateX(-50%) translateY(0);}
+#im-toast.error{background:#7a1f1f;}
