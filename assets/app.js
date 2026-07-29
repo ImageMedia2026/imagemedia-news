@@ -306,6 +306,23 @@
     });
   }
 
+  /* Some layouts (the homepage hero, for one) wrap an entire editable block —
+     image, headline, deck — in a single <a> so it's clickable through to the
+     article when NOT editing. While editing, that same link would hijack every
+     click (upload button, text focus) into a page navigation before the edit
+     could register, which looks exactly like "nothing happens". Neutralise
+     that navigation for the duration of edit mode. */
+  function wireEditModeLinkGuard(){
+    document.addEventListener("click", function(e){
+      if(!document.body.classList.contains("edit-mode")) return;
+      var link = e.target.closest && e.target.closest("a[href]");
+      if(!link) return;
+      if(link.querySelector("[data-edit-id]") || link.querySelector(".editable-img-wrap")){
+        e.preventDefault();
+      }
+    }, true);
+  }
+
   function wireSaveOnBlur(){
     document.addEventListener("blur", function(e){
       var el = e.target;
@@ -647,6 +664,7 @@
     restoreCards();
     restoreFields();
     applyChromeI18n();
+    wireEditModeLinkGuard();
     wireSaveOnBlur();
     wireImageEditing();
     wireLinkHrefEditing();

@@ -120,11 +120,15 @@ nav.menu a.cta:hover{background:var(--brand);text-decoration:none;}
 
 .editable-img-wrap{position:relative;}
 .img-edit-overlay{
-  display:none;position:absolute;inset:0;background:rgba(20,22,26,.7);z-index:3;
+  display:none;position:absolute;inset:0;background:rgba(20,22,26,.45);z-index:3;
   color:#fff;align-items:center;justify-content:center;flex-direction:column;gap:8px;
   font-size:.8rem;font-weight:700;text-align:center;padding:12px;
+  transition:background .15s ease;
 }
-body.edit-mode .editable-img-wrap:hover .img-edit-overlay{display:flex;}
+/* Visible any time edit mode is on — not hover-only, since hover is unreliable on
+   trackpads/touch devices and was hiding the upload button before a click could land. */
+body.edit-mode .editable-img-wrap .img-edit-overlay{display:flex;}
+body.edit-mode .editable-img-wrap:hover .img-edit-overlay{background:rgba(20,22,26,.7);}
 .img-edit-overlay button{
   background:var(--brand);color:#fff;border:none;border-radius:6px;padding:7px 12px;font-weight:800;cursor:pointer;font-size:.78rem;
 }
