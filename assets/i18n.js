@@ -100,25 +100,25 @@ window.IM_I18N = {
     "it": "Atletica"
   },
   "card-h2__field__title": {
-    "en": "Rising Sprinter Breaks National Record In Season Opener",
-    "pt": "Velocista Em Ascensão Bate Recorde Nacional Na Abertura Da Época",
-    "es": "Joven Velocista Bate El Récord Nacional En El Estreno De Temporada",
-    "fr": "Une Sprinteuse Prometteuse Bat Le Record National Dès L'ouverture De Saison",
-    "it": "Velocista Emergente Batte Il Record Nazionale All'esordio Stagionale"
+    "en": "Hurbax Brings Its Run-and-Workout Circuit to Santander",
+    "pt": "Hurbax Leva o Seu Circuito de Corrida e Treino a Santander",
+    "es": "Hurbax Lleva Su Circuito de Carrera y Entrenamiento a Santander",
+    "fr": "Hurbax Installe Son Circuit Course-et-Entraînement à Santander",
+    "it": "Hurbax Porta il Suo Circuito Corsa-e-Allenamento a Santander"
   },
   "card-h2__field__deck": {
-    "en": "A 19-year-old stuns the field and puts herself in the conversation for the summer championships.",
-    "pt": "Uma atleta de 19 anos surpreende o pelotão e entra na conversa para o campeonato de verão.",
-    "es": "Una atleta de 19 años sorprende al pelotón y se cuela en la conversación para el campeonato de verano.",
-    "fr": "Une athlète de 19 ans surprend le peloton et s'invite dans la discussion pour les championnats d'été.",
-    "it": "Una diciannovenne sorprende il gruppo e si candida per i campionati estivi."
+    "en": "500 athletes tackled 5km of running and five workout stations in the Cantabrian capital.",
+    "pt": "500 atletas enfrentaram 5 km de corrida e cinco estações de treino na capital cântabra.",
+    "es": "500 atletas afrontaron 5 km de carrera y cinco estaciones de entrenamiento en la capital cántabra.",
+    "fr": "500 athlètes ont affronté 5 km de course et cinq stations d'entraînement dans la capitale cantabre.",
+    "it": "500 atleti hanno affrontato 5 km di corsa e cinque stazioni di allenamento nella capitale cantabra."
   },
   "card-h2__field__meta": {
-    "en": "5 hours ago",
-    "pt": "há 5 horas",
-    "es": "hace 5 horas",
-    "fr": "il y a 5 heures",
-    "it": "5 ore fa"
+    "en": "Image Media coverage",
+    "pt": "Cobertura Image Media",
+    "es": "Cobertura de Image Media",
+    "fr": "Couverture Image Media",
+    "it": "Copertura Image Media"
   },
   "card-h2__field__link": {
     "en": "Read more →",
@@ -562,25 +562,25 @@ window.IM_I18N = {
     "it": "Atletica"
   },
   "card-s3__field__title": {
-    "en": "Rising Sprinter Breaks National Record In Season Opener",
-    "pt": "Velocista Em Ascensão Bate Recorde Nacional Na Abertura Da Época",
-    "es": "Joven Velocista Bate El Récord Nacional En El Estreno De Temporada",
-    "fr": "Une Sprinteuse Prometteuse Bat Le Record National Dès L'ouverture De Saison",
-    "it": "Velocista Emergente Batte Il Record Nazionale All'esordio Stagionale"
+    "en": "Hurbax Brings Its Run-and-Workout Circuit to Santander",
+    "pt": "Hurbax Leva o Seu Circuito de Corrida e Treino a Santander",
+    "es": "Hurbax Lleva Su Circuito de Carrera y Entrenamiento a Santander",
+    "fr": "Hurbax Installe Son Circuit Course-et-Entraînement à Santander",
+    "it": "Hurbax Porta il Suo Circuito Corsa-e-Allenamento a Santander"
   },
   "card-s3__field__deck": {
-    "en": "A 19-year-old stuns the field and enters the conversation for the summer championships.",
-    "pt": "Uma atleta de 19 anos surpreende o pelotão e entra na conversa para o campeonato de verão.",
-    "es": "Una atleta de 19 años sorprende al pelotón y entra en la conversación para el campeonato de verano.",
-    "fr": "Une athlète de 19 ans surprend le peloton et entre dans la discussion pour les championnats d'été.",
-    "it": "Una diciannovenne sorprende il gruppo ed entra nel discorso per i campionati estivi."
+    "en": "500 athletes tackled 5km of running and five workout stations in the Cantabrian capital.",
+    "pt": "500 atletas enfrentaram 5 km de corrida e cinco estações de treino na capital cântabra.",
+    "es": "500 atletas afrontaron 5 km de carrera y cinco estaciones de entrenamiento en la capital cántabra.",
+    "fr": "500 athlètes ont affronté 5 km de course et cinq stations d'entraînement dans la capitale cantabre.",
+    "it": "500 atleti hanno affrontato 5 km di corsa e cinque stazioni di allenamento nella capitale cantabra."
   },
   "card-s3__field__meta": {
-    "en": "5 hours ago",
-    "pt": "há 5 horas",
-    "es": "hace 5 horas",
-    "fr": "il y a 5 heures",
-    "it": "5 ore fa"
+    "en": "Image Media coverage",
+    "pt": "Cobertura Image Media",
+    "es": "Cobertura de Image Media",
+    "fr": "Couverture Image Media",
+    "it": "Copertura Image Media"
   },
   "card-s3__field__link": {
     "en": "Read more →",
@@ -1421,6 +1421,167 @@ window.IM_I18N = {
     "es": "@imagemedianews",
     "fr": "@imagemedianews",
     "it": "@imagemedianews"
+  },
+  "a4-tag": {
+    "en": "Athletics",
+    "pt": "Atletismo",
+    "es": "Atletismo",
+    "fr": "Athlétisme",
+    "it": "Atletica"
+  },
+  "a4-title": {
+    "en": "Hurbax Brings Its Run-and-Workout Circuit to Santander's Plaza Alfonso XIII",
+    "pt": "Hurbax Leva o Seu Circuito de Corrida e Treino à Praça Alfonso XIII, em Santander",
+    "es": "Hurbax Lleva Su Circuito de Carrera y Entrenamiento a la Plaza Alfonso XIII de Santander",
+    "fr": "Hurbax Installe Son Circuit Course-et-Entraînement Place Alfonso XIII, à Santander",
+    "it": "Hurbax Porta il Suo Circuito Corsa-e-Allenamento in Plaza Alfonso XIII, a Santander"
+  },
+  "a4-deck": {
+    "en": "Five kilometres of running split into five outdoor workout stations turned the Cantabrian capital into a functional-fitness arena, with Image Media on site across all three category waves.",
+    "pt": "Cinco quilómetros de corrida divididos em cinco estações de treino ao ar livre transformaram a capital cântabra numa arena de fitness funcional, com a Image Media no local ao longo das três vagas de categorias.",
+    "es": "Cinco kilómetros de carrera divididos en cinco estaciones de entrenamiento al aire libre convirtieron la capital cántabra en una arena de fitness funcional, con Image Media presente durante las tres tandas de categorías.",
+    "fr": "Cinq kilomètres de course répartis en cinq ateliers d'entraînement en plein air ont transformé la capitale cantabre en arène de fitness fonctionnel, avec Image Media présent sur les trois vagues de catégories.",
+    "it": "Cinque chilometri di corsa suddivisi in cinque stazioni di allenamento all'aperto hanno trasformato la capitale cantabra in un'arena di fitness funzionale, con Image Media presente durante tutte e tre le batterie di categoria."
+  },
+  "a4-byline": {
+    "en": "By Image Media News Staff — Santander",
+    "pt": "Por Redação Image Media News — Santander",
+    "es": "Por Redacción de Image Media News — Santander",
+    "fr": "Par la Rédaction d'Image Media News — Santander",
+    "it": "Di Redazione Image Media News — Santander"
+  },
+  "a4-p1": {
+    "en": "Santander's Plaza Alfonso XIII traded its usual quiet for the sound of rowing ergs and sandbags on March 14, as Hurbax — Spain's growing \"Beyond Limits\" hybrid-fitness circuit — made its debut stop in the Cantabrian capital.",
+    "pt": "A Praça Alfonso XIII, em Santander, trocou a sua habitual tranquilidade pelo som de remos e sacos de areia no dia 14 de março, quando o Hurbax — o crescente circuito espanhol de fitness híbrido \"Beyond Limits\" — fez a sua estreia na capital cântabra.",
+    "es": "La Plaza Alfonso XIII de Santander cambió su habitual tranquilidad por el sonido de remos y sacos de arena el 14 de marzo, cuando Hurbax, el creciente circuito español de fitness híbrido \"Beyond Limits\", debutó en la capital cántabra.",
+    "fr": "La place Alfonso XIII de Santander a troqué son calme habituel contre le bruit des rameurs et des sacs de sable le 14 mars, lorsque Hurbax, le circuit espagnol de fitness hybride « Beyond Limits » en pleine croissance, a fait ses débuts dans la capitale cantabre.",
+    "it": "Il 14 marzo, Plaza Alfonso XIII a Santander ha scambiato la sua consueta tranquillità con il rumore di vogatori e sacchi di sabbia, quando Hurbax, il crescente circuito spagnolo di fitness ibrido \"Beyond Limits\", ha debuttato nella capitale cantabra."
+  },
+  "a4-p2": {
+    "en": "The format is unforgiving by design: five kilometres of running broken into five one-kilometre segments, each one leading straight into a high-intensity workout station. Athletes rotated through rowing (1,000m solo and pairs, 2,000m for teams), wall balls, sandbag lunges, farmer's carries and burpee broad jumps, with judges enforcing strict technical standards at every station and time penalties for any shortcuts.",
+    "pt": "O formato é exigente por natureza: cinco quilómetros de corrida divididos em cinco troços de mil metros, cada um seguido de uma estação de treino de alta intensidade. Os atletas passaram por remo (1000 m a solo e em pares, 2000 m em equipas), wall balls, avanços com saco de areia, transporte de pesos (farmer's carry) e saltos com burpee, com juízes a exigir rigor técnico em cada estação e penalizações de tempo para quem falhasse a execução.",
+    "es": "El formato es exigente por diseño: cinco kilómetros de carrera divididos en cinco tramos de mil metros, cada uno seguido de una estación de entrenamiento de alta intensidad. Los atletas pasaron por remo (1000 m individual y parejas, 2000 m equipos), wall balls, zancadas con saco de arena, transporte de pesas (farmer's carry) y burpees con salto, con jueces exigiendo rigor técnico en cada estación y penalizaciones de tiempo por cualquier fallo.",
+    "fr": "Le format est exigeant par nature : cinq kilomètres de course répartis en cinq tronçons d'un kilomètre, chacun suivi d'un atelier d'entraînement à haute intensité. Les athlètes sont passés par l'aviron (1000 m en solo et en binôme, 2000 m en équipe), les wall balls, les fentes avec sac de sable, le transport de charges (farmer's carry) et les burpees sautés, avec des juges exigeant une exécution technique rigoureuse à chaque atelier et des pénalités de temps en cas de faute.",
+    "it": "Il formato è esigente per costruzione: cinque chilometri di corsa suddivisi in cinque tratti di mille metri, ciascuno seguito da una stazione di allenamento ad alta intensità. Gli atleti si sono cimentati con il vogatore (1000 m individuale e coppie, 2000 m squadre), i wall ball, gli affondi con sacco di sabbia, il trasporto pesi (farmer's carry) e i burpee con salto, con giudici che hanno imposto rigore tecnico a ogni stazione e penalità di tempo per ogni errore."
+  },
+  "a4-stat": {
+    "en": "500 athletes. 5 kilometres of running. 5 workout stations. Three category waves in one afternoon.",
+    "pt": "500 atletas. 5 quilómetros de corrida. 5 estações de treino. Três vagas de categorias numa só tarde.",
+    "es": "500 atletas. 5 kilómetros de carrera. 5 estaciones de entrenamiento. Tres tandas de categorías en una sola tarde.",
+    "fr": "500 athlètes. 5 kilomètres de course. 5 ateliers d'entraînement. Trois vagues de catégories en un seul après-midi.",
+    "it": "500 atleti. 5 chilometri di corsa. 5 stazioni di allenamento. Tre batterie di categoria in un solo pomeriggio."
+  },
+  "a4-p3": {
+    "en": "Around 500 athletes took to the course across the day's three waves — pairs from 3:00pm, teams from 4:40pm and individual competitors closing out the afternoon from 5:40pm — with the plaza's public zones, free to spectators, giving Santander a first-hand look at a competition format still new to the city.",
+    "pt": "Cerca de 500 atletas percorreram o circuito ao longo das três vagas do dia — pares a partir das 15h00, equipas a partir das 16h40 e individuais a fechar a tarde a partir das 17h40 — com as zonas públicas da praça, de acesso gratuito, a dar a Santander um primeiro contacto próximo com um formato de competição ainda novo na cidade.",
+    "es": "Cerca de 500 atletas recorrieron el circuito a lo largo de las tres tandas del día —parejas desde las 15:00h, equipos desde las 16:40h e individual cerrando la tarde desde las 17:40h—, con las zonas públicas de la plaza, de acceso gratuito, ofreciendo a Santander un primer contacto de cerca con un formato de competición todavía novedoso en la ciudad.",
+    "fr": "Environ 500 athlètes ont pris part au parcours lors des trois vagues de la journée — les paires dès 15h00, les équipes dès 16h40 et les individuels clôturant l'après-midi dès 17h40 — les zones publiques de la place, en accès libre, offrant à Santander un premier aperçu de près d'un format de compétition encore nouveau pour la ville.",
+    "it": "Circa 500 atleti hanno percorso il tracciato nelle tre batterie della giornata — coppie dalle 15:00, squadre dalle 16:40 e individuali a chiudere il pomeriggio dalle 17:40 — con le aree pubbliche della piazza, ad accesso libero, che hanno offerto a Santander un primo contatto ravvicinato con un formato di gara ancora nuovo per la città."
+  },
+  "a4-p4": {
+    "en": "Image Media covered the event start to finish, with Luis Moreira, Willi Becker, Sergio Mendes and Kika on the ground documenting all three categories. Santander is the second stop on Hurbax's 2026 national calendar, which continues on to Valladolid, Pontevedra, Oviedo, Gijón and a season-closing final in Madrid.",
+    "pt": "A Image Media cobriu o evento do início ao fim, com Luis Moreira, Willi Becker, Sergio Mendes e Kika no terreno a documentar as três categorias. Santander é a segunda etapa do calendário nacional do Hurbax em 2026, que continua para Valladolid, Pontevedra, Oviedo, Gijón e uma final de temporada em Madrid.",
+    "es": "Image Media cubrió el evento de principio a fin, con Luis Moreira, Willi Becker, Sergio Mendes y Kika sobre el terreno documentando las tres categorías. Santander es la segunda parada del calendario nacional de Hurbax en 2026, que continúa hacia Valladolid, Pontevedra, Oviedo, Gijón y una final de temporada en Madrid.",
+    "fr": "Image Media a couvert l'événement du début à la fin, avec Luis Moreira, Willi Becker, Sergio Mendes et Kika sur place pour documenter les trois catégories. Santander est la deuxième étape du calendrier national Hurbax 2026, qui se poursuit à Valladolid, Pontevedra, Oviedo, Gijón, avant une finale de saison à Madrid.",
+    "it": "Image Media ha seguito l'evento dall'inizio alla fine, con Luis Moreira, Willi Becker, Sergio Mendes e Kika sul posto a documentare tutte e tre le categorie. Santander è la seconda tappa del calendario nazionale Hurbax 2026, che prosegue verso Valladolid, Pontevedra, Oviedo, Gijón e una finale di stagione a Madrid."
+  },
+  "a4-caption": {
+    "en": "Athletes move from the rowing station back onto the course for the next kilometre.",
+    "pt": "Os atletas saem da estação de remo e regressam ao percurso para o quilómetro seguinte.",
+    "es": "Los atletas salen de la estación de remo y regresan al circuito para el siguiente kilómetro.",
+    "fr": "Les athlètes quittent l'atelier d'aviron et reprennent le parcours pour le kilomètre suivant.",
+    "it": "Gli atleti lasciano la stazione del vogatore e tornano sul percorso per il chilometro successivo."
+  },
+  "a4-tagpill1": {
+    "en": "Hurbax",
+    "pt": "Hurbax",
+    "es": "Hurbax",
+    "fr": "Hurbax",
+    "it": "Hurbax"
+  },
+  "a4-tagpill2": {
+    "en": "Functional Fitness",
+    "pt": "Fitness Funcional",
+    "es": "Fitness Funcional",
+    "fr": "Fitness Fonctionnel",
+    "it": "Fitness Funzionale"
+  },
+  "a4-tagpill3": {
+    "en": "Hybrid Racing",
+    "pt": "Corrida Híbrida",
+    "es": "Carrera Híbrida",
+    "fr": "Course Hybride",
+    "it": "Gara Ibrida"
+  },
+  "a4-related-title": {
+    "en": "Related",
+    "pt": "Relacionados",
+    "es": "Relacionados",
+    "fr": "À lire aussi",
+    "it": "Correlati"
+  },
+  "a4-related1-tag": {
+    "en": "Athletics",
+    "pt": "Atletismo",
+    "es": "Atletismo",
+    "fr": "Athlétisme",
+    "it": "Atletica"
+  },
+  "a4-related1-title": {
+    "en": "More from Hurbax's 2026 Spanish circuit",
+    "pt": "Mais sobre o circuito espanhol do Hurbax em 2026",
+    "es": "Más sobre el circuito español de Hurbax en 2026",
+    "fr": "Plus sur le circuit espagnol Hurbax 2026",
+    "it": "Altro sul circuito spagnolo Hurbax 2026"
+  },
+  "a4-related1-link": {
+    "en": "Read more →",
+    "pt": "Ler mais →",
+    "es": "Leer más →",
+    "fr": "Lire la suite →",
+    "it": "Leggi tutto →"
+  },
+  "a4-related2-tag": {
+    "en": "Sports",
+    "pt": "Desporto",
+    "es": "Deportes",
+    "fr": "Sport",
+    "it": "Sport"
+  },
+  "a4-related2-title": {
+    "en": "See all Sports coverage",
+    "pt": "Ver toda a cobertura de Desporto",
+    "es": "Ver toda la cobertura de Deportes",
+    "fr": "Voir toute l'actualité Sport",
+    "it": "Vedi tutta la copertura Sport"
+  },
+  "a4-related2-link": {
+    "en": "Visit section →",
+    "pt": "Visitar secção →",
+    "es": "Visitar sección →",
+    "fr": "Voir la rubrique →",
+    "it": "Vai alla sezione →"
+  },
+  "a4-related3-tag": {
+    "en": "Image Media",
+    "pt": "Image Media",
+    "es": "Image Media",
+    "fr": "Image Media",
+    "it": "Image Media"
+  },
+  "a4-related3-title": {
+    "en": "How Image Media covers your event",
+    "pt": "Como a Image Media cobre o seu evento",
+    "es": "Cómo Image Media cubre tu evento",
+    "fr": "Comment Image Media couvre votre événement",
+    "it": "Come Image Media copre il tuo evento"
+  },
+  "a4-related3-link": {
+    "en": "Learn more →",
+    "pt": "Saber mais →",
+    "es": "Saber más →",
+    "fr": "En savoir plus →",
+    "it": "Scopri di più →"
   }
 },
   chrome: {
