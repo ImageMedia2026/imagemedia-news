@@ -611,34 +611,10 @@ window.IM_I18N = {
     "fr": "Lire la suite →",
     "it": "Leggi tutto →"
   },
-  "card-s6__field__tag": {
-    "en": "Combat Sports",
-    "pt": "Desportos de Combate",
-    "es": "Deportes de Combate",
-    "fr": "Sports de Combat",
-    "it": "Sport da Combattimento"
-  },
-  "card-s6__field__title": {
-    "en": "Title Rematch Confirmed For Spring Card",
-    "pt": "Revanche Pelo Título Confirmada Para O Cartaz Da Primavera",
-    "es": "Confirmada La Revancha Por El Título Para La Cartelera De Primavera",
-    "fr": "La Revanche Pour Le Titre Confirmée Pour La Soirée De Printemps",
-    "it": "Confermata La Rivincita Per Il Titolo Nella Card Di Primavera"
-  },
-  "card-s6__field__deck": {
-    "en": "Both camps confirm terms after months of back-and-forth negotiation.",
-    "pt": "Ambos os campos confirmam os termos após meses de negociações.",
-    "es": "Ambos campamentos confirman los términos tras meses de idas y venidas en la negociación.",
-    "fr": "Les deux camps confirment les termes après des mois d'allers-retours dans la négociation.",
-    "it": "Entrambi gli angoli confermano i termini dopo mesi di trattativa serrata."
-  },
-  "card-s6__field__meta": {
-    "en": "1 hour ago",
-    "pt": "há 1 hora",
-    "es": "hace 1 hora",
-    "fr": "il y a 1 heure",
-    "it": "1 ora fa"
-  },
+  "card-s6__field__tag": { "en": "Athletics", "pt": "Atletismo", "es": "Atletismo", "fr": "Athlétisme", "it": "Atletica" },
+  "card-s6__field__title": { "en": "Andrea Sorteni and Kristina Kmetova Lead Record Field Through Fresh Snow at Italy's Grande Corsa Bianca", "pt": "Andrea Sorteni e Kristina Kmetova lideram recorde de participantes na neve fresca da Grande Corsa Bianca, em Itália", "es": "Andrea Sorteni y Kristina Kmetova lideran un récord de participantes en la nieve fresca de la Grande Corsa Bianca, en Italia", "fr": "Andrea Sorteni et Kristina Kmetova en tête d'un record de participants dans la neige fraîche de la Grande Corsa Bianca, en Italie", "it": "Andrea Sorteni e Kristina Kmetova guidano un record di partecipanti sulla neve fresca della Grande Corsa Bianca" },
+  "card-s6__field__deck": { "en": "The ninth edition of this winter ultra-trail drew a record field across four disciplines in Italy's Alta Valle Camonica.", "pt": "A nona edição deste ultra-trail de inverno reuniu um recorde de participantes em quatro disciplinas na Alta Valle Camonica, em Itália.", "es": "La novena edición de este ultra-trail de invierno reunió un récord de participantes en cuatro disciplinas en el Alta Valle Camonica, Italia.", "fr": "La neuvième édition de cet ultra-trail hivernal a réuni un record de participants dans quatre disciplines dans l'Alta Valle Camonica, en Italie.", "it": "La nona edizione di questo ultra-trail invernale ha registrato un record di partecipanti in quattro discipline in Alta Valle Camonica." },
+  "card-s6__field__meta": { "en": "Image Media coverage", "pt": "Cobertura Image Media", "es": "Cobertura Image Media", "fr": "Couverture Image Media", "it": "Copertura Image Media" },
   "card-s6__field__link": {
     "en": "Read more →",
     "pt": "Ler mais →",
