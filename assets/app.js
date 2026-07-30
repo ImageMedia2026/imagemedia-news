@@ -364,7 +364,13 @@
         var reader = new FileReader();
         reader.onload = function(){
           img.setAttribute("src", reader.result);
-          localStorage.setItem(key(img.getAttribute("data-edit-id")), reader.result);
+          try {
+            localStorage.setItem(key(img.getAttribute("data-edit-id")), reader.result);
+          } catch(err) {
+            /* localStorage quota exceeded (real photos are big as base64) — safe to
+               ignore. On LIVE sites the actual file is published straight to GitHub
+               below, so this local cache is a nice-to-have, not a requirement. */
+}
           if(LIVE) publishImage(img, file, reader.result);
         };
         reader.readAsDataURL(file);
