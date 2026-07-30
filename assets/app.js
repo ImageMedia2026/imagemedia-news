@@ -248,7 +248,7 @@
     });
 
     Object.keys(existing).forEach(function(id){
-      if(saved.indexOf(id) === -1){ existing[id].remove(); }
+      if(saved.indexOf(id) === -1){ saved.push(id); }
     });
 
     saved.forEach(function(id){
