@@ -108,7 +108,7 @@ nav.menu a.cta:hover{background:var(--brand);text-decoration:none;}
 /* ---------- Hero (lead story) ---------- */
 .hero-story{position:relative;border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow-lg);}
 .hero-story .hero-img-wrap{position:relative;aspect-ratio:16/9;background:linear-gradient(135deg,#dfe3e8,#c7ccd4);}
-.hero-story img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;}
+.hero-story img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;}
 .hero-story .hero-overlay{
   position:absolute;inset:0;z-index:1;
   background:linear-gradient(0deg, rgba(10,12,16,.85) 0%, rgba(10,12,16,.35) 45%, rgba(10,12,16,0) 75%);
@@ -154,7 +154,7 @@ section.alt{background:var(--paper);border-top:1px solid var(--line);border-bott
   box-shadow:var(--shadow);position:relative;display:flex;flex-direction:column;
 }
 .story-card .thumb{aspect-ratio:16/9;position:relative;background:linear-gradient(135deg,#dfe3e8,#c7ccd4);}
-.story-card .thumb img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;}
+.story-card .thumb img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;}
 .story-card .body{padding:16px 18px 20px;display:flex;flex-direction:column;gap:8px;flex:1;}
 .story-card .tag{align-self:flex-start;}
 .story-card h3{font-size:1.08rem;}
@@ -173,7 +173,7 @@ body.edit-mode .remove-card-btn{display:block;}
 .latest-list{display:flex;flex-direction:column;gap:0;}
 .latest-row{display:flex;gap:16px;padding:16px 0;border-bottom:1px solid var(--line);align-items:center;}
 .latest-row .thumb{width:110px;height:74px;flex:none;border-radius:6px;overflow:hidden;position:relative;background:linear-gradient(135deg,#dfe3e8,#c7ccd4);}
-.latest-row .thumb img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;}
+.latest-row .thumb img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;}
 .latest-row h4{font-size:1rem;margin-bottom:2px;}
 .latest-row .meta{color:var(--ink-400);font-size:.78rem;font-weight:700;text-transform:uppercase;}
 
@@ -212,13 +212,13 @@ body.edit-mode .remove-card-btn{display:block;}
 .article-head .deck{font-size:1.1rem;color:var(--ink-500);max-width:60ch;margin:14px auto;}
 .article-byline{color:var(--ink-400);font-size:.85rem;font-weight:700;text-transform:uppercase;letter-spacing:.02em;}
 .article-hero{max-width:960px;margin:20px auto 0;border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow-lg);aspect-ratio:16/9;position:relative;background:linear-gradient(135deg,#dfe3e8,#c7ccd4);}
-.article-hero img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;}
+.article-hero img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;}
 .article-body{max-width:720px;margin:0 auto;padding:36px 0;font-size:1.08rem;color:var(--ink-700);}
 .article-body p{margin-bottom:1.2em;}
 .pull-quote{border-left:4px solid var(--brand);margin:28px 0;padding:6px 0 6px 22px;font-size:1.3rem;font-weight:800;color:var(--ink-900);font-style:italic;}
 .inline-figure{margin:28px 0;}
 .inline-figure .editable-img-wrap{border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow);aspect-ratio:16/9;position:relative;background:linear-gradient(135deg,#dfe3e8,#c7ccd4);}
-.inline-figure img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;}
+.inline-figure img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;}
 .inline-figure figcaption{color:var(--ink-400);font-size:.82rem;margin-top:8px;text-align:center;}
 .article-tags{display:flex;gap:8px;flex-wrap:wrap;margin-top:24px;}
 .article-tags span{background:var(--paper);border:1px solid var(--line);color:var(--ink-500);font-size:.78rem;font-weight:700;padding:5px 11px;border-radius:999px;}
@@ -297,3 +297,13 @@ body.edit-mode{padding-bottom:64px;}
 }
 #im-toast.show{opacity:1;transform:translateX(-50%) translateY(0);}
 #im-toast.error{background:#7a1f1f;}
+
+
+/* Portrait images: show full image instead of cropping. Applied via JS based on natural aspect ratio. */
+.hero-story img.fit-contain,
+.story-card .thumb img.fit-contain,
+.latest-row .thumb img.fit-contain,
+.article-hero img.fit-contain,
+.inline-figure img.fit-contain {
+  object-fit: contain !important;
+}
