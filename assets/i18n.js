@@ -344,27 +344,9 @@ window.IM_I18N = {
     "fr": "Lire la suite →",
     "it": "Leggi tutto →"
   },
-  "home-sports3-tag": {
-    "en": "Athletics",
-    "pt": "Atletismo",
-    "es": "Atletismo",
-    "fr": "Athlétisme",
-    "it": "Atletica"
-  },
-  "home-sports3-title": {
-    "en": "Sara Alonso Sets Course Record as Skyrunner World Series Opens in La Palma",
-    "pt": "Sara Alonso Bate Recorde Do Percurso Na Abertura Europeia Da Skyrunner World Series Em La Palma",
-    "es": "Sara Alonso Bate El Récord Del Circuito En El Arranque Europeo De La Skyrunner World Series En La Palma",
-    "fr": "Sara Alonso Bat Le Record Du Parcours À L'ouverture Européenne De La Skyrunner World Series À La Palma",
-    "it": "Sara Alonso Stabilisce Il Record Del Percorso All'apertura Europea Della Skyrunner World Series A La Palma"
-  },
-  "home-sports3-deck": {
-    "en": "Manuel Merillas and Sara Alonso win the Acantilados del Norte Skyrace on a 29km coastal route above the Atlantic.",
-    "pt": "Manuel Merillas e Sara Alonso vencem a Acantilados del Norte Skyrace num percurso costeiro de 29km sobre o Atlântico.",
-    "es": "Manuel Merillas y Sara Alonso ganan la Acantilados del Norte Skyrace en un recorrido costero de 29km sobre el Atlántico.",
-    "fr": "Manuel Merillas et Sara Alonso remportent l'Acantilados del Norte Skyrace sur un parcours côtier de 29km au-dessus de l'Atlantique.",
-    "it": "Manuel Merillas e Sara Alonso vincono l'Acantilados del Norte Skyrace su un percorso costiero di 29km sopra l'Atlantico."
-  },
+  "home-sports3-tag": { "en": "Athletics", "pt": "Atletismo", "es": "Atletismo", "fr": "Athlétisme", "it": "Atletica" },
+  "home-sports3-title": { "en": "Diego Menéndez and María Martínez Crowned Spanish Trail Champions in Caldas de Reis", "pt": "Diego Menéndez e María Martínez sagram-se campeões de Espanha de trail em Caldas de Reis", "es": "Diego Menéndez y María Martínez, campeones de España de trail en Caldas de Reis", "fr": "Diego Menéndez et María Martínez sacrés champions d'Espagne de trail à Caldas de Reis", "it": "Diego Menéndez e María Martínez campioni di Spagna di trail a Caldas de Reis" },
+  "home-sports3-deck": { "en": "The third edition of the Laxe dos Bolos trail jumped from Galician to national championship status, with an Asturian breakthrough win and a Galician upset in the women's race across 43km and 2,300m of climbing.", "pt": "A terceira edição do trail Laxe dos Bolos deu o salto de campeonato galego a campeonato nacional, com uma vitória de estreia asturiana e uma surpresa galega na prova feminina, ao longo de 43 km e 2300 m de desnível.", "es": "La tercera edición del trail Laxe dos Bolos dio el salto de campeonato gallego a campeonato nacional, con una victoria de estreno asturiana y una sorpresa gallega en la prueba femenina, en un recorrido de 43 km y 2300 m de desnivel.", "fr": "La troisième édition du trail Laxe dos Bolos est passée du championnat galicien au championnat national, avec une première victoire asturienne et une surprise galicienne chez les femmes, sur 43 km et 2300 m de dénivelé.", "it": "La terza edizione del trail Laxe dos Bolos è passata da campionato galiziano a campionato nazionale, con una vittoria d'esordio asturiana e una sorpresa galiziana nella gara femminile, su 43 km e 2300 m di dislivello." },
   "home-sports3-link": {
     "en": "Read more →",
     "pt": "Ler mais →",
