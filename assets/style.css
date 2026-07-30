@@ -108,7 +108,7 @@ nav.menu a.cta:hover{background:var(--brand);text-decoration:none;}
 /* ---------- Hero (lead story) ---------- */
 .hero-story{position:relative;border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow-lg);}
 .hero-story .hero-img-wrap{position:relative;aspect-ratio:16/9;background:linear-gradient(135deg,#dfe3e8,#c7ccd4);}
-.hero-story img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;}
+.hero-story img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;}
 .hero-story .hero-overlay{
   position:absolute;inset:0;z-index:1;
   background:linear-gradient(0deg, rgba(10,12,16,.85) 0%, rgba(10,12,16,.35) 45%, rgba(10,12,16,0) 75%);
@@ -154,7 +154,7 @@ section.alt{background:var(--paper);border-top:1px solid var(--line);border-bott
   box-shadow:var(--shadow);position:relative;display:flex;flex-direction:column;
 }
 .story-card .thumb{aspect-ratio:16/9;position:relative;background:linear-gradient(135deg,#dfe3e8,#c7ccd4);}
-.story-card .thumb img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;}
+.story-card .thumb img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;}
 .story-card .body{padding:16px 18px 20px;display:flex;flex-direction:column;gap:8px;flex:1;}
 .story-card .tag{align-self:flex-start;}
 .story-card h3{font-size:1.08rem;}
@@ -173,7 +173,7 @@ body.edit-mode .remove-card-btn{display:block;}
 .latest-list{display:flex;flex-direction:column;gap:0;}
 .latest-row{display:flex;gap:16px;padding:16px 0;border-bottom:1px solid var(--line);align-items:center;}
 .latest-row .thumb{width:110px;height:74px;flex:none;border-radius:6px;overflow:hidden;position:relative;background:linear-gradient(135deg,#dfe3e8,#c7ccd4);}
-.latest-row .thumb img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;}
+.latest-row .thumb img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;}
 .latest-row h4{font-size:1rem;margin-bottom:2px;}
 .latest-row .meta{color:var(--ink-400);font-size:.78rem;font-weight:700;text-transform:uppercase;}
 
