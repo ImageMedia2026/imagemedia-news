@@ -92,13 +92,13 @@ window.IM_I18N = {
     "fr": "Lire la suite →",
     "it": "Leggi tutto →"
   },
-  "card-h2__field__tag": {
-    "en": "Athletics",
-    "pt": "Atletismo",
-    "es": "Atletismo",
-    "fr": "Athlétisme",
-    "it": "Atletica"
-  },
+    "card-h2__field__tag": {
+      "en": "Functional",
+      "pt": "Funcional",
+      "es": "Funcional",
+      "fr": "Fonctionnel",
+      "it": "Funzionale"
+    },
   "card-h2__field__title": {
     "en": "Hurbax Brings Its Run-and-Workout Circuit to Santander",
     "pt": "Hurbax Leva o Seu Circuito de Corrida e Treino a Santander",
@@ -352,18 +352,18 @@ window.IM_I18N = {
     "it": "Atletica"
   },
   "home-sports3-title": {
-    "en": "Relay Squad Books Ticket To Summer Championships",
-    "pt": "Equipa De Estafetas Garante Presença No Campeonato De Verão",
-    "es": "El Equipo De Relevos Sella Su Billete Para El Campeonato De Verano",
-    "fr": "L'équipe De Relais Valide Son Billet Pour Les Championnats D'été",
-    "it": "La Staffetta Stacca Il Pass Per I Campionati Estivi"
+    "en": "Sara Alonso Sets Course Record as Skyrunner World Series Opens in La Palma",
+    "pt": "Sara Alonso Bate Recorde Do Percurso Na Abertura Europeia Da Skyrunner World Series Em La Palma",
+    "es": "Sara Alonso Bate El Récord Del Circuito En El Arranque Europeo De La Skyrunner World Series En La Palma",
+    "fr": "Sara Alonso Bat Le Record Du Parcours À L'ouverture Européenne De La Skyrunner World Series À La Palma",
+    "it": "Sara Alonso Stabilisce Il Record Del Percorso All'apertura Europea Della Skyrunner World Series A La Palma"
   },
   "home-sports3-deck": {
-    "en": "A season-best time secures qualification with room to spare.",
-    "pt": "Uma marca melhor da época garante a qualificação com folga.",
-    "es": "Una marca, la mejor de la temporada, asegura la clasificación con margen de sobra.",
-    "fr": "Un meilleur temps de la saison assure la qualification avec une marge confortable.",
-    "it": "Il miglior tempo stagionale garantisce la qualificazione con ampio margine."
+    "en": "Manuel Merillas and Sara Alonso win the Acantilados del Norte Skyrace on a 29km coastal route above the Atlantic.",
+    "pt": "Manuel Merillas e Sara Alonso vencem a Acantilados del Norte Skyrace num percurso costeiro de 29km sobre o Atlântico.",
+    "es": "Manuel Merillas y Sara Alonso ganan la Acantilados del Norte Skyrace en un recorrido costero de 29km sobre el Atlántico.",
+    "fr": "Manuel Merillas et Sara Alonso remportent l'Acantilados del Norte Skyrace sur un parcours côtier de 29km au-dessus de l'Atlantique.",
+    "it": "Manuel Merillas e Sara Alonso vincono l'Acantilados del Norte Skyrace su un percorso costiero di 29km sopra l'Atlantico."
   },
   "home-sports3-link": {
     "en": "Read more →",
@@ -597,25 +597,25 @@ window.IM_I18N = {
     "it": "Atletica"
   },
   "card-s4__field__title": {
-    "en": "Relay Squad Books Ticket To Summer Championships",
-    "pt": "Equipa De Estafetas Garante Presença No Campeonato De Verão",
-    "es": "El Equipo De Relevos Sella Su Billete Para El Campeonato De Verano",
-    "fr": "L'équipe De Relais Valide Son Billet Pour Les Championnats D'été",
-    "it": "La Staffetta Stacca Il Pass Per I Campionati Estivi"
+    "en": "Sara Alonso Sets Course Record as Skyrunner World Series Opens in La Palma",
+    "pt": "Sara Alonso Bate Recorde Do Percurso Na Abertura Europeia Da Skyrunner World Series Em La Palma",
+    "es": "Sara Alonso Bate El Récord Del Circuito En El Arranque Europeo De La Skyrunner World Series En La Palma",
+    "fr": "Sara Alonso Bat Le Record Du Parcours À L'ouverture Européenne De La Skyrunner World Series À La Palma",
+    "it": "Sara Alonso Stabilisce Il Record Del Percorso All'apertura Europea Della Skyrunner World Series A La Palma"
   },
   "card-s4__field__deck": {
-    "en": "A season-best time secures qualification with room to spare.",
-    "pt": "Uma marca melhor da época garante a qualificação com folga.",
-    "es": "Una marca, la mejor de la temporada, asegura la clasificación con margen de sobra.",
-    "fr": "Un meilleur temps de la saison assure la qualification avec une marge confortable.",
-    "it": "Il miglior tempo stagionale garantisce la qualificazione con ampio margine."
+    "en": "Manuel Merillas and Sara Alonso win the Acantilados del Norte Skyrace on a 29km coastal route above the Atlantic.",
+    "pt": "Manuel Merillas e Sara Alonso vencem a Acantilados del Norte Skyrace num percurso costeiro de 29km sobre o Atlântico.",
+    "es": "Manuel Merillas y Sara Alonso ganan la Acantilados del Norte Skyrace en un recorrido costero de 29km sobre el Atlántico.",
+    "fr": "Manuel Merillas et Sara Alonso remportent l'Acantilados del Norte Skyrace sur un parcours côtier de 29km au-dessus de l'Atlantique.",
+    "it": "Manuel Merillas e Sara Alonso vincono l'Acantilados del Norte Skyrace su un percorso costiero di 29km sopra l'Atlantico."
   },
   "card-s4__field__meta": {
-    "en": "Yesterday",
-    "pt": "Ontem",
-    "es": "Ayer",
-    "fr": "Hier",
-    "it": "Ieri"
+    "en": "Image Media coverage",
+    "pt": "Cobertura Image Media",
+    "es": "Cobertura Image Media",
+    "fr": "Couverture Image Media",
+    "it": "Copertura Image Media"
   },
   "card-s4__field__link": {
     "en": "Read more →",
@@ -1492,12 +1492,12 @@ window.IM_I18N = {
     "fr": "Les athlètes quittent l'atelier d'aviron et reprennent le parcours pour le kilomètre suivant.",
     "it": "Gli atleti lasciano la stazione del vogatore e tornano sul percorso per il chilometro successivo."
   },
-  "a4-tagpill1": {
-    "en": "Hurbax",
-    "pt": "Hurbax",
-    "es": "Hurbax",
-    "fr": "Hurbax",
-    "it": "Hurbax"
+  "a4-tag": {
+    "en": "Functional",
+    "pt": "Funcional",
+    "es": "Funcional",
+    "fr": "Fonctionnel",
+    "it": "Funzionale"
   },
   "a4-tagpill2": {
     "en": "Functional Fitness",
@@ -1582,8 +1582,125 @@ window.IM_I18N = {
     "es": "Saber más →",
     "fr": "En savoir plus →",
     "it": "Scopri di più →"
-  }
-},
+  },
+  "a4-hero-credit": {
+    "en": "Photo: Image Media",
+    "pt": "Foto: Image Media",
+    "es": "Foto: Image Media",
+    "fr": "Photo : Image Media",
+    "it": "Foto: Image Media"
+  },
+  "a4-inline-credit": {
+    "en": "Photo: Image Media",
+    "pt": "Foto: Image Media",
+    "es": "Foto: Image Media",
+    "fr": "Photo : Image Media",
+    "it": "Foto: Image Media"
+  },
+  "a5-tag": {
+    "en": "Athletics",
+    "pt": "Atletismo",
+    "es": "Atletismo",
+    "fr": "Athlétisme",
+    "it": "Atletica"
+  },
+  "a5-title": {
+    "en": "Manuel Merillas and Sara Alonso Win Acantilados del Norte Skyrace in La Palma",
+    "pt": "Manuel Merillas e Sara Alonso Vencem a Acantilados del Norte Skyrace em La Palma",
+    "es": "Manuel Merillas y Sara Alonso Ganan la Acantilados del Norte Skyrace en La Palma",
+    "fr": "Manuel Merillas et Sara Alonso Remportent l'Acantilados del Norte Skyrace à La Palma",
+    "it": "Manuel Merillas e Sara Alonso Vincono l'Acantilados del Norte Skyrace a La Palma"
+  },
+  "a5-deck": {
+    "en": "The ninth edition of the Canary Islands classic opened the European leg of the 2026 Skyrunner World Series, with Sara Alonso setting a new course record on a demanding 29km route above the Atlantic.",
+    "pt": "A nona edição do clássico das Ilhas Canárias abriu a etapa europeia da Skyrunner World Series 2026, com Sara Alonso a bater o recorde do percurso num exigente traçado de 29km sobre o Atlântico.",
+    "es": "La novena edición del clásico de las Islas Canarias abrió la etapa europea de la Skyrunner World Series 2026, con Sara Alonso batiendo el récord del circuito en un exigente recorrido de 29km sobre el Atlántico.",
+    "fr": "La neuvième édition du classique des îles Canaries a ouvert l'étape européenne de la Skyrunner World Series 2026, Sara Alonso battant le record du parcours sur un tracé exigeant de 29km au-dessus de l'Atlantique.",
+    "it": "La nona edizione del classico delle Isole Canarie ha aperto la tappa europea della Skyrunner World Series 2026, con Sara Alonso che ha stabilito il record del percorso su un tracciato impegnativo di 29km sopra l'Atlantico."
+  },
+  "a5-byline": {
+    "en": "By Image Media News Staff — La Palma",
+    "pt": "Por Image Media News Staff — La Palma",
+    "es": "Por Image Media News Staff — La Palma",
+    "fr": "Par Image Media News Staff — La Palma",
+    "it": "Di Image Media News Staff — La Palma"
+  },
+  "a5-hero-credit": {
+    "en": "Photo: Image Media",
+    "pt": "Foto: Image Media",
+    "es": "Foto: Image Media",
+    "fr": "Photo : Image Media",
+    "it": "Foto: Image Media"
+  },
+  "a5-inline-credit": {
+    "en": "Photo: Image Media",
+    "pt": "Foto: Image Media",
+    "es": "Foto: Image Media",
+    "fr": "Photo : Image Media",
+    "it": "Foto: Image Media"
+  },
+  "a5-p1": {
+    "en": "Long before sunrise on March 14, runners gathered in the small square outside the Iglesia de Santo Domingo, in the northern municipality of Garafía, for the ninth running of the Acantilados del Norte Skyrace by Dynafit — a 29-kilometre traverse of La Palma's volcanic coastline that has become one of the most demanding dates on the skyrunning calendar. This year the race carried extra weight: it opened the European leg of the 2026 Skyrunner World Series, the circuit's first stop on the continent after two rounds in South America.",
+    "pt": "Bem antes do nascer do sol, a 14 de março, os corredores reuniram-se na pequena praça junto à Iglesia de Santo Domingo, no município de Garafía, no norte da ilha, para a nona edição da Acantilados del Norte Skyrace by Dynafit — uma travessia de 29 quilómetros pela costa vulcânica de La Palma que se tornou uma das provas mais exigentes do calendário do skyrunning. Este ano a corrida teve um peso adicional: abriu a etapa europeia da Skyrunner World Series 2026, a primeira paragem do circuito no continente depois de duas provas na América do Sul.",
+    "es": "Mucho antes del amanecer del 14 de marzo, los corredores se reunieron en la pequeña plaza junto a la Iglesia de Santo Domingo, en el municipio norteño de Garafía, para la novena edición de la Acantilados del Norte Skyrace by Dynafit — una travesía de 29 kilómetros por la costa volcánica de La Palma que se ha convertido en una de las pruebas más exigentes del calendario del skyrunning. Este año la carrera tuvo un peso añadido: abrió la etapa europea de la Skyrunner World Series 2026, la primera parada del circuito en el continente tras dos pruebas en Sudamérica.",
+    "fr": "Bien avant le lever du soleil, le 14 mars, les coureurs se sont rassemblés sur la petite place devant l'Iglesia de Santo Domingo, dans la commune nord de Garafía, pour la neuvième édition de l'Acantilados del Norte Skyrace by Dynafit — une traversée de 29 kilomètres le long de la côte volcanique de La Palma, devenue l'une des épreuves les plus exigeantes du calendrier du skyrunning. Cette année, la course avait un enjeu supplémentaire : elle ouvrait l'étape européenne de la Skyrunner World Series 2026, première halte du circuit sur le continent après deux épreuves en Amérique du Sud.",
+    "it": "Molto prima dell'alba del 14 marzo, i corridori si sono radunati nella piccola piazza davanti alla Iglesia de Santo Domingo, nel comune settentrionale di Garafía, per la nona edizione dell'Acantilados del Norte Skyrace by Dynafit — una traversata di 29 chilometri lungo la costa vulcanica di La Palma, diventata una delle prove più impegnative del calendario dello skyrunning. Quest'anno la gara aveva un peso in più: apriva la tappa europea della Skyrunner World Series 2026, prima tappa del circuito nel continente dopo due prove in Sudamerica."
+  },
+  "a5-p2": {
+    "en": "Sara Alonso (Asics) set the tone from the opening kilometre, leading the women's field the entire way to the finish in Barlovento and stopping the clock at 3:00:43 — a new course record. It capped a quick turnaround for the Spaniard, who had been told to take a month off training only weeks earlier; she called the run \"the reward for months of work\" and said she left the island with two of her three goals for the day met. Patricia Pineda (La Sportiva) came home second in 3:06:12, with Marta Martínez completing the podium in 3:07:30.",
+    "pt": "Sara Alonso (Asics) impôs o ritmo desde o primeiro quilómetro, liderando toda a prova feminina até à meta em Barlovento e parando o cronómetro em 3:00:43 — novo recorde do percurso. Coroou uma recuperação rápida da espanhola, a quem tinha sido recomendado um mês de descanso apenas semanas antes; descreveu a corrida como \"a recompensa de meses de trabalho\" e disse ter saído da ilha com dois dos seus três objetivos cumpridos. Patricia Pineda (La Sportiva) chegou em segundo em 3:06:12, com Marta Martínez a completar o pódio em 3:07:30.",
+    "es": "Sara Alonso (Asics) marcó el ritmo desde el primer kilómetro, liderando toda la prueba femenina hasta la meta en Barlovento y deteniendo el cronómetro en 3:00:43 — nuevo récord del circuito. Corona así una rápida recuperación de la española, a quien semanas antes se le había recomendado un mes de descanso; calificó la carrera como \"la recompensa de meses de trabajo\" y dijo haber salido de la isla con dos de sus tres objetivos cumplidos. Patricia Pineda (La Sportiva) llegó segunda con 3:06:12, con Marta Martínez completando el podio en 3:07:30.",
+    "fr": "Sara Alonso (Asics) a imposé le rythme dès le premier kilomètre, menant toute la course féminine jusqu'à l'arrivée à Barlovento et arrêtant le chrono à 3:00:43 — nouveau record du parcours. Une performance qui couronne un retour rapide pour l'Espagnole, à qui l'on avait recommandé un mois de repos quelques semaines plus tôt ; elle a qualifié la course de \"récompense de mois de travail\" et a dit avoir quitté l'île avec deux de ses trois objectifs atteints. Patricia Pineda (La Sportiva) a terminé deuxième en 3:06:12, Marta Martínez complétant le podium en 3:07:30.",
+    "it": "Sara Alonso (Asics) ha dettato il ritmo fin dal primo chilometro, guidando l'intera gara femminile fino al traguardo di Barlovento e fermando il cronometro a 3:00:43 — nuovo record del percorso. Corona così un rapido recupero della spagnola, a cui poche settimane prima era stato consigliato un mese di riposo; ha definito la gara \"la ricompensa di mesi di lavoro\" e ha detto di aver lasciato l'isola con due dei suoi tre obiettivi raggiunti. Patricia Pineda (La Sportiva) è arrivata seconda in 3:06:12, con Marta Martínez a completare il podio in 3:07:30."
+  },
+  "a5-stat": {
+    "en": "Podium — Women: Alonso, Pineda, Martínez. Men: Merillas, Tranchand, Santamaría.",
+    "pt": "Pódio — Femininos: Alonso, Pineda, Martínez. Masculinos: Merillas, Tranchand, Santamaría.",
+    "es": "Podio — Femenino: Alonso, Pineda, Martínez. Masculino: Merillas, Tranchand, Santamaría.",
+    "fr": "Podium — Femmes : Alonso, Pineda, Martínez. Hommes : Merillas, Tranchand, Santamaría.",
+    "it": "Podio — Donne: Alonso, Pineda, Martínez. Uomini: Merillas, Tranchand, Santamaría."
+  },
+  "a5-p3": {
+    "en": "The men's race stayed unresolved until the final descent into Barlovento, where New Balance's Manuel Merillas shook off a close-following Frédéric Tranchand (Merrell) to win in 2:31:54 — just 1:18 ahead of the Frenchman after well over two hours of racing. Alain Santamaría (X-Bionic Integrity), coming off a win at the Half Transgrancanaria earlier this year, rounded out the podium in 2:36:09.",
+    "pt": "A prova masculina manteve-se indefinida até à descida final rumo a Barlovento, onde Manuel Merillas (New Balance) se libertou de um Frédéric Tranchand (Merrell) sempre por perto para vencer em 2:31:54 — apenas 1:18 à frente do francês depois de mais de duas horas de corrida. Alain Santamaría (X-Bionic Integrity), depois de vencer a Half Transgrancanaria ainda este ano, completou o pódio em 2:36:09.",
+    "es": "La carrera masculina se mantuvo indefinida hasta el descenso final hacia Barlovento, donde Manuel Merillas (New Balance) se deshizo de un Frédéric Tranchand (Merrell) siempre pegado a él para ganar en 2:31:54 — apenas 1:18 por delante del francés tras más de dos horas de carrera. Alain Santamaría (X-Bionic Integrity), tras ganar la Half Transgrancanaria a principios de año, completó el podio en 2:36:09.",
+    "fr": "La course masculine est restée indécise jusqu'à la descente finale vers Barlovento, où Manuel Merillas (New Balance) s'est débarrassé d'un Frédéric Tranchand (Merrell) toujours à ses trousses pour l'emporter en 2:31:54 — seulement 1:18 devant le Français après plus de deux heures de course. Alain Santamaría (X-Bionic Integrity), vainqueur de la Half Transgrancanaria plus tôt cette année, a complété le podium en 2:36:09.",
+    "it": "La gara maschile è rimasta in bilico fino alla discesa finale verso Barlovento, dove Manuel Merillas (New Balance) si è liberato di un Frédéric Tranchand (Merrell) sempre alle calcagna per vincere in 2:31:54 — appena 1:18 davanti al francese dopo oltre due ore di gara. Alain Santamaría (X-Bionic Integrity), reduce dalla vittoria alla Half Transgrancanaria all'inizio dell'anno, ha completato il podio in 2:36:09."
+  },
+  "a5-caption": {
+    "en": "The route follows the old GR 130 coastal path between Garafía and Barlovento.",
+    "pt": "O percurso segue o antigo caminho costeiro GR 130 entre Garafía e Barlovento.",
+    "es": "El recorrido sigue el antiguo camino costero GR 130 entre Garafía y Barlovento.",
+    "fr": "Le parcours suit l'ancien sentier côtier GR 130 entre Garafía et Barlovento.",
+    "it": "Il percorso segue l'antico sentiero costiero GR 130 tra Garafía e Barlovento."
+  },
+  "a5-p4": {
+    "en": "The route itself is part of the story: a stretch of the old GR 130 coastal path once walked by fishermen between Garafía and Barlovento, climbing and dropping through ravines and volcanic cliffs for more than 2,000 metres of accumulated gain across the 29km. The direction alternates each year between the two municipalities, and this edition's race week followed the usual build-up — school visits from Merillas and Martínez on March 10, bib collection and elite athlete presentations in Santa Cruz de La Palma on the 12th and 13th, and a closing ceremony with the traditional paella popular back in Barlovento.",
+    "pt": "O próprio percurso faz parte da história: um troço do antigo caminho costeiro GR 130, outrora percorrido por pescadores, entre Garafía e Barlovento, subindo e descendo por barrancos e falésias vulcânicas ao longo de mais de 2.000 metros de desnível acumulado nos 29km. O sentido alterna todos os anos entre os dois municípios, e esta edição seguiu o programa habitual — visitas de Merillas e Martínez a escolas a 10 de março, levantamento de dorsais e apresentação dos atletas de elite em Santa Cruz de La Palma a 12 e 13, e uma cerimónia de encerramento com a tradicional paella popular em Barlovento.",
+    "es": "El propio recorrido forma parte de la historia: un tramo del antiguo camino costero GR 130, otrora recorrido por pescadores, entre Garafía y Barlovento, subiendo y bajando por barrancos y acantilados volcánicos a lo largo de más de 2.000 metros de desnivel acumulado en los 29km. El sentido se alterna cada año entre los dos municipios, y esta edición siguió el programa habitual — visitas de Merillas y Martínez a centros escolares el 10 de marzo, recogida de dorsales y presentación de los atletas de élite en Santa Cruz de La Palma los días 12 y 13, y una ceremonia de clausura con la tradicional paella popular en Barlovento.",
+    "fr": "Le parcours lui-même fait partie de l'histoire : un tronçon de l'ancien sentier côtier GR 130, autrefois emprunté par les pêcheurs, entre Garafía et Barlovento, montant et descendant à travers ravins et falaises volcaniques sur plus de 2 000 mètres de dénivelé cumulé sur les 29km. Le sens alterne chaque année entre les deux communes, et cette édition a suivi le programme habituel — visites de Merillas et Martínez dans des écoles le 10 mars, retrait des dossards et présentation des athlètes d'élite à Santa Cruz de La Palma les 12 et 13, et une cérémonie de clôture avec la traditionnelle paella populaire à Barlovento.",
+    "it": "Il percorso stesso fa parte della storia: un tratto dell'antico sentiero costiero GR 130, un tempo percorso dai pescatori, tra Garafía e Barlovento, che sale e scende tra burroni e scogliere vulcaniche per oltre 2.000 metri di dislivello accumulato sui 29km. Il senso di marcia si alterna ogni anno tra i due comuni, e questa edizione ha seguito il programma consueto — visite di Merillas e Martínez alle scuole il 10 marzo, ritiro dei pettorali e presentazione degli atleti d'élite a Santa Cruz de La Palma il 12 e 13, e una cerimonia di chiusura con la tradizionale paella popolare a Barlovento."
+  },
+  "a5-p5": {
+    "en": "Image Media's team on the island — Eduardo, Nomade and Luan — covered the race start to finish. The Skyrunner World Series continues on April 11 at Calamorro Skyrace.",
+    "pt": "A equipa da Image Media na ilha — Eduardo, Nomade e Luan — cobriu a corrida do início ao fim. A Skyrunner World Series continua a 11 de abril na Calamorro Skyrace.",
+    "es": "El equipo de Image Media en la isla — Eduardo, Nomade y Luan — cubrió la carrera de principio a fin. La Skyrunner World Series continúa el 11 de abril en la Calamorro Skyrace.",
+    "fr": "L'équipe d'Image Media sur l'île — Eduardo, Nomade et Luan — a couvert la course du début à la fin. La Skyrunner World Series se poursuit le 11 avril à la Calamorro Skyrace.",
+    "it": "Il team di Image Media sull'isola — Eduardo, Nomade e Luan — ha seguito la gara dall'inizio alla fine. La Skyrunner World Series prosegue l'11 aprile con la Calamorro Skyrace."
+  },
+  "a5-tagpill1": { "en": "Skyrunning", "pt": "Skyrunning", "es": "Skyrunning", "fr": "Skyrunning", "it": "Skyrunning" },
+  "a5-tagpill2": { "en": "Trail Running", "pt": "Trail Running", "es": "Trail Running", "fr": "Trail Running", "it": "Trail Running" },
+  "a5-tagpill3": { "en": "Skyrunner World Series", "pt": "Skyrunner World Series", "es": "Skyrunner World Series", "fr": "Skyrunner World Series", "it": "Skyrunner World Series" },
+  "a5-related-title": { "en": "Related", "pt": "Relacionados", "es": "Relacionados", "fr": "À lire aussi", "it": "Correlati" },
+  "a5-related1-tag": { "en": "Athletics", "pt": "Atletismo", "es": "Atletismo", "fr": "Athlétisme", "it": "Atletica" },
+  "a5-related1-title": { "en": "More from the 2026 Skyrunner World Series", "pt": "Mais sobre a Skyrunner World Series 2026", "es": "Más sobre la Skyrunner World Series 2026", "fr": "Plus sur la Skyrunner World Series 2026", "it": "Altro sulla Skyrunner World Series 2026" },
+  "a5-related1-link": { "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire la suite →", "it": "Leggi tutto →" },
+  "a5-related2-tag": { "en": "Sports", "pt": "Desporto", "es": "Deportes", "fr": "Sport", "it": "Sport" },
+  "a5-related2-title": { "en": "See all Sports coverage", "pt": "Ver toda a cobertura de Desporto", "es": "Ver toda la cobertura de Deportes", "fr": "Voir toute l'actualité Sport", "it": "Vedi tutta la copertura Sport" },
+  "a5-related2-link": { "en": "Visit section →", "pt": "Visitar secção →", "es": "Visitar sección →", "fr": "Voir la rubrique →", "it": "Vai alla sezione →" },
+  "a5-related3-tag": { "en": "Image Media", "pt": "Image Media", "es": "Image Media", "fr": "Image Media", "it": "Image Media" },
+  "a5-related3-title": { "en": "How Image Media covers your event", "pt": "Como a Image Media cobre o seu evento", "es": "Cómo Image Media cubre tu evento", "fr": "Comment Image Media couvre votre événement", "it": "Come Image Media copre il tuo evento" },
+  "a5-related3-link": { "en": "Learn more →", "pt": "Saber mais →", "es": "Saber más →", "fr": "En savoir plus →", "it": "Scopri di più →" },
   chrome: {
   "nav.home": {
     "en": "Home",
