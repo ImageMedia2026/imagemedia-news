@@ -554,13 +554,7 @@ window.IM_I18N = {
     "fr": "Lire la suite →",
     "it": "Leggi tutto →"
   },
-  "card-s3__field__tag": {
-    "en": "Athletics",
-    "pt": "Atletismo",
-    "es": "Atletismo",
-    "fr": "Athlétisme",
-    "it": "Atletica"
-  },
+  "card-s3__field__tag": { "en": "Functional", "pt": "Funcional", "es": "Funcional", "fr": "Fonctionnel", "it": "Funzionale" },
   "card-s3__field__title": {
     "en": "Hurbax Brings Its Run-and-Workout Circuit to Santander",
     "pt": "Hurbax Leva o Seu Circuito de Corrida e Treino a Santander",
@@ -624,34 +618,10 @@ window.IM_I18N = {
     "fr": "Lire la suite →",
     "it": "Leggi tutto →"
   },
-  "card-s5__field__tag": {
-    "en": "Cycling",
-    "pt": "Ciclismo",
-    "es": "Ciclismo",
-    "fr": "Cyclisme",
-    "it": "Ciclismo"
-  },
-  "card-s5__field__title": {
-    "en": "Mountain Stage Shakeup Puts Overall Lead In Doubt",
-    "pt": "Reviravolta Na Etapa De Montanha Põe A Liderança Da Geral Em Dúvida",
-    "es": "Un Vuelco En La Etapa De Montaña Pone En Duda El Liderato General",
-    "fr": "Un Rebondissement En Étape De Montagne Fait Vaciller Le Classement Général",
-    "it": "Colpo Di Scena Sulla Tappa Di Montagna, Leadership In Bilico"
-  },
-  "card-s5__field__deck": {
-    "en": "A late attack on the final climb rewrites the general classification with two stages left.",
-    "pt": "Um ataque tardio na subida final reescreve a classificação geral a duas etapas do fim.",
-    "es": "Un ataque tardío en la subida final reescribe la clasificación general a dos etapas del final.",
-    "fr": "Une attaque tardive dans l'ascension finale rebat la classification générale à deux étapes de l'arrivée.",
-    "it": "Un attacco tardivo sull'ultima salita riscrive la classifica generale a due tappe dal termine."
-  },
-  "card-s5__field__meta": {
-    "en": "1 day ago",
-    "pt": "há 1 dia",
-    "es": "hace 1 día",
-    "fr": "il y a 1 jour",
-    "it": "1 giorno fa"
-  },
+  "card-s5__field__tag": { "en": "Athletics", "pt": "Atletismo", "es": "Atletismo", "fr": "Athlétisme", "it": "Atletica" },
+  "card-s5__field__title": { "en": "Diego Menéndez and María Martínez Crowned Spanish Trail Champions in Caldas de Reis", "pt": "Diego Menéndez e María Martínez sagram-se campeões de Espanha de trail em Caldas de Reis", "es": "Diego Menéndez y María Martínez, campeones de España de trail en Caldas de Reis", "fr": "Diego Menéndez et María Martínez sacrés champions d'Espagne de trail à Caldas de Reis", "it": "Diego Menéndez e María Martínez campioni di Spagna di trail a Caldas de Reis" },
+  "card-s5__field__deck": { "en": "The third edition of the Laxe dos Bolos trail jumped from Galician to national championship status, with an Asturian breakthrough win.", "pt": "A terceira edição do trail Laxe dos Bolos deu o salto de campeonato galego a campeonato nacional, com uma vitória de estreia asturiana.", "es": "La tercera edición del trail Laxe dos Bolos dio el salto de campeonato gallego a campeonato nacional, con una victoria de estreno asturiana.", "fr": "La troisième édition du trail Laxe dos Bolos est passée du championnat galicien au championnat national, avec une première victoire asturienne.", "it": "La terza edizione del trail Laxe dos Bolos è passata da campionato galiziano a campionato nazionale, con una vittoria d'esordio asturiana." },
+  "card-s5__field__meta": { "en": "Image Media coverage", "pt": "Cobertura Image Media", "es": "Cobertura Image Media", "fr": "Couverture Image Media", "it": "Copertura Image Media" },
   "card-s5__field__link": {
     "en": "Read more →",
     "pt": "Ler mais →",
