@@ -20,6 +20,7 @@
   --teal:#0f8b8d;
   --purple:#6b3fa0;
   --orange:#e2711d;
+  --green:#3f8f4f;
   --shadow:0 10px 28px rgba(20,22,26,.08);
   --shadow-lg:0 18px 44px rgba(20,22,26,.16);
   --radius:8px;
@@ -102,6 +103,7 @@ nav.menu a.cta:hover{background:var(--brand);text-decoration:none;}
 .tag-combat{background:var(--purple);}
 .tag-culture{background:var(--gold);color:var(--ink-900);}
 .tag-general{background:var(--ink-700);}
+.tag-functional{background:var(--green);}
 
 /* ---------- Hero (lead story) ---------- */
 .hero-story{position:relative;border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow-lg);}
@@ -133,6 +135,7 @@ body.edit-mode .editable-img-wrap:hover .img-edit-overlay{background:rgba(20,22,
   background:var(--brand);color:#fff;border:none;border-radius:6px;padding:7px 12px;font-weight:800;cursor:pointer;font-size:.78rem;
 }
 .img-edit-overlay .url-link{color:#fff;text-decoration:underline;cursor:pointer;font-size:.75rem;}
+.img-credit{color:var(--ink-400);font-size:.75rem;margin-top:6px;text-align:right;}
 
 /* ---------- Sections ---------- */
 section{padding:48px 0;}
