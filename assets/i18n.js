@@ -1655,7 +1655,7 @@ window.IM_I18N = {
   "a6-related2-link": { "en": "Visit section →", "pt": "Visitar secção →", "es": "Visitar sección →", "fr": "Voir la rubrique →", "it": "Vai alla sezione →" },
   "a6-related3-tag": { "en": "Image Media", "pt": "Image Media", "es": "Image Media", "fr": "Image Media", "it": "Image Media" },
   "a6-related3-title": { "en": "How Image Media covers your event", "pt": "Como a Image Media cobre o seu evento", "es": "Cómo Image Media cubre tu evento", "fr": "Comment Image Media couvre votre événement", "it": "Come Image Media copre il tuo evento" },
-  "a6-related3-link": { "en": "Learn more →", "pt": "Saber mais →", "es": "Saber más →", "fr": "En savoir plus →", "it": "Scopri di più →" }
+  "a6-related3-link": { "en": "Learn more →", "pt": "Saber mais →", "es": "Saber más →", "fr": "En savoir plus →", "it": "Scopri di più →" },
 
 
   "a7-tag": { "en": "Athletics", "pt": "Atletismo", "es": "Atletismo", "fr": "Athlétisme", "it": "Atletica" },
