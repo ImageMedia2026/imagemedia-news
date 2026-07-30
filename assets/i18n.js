@@ -1816,6 +1816,13 @@ window.IM_I18N = {
     "fr": "Sports de Combat",
     "it": "Sport da Combattimento"
   },
+  "filters.functional": {
+    "en": "Functional",
+    "pt": "Funcional",
+    "es": "Funcional",
+    "fr": "Fonctionnel",
+    "it": "Funzionale"
+  },
   "filters.concerts": {
     "en": "Concerts",
     "pt": "Concertos",
