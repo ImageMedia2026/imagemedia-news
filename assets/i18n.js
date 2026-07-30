@@ -1701,6 +1701,7 @@ window.IM_I18N = {
   "a5-related3-tag": { "en": "Image Media", "pt": "Image Media", "es": "Image Media", "fr": "Image Media", "it": "Image Media" },
   "a5-related3-title": { "en": "How Image Media covers your event", "pt": "Como a Image Media cobre o seu evento", "es": "Cómo Image Media cubre tu evento", "fr": "Comment Image Media couvre votre événement", "it": "Come Image Media copre il tuo evento" },
   "a5-related3-link": { "en": "Learn more →", "pt": "Saber mais →", "es": "Saber más →", "fr": "En savoir plus →", "it": "Scopri di più →" },
+  },
   chrome: {
   "nav.home": {
     "en": "Home",
