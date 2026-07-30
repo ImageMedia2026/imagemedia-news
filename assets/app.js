@@ -682,3 +682,47 @@
     wireLangSwitch();
   });
 })();
+
+
+// --- Adaptive image fit: landscape photos fill the frame, portrait photos show in full ---
+(function () {
+  var SELECTOR = '.hero-story img, .story-card .thumb img, .latest-row .thumb img, .article-hero img, .inline-figure img';
+
+  function classify(img) {
+    if (!img.naturalWidth || !img.naturalHeight) return;
+    if (img.naturalHeight > img.naturalWidth) {
+      img.classList.add('fit-contain');
+    } else {
+      img.classList.remove('fit-contain');
+    }
+  }
+
+  function watch(img) {
+    if (img.complete) {
+      classify(img);
+    } else {
+      img.addEventListener('load', function () { classify(img); });
+    }
+  }
+
+  function scanAll() {
+    document.querySelectorAll(SELECTOR).forEach(watch);
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', scanAll);
+  } else {
+    scanAll();
+  }
+
+  var imgFitObserver = new MutationObserver(function (mutations) {
+    mutations.forEach(function (m) {
+      if (m.type === 'attributes' && m.attributeName === 'src' && m.target && m.target.tagName === 'IMG') {
+        var img = m.target;
+        img.classList.remove('fit-contain');
+        watch(img);
+      }
+    });
+  });
+  imgFitObserver.observe(document.documentElement, { attributes: true, attributeFilter: ['src'], subtree: true });
+})();
