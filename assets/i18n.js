@@ -5430,6 +5430,144 @@ window.IM_I18N = {
  },
  "card-s18__field__link": {
   "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
+ },
+ "a24-tag": {
+  "en": "Functional", "pt": "Funcional", "es": "Funcional", "fr": "Fonctionnel", "it": "Funzionale"
+ },
+ "a24-title": {
+  "en": "Matosinhos Throwdown Brings 400 Athletes Together For Trio Competition",
+  "pt": "Matosinhos Throwdown Reúne 400 Atletas Em Competição De Trios",
+  "es": "Matosinhos Throwdown Reúne A 400 Atletas En Una Competición Por Tríos",
+  "fr": "Le Matosinhos Throwdown Réunit 400 Athlètes Pour Une Compétition Par Trios",
+  "it": "Il Matosinhos Throwdown Riunisce 400 Atleti Per Una Competizione A Terzetti"
+ },
+ "a24-deck": {
+  "en": "The 28 March crosstraining competition brought HHM trios to Matosinhos across RX, Intermediate and Scaled divisions, with coverage by the Image Media team.",
+  "pt": "A competição de crosstraining de 28 de março levou trios HHM a Matosinhos nas divisões RX, Intermédio e Scaled, com cobertura da equipa da Image Media.",
+  "es": "La competición de crosstraining del 28 de marzo llevó tríos HHM a Matosinhos en las divisiones RX, Intermedio y Scaled, con cobertura del equipo de Image Media.",
+  "fr": "La compétition de crosstraining du 28 mars a réuni à Matosinhos des trios HHM dans les divisions RX, Intermédiaire et Scaled, avec une couverture de l'équipe d'Image Media.",
+  "it": "La competizione di crosstraining del 28 marzo ha riunito a Matosinhos terzetti HHM nelle divisioni RX, Intermedia e Scaled, con la copertura del team di Image Media."
+ },
+ "a24-byline": {
+  "en": "By Image Media News Staff — Matosinhos, Portugal",
+  "pt": "Por Redação IM News — Matosinhos, Portugal",
+  "es": "Por Redacción IM News — Matosinhos, Portugal",
+  "fr": "Par la rédaction d'IM News — Matosinhos, Portugal",
+  "it": "Di Redazione IM News — Matosinhos, Portogallo"
+ },
+ "a24-hero-credit": {
+  "en": "Photo: Michael Rosa / Image Media", "pt": "Foto: Michael Rosa / Image Media", "es": "Foto: Michael Rosa / Image Media", "fr": "Photo : Michael Rosa / Image Media", "it": "Foto: Michael Rosa / Image Media"
+ },
+ "a24-p1": {
+  "en": "Matosinhos Throwdown took place in Matosinhos on 28 March 2026, bringing together 400 athletes for a crosstraining competition covered by the Image Media team.",
+  "pt": "O Matosinhos Throwdown realizou-se em Matosinhos a 28 de março de 2026, reunindo 400 atletas numa competição de crosstraining com cobertura da equipa da Image Media.",
+  "es": "Matosinhos Throwdown se celebró en Matosinhos el 28 de marzo de 2026, reuniendo a 400 atletas en una competición de crosstraining cubierta por el equipo de Image Media.",
+  "fr": "Le Matosinhos Throwdown s'est déroulé à Matosinhos le 28 mars 2026, réunissant 400 athlètes pour une compétition de crosstraining couverte par l'équipe d'Image Media.",
+  "it": "Il Matosinhos Throwdown si è svolto a Matosinhos il 28 marzo 2026, riunendo 400 atleti per una competizione di crosstraining seguita dal team di Image Media."
+ },
+ "a24-p2": {
+  "en": "The organiser set the competition in an HHM trio format, with RX, Intermediate and Scaled divisions. The structure placed teams of three on the competition floor while opening the event to athletes competing at different experience levels.",
+  "pt": "A organização definiu a competição num formato de trios HHM, com divisões RX, Intermédio e Scaled. A estrutura colocou equipas de três atletas na área de competição, abrindo o evento a participantes com diferentes níveis de experiência.",
+  "es": "La organización estableció la competición en un formato de tríos HHM, con divisiones RX, Intermedio y Scaled. La estructura situó a equipos de tres atletas en la pista y abrió el evento a participantes con distintos niveles de experiencia.",
+  "fr": "L'organisateur a établi la compétition dans un format de trios HHM, avec des divisions RX, Intermédiaire et Scaled. Cette structure a placé des équipes de trois athlètes sur l'aire de compétition tout en ouvrant l'événement à différents niveaux d'expérience.",
+  "it": "L'organizzatore ha impostato la competizione in un formato a terzetti HHM, con divisioni RX, Intermedia e Scaled. La struttura ha portato squadre di tre atleti sul campo gara, aprendo l'evento a partecipanti con diversi livelli di esperienza."
+ },
+ "a24-inline1-credit": {
+  "en": "Photo: Thaina / Image Media", "pt": "Foto: Thaina / Image Media", "es": "Foto: Thaina / Image Media", "fr": "Photo : Thaina / Image Media", "it": "Foto: Thaina / Image Media"
+ },
+ "a24-p3": {
+  "en": "The images from the competition show the range of work on the floor: one athlete stabilising a loaded barbell in the front-rack position and another holding a handstand, with judges, competitors and other activity continuing around them.",
+  "pt": "As imagens da competição mostram a diversidade do trabalho na área de prova: uma atleta a estabilizar uma barra carregada na posição de front rack e outra a manter uma posição de pino, com juízes, competidores e a restante atividade a decorrer em redor.",
+  "es": "Las imágenes de la competición muestran la variedad del trabajo en pista: una atleta estabilizando una barra cargada en posición de front rack y otra manteniendo un pino, mientras jueces, competidores y el resto de la actividad continúan a su alrededor.",
+  "fr": "Les images de la compétition montrent la variété du travail sur l'aire de course : une athlète stabilisant une barre chargée en position de front rack et une autre tenant un équilibre sur les mains, tandis que juges, concurrents et autres activités se poursuivent autour d'elles.",
+  "it": "Le immagini della competizione mostrano la varietà del lavoro sul campo: un'atleta stabilizza un bilanciere carico in posizione di front rack e un'altra mantiene la verticale, mentre giudici, concorrenti e altre attività proseguono intorno a loro."
+ },
+ "a24-stat": {
+  "en": "28 March 2026 · Matosinhos · 400 athletes · HHM trios · RX / Intermediate / Scaled",
+  "pt": "28 de março de 2026 · Matosinhos · 400 atletas · Trios HHM · RX / Intermédio / Scaled",
+  "es": "28 de marzo de 2026 · Matosinhos · 400 atletas · Tríos HHM · RX / Intermedio / Scaled",
+  "fr": "28 mars 2026 · Matosinhos · 400 athlètes · Trios HHM · RX / Intermédiaire / Scaled",
+  "it": "28 marzo 2026 · Matosinhos · 400 atleti · Terzetti HHM · RX / Intermedia / Scaled"
+ },
+ "a24-p4": {
+  "en": "The Image Media team covering the competition comprised Eduardo Almeida, Luciano, Michael Rosa, Eduardo Pereira and Thaina, working across the event to document both the athletic performances and the wider competition environment.",
+  "pt": "A equipa da Image Media que cobriu a competição foi composta por Eduardo Almeida, Luciano, Michael Rosa, Eduardo Pereira e Thaina, que trabalharam ao longo do evento para documentar tanto as prestações dos atletas como o ambiente geral da prova.",
+  "es": "El equipo de Image Media que cubrió la competición estuvo formado por Eduardo Almeida, Luciano, Michael Rosa, Eduardo Pereira y Thaina, que trabajaron durante el evento para documentar tanto las actuaciones deportivas como el ambiente general de la prueba.",
+  "fr": "L'équipe d'Image Media chargée de couvrir la compétition était composée d'Eduardo Almeida, Luciano, Michael Rosa, Eduardo Pereira et Thaina, présents tout au long de l'événement pour documenter les performances sportives et l'environnement général de la compétition.",
+  "it": "Il team di Image Media che ha seguito la competizione era composto da Eduardo Almeida, Luciano, Michael Rosa, Eduardo Pereira e Thaina, impegnati durante l'evento a documentare sia le prestazioni sportive sia l'ambiente complessivo della gara."
+ },
+ "a24-p5": {
+  "en": "The resulting coverage records the strength, control and concentration demanded on the competition floor while preserving the shared atmosphere of Matosinhos Throwdown.",
+  "pt": "A cobertura resultante regista a força, o controlo e a concentração exigidos na área de competição, preservando ao mesmo tempo o ambiente partilhado do Matosinhos Throwdown.",
+  "es": "La cobertura resultante registra la fuerza, el control y la concentración exigidos en la pista, al tiempo que preserva el ambiente compartido de Matosinhos Throwdown.",
+  "fr": "La couverture obtenue restitue la force, le contrôle et la concentration exigés sur l'aire de compétition, tout en préservant l'atmosphère collective du Matosinhos Throwdown.",
+  "it": "La copertura risultante documenta la forza, il controllo e la concentrazione richiesti sul campo gara, preservando allo stesso tempo l'atmosfera condivisa del Matosinhos Throwdown."
+ },
+ "a24-tagpill1": {
+  "en": "Matosinhos Throwdown", "pt": "Matosinhos Throwdown", "es": "Matosinhos Throwdown", "fr": "Matosinhos Throwdown", "it": "Matosinhos Throwdown"
+ },
+ "a24-tagpill2": {
+  "en": "Matosinhos", "pt": "Matosinhos", "es": "Matosinhos", "fr": "Matosinhos", "it": "Matosinhos"
+ },
+ "a24-tagpill3": {
+  "en": "Crosstraining", "pt": "Crosstraining", "es": "Crosstraining", "fr": "Crosstraining", "it": "Crosstraining"
+ },
+ "a24-related-title": {
+  "en": "More from Image Media", "pt": "Mais da Image Media", "es": "Más de Image Media", "fr": "Plus d'Image Media", "it": "Altro da Image Media"
+ },
+ "a24-related1-tag": {
+  "en": "Sports", "pt": "Desporto", "es": "Deportes", "fr": "Sport", "it": "Sport"
+ },
+ "a24-related1-title": {
+  "en": "See all Sports coverage", "pt": "Ver toda a cobertura de Desporto", "es": "Ver toda la cobertura de Deportes", "fr": "Voir toute la couverture Sport", "it": "Vedi tutta la copertura Sport"
+ },
+ "a24-related1-link": {
+  "en": "Visit section →", "pt": "Visitar secção →", "es": "Visitar sección →", "fr": "Visiter la section →", "it": "Visita la sezione →"
+ },
+ "a24-related2-tag": {
+  "en": "Image Media", "pt": "Image Media", "es": "Image Media", "fr": "Image Media", "it": "Image Media"
+ },
+ "a24-related2-title": {
+  "en": "How Image Media covers your event", "pt": "Como a Image Media cobre o seu evento", "es": "Cómo Image Media cubre tu evento", "fr": "Comment Image Media couvre votre événement", "it": "Come Image Media copre il tuo evento"
+ },
+ "a24-related2-link": {
+  "en": "Learn more →", "pt": "Saber mais →", "es": "Saber más →", "fr": "En savoir plus →", "it": "Scopri di più →"
+ },
+ "a24-related3-tag": {
+  "en": "Functional", "pt": "Funcional", "es": "Funcional", "fr": "Fonctionnel", "it": "Funzionale"
+ },
+ "a24-related3-title": {
+  "en": "Turtle Games Debut Draws Over 100 Athletes To CrossFit Esmoriz",
+  "pt": "Estreia Dos Turtle Games Reúne Mais De 100 Atletas No CrossFit Esmoriz",
+  "es": "El Debut De Turtle Games Reúne A Más De 100 Atletas En CrossFit Esmoriz",
+  "fr": "Les Turtle Games Attirent Plus De 100 Athlètes Pour Leur Première Au CrossFit Esmoriz",
+  "it": "I Turtle Games Debuttano Con Oltre 100 Atleti Al CrossFit Esmoriz"
+ },
+ "a24-related3-link": {
+  "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
+ },
+ "card-s19__field__tag": {
+  "en": "Functional", "pt": "Funcional", "es": "Funcional", "fr": "Fonctionnel", "it": "Funzionale"
+ },
+ "card-s19__field__title": {
+  "en": "Matosinhos Throwdown Brings 400 Athletes Together For Trio Competition",
+  "pt": "Matosinhos Throwdown Reúne 400 Atletas Em Competição De Trios",
+  "es": "Matosinhos Throwdown Reúne A 400 Atletas En Una Competición Por Tríos",
+  "fr": "Le Matosinhos Throwdown Réunit 400 Athlètes Pour Une Compétition Par Trios",
+  "it": "Il Matosinhos Throwdown Riunisce 400 Atleti Per Una Competizione A Terzetti"
+ },
+ "card-s19__field__deck": {
+  "en": "HHM trios competed across RX, Intermediate and Scaled divisions in Matosinhos on 28 March 2026.",
+  "pt": "Trios HHM competiram nas divisões RX, Intermédio e Scaled em Matosinhos a 28 de março de 2026.",
+  "es": "Tríos HHM compitieron en las divisiones RX, Intermedio y Scaled en Matosinhos el 28 de marzo de 2026.",
+  "fr": "Des trios HHM ont concouru dans les divisions RX, Intermédiaire et Scaled à Matosinhos le 28 mars 2026.",
+  "it": "Terzetti HHM hanno gareggiato nelle divisioni RX, Intermedia e Scaled a Matosinhos il 28 marzo 2026."
+ },
+ "card-s19__field__meta": {
+  "en": "Image Media coverage", "pt": "Cobertura Image Media", "es": "Cobertura de Image Media", "fr": "Couverture Image Media", "it": "Copertura Image Media"
+ },
+ "card-s19__field__link": {
+  "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
  }
 
  },
