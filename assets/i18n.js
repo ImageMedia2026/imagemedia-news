@@ -5286,18 +5286,18 @@ window.IM_I18N = {
   "it": "HYROX"
  },
  "a23-title": {
-  "en": "Army Performance Hybrid Training Camp In Vila Nova De Gaia",
-  "pt": "Hybrid Training Camp Da Army Performance Em Vila Nova De Gaia",
-  "es": "Hybrid Training Camp De Army Performance En Vila Nova De Gaia",
-  "fr": "Hybrid Training Camp D'Army Performance À Vila Nova De Gaia",
-  "it": "Hybrid Training Camp Di Army Performance A Vila Nova De Gaia"
+  "en": "Army Performance HYROX Training Camp Brings Athletes Together In Vila Nova De Gaia",
+  "pt": "Training Camp HYROX Da Army Performance Reúne Atletas Em Vila Nova De Gaia",
+  "es": "El Training Camp HYROX De Army Performance Reúne A Atletas En Vila Nova De Gaia",
+  "fr": "Le Training Camp HYROX D'Army Performance Réunit Des Athlètes À Vila Nova De Gaia",
+  "it": "Il Training Camp HYROX Di Army Performance Riunisce Gli Atleti A Vila Nova De Gaia"
  },
  "a23-deck": {
-  "en": "The event took place in Vila Nova de Gaia on 27 February 2026, with Image Media coverage and photographs by Eduardo Castro.",
-  "pt": "O evento realizou-se em Vila Nova de Gaia a 27 de fevereiro de 2026, com cobertura da Image Media e fotografias de Eduardo Castro.",
-  "es": "El evento se celebró en Vila Nova de Gaia el 27 de febrero de 2026, con cobertura de Image Media y fotografías de Eduardo Castro.",
-  "fr": "L'événement s'est déroulé à Vila Nova de Gaia le 27 février 2026, avec une couverture d'Image Media et des photographies d'Eduardo Castro.",
-  "it": "L'evento si è svolto a Vila Nova de Gaia il 27 febbraio 2026, con copertura di Image Media e fotografie di Eduardo Castro."
+  "en": "Held on 27 February 2026, the Vila Nova de Gaia camp formed part of Army Performance's HYROX-focused training work, with Image Media coverage.",
+  "pt": "Realizado a 27 de fevereiro de 2026, o camp de Vila Nova de Gaia integrou o trabalho de preparação HYROX da Army Performance, com cobertura da Image Media.",
+  "es": "Celebrado el 27 de febrero de 2026, el camp de Vila Nova de Gaia formó parte del trabajo de preparación HYROX de Army Performance, con cobertura de Image Media.",
+  "fr": "Organisé le 27 février 2026, le camp de Vila Nova de Gaia s'inscrivait dans le travail de préparation HYROX d'Army Performance, avec une couverture d'Image Media.",
+  "it": "Svoltosi il 27 febbraio 2026, il camp di Vila Nova de Gaia rientrava nel lavoro di preparazione HYROX di Army Performance, con copertura di Image Media."
  },
  "a23-byline": {
   "en": "By Image Media News Staff — Vila Nova de Gaia, Portugal",
@@ -5314,18 +5314,18 @@ window.IM_I18N = {
   "it": "Foto: Eduardo Castro / Image Media"
  },
  "a23-p1": {
-  "en": "The Army Performance Hybrid Training Camp took place in Vila Nova de Gaia on 27 February 2026.",
-  "pt": "O Hybrid Training Camp da Army Performance realizou-se em Vila Nova de Gaia a 27 de fevereiro de 2026.",
-  "es": "El Hybrid Training Camp de Army Performance se celebró en Vila Nova de Gaia el 27 de febrero de 2026.",
-  "fr": "Le Hybrid Training Camp d'Army Performance s'est déroulé à Vila Nova de Gaia le 27 février 2026.",
-  "it": "L'Hybrid Training Camp di Army Performance si è svolto a Vila Nova de Gaia il 27 febbraio 2026."
+  "en": "The Army Performance HYROX Training Camp took place in Vila Nova de Gaia on 27 February 2026. Image Media covered the event, with photography by Eduardo Castro.",
+  "pt": "O Training Camp HYROX da Army Performance realizou-se em Vila Nova de Gaia a 27 de fevereiro de 2026. A Image Media cobriu o evento, com fotografia de Eduardo Castro.",
+  "es": "El Training Camp HYROX de Army Performance se celebró en Vila Nova de Gaia el 27 de febrero de 2026. Image Media cubrió el evento, con fotografías de Eduardo Castro.",
+  "fr": "Le Training Camp HYROX d'Army Performance s'est déroulé à Vila Nova de Gaia le 27 février 2026. Image Media a couvert l'événement, avec des photographies d'Eduardo Castro.",
+  "it": "Il Training Camp HYROX di Army Performance si è svolto a Vila Nova de Gaia il 27 febbraio 2026. Image Media ha seguito l'evento, con fotografie di Eduardo Castro."
  },
  "a23-p2": {
-  "en": "The event is in the HYROX category.",
-  "pt": "O evento está inserido na categoria HYROX.",
-  "es": "El evento está incluido en la categoría HYROX.",
-  "fr": "L'événement est classé dans la catégorie HYROX.",
-  "it": "L'evento è inserito nella categoria HYROX."
+  "en": "Army Performance explains on its official website that HYROX combines endurance, strength and technique across eight workouts. The format is designed to test both performance and personal progression.",
+  "pt": "A Army Performance explica no seu site oficial que o HYROX combina resistência, força e técnica em oito workouts. O formato foi concebido para testar tanto a performance como a superação pessoal.",
+  "es": "Army Performance explica en su sitio web oficial que HYROX combina resistencia, fuerza y técnica en ocho workouts. El formato está diseñado para poner a prueba tanto el rendimiento como la superación personal.",
+  "fr": "Army Performance explique sur son site officiel que le HYROX combine endurance, force et technique à travers huit workouts. Le format est conçu pour tester à la fois la performance et le dépassement personnel.",
+  "it": "Army Performance spiega sul proprio sito ufficiale che HYROX combina resistenza, forza e tecnica in otto workout. Il formato è pensato per mettere alla prova sia la performance sia il miglioramento personale."
  },
  "a23-inline1-credit": {
   "en": "Photo: Eduardo Castro / Image Media",
@@ -5335,11 +5335,11 @@ window.IM_I18N = {
   "it": "Foto: Eduardo Castro / Image Media"
  },
  "a23-p3": {
-  "en": "Image Media covered the event.",
-  "pt": "A Image Media realizou a cobertura do evento.",
-  "es": "Image Media realizó la cobertura del evento.",
-  "fr": "Image Media a couvert l'événement.",
-  "it": "Image Media ha seguito l'evento."
+  "en": "The organiser presents its Training Camps as intensive programmes designed by its team, where athletes train, learn and develop alongside others while gaining practical insight into competition.",
+  "pt": "A organização apresenta os seus Training Camps como programas intensivos desenhados pela equipa, nos quais os atletas treinam, aprendem e evoluem ao lado de outros participantes, contactando com o contexto prático da competição.",
+  "es": "La organización presenta sus Training Camps como programas intensivos diseñados por su equipo, en los que los atletas entrenan, aprenden y progresan junto a otros participantes mientras conocen el contexto práctico de la competición.",
+  "fr": "L'organisateur présente ses Training Camps comme des programmes intensifs conçus par son équipe, où les athlètes s'entraînent, apprennent et progressent aux côtés d'autres participants tout en découvrant le contexte pratique de la compétition.",
+  "it": "L'organizzatore presenta i propri Training Camp come programmi intensivi progettati dal team, nei quali gli atleti si allenano, imparano e progrediscono insieme ad altri partecipanti, entrando nel contesto pratico della competizione."
  },
  "a23-stat": {
   "en": "27 February 2026 · Vila Nova de Gaia · HYROX · Image Media coverage",
@@ -5349,18 +5349,25 @@ window.IM_I18N = {
   "it": "27 febbraio 2026 · Vila Nova de Gaia · HYROX · Copertura Image Media"
  },
  "a23-p4": {
-  "en": "Photographs by Eduardo Castro show participants at the venue and during rowing-machine training.",
-  "pt": "As fotografias de Eduardo Castro mostram participantes no local e durante o treino em máquinas de remo.",
-  "es": "Las fotografías de Eduardo Castro muestran a participantes en el recinto y durante el entrenamiento en máquinas de remo.",
-  "fr": "Les photographies d'Eduardo Castro montrent des participants sur place et pendant un entraînement sur rameurs.",
-  "it": "Le fotografie di Eduardo Castro mostrano i partecipanti sul posto e durante l'allenamento ai vogatori."
+  "en": "Army Performance also states that its coaches have direct HYROX competition experience and that its programming balances running and strength through progressive, structured preparation.",
+  "pt": "A Army Performance afirma também que os seus treinadores têm experiência direta em competição HYROX e que a programação equilibra corrida e força através de uma preparação progressiva e estruturada.",
+  "es": "Army Performance también afirma que sus entrenadores tienen experiencia directa en competición HYROX y que su programación equilibra carrera y fuerza mediante una preparación progresiva y estructurada.",
+  "fr": "Army Performance indique également que ses entraîneurs possèdent une expérience directe de la compétition HYROX et que sa programmation équilibre course et force grâce à une préparation progressive et structurée.",
+  "it": "Army Performance afferma inoltre che i suoi allenatori hanno esperienza diretta nelle competizioni HYROX e che la programmazione bilancia corsa e forza attraverso una preparazione progressiva e strutturata."
  },
  "a23-p5": {
-  "en": "The images in this report and on the Sports page are credited to Eduardo Castro.",
-  "pt": "As imagens desta reportagem e da página Sports são creditadas a Eduardo Castro.",
-  "es": "Las imágenes de este reportaje y de la página Sports están acreditadas a Eduardo Castro.",
-  "fr": "Les images de cet article et de la page Sports sont créditées à Eduardo Castro.",
-  "it": "Le immagini in questo articolo e nella pagina Sports sono accreditate a Eduardo Castro."
+  "en": "Eduardo Castro's photographs document participants together at the venue and athletes working on rowing ergometers. The images form the visual record of Image Media's coverage of the camp.",
+  "pt": "As fotografias de Eduardo Castro documentam os participantes reunidos no local e atletas a trabalhar em ergómetros de remo. As imagens constituem o registo visual da cobertura do camp pela Image Media.",
+  "es": "Las fotografías de Eduardo Castro documentan a los participantes reunidos en el recinto y a atletas trabajando en ergómetros de remo. Las imágenes constituyen el registro visual de la cobertura del camp por Image Media.",
+  "fr": "Les photographies d'Eduardo Castro montrent les participants réunis sur place et des athlètes travaillant sur des rameurs. Elles constituent le témoignage visuel de la couverture du camp par Image Media.",
+  "it": "Le fotografie di Eduardo Castro documentano i partecipanti riuniti sul posto e gli atleti al lavoro sui vogatori. Le immagini costituiscono la testimonianza visiva della copertura del camp da parte di Image Media."
+ },
+ "a23-source-label": {
+  "en": "Official sources:",
+  "pt": "Fontes oficiais:",
+  "es": "Fuentes oficiales:",
+  "fr": "Sources officielles :",
+  "it": "Fonti ufficiali:"
  },
  "a23-tagpill1": {
   "en": "Army Performance", "pt": "Army Performance", "es": "Army Performance", "fr": "Army Performance", "it": "Army Performance"
@@ -5412,11 +5419,11 @@ window.IM_I18N = {
   "en": "HYROX", "pt": "HYROX", "es": "HYROX", "fr": "HYROX", "it": "HYROX"
  },
  "card-s18__field__title": {
-  "en": "Army Performance Hybrid Training Camp In Vila Nova De Gaia",
-  "pt": "Hybrid Training Camp Da Army Performance Em Vila Nova De Gaia",
-  "es": "Hybrid Training Camp De Army Performance En Vila Nova De Gaia",
-  "fr": "Hybrid Training Camp D'Army Performance À Vila Nova De Gaia",
-  "it": "Hybrid Training Camp Di Army Performance A Vila Nova De Gaia"
+  "en": "Army Performance HYROX Training Camp Brings Athletes Together In Vila Nova De Gaia",
+  "pt": "Training Camp HYROX Da Army Performance Reúne Atletas Em Vila Nova De Gaia",
+  "es": "El Training Camp HYROX De Army Performance Reúne A Atletas En Vila Nova De Gaia",
+  "fr": "Le Training Camp HYROX D'Army Performance Réunit Des Athlètes À Vila Nova De Gaia",
+  "it": "Il Training Camp HYROX Di Army Performance Riunisce Gli Atleti A Vila Nova De Gaia"
  },
  "card-s18__field__deck": {
   "en": "The event took place in Vila Nova de Gaia on 27 February 2026, with Image Media coverage.",
