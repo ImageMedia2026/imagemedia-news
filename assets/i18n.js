@@ -1415,18 +1415,18 @@ window.IM_I18N = {
    "it": "Contatto Redazione"
   },
   "about-contact-email": {
-   "en": "newsroom@example.com",
-   "pt": "newsroom@example.com",
-   "es": "newsroom@example.com",
-   "fr": "newsroom@example.com",
-   "it": "newsroom@example.com"
+   "en": "contact@imagemedia.one",
+   "pt": "contact@imagemedia.one",
+   "es": "contact@imagemedia.one",
+   "fr": "contact@imagemedia.one",
+   "it": "contact@imagemedia.one"
   },
   "about-contact-instagram": {
-   "en": "@imagemedianews",
-   "pt": "@imagemedianews",
-   "es": "@imagemedianews",
-   "fr": "@imagemedianews",
-   "it": "@imagemedianews"
+   "en": "@imnews",
+   "pt": "@imnews",
+   "es": "@imnews",
+   "fr": "@imnews",
+   "it": "@imnews"
   },
   "a4-tag": {
    "en": "Functional",
@@ -5032,6 +5032,34 @@ window.IM_I18N = {
    "es": "Leer más →",
    "fr": "Lire la suite →",
    "it": "Leggi tutto →"
+  },
+  "organizer-banner-tag": {
+   "en": "For Organizers",
+   "pt": "Para Organizadores",
+   "es": "Para Organizadores",
+   "fr": "Pour Les Organisateurs",
+   "it": "Per Gli Organizzatori"
+  },
+  "organizer-banner-title": {
+   "en": "Running An Event? Get Free Photo &amp; Video Coverage",
+   "pt": "Organiza Um Evento? Tenha Cobertura Fotográfica E De Vídeo Gratuita",
+   "es": "¿Organizas Un Evento? Ten Cobertura Fotográfica Y De Vídeo Gratuita",
+   "fr": "Vous Organisez Un Événement ? Bénéficiez D’Une Couverture Photo Et Vidéo Gratuite",
+   "it": "Organizzi Un Evento? Ottieni Copertura Foto E Video Gratuita"
+  },
+  "organizer-banner-deck": {
+   "en": "Image Media covers marathons, trail races, cycling events and more at zero cost — with a share of the sales revenue for organisers. See how it works.",
+   "pt": "A Image Media cobre maratonas, trail, provas de ciclismo e muito mais sem qualquer custo — com uma percentagem das vendas para os organizadores. Veja como funciona.",
+   "es": "Image Media cubre maratones, carreras de trail, pruebas ciclistas y mucho más sin ningún coste — con un porcentaje de las ventas para los organizadores. Descubre cómo funciona.",
+   "fr": "Image Media couvre marathons, trails, épreuves cyclistes et bien plus, sans aucun coût — avec un pourcentage des ventes reversé aux organisateurs. Découvrez comment ça marche.",
+   "it": "Image Media copre maratone, trail, gare ciclistiche e molto altro senza alcun costo — con una percentuale sulle vendite per gli organizzatori. Scopri come funziona."
+  },
+  "organizer-banner-cta": {
+   "en": "Partner With Us →",
+   "pt": "Torne-se Nosso Parceiro →",
+   "es": "Conviértete En Nuestro Socio →",
+   "fr": "Devenez Notre Partenaire →",
+   "it": "Diventa Nostro Partner →"
   }
  },
  "chrome": {
@@ -5323,4 +5351,4 @@ window.IM_I18N = {
    "it": "Contenuti provvisori per la revisione del concept — modifica liberamente."
   }
  }
-};;
+};;;
