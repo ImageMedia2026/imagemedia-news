@@ -4271,11 +4271,11 @@ window.IM_I18N = {
       "it": "Image Media ha coperto la gara sul campo con una squadra di tre persone — Eduardo Castro, Paulo Nomade e Jose Ramon Moreno — catturando i momenti al traguardo, l’atmosfera familiare e a misura di cane lungo il percorso, e i ritratti dei corridori di testa."
     },
     "a19-p5": {
-      "en": "Galleries from the day are now live for participants to find and buy their photos, with the club and district organisers receiving a full highlight pack to help promote next year’s fifteenth edition.",
-      "pt": "As galerias do dia já estão disponíveis para que os participantes encontrem e comprem as suas fotos, com o clube e os organizadores do distrito a receber um pacote completo de destaques para ajudar a promover a décima quinta edição do próximo ano.",
-      "es": "Las galerías del día ya están disponibles para que los participantes encuentren y compren sus fotos, y el club y los organizadores del distrito reciben un paquete completo de destacados para ayudar a promover la decimoquinta edición del próximo año.",
-      "fr": "Les galeries de la journée sont désormais en ligne pour que les participants retrouvent et achètent leurs photos, le club et les organisateurs du district recevant un pack complet de temps forts pour promouvoir la quinzième édition l’an prochain.",
-      "it": "Le gallerie della giornata sono ora online affinché i partecipanti possano trovare e acquistare le proprie foto, mentre il club e gli organizzatori del distretto ricevono un pacchetto completo di momenti salienti per promuovere la quindicesima edizione del prossimo anno."
+      "en": "Galleries from the day are now live for participants to find and buy their photos at imagemedia.one, with the club and district organisers receiving a full highlight pack to help promote next year’s fifteenth edition.",
+      "pt": "As galerias do dia já estão disponíveis em imagemedia.one para que os participantes encontrem e comprem as suas fotos, com o clube e os organizadores do distrito a receber um pacote completo de destaques para ajudar a promover a décima quinta edição do próximo ano.",
+      "es": "Las galerías del día ya están disponibles en imagemedia.one para que los participantes encuentren y compren sus fotos, y el club y los organizadores del distrito reciben un paquete completo de destacados para ayudar a promover la decimoquinta edición del próximo año.",
+      "fr": "Les galeries de la journée sont désormais en ligne sur imagemedia.one pour que les participants retrouvent et achètent leurs photos, le club et les organisateurs du district recevant un pack complet de temps forts pour promouvoir la quinzième édition l’an prochain.",
+      "it": "Le gallerie della giornata sono ora online su imagemedia.one affinché i partecipanti possano trovare e acquistare le proprie foto, mentre il club e gli organizzatori del distretto ricevono un pacchetto completo di momenti salienti per promuovere la quindicesima edizione del prossimo anno."
     },
     "a19-tagpill1": {
       "en": "Tamarguillo",
