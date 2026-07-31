@@ -5279,11 +5279,11 @@ window.IM_I18N = {
   "it": "Leggi di più →"
  },
 "a23-tag": {
-  "en": "CrossFit",
-  "pt": "CrossFit",
-  "es": "CrossFit",
-  "fr": "CrossFit",
-  "it": "CrossFit"
+  "en": "HYROX",
+  "pt": "HYROX",
+  "es": "HYROX",
+  "fr": "HYROX",
+  "it": "HYROX"
  },
  "a23-title": {
   "en": "Army Performance Hybrid Training Camp In Vila Nova De Gaia",
@@ -5321,11 +5321,11 @@ window.IM_I18N = {
   "it": "L'Hybrid Training Camp di Army Performance si è svolto a Vila Nova de Gaia il 27 febbraio 2026."
  },
  "a23-p2": {
-  "en": "The event is listed in the CrossFit category.",
-  "pt": "O evento está inserido na categoria CrossFit.",
-  "es": "El evento está incluido en la categoría CrossFit.",
-  "fr": "L'événement est classé dans la catégorie CrossFit.",
-  "it": "L'evento è inserito nella categoria CrossFit."
+  "en": "The event is in the HYROX category.",
+  "pt": "O evento está inserido na categoria HYROX.",
+  "es": "El evento está incluido en la categoría HYROX.",
+  "fr": "L'événement est classé dans la catégorie HYROX.",
+  "it": "L'evento è inserito nella categoria HYROX."
  },
  "a23-inline1-credit": {
   "en": "Photo: Eduardo Castro / Image Media",
@@ -5342,11 +5342,11 @@ window.IM_I18N = {
   "it": "Image Media ha seguito l'evento."
  },
  "a23-stat": {
-  "en": "27 February 2026 · Vila Nova de Gaia · CrossFit · Image Media coverage",
-  "pt": "27 de fevereiro de 2026 · Vila Nova de Gaia · CrossFit · Cobertura Image Media",
-  "es": "27 de febrero de 2026 · Vila Nova de Gaia · CrossFit · Cobertura de Image Media",
-  "fr": "27 février 2026 · Vila Nova de Gaia · CrossFit · Couverture Image Media",
-  "it": "27 febbraio 2026 · Vila Nova de Gaia · CrossFit · Copertura Image Media"
+  "en": "27 February 2026 · Vila Nova de Gaia · HYROX · Image Media coverage",
+  "pt": "27 de fevereiro de 2026 · Vila Nova de Gaia · HYROX · Cobertura Image Media",
+  "es": "27 de febrero de 2026 · Vila Nova de Gaia · HYROX · Cobertura de Image Media",
+  "fr": "27 février 2026 · Vila Nova de Gaia · HYROX · Couverture Image Media",
+  "it": "27 febbraio 2026 · Vila Nova de Gaia · HYROX · Copertura Image Media"
  },
  "a23-p4": {
   "en": "Photographs by Eduardo Castro show participants at the venue and during rowing-machine training.",
@@ -5369,7 +5369,7 @@ window.IM_I18N = {
   "en": "Vila Nova de Gaia", "pt": "Vila Nova de Gaia", "es": "Vila Nova de Gaia", "fr": "Vila Nova de Gaia", "it": "Vila Nova de Gaia"
  },
  "a23-tagpill3": {
-  "en": "CrossFit", "pt": "CrossFit", "es": "CrossFit", "fr": "CrossFit", "it": "CrossFit"
+  "en": "HYROX", "pt": "HYROX", "es": "HYROX", "fr": "HYROX", "it": "HYROX"
  },
  "a23-related-title": {
   "en": "More from Image Media", "pt": "Mais da Image Media", "es": "Más de Image Media", "fr": "Plus d'Image Media", "it": "Altro da Image Media"
@@ -5409,7 +5409,7 @@ window.IM_I18N = {
   "en": "Photo: Eduardo Castro / Image Media", "pt": "Foto: Eduardo Castro / Image Media", "es": "Foto: Eduardo Castro / Image Media", "fr": "Photo : Eduardo Castro / Image Media", "it": "Foto: Eduardo Castro / Image Media"
  },
  "card-s18__field__tag": {
-  "en": "CrossFit", "pt": "CrossFit", "es": "CrossFit", "fr": "CrossFit", "it": "CrossFit"
+  "en": "HYROX", "pt": "HYROX", "es": "HYROX", "fr": "HYROX", "it": "HYROX"
  },
  "card-s18__field__title": {
   "en": "Army Performance Hybrid Training Camp In Vila Nova De Gaia",
