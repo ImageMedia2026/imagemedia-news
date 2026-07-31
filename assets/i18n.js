@@ -5279,11 +5279,11 @@ window.IM_I18N = {
   "it": "Leggi di più →"
  },
 "a23-tag": {
-  "en": "HYROX",
-  "pt": "HYROX",
-  "es": "HYROX",
-  "fr": "HYROX",
-  "it": "HYROX"
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
  },
  "a23-title": {
   "en": "Army Performance HYROX Training Camp Brings Athletes Together In Vila Nova De Gaia",
@@ -5356,11 +5356,11 @@ window.IM_I18N = {
   "it": "Army Performance afferma inoltre che i suoi allenatori hanno esperienza diretta nelle competizioni HYROX e che la programmazione bilancia corsa e forza attraverso una preparazione progressiva e strutturata."
  },
  "a23-p5": {
-  "en": "Eduardo Castro's photographs document participants together at the venue and athletes working on rowing ergometers. The images form the visual record of the camp's coverage produced by the Image Media team.",
-  "pt": "As fotografias de Eduardo Castro documentam os participantes reunidos no local e atletas a trabalhar em ergómetros de remo. As imagens constituem o registo visual da cobertura do camp realizada pela equipa da Image Media.",
-  "es": "Las fotografías de Eduardo Castro documentan a los participantes reunidos en el recinto y a atletas trabajando en ergómetros de remo. Las imágenes constituyen el registro visual de la cobertura del camp realizada por el equipo de Image Media.",
-  "fr": "Les photographies d'Eduardo Castro montrent les participants réunis sur place et des athlètes travaillant sur des rameurs. Elles constituent le témoignage visuel de la couverture du camp réalisée par l'équipe d'Image Media.",
-  "it": "Le fotografie di Eduardo Castro documentano i partecipanti riuniti sul posto e gli atleti al lavoro sui vogatori. Le immagini costituiscono la testimonianza visiva della copertura del camp realizzata dal team di Image Media."
+  "en": "The photographs document participants together at the venue and athletes working on rowing ergometers. The images form the visual record of the camp's coverage produced by the Image Media team.",
+  "pt": "As fotografias documentam os participantes reunidos no local e atletas a trabalhar em ergómetros de remo. As imagens constituem o registo visual da cobertura do camp realizada pela equipa da Image Media.",
+  "es": "Las fotografías documentan a los participantes reunidos en el recinto y a atletas trabajando en ergómetros de remo. Las imágenes constituyen el registro visual de la cobertura del camp realizada por el equipo de Image Media.",
+  "fr": "Les photographies montrent les participants réunis sur place et des athlètes travaillant sur des rameurs. Elles constituent le témoignage visuel de la couverture du camp réalisée par l'équipe d'Image Media.",
+  "it": "Le fotografie documentano i partecipanti riuniti sul posto e gli atleti al lavoro sui vogatori. Le immagini costituiscono la testimonianza visiva della copertura del camp realizzata dal team di Image Media."
  },
  "a23-tagpill1": {
   "en": "Army Performance", "pt": "Army Performance", "es": "Army Performance", "fr": "Army Performance", "it": "Army Performance"
@@ -5409,7 +5409,7 @@ window.IM_I18N = {
   "en": "Photo: Eduardo Castro / Image Media", "pt": "Foto: Eduardo Castro / Image Media", "es": "Foto: Eduardo Castro / Image Media", "fr": "Photo : Eduardo Castro / Image Media", "it": "Foto: Eduardo Castro / Image Media"
  },
  "card-s18__field__tag": {
-  "en": "HYROX", "pt": "HYROX", "es": "HYROX", "fr": "HYROX", "it": "HYROX"
+  "en": "Functional", "pt": "Funcional", "es": "Funcional", "fr": "Fonctionnel", "it": "Funzionale"
  },
  "card-s18__field__title": {
   "en": "Army Performance HYROX Training Camp Brings Athletes Together In Vila Nova De Gaia",
