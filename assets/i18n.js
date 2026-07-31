@@ -5060,7 +5060,225 @@ window.IM_I18N = {
    "es": "Conviértete En Nuestro Socio →",
    "fr": "Devenez Notre Partenaire →",
    "it": "Diventa Nostro Partner →"
-  }
+  },
+ "a22-tag": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "a22-title": {
+  "en": "Trilhos Dos Calceteiros Returns To Fanhões For Sixth Edition As Lisbon’s Regional Trail Championship",
+  "pt": "Trilhos Dos Calceteiros Regressa A Fanhões Para Sexta Edição Como Campeonato Regional De Trail De Lisboa",
+  "es": "Trilhos Dos Calceteiros Regresa A Fanhões Para Su Sexta Edición Como Campeonato Regional De Trail De Lisboa",
+  "fr": "Trilhos Dos Calceteiros De Retour À Fanhões Pour Sa Sixième Édition, Championnat Régional De Trail De Lisbonne",
+  "it": "I Trilhos Dos Calceteiros Tornano A Fanhões Per La Sesta Edizione Come Campionato Regionale Di Trail Di Lisbona"
+ },
+ "a22-deck": {
+  "en": "Faz-te aos Trilhos! brings trail running back to the hills above Loures on March 15, with routes through Fanhões, São Julião do Tojal, Bucelas and Lousa doubling as this year’s Athletics Association of Lisbon regional trail title race.",
+  "pt": "A Faz-te aos Trilhos! traz de volta o trail running às colinas acima de Loures a 15 de março, com percursos por Fanhões, São Julião do Tojal, Bucelas e Lousa que servem também de prova do campeonato regional de trail da Associação de Atletismo de Lisboa este ano.",
+  "es": "Faz-te aos Trilhos! trae de vuelta el trail running a las colinas sobre Loures el 15 de marzo, con recorridos por Fanhões, São Julião do Tojal, Bucelas y Lousa que este año también sirven de prueba del campeonato regional de trail de la Asociación de Atletismo de Lisboa.",
+  "fr": "Faz-te aos Trilhos! ramène le trail running sur les collines au-dessus de Loures le 15 mars, avec des parcours à travers Fanhões, São Julião do Tojal, Bucelas et Lousa qui font aussi office cette année de manche du championnat régional de trail de l'Association d'Athlétisme de Lisbonne.",
+  "it": "La Faz-te aos Trilhos! riporta il trail running sulle colline sopra Loures il 15 marzo, con percorsi tra Fanhões, São Julião do Tojal, Bucelas e Lousa che quest'anno fungono anche da tappa del campionato regionale di trail dell'Associazione di Atletica di Lisbona."
+ },
+ "a22-byline": {
+  "en": "By Image Media News Staff — Fanhões, Loures",
+  "pt": "Por Redação IM News — Fanhões, Loures",
+  "es": "Por Redacción IM News — Fanhões, Loures",
+  "fr": "Par la rédaction d'IM News — Fanhões, Loures",
+  "it": "Di Redazione IM News — Fanhões, Loures"
+ },
+ "a22-hero-credit": {
+  "en": "Photo: Leandro Rocha / Image Media",
+  "pt": "Foto: Leandro Rocha / Image Media",
+  "es": "Foto: Leandro Rocha / Image Media",
+  "fr": "Photo : Leandro Rocha / Image Media",
+  "it": "Foto: Leandro Rocha / Image Media"
+ },
+ "a22-p1": {
+  "en": "The Trilhos dos Calceteiros returns to Fanhões on March 15, 2026, for a sixth edition organised by the Faz-te aos Trilhos! association with support from the Fanhões Parish Council. Runners can choose between a 31K long trail, a 17K short trail, a 10K mini-trail or a 10K walk, with all routes crossing forest tracks and rural paths through Fanhões, São Julião do Tojal, Bucelas and Lousa.",
+  "pt": "Os Trilhos dos Calceteiros regressam a Fanhões a 15 de março de 2026, para uma sexta edição organizada pela associação Faz-te aos Trilhos! com o apoio da Junta de Freguesia de Fanhões. Os participantes podem escolher entre um trail longo de 31K, um trail curto de 17K, um mini-trail de 10K ou uma caminhada de 10K, com todos os percursos a atravessar caminhos florestais e rurais por Fanhões, São Julião do Tojal, Bucelas e Lousa.",
+  "es": "Los Trilhos dos Calceteiros regresan a Fanhões el 15 de marzo de 2026, para una sexta edición organizada por la asociación Faz-te aos Trilhos! con el apoyo del Ayuntamiento de la parroquia de Fanhões. Los corredores pueden elegir entre un trail largo de 31K, un trail corto de 17K, un mini-trail de 10K o una caminata de 10K, con todos los recorridos cruzando pistas forestales y caminos rurales por Fanhões, São Julião do Tojal, Bucelas y Lousa.",
+  "fr": "Les Trilhos dos Calceteiros reviennent à Fanhões le 15 mars 2026, pour une sixième édition organisée par l'association Faz-te aos Trilhos! avec le soutien de la mairie de paroisse de Fanhões. Les coureurs peuvent choisir entre un trail long de 31 km, un trail court de 17 km, un mini-trail de 10 km ou une marche de 10 km, tous les parcours traversant des pistes forestières et des chemins ruraux à Fanhões, São Julião do Tojal, Bucelas et Lousa.",
+  "it": "I Trilhos dos Calceteiros tornano a Fanhões il 15 marzo 2026, per una sesta edizione organizzata dall'associazione Faz-te aos Trilhos! con il sostegno del Comune parrocchiale di Fanhões. I corridori potranno scegliere tra un trail lungo di 31K, un trail corto di 17K, un mini-trail di 10K o una camminata di 10K, con tutti i percorsi che attraversano piste forestali e sentieri rurali tra Fanhões, São Julião do Tojal, Bucelas e Lousa."
+ },
+ "a22-p2": {
+  "en": "This year’s race also doubles as a round of the Athletics Association of Lisbon’s Regional Trail Championship, adding a competitive edge to an event that has grown steadily since its debut. Last year’s fifth edition drew around 500 athletes, and organisers expect a similar turnout of roughly 450 entrants across the four distances in 2026.",
+  "pt": "A prova deste ano conta também como uma etapa do Campeonato Regional de Trail da Associação de Atletismo de Lisboa, o que acrescenta um caráter competitivo a um evento que tem crescido de forma constante desde a sua estreia. A quinta edição, no ano passado, reuniu cerca de 500 atletas, e a organização espera uma adesão semelhante, de cerca de 450 inscritos, nas quatro distâncias em 2026.",
+  "es": "La prueba de este año también cuenta como una etapa del Campeonato Regional de Trail de la Asociación de Atletismo de Lisboa, lo que añade un carácter competitivo a un evento que ha crecido de forma constante desde su estreno. La quinta edición, el año pasado, reunió a unos 500 atletas, y los organizadores esperan una participación similar, de unos 450 inscritos, en las cuatro distancias en 2026.",
+  "fr": "La course de cette année compte également comme une manche du Championnat Régional de Trail de l'Association d'Athlétisme de Lisbonne, ce qui ajoute un caractère compétitif à un événement qui a connu une croissance régulière depuis ses débuts. La cinquième édition, l'an dernier, avait réuni environ 500 athlètes, et les organisateurs attendent une participation similaire, d'environ 450 inscrits, sur les quatre distances en 2026.",
+  "it": "La gara di quest'anno conta anche come tappa del Campionato Regionale di Trail dell'Associazione di Atletica di Lisbona, aggiungendo un carattere competitivo a un evento cresciuto costantemente dal suo debutto. La quinta edizione, lo scorso anno, ha riunito circa 500 atleti, e gli organizzatori si aspettano un'affluenza simile, di circa 450 iscritti, sulle quattro distanze nel 2026."
+ },
+ "a22-inline1-credit": {
+  "en": "Photo: Fran Paulino / Image Media",
+  "pt": "Foto: Fran Paulino / Image Media",
+  "es": "Foto: Fran Paulino / Image Media",
+  "fr": "Photo : Fran Paulino / Image Media",
+  "it": "Foto: Fran Paulino / Image Media"
+ },
+ "a22-p3": {
+  "en": "Time limits are set at six hours for the 31K, five hours thirty minutes for the 17K and five hours fifteen minutes for the 10K trail, with the walking route closing after five hours. The race’s name honours the calceteiros, the traditional Portuguese cobblestone pavers whose craft shaped the villages the course passes through.",
+  "pt": "Os tempos-limite estão definidos em seis horas para os 31K, cinco horas e trinta minutos para os 17K e cinco horas e quinze minutos para o trail de 10K, com a caminhada a encerrar ao fim de cinco horas. O nome da prova homenageia os calceteiros, os tradicionais caladores de calçada portuguesa cujo ofício moldou as povoações por onde passa o percurso.",
+  "es": "Los límites de tiempo están fijados en seis horas para los 31K, cinco horas y treinta minutos para los 17K y cinco horas y quince minutos para el trail de 10K, con la caminata cerrando tras cinco horas. El nombre de la prueba rinde homenaje a los calceteiros, los tradicionales adoquinadores portugueses cuyo oficio dio forma a los pueblos por los que pasa el recorrido.",
+  "fr": "Les temps limites sont fixés à six heures pour les 31 km, cinq heures trente pour les 17 km et cinq heures quinze pour le trail de 10 km, la marche se clôturant après cinq heures. Le nom de la course rend hommage aux calceteiros, les traditionnels paveurs portugais dont le savoir-faire a façonné les villages traversés par le parcours.",
+  "it": "I tempi limite sono fissati in sei ore per i 31K, cinque ore e trenta minuti per i 17K e cinque ore e quindici minuti per il trail di 10K, con la camminata che chiude dopo cinque ore. Il nome della gara rende omaggio ai calceteiros, i tradizionali lastricatori portoghesi il cui mestiere ha plasmato i villaggi attraversati dal percorso."
+ },
+ "a22-stat": {
+  "en": "31K · 17K · 10K · Walk · ~450 registered · 6th edition",
+  "pt": "31K · 17K · 10K · Caminhada · ~450 inscritos · 6ª edição",
+  "es": "31K · 17K · 10K · Caminata · ~450 inscritos · 6ª edición",
+  "fr": "31 km · 17 km · 10 km · Marche · ~450 inscrits · 6e édition",
+  "it": "31K · 17K · 10K · Camminata · ~450 iscritti · 6ª edizione"
+ },
+ "a22-inline2-credit": {
+  "en": "Photo: Leandro Rocha / Image Media",
+  "pt": "Foto: Leandro Rocha / Image Media",
+  "es": "Foto: Leandro Rocha / Image Media",
+  "fr": "Photo : Leandro Rocha / Image Media",
+  "it": "Foto: Leandro Rocha / Image Media"
+ },
+ "a22-p4": {
+  "en": "Image Media’s team, including photographers Fran Paulino and Leandro Rocha, was on the ground at the start line and out on the trails to cover the race.",
+  "pt": "A equipa da Image Media, incluindo os fotógrafos Fran Paulino e Leandro Rocha, esteve no terreno junto à partida e ao longo dos trilhos para cobrir a prova.",
+  "es": "El equipo de Image Media, incluidos los fotógrafos Fran Paulino y Leandro Rocha, estuvo sobre el terreno en la salida y a lo largo de los senderos para cubrir la prueba.",
+  "fr": "L'équipe d'Image Media, dont les photographes Fran Paulino et Leandro Rocha, était sur place au départ et le long des sentiers pour couvrir la course.",
+  "it": "Il team di Image Media, tra cui i fotografi Fran Paulino e Leandro Rocha, era sul posto alla partenza e lungo i sentieri per seguire la gara."
+ },
+ "a22-p5": {
+  "en": "Full galleries from Fanhões will be published on imagemedia.one in the days after the race, with participants able to find and buy their own photos once results are confirmed.",
+  "pt": "As galerias completas de Fanhões serão publicadas em imagemedia.one nos dias seguintes à prova, permitindo aos participantes encontrar e comprar as suas próprias fotografias assim que os resultados forem confirmados.",
+  "es": "Las galerías completas de Fanhões se publicarán en imagemedia.one en los días posteriores a la carrera, permitiendo a los participantes encontrar y comprar sus propias fotos en cuanto se confirmen los resultados.",
+  "fr": "Les galeries complètes de Fanhões seront publiées sur imagemedia.one dans les jours suivant la course, permettant aux participants de retrouver et d'acheter leurs propres photos dès la confirmation des résultats.",
+  "it": "Le gallerie complete di Fanhões saranno pubblicate su imagemedia.one nei giorni successivi alla gara, permettendo ai partecipanti di trovare e acquistare le proprie foto non appena saranno confermati i risultati."
+ },
+ "a22-tagpill1": {
+  "en": "Fanhões",
+  "pt": "Fanhões",
+  "es": "Fanhões",
+  "fr": "Fanhões",
+  "it": "Fanhões"
+ },
+ "a22-tagpill2": {
+  "en": "Loures",
+  "pt": "Loures",
+  "es": "Loures",
+  "fr": "Loures",
+  "it": "Loures"
+ },
+ "a22-tagpill3": {
+  "en": "Regional Championship",
+  "pt": "Campeonato Regional",
+  "es": "Campeonato Regional",
+  "fr": "Championnat Régional",
+  "it": "Campionato Regionale"
+ },
+ "a22-related-title": {
+  "en": "More from Image Media",
+  "pt": "Mais da Image Media",
+  "es": "Más de Image Media",
+  "fr": "Plus d'Image Media",
+  "it": "Altro da Image Media"
+ },
+ "a22-related1-tag": {
+  "en": "Sports",
+  "pt": "Desporto",
+  "es": "Deportes",
+  "fr": "Sport",
+  "it": "Sport"
+ },
+ "a22-related1-title": {
+  "en": "See all Sports coverage",
+  "pt": "Ver toda a cobertura de Desporto",
+  "es": "Ver toda la cobertura de Deportes",
+  "fr": "Voir toute la couverture Sport",
+  "it": "Vedi tutta la copertura Sport"
+ },
+ "a22-related1-link": {
+  "en": "Visit section →",
+  "pt": "Visitar secção →",
+  "es": "Visitar sección →",
+  "fr": "Visiter la section →",
+  "it": "Visita la sezione →"
+ },
+ "a22-related2-tag": {
+  "en": "Image Media",
+  "pt": "Image Media",
+  "es": "Image Media",
+  "fr": "Image Media",
+  "it": "Image Media"
+ },
+ "a22-related2-title": {
+  "en": "How Image Media covers your event",
+  "pt": "Como a Image Media cobre o seu evento",
+  "es": "Cómo Image Media cubre tu evento",
+  "fr": "Comment Image Media couvre votre événement",
+  "it": "Come Image Media copre il tuo evento"
+ },
+ "a22-related2-link": {
+  "en": "Learn more →",
+  "pt": "Saber mais →",
+  "es": "Saber más →",
+  "fr": "En savoir plus →",
+  "it": "Scopri di più →"
+ },
+ "a22-related3-tag": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "a22-related3-title": {
+  "en": "Daroca Trail Returns For A Fifth Edition Through The Aragón Mountains",
+  "pt": "Daroca Trail Regressa Para Uma Quinta Edição Pelas Montanhas de Aragão",
+  "es": "Daroca Trail Regresa Para Su Quinta Edición Por Las Montañas De Aragón",
+  "fr": "Le Daroca Trail De Retour Pour Sa Cinquième Édition Dans Les Montagnes D'Aragon",
+  "it": "Il Daroca Trail Torna Per La Sua Quinta Edizione Tra Le Montagne Dell'Aragona"
+ },
+ "a22-related3-link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
+ "card-s17__field__tag": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "card-s17__field__title": {
+  "en": "Trilhos Dos Calceteiros Returns To Fanhões For Sixth Edition",
+  "pt": "Trilhos Dos Calceteiros Regressa A Fanhões Para Sexta Edição",
+  "es": "Trilhos Dos Calceteiros Regresa A Fanhões Para Su Sexta Edición",
+  "fr": "Trilhos Dos Calceteiros De Retour À Fanhões Pour Sa Sixième Édition",
+  "it": "I Trilhos Dos Calceteiros Tornano A Fanhões Per La Sesta Edizione"
+ },
+ "card-s17__field__deck": {
+  "en": "Faz-te aos Trilhos! trail race doubles as Lisbon's regional trail championship.",
+  "pt": "Prova de trail da Faz-te aos Trilhos! serve também de campeonato regional de trail de Lisboa.",
+  "es": "La prueba de trail de Faz-te aos Trilhos! también sirve de campeonato regional de trail de Lisboa.",
+  "fr": "La course de trail de Faz-te aos Trilhos! fait aussi office de championnat régional de trail de Lisbonne.",
+  "it": "La gara di trail della Faz-te aos Trilhos! funge anche da campionato regionale di trail di Lisbona."
+ },
+ "card-s17__field__meta": {
+  "en": "Image Media coverage",
+  "pt": "Cobertura Image Media",
+  "es": "Cobertura de Image Media",
+  "fr": "Couverture Image Media",
+  "it": "Copertura Image Media"
+ },
+ "card-s17__field__link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ }
+
  },
  "chrome": {
   "nav.home": {
