@@ -3982,6 +3982,209 @@ window.IM_I18N = {
       "es": "Leer más →",
       "fr": "Lire la suite →",
       "it": "Leggi tutto →"
+    },
+    "a18-tag": {
+      "en": "Functional",
+      "pt": "Funcional",
+      "es": "Funcional",
+      "fr": "Fonctionnel",
+      "it": "Funzionale"
+    },
+    "a18-title": {
+      "en": "VORTEX Hybrid Games Makes Algarve Debut At Lagos Municipal Stadium",
+      "pt": "VORTEX Hybrid Games Estreia-se No Algarve No Estádio Municipal De Lagos",
+      "es": "VORTEX Hybrid Games Debuta En El Algarve En El Estadio Municipal De Lagos",
+      "fr": "Le VORTEX Hybrid Games Fait Ses Débuts En Algarve Au Stade Municipal De Lagos",
+      "it": "Il VORTEX Hybrid Games Debutta Nell'Algarve Allo Stadio Municipale Di Lagos"
+    },
+    "a18-deck": {
+      "en": "Eight rounds of 800-metre runs and functional stations — from sled pushes to farmers carries — brought Hyrox-style racing to the Estádio Municipal de Lagos for the format's first Portuguese edition.",
+      "pt": "Oito rondas de corridas de 800 metros e estações funcionais — de sled pushes a farmers carries — trouxeram corrida ao estilo Hyrox ao Estádio Municipal de Lagos na primeira edição portuguesa do formato.",
+      "es": "Ocho rondas de carreras de 800 metros y estaciones funcionales — de sled pushes a farmers carries — trajeron carreras al estilo Hyrox al Estadio Municipal de Lagos en la primera edición portuguesa del formato.",
+      "fr": "Huit tours de courses de 800 mètres et d'ateliers fonctionnels — du sled push au farmers carry — ont apporté une course de style Hyrox au Stade Municipal de Lagos pour la première édition portugaise du format.",
+      "it": "Otto round di corse da 800 metri e stazioni funzionali — dallo sled push al farmers carry — hanno portato una gara in stile Hyrox allo Stadio Municipale di Lagos per la prima edizione portoghese del format."
+    },
+    "a18-byline": {
+      "en": "By Image Media News Staff — Lagos",
+      "pt": "Por Image Media News Staff — Lagos",
+      "es": "Por Image Media News Staff — Lagos",
+      "fr": "Par Image Media News Staff — Lagos",
+      "it": "Di Image Media News Staff — Lagos"
+    },
+    "a18-hero-credit": {
+      "en": "Photo: Image Media",
+      "pt": "Foto: Image Media",
+      "es": "Foto: Image Media",
+      "fr": "Photo : Image Media",
+      "it": "Foto: Image Media"
+    },
+    "a18-p1": {
+      "en": "The VORTEX Hybrid Games held its inaugural Algarve edition on February 28 at the Estádio Municipal de Lagos, bringing a new hybrid-fitness race format to Portugal for the first time. Open to athletes 18 and over in solo, duo and mixed pair categories, the event ran from 9am to 6pm at the stadium, which holds around 2,000 spectators.",
+      "pt": "O VORTEX Hybrid Games realizou a sua edição inaugural no Algarve a 28 de fevereiro, no Estádio Municipal de Lagos, trazendo pela primeira vez a Portugal um novo formato de corrida de fitness híbrido. Aberto a atletas com 18 ou mais anos, em categorias solo, dupla e mista, o evento decorreu das 9h às 18h no estádio, com capacidade para cerca de 2.000 espectadores.",
+      "es": "El VORTEX Hybrid Games celebró su edición inaugural en el Algarve el 28 de febrero, en el Estadio Municipal de Lagos, trayendo por primera vez a Portugal un nuevo formato de carrera de fitness híbrido. Abierto a atletas de 18 años o más, en categorías solo, dupla y mixta, el evento se desarrolló de 9h a 18h en el estadio, con capacidad para unos 2.000 espectadores.",
+      "fr": "Le VORTEX Hybrid Games a tenu son édition inaugurale en Algarve le 28 février, au Stade Municipal de Lagos, apportant pour la première fois au Portugal un nouveau format de course fitness hybride. Ouvert aux athlètes de 18 ans et plus, en catégories solo, duo et mixte, l'événement s'est déroulé de 9h à 18h au stade, qui peut accueillir environ 2 000 spectateurs.",
+      "it": "Il VORTEX Hybrid Games ha tenuto la sua edizione inaugurale in Algarve il 28 febbraio, allo Stadio Municipale di Lagos, portando per la prima volta in Portogallo un nuovo format di gara fitness ibrida. Aperto agli atleti dai 18 anni in su, nelle categorie singolo, coppia e mista, l'evento si è svolto dalle 9 alle 18 allo stadio, che ha una capacità di circa 2.000 spettatori."
+    },
+    "a18-p2": {
+      "en": "The format is built around eight rounds, each opening with an 800-metre run before a different functional station: rowing and SkiErg efforts, sled pushes and sled pulls, burpees and wall balls, sandbag lunges and farmers carries. Every round finishes with a fresh 800-metre leg, and the whole event closes with a final sprint designed to empty the tank on the last lap.",
+      "pt": "O formato assenta em oito rondas, cada uma iniciada com uma corrida de 800 metros antes de uma estação funcional diferente: remo e SkiErg, sled push e sled pull, burpees e wall balls, sandbag lunges e farmers carries. Cada ronda termina com um novo troço de 800 metros, e o evento encerra com um sprint final concebido para esgotar as forças dos atletas na última volta.",
+      "es": "El formato se basa en ocho rondas, cada una iniciada con una carrera de 800 metros antes de una estación funcional diferente: remo y SkiErg, sled push y sled pull, burpees y wall balls, sandbag lunges y farmers carries. Cada ronda termina con un nuevo tramo de 800 metros, y el evento cierra con un sprint final pensado para agotar las fuerzas de los atletas en la última vuelta.",
+      "fr": "Le format s'articule autour de huit tours, chacun débutant par une course de 800 mètres avant un atelier fonctionnel différent : rameur et SkiErg, sled push et sled pull, burpees et wall balls, sandbag lunges et farmers carries. Chaque tour se termine par un nouveau tronçon de 800 mètres, et l'événement se clôture par un sprint final conçu pour vider les organismes sur le dernier tour.",
+      "it": "Il format si articola in otto round, ciascuno aperto da una corsa di 800 metri prima di una diversa stazione funzionale: vogatore e SkiErg, sled push e sled pull, burpees e wall ball, sandbag lunge e farmers carry. Ogni round si chiude con un nuovo tratto di 800 metri, e l'evento si conclude con uno sprint finale pensato per svuotare le energie degli atleti nell'ultimo giro."
+    },
+    "a18-inline-credit": {
+      "en": "Photo: Image Media",
+      "pt": "Foto: Image Media",
+      "es": "Foto: Image Media",
+      "fr": "Photo : Image Media",
+      "it": "Foto: Image Media"
+    },
+    "a18-stat": {
+      "en": "8 rounds · 800m runs · Solo, duo &amp; mixed categories",
+      "pt": "8 rondas · Corridas de 800m · Categorias solo, dupla e mista",
+      "es": "8 rondas · Carreras de 800m · Categorías solo, dupla y mixta",
+      "fr": "8 tours · Courses de 800 m · Catégories solo, duo et mixte",
+      "it": "8 round · Corse da 800 m · Categorie singolo, coppia e mista"
+    },
+    "a18-p3": {
+      "en": "Entry ran from €54.99 for solo athletes to €99.99 per team for duo and mixed pairs, with the organisers pitching the event as a “fast-paced and fun” alternative to traditional Hyrox-style racing — built around community as much as competition, and open to a wide range of fitness levels rather than just elite athletes.",
+      "pt": "A inscrição variou entre 54,99€ para atletas solo e 99,99€ por equipa nas categorias dupla e mista, com a organização a apresentar o evento como uma alternativa “rápida e divertida” às provas tradicionais ao estilo Hyrox — construída tanto em torno da comunidade como da competição, e aberta a um leque alargado de níveis de forma física, e não apenas a atletas de elite.",
+      "es": "La inscripción varió entre 54,99€ para atletas solo y 99,99€ por equipo en las categorías dupla y mixta, con la organización presentando el evento como una alternativa “rápida y divertida” a las pruebas tradicionales al estilo Hyrox — construida tanto en torno a la comunidad como a la competición, y abierta a un amplio abanico de niveles de forma física, no solo a atletas de élite.",
+      "fr": "L'inscription variait de 54,99€ pour les athlètes solo à 99,99€ par équipe pour les catégories duo et mixte, les organisateurs présentant l'événement comme une alternative « rapide et amusante » aux courses traditionnelles de style Hyrox — construite autant autour de la communauté que de la compétition, et ouverte à un large éventail de niveaux plutôt qu'aux seuls athlètes d'élite.",
+      "it": "L'iscrizione variava da 54,99€ per gli atleti singoli a 99,99€ a squadra per le categorie coppia e mista, con gli organizzatori che presentavano l'evento come un'alternativa “veloce e divertente” alle gare tradizionali in stile Hyrox — costruita tanto attorno alla comunità quanto alla competizione, e aperta a un'ampia gamma di livelli di forma fisica e non solo agli atleti d'élite."
+    },
+    "a18-p4": {
+      "en": "Image Media had a five-person team on the ground throughout the day — Pauline Amorim, Fran Paulino, Anderson Yamada, Raul de Godoy and Alexandre — covering the full run of rounds from the opening runs to the podium. The Lagos date marks the first of several VORTEX Hybrid Games events planned in Portugal for 2026, with further editions scheduled at Portimão Arena later in the year.",
+      "pt": "A Image Media teve uma equipa de cinco pessoas no terreno ao longo de todo o dia — Pauline Amorim, Fran Paulino, Anderson Yamada, Raul de Godoy e Alexandre — a cobrir todas as rondas, desde as corridas iniciais até ao pódio. A data em Lagos marca o primeiro de vários eventos VORTEX Hybrid Games previstos em Portugal para 2026, com mais edições agendadas para o Portimão Arena ao longo do ano.",
+      "es": "Image Media contó con un equipo de cinco personas sobre el terreno durante todo el día — Pauline Amorim, Fran Paulino, Anderson Yamada, Raul de Godoy y Alexandre — cubriendo todas las rondas, desde las carreras iniciales hasta el podio. La fecha en Lagos marca la primera de varias pruebas VORTEX Hybrid Games previstas en Portugal para 2026, con más ediciones programadas en Portimão Arena a lo largo del año.",
+      "fr": "Image Media a mobilisé une équipe de cinq personnes sur place toute la journée — Pauline Amorim, Fran Paulino, Anderson Yamada, Raul de Godoy et Alexandre — couvrant l'ensemble des tours, des courses d'ouverture jusqu'au podium. La date de Lagos marque la première d'une série d'épreuves VORTEX Hybrid Games prévues au Portugal en 2026, avec d'autres éditions programmées à la Portimão Arena au cours de l'année.",
+      "it": "Image Media ha schierato un team di cinque persone sul posto per tutta la giornata — Pauline Amorim, Fran Paulino, Anderson Yamada, Raul de Godoy e Alexandre — coprendo tutti i round, dalle corse iniziali fino al podio. La tappa di Lagos segna la prima di diverse prove VORTEX Hybrid Games previste in Portogallo per il 2026, con altre edizioni in programma alla Portimão Arena nel corso dell'anno."
+    },
+    "a18-tagpill1": {
+      "en": "VORTEX Hybrid Games",
+      "pt": "VORTEX Hybrid Games",
+      "es": "VORTEX Hybrid Games",
+      "fr": "VORTEX Hybrid Games",
+      "it": "VORTEX Hybrid Games"
+    },
+    "a18-tagpill2": {
+      "en": "Lagos",
+      "pt": "Lagos",
+      "es": "Lagos",
+      "fr": "Lagos",
+      "it": "Lagos"
+    },
+    "a18-tagpill3": {
+      "en": "Hyrox",
+      "pt": "Hyrox",
+      "es": "Hyrox",
+      "fr": "Hyrox",
+      "it": "Hyrox"
+    },
+    "a18-related-title": {
+      "en": "Related",
+      "pt": "Relacionado",
+      "es": "Relacionado",
+      "fr": "À lire aussi",
+      "it": "Correlati"
+    },
+    "a18-related1-tag": {
+      "en": "Sports",
+      "pt": "Desporto",
+      "es": "Deportes",
+      "fr": "Sport",
+      "it": "Sport"
+    },
+    "a18-related1-title": {
+      "en": "See all Sports coverage",
+      "pt": "Ver toda a cobertura de Desporto",
+      "es": "Ver toda la cobertura de Deportes",
+      "fr": "Voir toute la couverture Sport",
+      "it": "Vedi tutta la copertura Sport"
+    },
+    "a18-related1-link": {
+      "en": "Visit section →",
+      "pt": "Visitar secção →",
+      "es": "Visitar sección →",
+      "fr": "Voir la rubrique →",
+      "it": "Vai alla sezione →"
+    },
+    "a18-related2-tag": {
+      "en": "Image Media",
+      "pt": "Image Media",
+      "es": "Image Media",
+      "fr": "Image Media",
+      "it": "Image Media"
+    },
+    "a18-related2-title": {
+      "en": "How Image Media covers your event",
+      "pt": "Como a Image Media cobre o seu evento",
+      "es": "Cómo Image Media cubre tu evento",
+      "fr": "Comment Image Media couvre votre événement",
+      "it": "Come Image Media copre il tuo evento"
+    },
+    "a18-related2-link": {
+      "en": "Learn more →",
+      "pt": "Saber mais →",
+      "es": "Saber más →",
+      "fr": "En savoir plus →",
+      "it": "Scopri di più →"
+    },
+    "a18-related3-tag": {
+      "en": "Functional",
+      "pt": "Funcional",
+      "es": "Funcional",
+      "fr": "Fonctionnel",
+      "it": "Funzionale"
+    },
+    "a18-related3-title": {
+      "en": "AVYNT League Opens With Hyrox-Style Stage One in Vila Nova de Gaia",
+      "pt": "AVYNT League Abre Com Etapa Um Ao Estilo Hyrox Em Vila Nova De Gaia",
+      "es": "AVYNT League Abre Con Etapa Uno Al Estilo Hyrox En Vila Nova De Gaia",
+      "fr": "L'AVYNT League S'Ouvre Avec Une Première Étape De Style Hyrox À Vila Nova De Gaia",
+      "it": "L'AVYNT League Apre Con La Prima Tappa In Stile Hyrox A Vila Nova De Gaia"
+    },
+    "a18-related3-link": {
+      "en": "Read more →",
+      "pt": "Ler mais →",
+      "es": "Leer más →",
+      "fr": "Lire la suite →",
+      "it": "Leggi tutto →"
+    },
+    "card-s13__field__tag": {
+      "en": "Functional",
+      "pt": "Funcional",
+      "es": "Funcional",
+      "fr": "Fonctionnel",
+      "it": "Funzionale"
+    },
+    "card-s13__field__title": {
+      "en": "VORTEX Hybrid Games Makes Algarve Debut At Lagos Municipal Stadium",
+      "pt": "VORTEX Hybrid Games Estreia-se No Algarve No Estádio Municipal De Lagos",
+      "es": "VORTEX Hybrid Games Debuta En El Algarve En El Estadio Municipal De Lagos",
+      "fr": "Le VORTEX Hybrid Games Fait Ses Débuts En Algarve Au Stade Municipal De Lagos",
+      "it": "Il VORTEX Hybrid Games Debutta Nell'Algarve Allo Stadio Municipale Di Lagos"
+    },
+    "card-s13__field__deck": {
+      "en": "Eight rounds of 800m runs and functional stations brought Hyrox-style racing to the Estádio Municipal de Lagos for the format’s first Portuguese edition.",
+      "pt": "Oito rondas de corridas de 800m e estações funcionais trouxeram corrida ao estilo Hyrox ao Estádio Municipal de Lagos na primeira edição portuguesa do formato.",
+      "es": "Ocho rondas de carreras de 800m y estaciones funcionales trajeron carreras al estilo Hyrox al Estadio Municipal de Lagos en la primera edición portuguesa del formato.",
+      "fr": "Huit tours de courses de 800 m et d'ateliers fonctionnels ont apporté une course de style Hyrox au Stade Municipal de Lagos pour la première édition portugaise du format.",
+      "it": "Otto round di corse da 800 m e stazioni funzionali hanno portato una gara in stile Hyrox allo Stadio Municipale di Lagos per la prima edizione portoghese del format."
+    },
+    "card-s13__field__meta": {
+      "en": "Image Media coverage",
+      "pt": "Cobertura Image Media",
+      "es": "Cobertura de Image Media",
+      "fr": "Couverture Image Media",
+      "it": "Copertura Image Media"
+    },
+    "card-s13__field__link": {
+      "en": "Read more →",
+      "pt": "Ler mais →",
+      "es": "Leer más →",
+      "fr": "Lire la suite →",
+      "it": "Leggi tutto →"
     }
   },
   "chrome": {
