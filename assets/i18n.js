@@ -5426,7 +5426,7 @@ window.IM_I18N = {
   "it": "L'evento si è svolto a Vila Nova de Gaia il 27 febbraio 2026, con copertura del team di Image Media."
  },
  "card-s18__field__meta": {
-  "en": "Image Media team coverage", "pt": "Cobertura da equipa da Image Media", "es": "Cobertura del equipo de Image Media", "fr": "Couverture de l'équipe d'Image Media", "it": "Copertura del team di Image Media"
+  "en": "Image Media coverage", "pt": "Cobertura Image Media", "es": "Cobertura de Image Media", "fr": "Couverture Image Media", "it": "Copertura Image Media"
  },
  "card-s18__field__link": {
   "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
