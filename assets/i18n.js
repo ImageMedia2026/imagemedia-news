@@ -15,39 +15,39 @@ window.IM_I18N = {
   "default": "en",
   "content": {
     "home-breaking-text": {
-      "en": "Late winner sends City fans into a frenzy at the home derby — reaction and highlights inside.",
-      "pt": "Golo tardio leva os adeptos ao delírio no dérbi em casa — reações e melhores momentos aqui dentro.",
-      "es": "Gol tardío desata el frenesí de la afición en el derbi local — reacciones y mejores jugadas dentro.",
-      "fr": "But tardif : les supporters en délire lors du derby à domicile — réactions et temps forts à l'intérieur.",
-      "it": "Gol al 90' manda in delirio i tifosi nel derby casalingo — reazioni e highlights all'interno."
+      "en": "Record turnout at the XXXIII Media Maratón Ciudad de Cartagena — full story inside.",
+      "pt": "Adesão recorde na XXXIII Media Maratón Ciudad de Cartagena — história completa lá dentro.",
+      "es": "Participación récord en la XXXIII Media Maratón Ciudad de Cartagena — historia completa dentro.",
+      "fr": "Affluence record à la XXXIIIe Media Maratón Ciudad de Cartagena — l’histoire complète à l’intérieur.",
+      "it": "Affluenza record alla XXXIII Media Maratón Ciudad de Cartagena — la storia completa all’interno."
     },
     "home-hero-tag": {
-      "en": "Football",
-      "pt": "Futebol",
-      "es": "Fútbol",
-      "fr": "Football",
-      "it": "Calcio"
+      "en": "Athletics",
+      "pt": "Atletismo",
+      "es": "Atletismo",
+      "fr": "Athlétisme",
+      "it": "Atletica"
     },
     "home-hero-title": {
-      "en": "Late Winner Sends City Fans Into Frenzy At Home Derby",
-      "pt": "Golo Tardio Leva Adeptos Ao Delírio No Dérbi Em Casa",
-      "es": "Gol Tardío Desata El Frenesí De La Afición En El Derbi Local",
-      "fr": "Un But Tardif Rend Les Supporters Fous Lors Du Derby À Domicile",
-      "it": "Gol Al Novantesimo Manda In Delirio I Tifosi Nel Derby Casalingo"
+      "en": "XXXIII Media Maratón Ciudad de Cartagena Sets Participation Record With Nearly 3,000 Runners",
+      "pt": "XXXIII Media Maratón Ciudad de Cartagena Bate Recorde De Participação Com Quase 3.000 Corredores",
+      "es": "La XXXIII Media Maratón Ciudad de Cartagena Bate El Récord De Participación Con Casi 3.000 Corredores",
+      "fr": "La XXXIIIe Media Maratón Ciudad de Cartagena Bat Le Record De Participation Avec Près De 3 000 Coureurs",
+      "it": "La XXXIII Media Maratón Ciudad de Cartagena Batte Il Record Di Partecipazione Con Quasi 3.000 Corridori"
     },
     "home-hero-deck": {
-      "en": "A stoppage-time strike settles a tense derby and keeps the title race wide open with six rounds to play.",
-      "pt": "Um golo nos descontos resolve um dérbi tenso e mantém a corrida ao título em aberto, a seis jornadas do fim.",
-      "es": "Un gol en el descuento resuelve un derbi tenso y mantiene la lucha por el título totalmente abierta a seis jornadas del final.",
-      "fr": "Un but marqué dans les arrêts de jeu tranche un derby tendu et maintient la course au titre grande ouverte à six journées de la fin.",
-      "it": "Un gol nei minuti di recupero decide un derby teso e tiene aperta la corsa al titolo a sei giornate dalla fine."
+      "en": "The Memorial Gregorio Lorente Rosas half marathon and 10K drew record entries through the streets of historic Cartagena, both finishing together at the Palacio de Deportes.",
+      "pt": "A meia maratona e os 10 km do Memorial Gregorio Lorente Rosas registaram um número recorde de inscrições pelas ruas da histórica Cartagena, ambas a terminar juntas no Palacio de Deportes.",
+      "es": "La media maratón y los 10K del Memorial Gregorio Lorente Rosas registraron un récord de inscripciones por las calles de la histórica Cartagena, ambas finalizando juntas en el Palacio de Deportes.",
+      "fr": "Le semi-marathon et le 10 km du Memorial Gregorio Lorente Rosas ont enregistré un nombre record d’inscriptions dans les rues de la Carthagène historique, tous deux se terminant ensemble au Palacio de Deportes.",
+      "it": "La mezza maratona e i 10 km del Memorial Gregorio Lorente Rosas hanno registrato un numero record di iscrizioni per le strade della storica Cartagena, entrambe con arrivo insieme al Palacio de Deportes."
     },
     "home-hero-byline": {
-      "en": "By Marta Alves — Updated 2 hours ago",
-      "pt": "Por Marta Alves — Atualizado há 2 horas",
-      "es": "Por Marta Alves — Actualizado hace 2 horas",
-      "fr": "Par Marta Alves — Mis à jour il y a 2 heures",
-      "it": "Di Marta Alves — Aggiornato 2 ore fa"
+      "en": "By Image Media News Staff — Cartagena",
+      "pt": "Por Image Media News Staff — Cartagena",
+      "es": "Por Image Media News Staff — Cartagena",
+      "fr": "Par Image Media News Staff — Carthagène",
+      "it": "Di Image Media News Staff — Cartagena"
     },
     "home-topstories-title": {
       "en": "Top Stories",
@@ -71,18 +71,18 @@ window.IM_I18N = {
       "it": "Calcio"
     },
     "card-h1__field__title": {
-      "en": "Transfer Talk Heats Up Ahead Of Winter Window",
-      "pt": "Especulação De Transferências Aquece Antes Da Janela De Inverno",
-      "es": "Se Intensifican Los Rumores De Fichajes Antes Del Mercado De Invierno",
-      "fr": "Les Rumeurs De Transfert S'intensifient Avant Le Mercato Hivernal",
-      "it": "Cresce Il Chiacchiericcio Di Mercato In Vista Della Sessione Invernale"
+      "en": "Leixões and Benjamin Kanuric Agree to Contract Termination",
+      "pt": "Leixões E Benjamin Kanuric Chegam A Acordo Para Rescisão De Contrato",
+      "es": "Leixões Y Benjamin Kanuric Acuerdan La Rescisión Del Contrato",
+      "fr": "Leixões Et Benjamin Kanuric S'Accordent Sur La Résiliation Du Contrat",
+      "it": "Leixões E Benjamin Kanuric Trovano L'Accordo Per La Risoluzione Del Contratto"
     },
     "card-h1__field__deck": {
-      "en": "Three clubs are reportedly circling the same midfielder as the January market opens early.",
-      "pt": "Segundo consta, três clubes andam de olho no mesmo médio, com o mercado de janeiro a abrir mais cedo.",
-      "es": "Según se informa, tres clubes rondan al mismo centrocampista mientras el mercado de enero se adelanta.",
-      "fr": "Trois clubs surveilleraient le même milieu de terrain, alors que le mercato de janvier s'ouvre plus tôt que prévu.",
-      "it": "Secondo indiscrezioni, tre club starebbero seguendo lo stesso centrocampista, con la sessione di gennaio in anticipo."
+      "en": "The Austrian midfielder leaves Estádio do Mar by mutual agreement, closing his spell at the club with 16 official appearances, three goals and two assists.",
+      "pt": "O médio austríaco deixa o Estádio do Mar por mútuo acordo, encerrando a sua passagem pelo clube com 16 jogos oficiais, três golos e duas assistências.",
+      "es": "El centrocampista austríaco deja el Estádio do Mar de mutuo acuerdo, cerrando su etapa en el club con 16 partidos oficiales, tres goles y dos asistencias.",
+      "fr": "Le milieu de terrain autrichien quitte l'Estádio do Mar d'un commun accord, mettant fin à son passage au club avec 16 matches officiels, trois buts et deux passes décisives.",
+      "it": "Il centrocampista austriaco lascia l'Estádio do Mar di comune accordo, chiudendo la sua esperienza al club con 16 presenze ufficiali, tre gol e due assist."
     },
     "card-h1__field__meta": {
       "en": "3 hours ago",
@@ -106,18 +106,18 @@ window.IM_I18N = {
       "it": "Funzionale"
     },
     "card-h2__field__title": {
-      "en": "Hurbax Brings Its Run-and-Workout Circuit to Santander",
-      "pt": "Hurbax Leva o Seu Circuito de Corrida e Treino a Santander",
-      "es": "Hurbax Lleva Su Circuito de Carrera y Entrenamiento a Santander",
-      "fr": "Hurbax Installe Son Circuit Course-et-Entraînement à Santander",
-      "it": "Hurbax Porta il Suo Circuito Corsa-e-Allenamento a Santander"
+      "en": "VORTEX Hybrid Games Makes Algarve Debut At Lagos Municipal Stadium",
+      "pt": "VORTEX Hybrid Games Estreia-se No Algarve No Estádio Municipal De Lagos",
+      "es": "VORTEX Hybrid Games Debuta En El Algarve En El Estadio Municipal De Lagos",
+      "fr": "Le VORTEX Hybrid Games Fait Ses Débuts En Algarve Au Stade Municipal De Lagos",
+      "it": "Il VORTEX Hybrid Games Debutta Nell'Algarve Allo Stadio Municipale Di Lagos"
     },
     "card-h2__field__deck": {
-      "en": "500 athletes tackled 5km of running and five workout stations in the Cantabrian capital.",
-      "pt": "500 atletas enfrentaram 5 km de corrida e cinco estações de treino na capital cântabra.",
-      "es": "500 atletas afrontaron 5 km de carrera y cinco estaciones de entrenamiento en la capital cántabra.",
-      "fr": "500 athlètes ont affronté 5 km de course et cinq stations d'entraînement dans la capitale cantabre.",
-      "it": "500 atleti hanno affrontato 5 km di corsa e cinque stazioni di allenamento nella capitale cantabra."
+      "en": "Eight rounds of 800-metre runs and functional stations — from sled pushes to farmers carries — brought Hyrox-style racing to the Estádio Municipal de Lagos for the format's first Portuguese edition.",
+      "pt": "Oito rondas de corridas de 800 metros e estações funcionais — de sled pushes a farmers carries — trouxeram corrida ao estilo Hyrox ao Estádio Municipal de Lagos na primeira edição portuguesa do formato.",
+      "es": "Ocho rondas de carreras de 800 metros y estaciones funcionales — de sled pushes a farmers carries — trajeron carreras al estilo Hyrox al Estadio Municipal de Lagos en la primera edición portuguesa del formato.",
+      "fr": "Huit tours de courses de 800 mètres et d'ateliers fonctionnels — du sled push au farmers carry — ont apporté une course de style Hyrox au Stade Municipal de Lagos pour la première édition portugaise du format.",
+      "it": "Otto round di corse da 800 metri e stazioni funzionali — dallo sled push al farmers carry — hanno portato una gara in stile Hyrox allo Stadio Municipale di Lagos per la prima edizione portoghese del format."
     },
     "card-h2__field__meta": {
       "en": "Image Media coverage",
@@ -141,18 +141,18 @@ window.IM_I18N = {
       "it": "Ciclismo"
     },
     "card-h3__field__title": {
-      "en": "Mountain Stage Shakeup Puts Overall Lead In Doubt",
-      "pt": "Reviravolta Na Etapa De Montanha Põe A Liderança Da Geral Em Dúvida",
-      "es": "Un Vuelco En La Etapa De Montaña Pone En Duda El Liderato General",
-      "fr": "Un Rebondissement En Étape De Montagne Fait Vaciller Le Classement Général",
-      "it": "Colpo Di Scena Sulla Tappa Di Montagna, Leadership In Bilico"
+      "en": "Massos Gravel Rolls Through Maspujols in Sold-Out Charity Ride",
+      "pt": "Massos Gravel Passa por Maspujols em Prova Solidária Esgotada",
+      "es": "Massos Gravel Recorre Maspujols en una Marcha Solidaria con las Plazas Agotadas",
+      "fr": "Massos Gravel Traverse Maspujols pour une Sortie Solidaire à Guichets Fermés",
+      "it": "Massos Gravel Attraversa Maspujols in una Pedalata Benefica Sold Out"
     },
     "card-h3__field__deck": {
-      "en": "A late attack on the final climb rewrites the general classification with two stages left.",
-      "pt": "Um ataque tardio na subida final reescreve a classificação geral a duas etapas do fim.",
-      "es": "Un ataque tardío en la subida final reescribe la clasificación general a dos etapas del final.",
-      "fr": "Une attaque tardive dans l'ascension finale rebat la classification générale à deux étapes de l'arrivée.",
-      "it": "Un attacco tardivo sull'ultima salita riscrive la classifica generale a due tappe dal termine."
+      "en": "The second round of the Sport1ion Gravel Circuit brought gravel, MTB and e-bike riders through 60km and 700m of climbing around Maspujols on February 22, with proceeds supporting ACCU Catalunya.",
+      "pt": "A segunda etapa do Sport1ion Gravel Circuit levou ciclistas de gravel, BTT e e-bike por 60km e 700m de desnível em torno de Maspujols a 22 de fevereiro, com receitas a apoiar a ACCU Catalunya.",
+      "es": "La segunda etapa del Sport1ion Gravel Circuit llevó a ciclistas de gravel, BTT y e-bike por 60km y 700m de desnivel alrededor de Maspujols el 22 de febrero, con lo recaudado destinado a ACCU Catalunya.",
+      "fr": "La deuxième étape du Sport1ion Gravel Circuit a réuni des cyclistes gravel, VTT et e-bike sur 60km et 700m de dénivelé autour de Maspujols le 22 février, au profit d'ACCU Catalunya.",
+      "it": "La seconda tappa del Sport1ion Gravel Circuit ha portato ciclisti gravel, MTB ed e-bike lungo 60km e 700m di dislivello intorno a Maspujols il 22 febbraio, a sostegno di ACCU Catalunya."
     },
     "card-h3__field__meta": {
       "en": "1 day ago",
@@ -176,109 +176,109 @@ window.IM_I18N = {
       "it": "Ultime Notizie"
     },
     "home-latest1-tag": {
-      "en": "Combat Sports",
-      "pt": "Desportos de Combate",
-      "es": "Deportes de Combate",
-      "fr": "Sports de Combat",
-      "it": "Sport da Combattimento"
-    },
-    "home-latest1-title": {
-      "en": "Title Rematch Confirmed For Spring Card",
-      "pt": "Revanche Pelo Título Confirmada Para O Cartaz Da Primavera",
-      "es": "Confirmada La Revancha Por El Título Para La Cartelera De Primavera",
-      "fr": "La Revanche Pour Le Titre Confirmée Pour La Soirée De Printemps",
-      "it": "Confermata La Rivincita Per Il Titolo Nella Card Di Primavera"
-    },
-    "home-latest1-meta": {
-      "en": "1 hour ago",
-      "pt": "há 1 hora",
-      "es": "hace 1 hora",
-      "fr": "il y a 1 heure",
-      "it": "1 ora fa"
-    },
-    "home-latest2-tag": {
-      "en": "Culture & Concerts",
-      "pt": "Cultura e Concertos",
-      "es": "Cultura y Conciertos",
-      "fr": "Culture et Concerts",
-      "it": "Cultura e Concerti"
-    },
-    "home-latest2-title": {
-      "en": "Arena Announces Summer Concert Series Lineup",
-      "pt": "Arena Anuncia Cartaz Da Série De Concertos De Verão",
-      "es": "El Recinto Anuncia El Cartel De Su Serie De Conciertos De Verano",
-      "fr": "L'arène Dévoile La Programmation De Sa Série De Concerts D'été",
-      "it": "L'arena Annuncia Il Cartellone Della Rassegna Di Concerti Estivi"
-    },
-    "home-latest2-meta": {
-      "en": "4 hours ago",
-      "pt": "há 4 horas",
-      "es": "hace 4 horas",
-      "fr": "il y a 4 heures",
-      "it": "4 ore fa"
-    },
-    "home-latest3-tag": {
       "en": "Football",
       "pt": "Futebol",
       "es": "Fútbol",
       "fr": "Football",
       "it": "Calcio"
     },
-    "home-latest3-title": {
-      "en": "Injury Doubt Ahead Of Cup Semi-Final",
-      "pt": "Dúvida Por Lesão Antes Da Meia-Final Da Taça",
-      "es": "Duda Por Lesión Antes De La Semifinal De Copa",
-      "fr": "Doute Sur Blessure Avant La Demi-Finale De Coupe",
-      "it": "Dubbio Per Infortunio Prima Della Semifinale Di Coppa"
+    "home-latest1-title": {
+      "en": "Slough Town Build Momentum Ahead Of National League South Opener",
+      "pt": "Slough Town Ganha Confiança Antes Da Estreia Na National League South",
+      "es": "Slough Town Gana Confianza Antes Del Estreno En La National League South",
+      "fr": "Le Slough Town Prend De L'Élan Avant Son Entrée En National League South",
+      "it": "Lo Slough Town Guadagna Fiducia Prima Dell'Esordio In National League South"
     },
-    "home-latest3-meta": {
-      "en": "6 hours ago",
-      "pt": "há 6 horas",
-      "es": "hace 6 horas",
-      "fr": "il y a 6 heures",
-      "it": "6 ore fa"
+    "home-latest1-meta": {
+      "en": "Image Media coverage",
+      "pt": "Cobertura Image Media",
+      "es": "Cobertura Image Media",
+      "fr": "Couverture Image Media",
+      "it": "Copertura Image Media"
     },
-    "home-latest4-tag": {
+    "home-latest2-tag": {
       "en": "Athletics",
       "pt": "Atletismo",
       "es": "Atletismo",
       "fr": "Athlétisme",
       "it": "Atletica"
     },
+    "home-latest2-title": {
+      "en": "Daroca Trail Returns For A Fifth Edition Through The Aragón Mountains",
+      "pt": "Daroca Trail Regressa Para Uma Quinta Edição Pelas Montanhas De Aragão",
+      "es": "Daroca Trail Regresa Para Una Quinta Edición Por Las Montañas De Aragón",
+      "fr": "Le Daroca Trail Revient Pour Une Cinquième Édition À Travers Les Montagnes D’Aragon",
+      "it": "Il Daroca Trail Torna Per Una Quinta Edizione Tra Le Montagne D’Aragona"
+    },
+    "home-latest2-meta": {
+      "en": "Image Media coverage",
+      "pt": "Cobertura Image Media",
+      "es": "Cobertura Image Media",
+      "fr": "Couverture Image Media",
+      "it": "Copertura Image Media"
+    },
+    "home-latest3-tag": {
+      "en": "Functional",
+      "pt": "Funcional",
+      "es": "Funcional",
+      "fr": "Fonctionnel",
+      "it": "Funzionale"
+    },
+    "home-latest3-title": {
+      "en": "Turtle Games Debut Draws Over 100 Athletes to CrossFit Esmoriz",
+      "pt": "Turtle Games Estreia-se com Mais de 100 Atletas no CrossFit Esmoriz",
+      "es": "Turtle Games Debuta con Más de 100 Atletas en CrossFit Esmoriz",
+      "fr": "Turtle Games Réunit Plus de 100 Athlètes pour ses Débuts au CrossFit Esmoriz",
+      "it": "I Turtle Games Debuttano con Oltre 100 Atleti al CrossFit Esmoriz"
+    },
+    "home-latest3-meta": {
+      "en": "Image Media coverage",
+      "pt": "Cobertura Image Media",
+      "es": "Cobertura Image Media",
+      "fr": "Couverture Image Media",
+      "it": "Copertura Image Media"
+    },
+    "home-latest4-tag": {
+      "en": "Culture",
+      "pt": "Cultura",
+      "es": "Cultura",
+      "fr": "Culture",
+      "it": "Cultura"
+    },
     "home-latest4-title": {
-      "en": "Marathon Route Changes Announced For Next Edition",
-      "pt": "Anunciadas Alterações Ao Percurso Da Maratona Na Próxima Edição",
-      "es": "Anunciados Cambios En El Recorrido Del Maratón Para La Próxima Edición",
-      "fr": "Changements De Parcours Annoncés Pour La Prochaine Édition Du Marathon",
-      "it": "Annunciate Modifiche Al Percorso Della Maratona Per La Prossima Edizione"
+      "en": "NOS Primavera Sound Returns To Porto's Parque Da Cidade In June",
+      "pt": "NOS Primavera Sound Regressa Ao Parque Da Cidade Do Porto Em Junho",
+      "es": "NOS Primavera Sound Regresa Al Parque Da Cidade De Oporto En Junio",
+      "fr": "Le NOS Primavera Sound De Retour Au Parque Da Cidade De Porto En Juin",
+      "it": "Il NOS Primavera Sound Torna Al Parque Da Cidade Di Porto A Giugno"
     },
     "home-latest4-meta": {
-      "en": "Yesterday",
-      "pt": "Ontem",
-      "es": "Ayer",
-      "fr": "Hier",
-      "it": "Ieri"
+      "en": "Image Media coverage",
+      "pt": "Cobertura Image Media",
+      "es": "Cobertura Image Media",
+      "fr": "Couverture Image Media",
+      "it": "Copertura Image Media"
     },
     "home-latest5-tag": {
-      "en": "Cycling",
-      "pt": "Ciclismo",
-      "es": "Ciclismo",
-      "fr": "Cyclisme",
-      "it": "Ciclismo"
+      "en": "Culture",
+      "pt": "Cultura",
+      "es": "Cultura",
+      "fr": "Culture",
+      "it": "Cultura"
     },
     "home-latest5-title": {
-      "en": "Sprint Team Unveils New Season Roster",
-      "pt": "Equipa De Sprint Revela Plantel Para A Nova Época",
-      "es": "El Equipo De Sprint Presenta Su Plantilla Para La Nueva Temporada",
-      "fr": "L'équipe De Sprint Dévoile Son Effectif Pour La Nouvelle Saison",
-      "it": "Il Team Sprint Svela La Rosa Per La Nuova Stagione"
+      "en": "Fantasporto Marks 46th Edition At Porto's Cinema Batalha",
+      "pt": "Fantasporto Assinala 46.ª Edição No Cinema Batalha Do Porto",
+      "es": "Fantasporto Celebra Su 46.ª Edición En El Cinema Batalha De Oporto",
+      "fr": "Le Fantasporto Célèbre Sa 46ᵉ Édition Au Cinema Batalha De Porto",
+      "it": "Il Fantasporto Celebra La 46ª Edizione Al Cinema Batalha Di Porto"
     },
     "home-latest5-meta": {
-      "en": "Yesterday",
-      "pt": "Ontem",
-      "es": "Ayer",
-      "fr": "Hier",
-      "it": "Ieri"
+      "en": "Image Media coverage",
+      "pt": "Cobertura Image Media",
+      "es": "Cobertura Image Media",
+      "fr": "Couverture Image Media",
+      "it": "Copertura Image Media"
     },
     "home-sportsblock-title": {
       "en": "Sports",
@@ -295,25 +295,25 @@ window.IM_I18N = {
       "it": "Tutto lo sport →"
     },
     "home-sports1-tag": {
-      "en": "Combat Sports",
-      "pt": "Desportos de Combate",
-      "es": "Deportes de Combate",
-      "fr": "Sports de Combat",
-      "it": "Sport da Combattimento"
+      "en": "Functional",
+      "pt": "Funcional",
+      "es": "Funcional",
+      "fr": "Fonctionnel",
+      "it": "Funzionale"
     },
     "home-sports1-title": {
-      "en": "Challenger Talks Up Underdog Chances Before Title Shot",
-      "pt": "Desafiante Valoriza As Suas Hipóteses De Azarão Antes Do Combate Pelo Título",
-      "es": "El Retador Defiende Sus Opciones De Aspirante Antes Del Combate Por El Título",
-      "fr": "Le Challenger Défend Ses Chances D'outsider Avant Le Combat Pour Le Titre",
-      "it": "Lo Sfidante Crede Nelle Sue Chance Da Outsider Prima Del Match Titolato"
+      "en": "AVYNT League Opens With Hyrox-Style Stage One in Vila Nova de Gaia",
+      "pt": "AVYNT League Abre Época Com Etapa de Estilo Hyrox em Vila Nova de Gaia",
+      "es": "La AVYNT League Arranca con una Primera Etapa de Estilo Hyrox en Vila Nova de Gaia",
+      "fr": "L'AVYNT League Débute avec une Étape de Style Hyrox à Vila Nova de Gaia",
+      "it": "La AVYNT League Apre con una Tappa in Stile Hyrox a Vila Nova de Gaia"
     },
     "home-sports1-deck": {
-      "en": "A press conference turns tense as both camps trade words ahead of fight week.",
-      "pt": "Uma conferência de imprensa fica tensa com troca de farpas entre os dois campos antes da semana do combate.",
-      "es": "Una rueda de prensa se tensa con el cruce de palabras entre ambos campamentos antes de la semana del combate.",
-      "fr": "Une conférence de presse tourne à la tension avec des échanges tendus entre les deux camps avant la semaine du combat.",
-      "it": "Una conferenza stampa si accende con la tensione tra i due angoli alla vigilia della fight week."
+      "en": "AVYNT Hybrid Arena launched its new league across ten divisions on February 21, with Timon e Pumba's Doubles Masculino Pro win the fastest time of the day.",
+      "pt": "A AVYNT Hybrid Arena lançou a sua nova liga em dez categorias a 21 de fevereiro, com a vitória de Timon e Pumba na Doubles Masculino Pro a marcar o tempo mais rápido do dia.",
+      "es": "AVYNT Hybrid Arena lanzó su nueva liga en diez categorías el 21 de febrero, con la victoria de Timon e Pumba en Doubles Masculino Pro como el tiempo más rápido del día.",
+      "fr": "AVYNT Hybrid Arena a lancé sa nouvelle ligue dans dix catégories le 21 février, la victoire de Timon e Pumba en Doubles Masculino Pro signant le temps le plus rapide de la journée.",
+      "it": "AVYNT Hybrid Arena ha lanciato la sua nuova lega in dieci categorie il 21 febbraio, con la vittoria di Timon e Pumba nella Doubles Masculino Pro come tempo più veloce della giornata."
     },
     "home-sports1-link": {
       "en": "Read more →",
@@ -323,25 +323,25 @@ window.IM_I18N = {
       "it": "Leggi tutto →"
     },
     "home-sports2-tag": {
-      "en": "Football",
-      "pt": "Futebol",
-      "es": "Fútbol",
-      "fr": "Football",
-      "it": "Calcio"
+      "en": "Athletics",
+      "pt": "Atletismo",
+      "es": "Atletismo",
+      "fr": "Athlétisme",
+      "it": "Atletica"
     },
     "home-sports2-title": {
-      "en": "Youth Academy Graduate Earns First Call-Up",
-      "pt": "Formado Na Academia De Jovens Recebe Primeira Convocatória",
-      "es": "Un Canterano Recibe Su Primera Convocatoria",
-      "fr": "Un Formé Du Centre De Formation Décroche Sa Première Sélection",
-      "it": "Un Prodotto Del Vivaio Riceve La Prima Convocazione"
+      "en": "Manuel Merillas and Sara Alonso Win Acantilados del Norte Skyrace in La Palma",
+      "pt": "Manuel Merillas e Sara Alonso Vencem a Acantilados del Norte Skyrace em La Palma",
+      "es": "Manuel Merillas y Sara Alonso Ganan la Acantilados del Norte Skyrace en La Palma",
+      "fr": "Manuel Merillas et Sara Alonso Remportent l'Acantilados del Norte Skyrace à La Palma",
+      "it": "Manuel Merillas e Sara Alonso Vincono l'Acantilados del Norte Skyrace a La Palma"
     },
     "home-sports2-deck": {
-      "en": "A breakout season at club level is rewarded with a place in the senior squad.",
-      "pt": "Uma época de afirmação ao nível de clube é recompensada com um lugar no plantel principal.",
-      "es": "Una temporada de explosión a nivel de club se ve recompensada con un puesto en el primer equipo.",
-      "fr": "Une saison de révélation en club est récompensée par une place dans le groupe professionnel.",
-      "it": "Una stagione di svolta a livello di club viene premiata con un posto in prima squadra."
+      "en": "The ninth edition of the Canary Islands classic opened the European leg of the 2026 Skyrunner World Series, with Sara Alonso setting a new course record on a demanding 29km route above the Atlantic.",
+      "pt": "A nona edição do clássico das Ilhas Canárias abriu a etapa europeia da Skyrunner World Series 2026, com Sara Alonso a bater o recorde do percurso num exigente traçado de 29km sobre o Atlântico.",
+      "es": "La novena edición del clásico de las Islas Canarias abrió la etapa europea de la Skyrunner World Series 2026, con Sara Alonso batiendo el récord del circuito en un exigente recorrido de 29km sobre el Atlántico.",
+      "fr": "La neuvième édition du classique des îles Canaries a ouvert l'étape européenne de la Skyrunner World Series 2026, Sara Alonso battant le record du parcours sur un tracé exigeant de 29km au-dessus de l'Atlantique.",
+      "it": "La nona edizione del classico delle Isole Canarie ha aperto la tappa europea della Skyrunner World Series 2026, con Sara Alonso che ha stabilito il record del percorso su un tracciato impegnativo di 29km sopra l'Atlantico."
     },
     "home-sports2-link": {
       "en": "Read more →",
@@ -358,18 +358,18 @@ window.IM_I18N = {
       "it": "Atletica"
     },
     "home-sports3-title": {
-      "en": "Andrea Sorteni and Kristina Kmetova Lead Record Field Through Fresh Snow at Italy's Grande Corsa Bianca",
-      "pt": "Andrea Sorteni e Kristina Kmetova lideram recorde de participantes na neve fresca da Grande Corsa Bianca, em Itália",
-      "es": "Andrea Sorteni y Kristina Kmetova lideran un récord de participantes en la nieve fresca de la Grande Corsa Bianca, en Italia",
-      "fr": "Andrea Sorteni et Kristina Kmetova en tête d'un record de participants dans la neige fraîche de la Grande Corsa Bianca, en Italie",
-      "it": "Andrea Sorteni e Kristina Kmetova guidano un record di partecipanti sulla neve fresca della Grande Corsa Bianca"
+      "en": "Diego Menéndez and María Martínez Crowned Spanish Trail Champions in Caldas de Reis",
+      "pt": "Diego Menéndez e María Martínez sagram-se campeões de Espanha de trail em Caldas de Reis",
+      "es": "Diego Menéndez y María Martínez, campeones de España de trail en Caldas de Reis",
+      "fr": "Diego Menéndez et María Martínez sacrés champions d'Espagne de trail à Caldas de Reis",
+      "it": "Diego Menéndez e María Martínez campioni di Spagna di trail a Caldas de Reis"
     },
     "home-sports3-deck": {
-      "en": "The ninth edition of the winter ultra-trail drew a record 280-plus entrants across four disciplines — on foot, on ski, by bike and with dogs — between Monno and Vezza d'Oglio in Italy's Alta Valle Camonica.",
-      "pt": "A nona edição do ultra-trail de inverno reuniu um recorde de mais de 280 participantes em quatro disciplinas — a pé, de esqui, de bicicleta e com cães — entre Monno e Vezza d'Oglio, na Alta Valle Camonica, em Itália.",
-      "es": "La novena edición del ultra-trail de invierno reunió un récord de más de 280 participantes en cuatro disciplinas — a pie, en esquí, en bicicleta y con perros — entre Monno y Vezza d'Oglio, en el Alta Valle Camonica, Italia.",
-      "fr": "La neuvième édition de cet ultra-trail hivernal a réuni un record de plus de 280 participants dans quatre disciplines — à pied, à ski, à vélo et avec des chiens — entre Monno et Vezza d'Oglio, dans l'Alta Valle Camonica, en Italie.",
-      "it": "La nona edizione dell'ultra-trail invernale ha registrato un record di oltre 280 partecipanti in quattro discipline — a piedi, sci, bici e con i cani — tra Monno e Vezza d'Oglio, in Alta Valle Camonica."
+      "en": "The third edition of the Laxe dos Bolos trail jumped from Galician to national championship status, with an Asturian breakthrough win and a Galician upset in the women's race across 43km and 2,300m of climbing.",
+      "pt": "A terceira edição do trail Laxe dos Bolos deu o salto de campeonato galego a campeonato nacional, com uma vitória de estreia asturiana e uma surpresa galega na prova feminina, ao longo de 43 km e 2300 m de desnível.",
+      "es": "La tercera edición del trail Laxe dos Bolos dio el salto de campeonato gallego a campeonato nacional, con una victoria de estreno asturiana y una sorpresa gallega en la prueba femenina, en un recorrido de 43 km y 2300 m de desnivel.",
+      "fr": "La troisième édition du trail Laxe dos Bolos est passée du championnat galicien au championnat national, avec une première victoire asturienne et une surprise galicienne chez les femmes, sur 43 km et 2300 m de dénivelé.",
+      "it": "La terza edizione del trail Laxe dos Bolos è passata da campionato galiziano a campionato nazionale, con una vittoria d'esordio asturiana e una sorpresa galiziana nella gara femminile, su 43 km e 2300 m di dislivello."
     },
     "home-sports3-link": {
       "en": "Read more →",
@@ -400,7 +400,7 @@ window.IM_I18N = {
       "it": "Cultura"
     },
     "home-culture1-title": {
-      "en": "Porto Prepares For São João, One Of Europe’s Biggest Street Festivals",
+      "en": "Porto Prepares For São João, One Of Europe's Biggest Street Festivals",
       "pt": "Porto Prepara-se Para O São João, Uma Das Maiores Festas De Rua Da Europa",
       "es": "Oporto Se Prepara Para El São João, Una De Las Mayores Fiestas Callejeras De Europa",
       "fr": "Porto Se Prépare Pour La São João, L'une Des Plus Grandes Fêtes De Rue D'Europe",
@@ -421,25 +421,25 @@ window.IM_I18N = {
       "it": "Leggi tutto →"
     },
     "home-culture2-tag": {
-      "en": "Festivals",
-      "pt": "Festivais",
-      "es": "Festivales",
-      "fr": "Festivals",
-      "it": "Festival"
+      "en": "Culture",
+      "pt": "Cultura",
+      "es": "Cultura",
+      "fr": "Culture",
+      "it": "Cultura"
     },
     "home-culture2-title": {
-      "en": "City Festival Unveils Headliners For Next Edition",
-      "pt": "Festival Da Cidade Revela Cabeças De Cartaz Da Próxima Edição",
-      "es": "El Festival De La Ciudad Revela Los Cabezas De Cartel De La Próxima Edición",
-      "fr": "Le Festival De La Ville Dévoile Les Têtes D'affiche De La Prochaine Édition",
-      "it": "Il Festival Cittadino Svela Gli Headliner Della Prossima Edizione"
+      "en": "Madrid Spring Festival Closes Chinese New Year With Culture, Music And Sport",
+      "pt": "Madrid Spring Festival Encerra Ano Novo Chinês Com Cultura, Música E Desporto",
+      "es": "Madrid Spring Festival Cierra El Año Nuevo Chino Con Cultura, Música Y Deporte",
+      "fr": "Le Madrid Spring Festival Clôture Le Nouvel An Chinois Avec Culture, Musique Et Sport",
+      "it": "Il Madrid Spring Festival Chiude Il Capodanno Cinese Con Cultura, Musica E Sport"
     },
     "home-culture2-deck": {
-      "en": "Organizers confirm three headline slots and a new second stage.",
-      "pt": "Organização confirma três cabeças de cartaz e um novo segundo palco.",
-      "es": "La organización confirma tres cabezas de cartel y un nuevo segundo escenario.",
-      "fr": "Les organisateurs confirment trois têtes d'affiche et une nouvelle deuxième scène.",
-      "it": "Gli organizzatori confermano tre headliner e un nuovo secondo palco."
+      "en": "Three days at Madrid Río brought qipao workshops, live guzheng and flamenco guitar, and free concerts under the banner \"Dos culturas, un solo latido\" — two cultures, one heartbeat.",
+      "pt": "Três dias no Madrid Río trouxeram workshops de qipao, guzheng ao vivo e guitarra flamenca, e concertos gratuitos sob o lema \"Dos culturas, un solo latido\" — duas culturas, um só batimento.",
+      "es": "Tres días en Madrid Río trajeron talleres de qipao, guzheng en directo y guitarra flamenca, y conciertos gratuitos bajo el lema \"Dos culturas, un solo latido\".",
+      "fr": "Trois jours à Madrid Río ont réuni des ateliers de qipao, du guzheng en direct et de la guitare flamenco, ainsi que des concerts gratuits sous la devise « Dos culturas, un solo latido » — deux cultures, un seul battement de cœur.",
+      "it": "Tre giorni a Madrid Río hanno portato laboratori di qipao, guzheng dal vivo e chitarra flamenca, e concerti gratuiti sotto il motto \"Dos culturas, un solo latido\" — due culture, un solo battito."
     },
     "home-culture2-link": {
       "en": "Read more →",
@@ -4614,6 +4614,202 @@ window.IM_I18N = {
       "it": "Copertura Image Media"
     },
     "card-s15__field__link": {
+      "en": "Read more →",
+      "pt": "Ler mais →",
+      "es": "Leer más →",
+      "fr": "Lire la suite →",
+      "it": "Leggi tutto →"
+    },
+    "a13-tag": {
+      "en": "Athletics",
+      "pt": "Atletismo",
+      "es": "Atletismo",
+      "fr": "Athlétisme",
+      "it": "Atletica"
+    },
+    "a13-title": {
+      "en": "Daroca Trail Returns For A Fifth Edition Through The Aragón Mountains",
+      "pt": "Daroca Trail Regressa Para Uma Quinta Edição Pelas Montanhas De Aragão",
+      "es": "Daroca Trail Regresa Para Una Quinta Edición Por Las Montañas De Aragón",
+      "fr": "Le Daroca Trail Revient Pour Une Cinquième Édition À Travers Les Montagnes D’Aragon",
+      "it": "Il Daroca Trail Torna Per Una Quinta Edizione Tra Le Montagne D’Aragona"
+    },
+    "a13-deck": {
+      "en": "Runners climbed out of the medieval city walls of Daroca and into the Zaragoza hill country for a redesigned course featuring new zones and a fresh 6K route for newcomers.",
+      "pt": "Os corredores saíram das muralhas medievais de Daroca rumo às colinas de Saragoça, num percurso redesenhado com novas zonas e uma nova distância de 6 km para os principiantes.",
+      "es": "Los corredores salieron de las murallas medievales de Daroca hacia las colinas de Zaragoza, en un recorrido rediseñado con nuevas zonas y una nueva distancia de 6 km para los principiantes.",
+      "fr": "Les coureurs sont sortis des remparts médiévaux de Daroca pour rejoindre les collines de Saragosse, sur un parcours repensé avec de nouvelles zones et une nouvelle distance de 6 km pour les débutants.",
+      "it": "I corridori sono usciti dalle mura medievali di Daroca verso le colline di Saragozza, su un percorso ridisegnato con nuove zone e una nuova distanza di 6 km per i principianti."
+    },
+    "a13-byline": {
+      "en": "By Image Media News Staff — Daroca",
+      "pt": "Por Image Media News Staff — Daroca",
+      "es": "Por Image Media News Staff — Daroca",
+      "fr": "Par Image Media News Staff — Daroca",
+      "it": "Di Image Media News Staff — Daroca"
+    },
+    "a13-p1": {
+      "en": "The Club de Montaña Daroca and the Federación Aragonesa de Montaña staged the fifth edition of the Daroca Trail on February 22, part of the Copa de Aragón mountain racing calendar. Fields set off from Paseo la Constitución at 09:30, with every distance starting and finishing beneath the Puerta Baja, one of the best-known corners of the walled city.",
+      "pt": "O Club de Montaña Daroca e a Federación Aragonesa de Montaña organizaram a quinta edição do Daroca Trail a 22 de fevereiro, integrada no calendário da Copa de Aragón de corrida de montanha. As partidas tiveram início no Paseo la Constitución às 9h30, com todas as distâncias a partir e a chegar junto à Puerta Baja, um dos cantos mais conhecidos da cidade amuralhada.",
+      "es": "El Club de Montaña Daroca y la Federación Aragonesa de Montaña organizaron la quinta edición del Daroca Trail el 22 de febrero, dentro del calendario de la Copa de Aragón de carreras de montaña. Las pruebas salieron desde el Paseo la Constitución a las 9:30h, con todas las distancias saliendo y llegando junto a la Puerta Baja, uno de los rincones más conocidos de la ciudad amurallada.",
+      "fr": "Le Club de Montaña Daroca et la Federación Aragonesa de Montaña ont organisé la cinquième édition du Daroca Trail le 22 février, dans le cadre du calendrier de la Copa de Aragón de course en montagne. Les épreuves sont parties du Paseo la Constitución à 9h30, avec toutes les distances au départ et à l’arrivée près de la Puerta Baja, l’un des coins les plus connus de la ville fortifiée.",
+      "it": "Il Club de Montaña Daroca e la Federación Aragonesa de Montaña hanno organizzato la quinta edizione del Daroca Trail il 22 febbraio, nell’ambito del calendario della Copa de Aragón di corsa in montagna. Le gare sono partite dal Paseo la Constitución alle 9:30, con tutte le distanze in partenza e arrivo vicino alla Puerta Baja, uno degli angoli più noti della città murata."
+    },
+    "a13-p2": {
+      "en": "This year’s edition introduced new zones and redesigned sections across the existing 25K, 17K and 12K trail routes, alongside a 12K hiking option (Andada Senderista) and a brand-new 6K distance aimed at bringing first-timers into the mountain-running scene.",
+      "pt": "A edição deste ano introduziu novas zonas e troços redesenhados nos já existentes percursos de 25 km, 17 km e 12 km, além de uma opção de caminhada de 12 km (Andada Senderista) e uma nova distância de 6 km destinada a introduzir os estreantes na corrida de montanha.",
+      "es": "La edición de este año introdujo nuevas zonas y tramos rediseñados en los ya existentes recorridos de 25 km, 17 km y 12 km, además de una opción de senderismo de 12 km (Andada Senderista) y una nueva distancia de 6 km pensada para introducir a los debutantes en el trail running.",
+      "fr": "L’édition de cette année a introduit de nouvelles zones et des tronçons repensés sur les parcours existants de 25 km, 17 km et 12 km, ainsi qu’une option de randonnée de 12 km (Andada Senderista) et une toute nouvelle distance de 6 km destinée à initier les débutants à la course en montagne.",
+      "it": "L’edizione di quest’anno ha introdotto nuove zone e tratti ridisegnati sui percorsi esistenti di 25 km, 17 km e 12 km, oltre a un’opzione escursionistica di 12 km (Andada Senderista) e una nuovissima distanza di 6 km pensata per avvicinare i debuttanti al trail running."
+    },
+    "a13-stat": {
+      "en": "25K · 17K · 12K trail · 12K hiking · new 6K",
+      "pt": "25 km · 17 km · 12 km trail · 12 km caminhada · novo 6 km",
+      "es": "25 km · 17 km · 12 km trail · 12 km senderismo · nuevo 6 km",
+      "fr": "25 km · 17 km · 12 km trail · 12 km rando · nouveau 6 km",
+      "it": "25 km · 17 km · 12 km trail · 12 km hiking · nuovo 6 km"
+    },
+    "a13-p3": {
+      "en": "The course took runners up out of the valley on exposed rock singletrack, with the honey-coloured cliffs and cave dwellings of Daroca giving way to open farmland, before dropping back through pine forest on the return legs — terrain that produced some of the day’s sharpest images, from steep switchbacks in view of the town to shaded pack running under the trees.",
+      "pt": "O percurso levou os corredores para fora do vale por trilhos estreitos sobre rocha exposta, com as falésias cor de mel e as habitações rupestres de Daroca a dar lugar a terrenos agrícolas abertos, antes de descer de novo por pinhal nos troços de regresso — um terreno que produziu algumas das imagens mais marcantes do dia, das curvas apertadas com vista para a vila à corrida em grupo à sombra das árvores.",
+      "es": "El recorrido sacó a los corredores del valle por senderos estrechos sobre roca expuesta, con los acantilados color miel y las viviendas rupestres de Daroca dando paso a campos abiertos, antes de volver a bajar por el pinar en los tramos de regreso — un terreno que produjo algunas de las imágenes más destacadas del día, desde las cerradas curvas con vistas al pueblo hasta las carreras en grupo a la sombra de los árboles.",
+      "fr": "Le parcours a fait sortir les coureurs de la vallée par des sentiers étroits sur roche à nu, les falaises couleur miel et les habitations troglodytes de Daroca cédant la place à des terres agricoles ouvertes, avant de redescendre à travers la pinède sur les portions de retour — un terrain qui a produit certaines des images les plus marquantes de la journée, des virages serrés avec vue sur la ville à la course en peloton à l’ombre des arbres.",
+      "it": "Il percorso ha portato i corridori fuori dalla valle su sentieri stretti su roccia a vista, con le scogliere color miele e le abitazioni rupestri di Daroca che lasciavano spazio a campagna aperta, prima di ridiscendere attraverso la pineta nei tratti di ritorno — un terreno che ha regalato alcune delle immagini più belle della giornata, dai tornanti stretti con vista sul paese alla corsa in gruppo all’ombra degli alberi."
+    },
+    "a13-inline-credit": {
+      "en": "Photo: Marcelo Lopes",
+      "pt": "Foto: Marcelo Lopes",
+      "es": "Foto: Marcelo Lopes",
+      "fr": "Photo : Marcelo Lopes",
+      "it": "Foto: Marcelo Lopes"
+    },
+    "a13-p4": {
+      "en": "Image Media covered the event on the ground with a four-person team — Michael Rosa, Will Becker, Marcelo Lopes and Felipe Albano — split between the climbs above the city and the forest sections, to give participants a full record of their day on the trail.",
+      "pt": "A Image Media cobriu o evento no terreno com uma equipa de quatro pessoas — Michael Rosa, Will Becker, Marcelo Lopes e Felipe Albano — divididas entre as subidas acima da cidade e os troços de floresta, para dar aos participantes um registo completo do seu dia no trilho.",
+      "es": "Image Media cubrió el evento sobre el terreno con un equipo de cuatro personas — Michael Rosa, Will Becker, Marcelo Lopes y Felipe Albano — repartidas entre las subidas sobre la ciudad y los tramos de bosque, para dar a los participantes un registro completo de su día en el trail.",
+      "fr": "Image Media a couvert l’événement sur le terrain avec une équipe de quatre personnes — Michael Rosa, Will Becker, Marcelo Lopes et Felipe Albano — répartie entre les montées au-dessus de la ville et les portions forestières, afin d’offrir aux participants un compte-rendu complet de leur journée sur le sentier.",
+      "it": "Image Media ha coperto l’evento sul campo con una squadra di quattro persone — Michael Rosa, Will Becker, Marcelo Lopes e Felipe Albano — divise tra le salite sopra la città e i tratti nel bosco, per offrire ai partecipanti un resoconto completo della loro giornata sul sentiero."
+    },
+    "a13-tagpill1": {
+      "en": "Daroca Trail",
+      "pt": "Daroca Trail",
+      "es": "Daroca Trail",
+      "fr": "Daroca Trail",
+      "it": "Daroca Trail"
+    },
+    "a13-tagpill2": {
+      "en": "Aragón",
+      "pt": "Aragão",
+      "es": "Aragón",
+      "fr": "Aragon",
+      "it": "Aragona"
+    },
+    "a13-tagpill3": {
+      "en": "Trail Running",
+      "pt": "Trail Running",
+      "es": "Trail Running",
+      "fr": "Trail Running",
+      "it": "Trail Running"
+    },
+    "a13-related-title": {
+      "en": "Related",
+      "pt": "Relacionado",
+      "es": "Relacionado",
+      "fr": "À lire aussi",
+      "it": "Correlati"
+    },
+    "a13-related1-tag": {
+      "en": "Sports",
+      "pt": "Desporto",
+      "es": "Deportes",
+      "fr": "Sport",
+      "it": "Sport"
+    },
+    "a13-related1-title": {
+      "en": "See all Sports coverage",
+      "pt": "Ver toda a cobertura de Desporto",
+      "es": "Ver toda la cobertura de Deportes",
+      "fr": "Voir toute la couverture Sport",
+      "it": "Vedi tutta la copertura Sport"
+    },
+    "a13-related1-link": {
+      "en": "Visit section →",
+      "pt": "Visitar secção →",
+      "es": "Visitar sección →",
+      "fr": "Voir la rubrique →",
+      "it": "Vai alla sezione →"
+    },
+    "a13-related2-tag": {
+      "en": "Image Media",
+      "pt": "Image Media",
+      "es": "Image Media",
+      "fr": "Image Media",
+      "it": "Image Media"
+    },
+    "a13-related2-title": {
+      "en": "How Image Media covers your event",
+      "pt": "Como a Image Media cobre o seu evento",
+      "es": "Cómo Image Media cubre tu evento",
+      "fr": "Comment Image Media couvre votre événement",
+      "it": "Come Image Media copre il tuo evento"
+    },
+    "a13-related2-link": {
+      "en": "Learn more →",
+      "pt": "Saber mais →",
+      "es": "Saber más →",
+      "fr": "En savoir plus →",
+      "it": "Scopri di più →"
+    },
+    "a13-related3-tag": {
+      "en": "Athletics",
+      "pt": "Atletismo",
+      "es": "Atletismo",
+      "fr": "Athlétisme",
+      "it": "Atletica"
+    },
+    "a13-related3-title": {
+      "en": "Diego Menéndez and María Martínez crowned Spanish trail champions in Caldas de Reis",
+      "pt": "Diego Menéndez e María Martínez sagram-se campeões espanhóis de trail em Caldas de Reis",
+      "es": "Diego Menéndez y María Martínez se proclaman campeones de España de trail en Caldas de Reis",
+      "fr": "Diego Menéndez et María Martínez sacrés champions d’Espagne de trail à Caldas de Reis",
+      "it": "Diego Menéndez e María Martínez campioni spagnoli di trail a Caldas de Reis"
+    },
+    "a13-related3-link": {
+      "en": "Read more →",
+      "pt": "Ler mais →",
+      "es": "Leer más →",
+      "fr": "Lire la suite →",
+      "it": "Leggi tutto →"
+    },
+    "card-s12__field__tag": {
+      "en": "Athletics",
+      "pt": "Atletismo",
+      "es": "Atletismo",
+      "fr": "Athlétisme",
+      "it": "Atletica"
+    },
+    "card-s12__field__title": {
+      "en": "Daroca Trail Returns For A Fifth Edition Through The Aragón Mountains",
+      "pt": "Daroca Trail Regressa Para Uma Quinta Edição Pelas Montanhas De Aragão",
+      "es": "Daroca Trail Regresa Para Una Quinta Edición Por Las Montañas De Aragón",
+      "fr": "Le Daroca Trail Revient Pour Une Cinquième Édition À Travers Les Montagnes D’Aragon",
+      "it": "Il Daroca Trail Torna Per Una Quinta Edizione Tra Le Montagne D’Aragona"
+    },
+    "card-s12__field__deck": {
+      "en": "Runners climbed out of the medieval city walls of Daroca for a redesigned course featuring new zones and a fresh 6K route for newcomers.",
+      "pt": "Os corredores saíram das muralhas medievais de Daroca para um percurso redesenhado com novas zonas e uma nova distância de 6 km para os principiantes.",
+      "es": "Los corredores salieron de las murallas medievales de Daroca para un recorrido rediseñado con nuevas zonas y una nueva distancia de 6 km para los principiantes.",
+      "fr": "Les coureurs sont sortis des remparts médiévaux de Daroca pour un parcours repensé avec de nouvelles zones et une nouvelle distance de 6 km pour les débutants.",
+      "it": "I corridori sono usciti dalle mura medievali di Daroca per un percorso ridisegnato con nuove zone e una nuova distanza di 6 km per i principianti."
+    },
+    "card-s12__field__meta": {
+      "en": "Image Media coverage",
+      "pt": "Cobertura Image Media",
+      "es": "Cobertura Image Media",
+      "fr": "Couverture Image Media",
+      "it": "Copertura Image Media"
+    },
+    "card-s12__field__link": {
       "en": "Read more →",
       "pt": "Ler mais →",
       "es": "Leer más →",
