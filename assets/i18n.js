@@ -4402,6 +4402,223 @@ window.IM_I18N = {
       "es": "Leer más →",
       "fr": "Lire la suite →",
       "it": "Leggi tutto →"
+    },
+    "a20-tag": {
+      "en": "Athletics",
+      "pt": "Atletismo",
+      "es": "Atletismo",
+      "fr": "Athlétisme",
+      "it": "Atletica"
+    },
+    "a20-title": {
+      "en": "XXXIII Media Maratón Ciudad de Cartagena Sets Participation Record With Nearly 3,000 Runners",
+      "pt": "XXXIII Media Maratón Ciudad de Cartagena Bate Recorde De Participação Com Quase 3.000 Corredores",
+      "es": "La XXXIII Media Maratón Ciudad de Cartagena Bate El Récord De Participación Con Casi 3.000 Corredores",
+      "fr": "La XXXIIIe Media Maratón Ciudad de Cartagena Bat Le Record De Participation Avec Près De 3 000 Coureurs",
+      "it": "La XXXIII Media Maratón Ciudad de Cartagena Batte Il Record Di Partecipazione Con Quasi 3.000 Corridori"
+    },
+    "a20-deck": {
+      "en": "The Memorial Gregorio Lorente Rosas half marathon and 10K drew record entries through the streets of historic Cartagena, both finishing together at the Palacio de Deportes.",
+      "pt": "A meia maratona e os 10 km do Memorial Gregorio Lorente Rosas registaram um número recorde de inscrições pelas ruas da histórica Cartagena, ambas a terminar juntas no Palacio de Deportes.",
+      "es": "La media maratón y los 10K del Memorial Gregorio Lorente Rosas registraron un récord de inscripciones por las calles de la histórica Cartagena, ambas finalizando juntas en el Palacio de Deportes.",
+      "fr": "Le semi-marathon et le 10 km du Memorial Gregorio Lorente Rosas ont enregistré un nombre record d’inscriptions dans les rues de la Carthagène historique, tous deux se terminant ensemble au Palacio de Deportes.",
+      "it": "La mezza maratona e i 10 km del Memorial Gregorio Lorente Rosas hanno registrato un numero record di iscrizioni per le strade della storica Cartagena, entrambe con arrivo insieme al Palacio de Deportes."
+    },
+    "a20-byline": {
+      "en": "By Image Media News Staff — Cartagena",
+      "pt": "Por Image Media News Staff — Cartagena",
+      "es": "Por Image Media News Staff — Cartagena",
+      "fr": "Par Image Media News Staff — Carthagène",
+      "it": "Di Image Media News Staff — Cartagena"
+    },
+    "a20-hero-credit": {
+      "en": "Photo: Paulo Nomade / Image Media",
+      "pt": "Foto: Paulo Nomade / Image Media",
+      "es": "Foto: Paulo Nomade / Image Media",
+      "fr": "Photo : Paulo Nomade / Image Media",
+      "it": "Foto: Paulo Nomade / Image Media"
+    },
+    "a20-p1": {
+      "en": "The XXXIII Media Maratón y 10K Ciudad de Cartagena, run in memory of Gregorio Lorente Rosas, took over the city on Sunday 1 March with a joint 9:30am start for both distances. The 21km half marathon and the 10K shared the same start and finish line at the Palacio de Deportes, sending runners out through some of Cartagena’s most emblematic streets.",
+      "pt": "A XXXIII Media Maratón y 10K Ciudad de Cartagena, disputada em memória de Gregorio Lorente Rosas, tomou conta da cidade no domingo, 1 de março, com uma partida conjunta às 9h30 para ambas as distâncias. A meia maratona de 21 km e os 10 km partilharam a mesma partida e chegada no Palacio de Deportes, levando os corredores por algumas das ruas mais emblemáticas de Cartagena.",
+      "es": "La XXXIII Media Maratón y 10K Ciudad de Cartagena, disputada en memoria de Gregorio Lorente Rosas, tomó la ciudad el domingo 1 de marzo con una salida conjunta a las 9:30h para ambas distancias. La media maratón de 21 km y los 10K compartieron la misma salida y meta en el Palacio de Deportes, llevando a los corredores por algunas de las calles más emblemáticas de Cartagena.",
+      "fr": "La XXXIIIe Media Maratón y 10K Ciudad de Cartagena, disputée à la mémoire de Gregorio Lorente Rosas, a envahi la ville le dimanche 1er mars avec un départ commun à 9h30 pour les deux distances. Le semi-marathon de 21 km et le 10 km ont partagé le même départ et la même arrivée au Palacio de Deportes, envoyant les coureurs à travers certaines des rues les plus emblématiques de Carthagène.",
+      "it": "La XXXIII Media Maratón y 10K Ciudad de Cartagena, corsa in memoria di Gregorio Lorente Rosas, ha invaso la città domenica 1° marzo con una partenza congiunta alle 9:30 per entrambe le distanze. La mezza maratona di 21 km e i 10 km hanno condiviso la stessa partenza e lo stesso arrivo al Palacio de Deportes, portando i corridori lungo alcune delle strade più emblematiche di Cartagena."
+    },
+    "a20-p2": {
+      "en": "Organisers reported a record turnout for the thirty-third edition, with 2,800 bibs sold and registrations closing with the possibility of reaching 3,000 — the biggest field in the race’s history. Traffic was cut across central Cartagena from 9:30am to 12:45pm, including Avenida del Cantón between the Palacio de Deportes and Calle Soldado Rosique, while youth races for categories from Sub10 to Sub18 followed through the early afternoon.",
+      "pt": "Os organizadores registaram uma adesão recorde na trigésima terceira edição, com 2.800 dorsais vendidos e as inscrições a fechar com a possibilidade de chegar aos 3.000 — o maior número de participantes da história da prova. O trânsito foi cortado no centro de Cartagena das 9h30 às 12h45, incluindo a Avenida del Cantón entre o Palacio de Deportes e a Calle Soldado Rosique, enquanto as corridas de escalões jovens, de Sub10 a Sub18, se seguiram ao longo do início da tarde.",
+      "es": "Los organizadores registraron una participación récord en la trigésimo tercera edición, con 2.800 dorsales vendidos y las inscripciones cerrando con la posibilidad de alcanzar los 3.000 — la mayor cifra de participantes de la historia de la prueba. El tráfico se cortó en el centro de Cartagena de 9:30 a 12:45h, incluyendo la Avenida del Cantón entre el Palacio de Deportes y la Calle Soldado Rosique, mientras que las carreras de categorías juveniles, de Sub10 a Sub18, se sucedieron a lo largo de la primera parte de la tarde.",
+      "fr": "Les organisateurs ont enregistré une affluence record pour cette trente-troisième édition, avec 2 800 dossards vendus et des inscriptions clôturées avec la possibilité d’atteindre les 3 000 — le plus grand nombre de participants de l’histoire de la course. La circulation a été coupée dans le centre de Carthagène de 9h30 à 12h45, y compris l’Avenida del Cantón entre le Palacio de Deportes et la Calle Soldado Rosique, tandis que les courses des catégories jeunes, de Sub10 à Sub18, se sont enchaînées en début d’après-midi.",
+      "it": "Gli organizzatori hanno registrato un’affluenza record per la trentatreesima edizione, con 2.800 pettorali venduti e le iscrizioni chiuse con la possibilità di raggiungere i 3.000 — il numero più alto di partecipanti nella storia della gara. Il traffico è stato interrotto nel centro di Cartagena dalle 9:30 alle 12:45, inclusa l’Avenida del Cantón tra il Palacio de Deportes e la Calle Soldado Rosique, mentre le gare delle categorie giovanili, dalla Sub10 alla Sub18, si sono susseguite nel primo pomeriggio."
+    },
+    "a20-inline1-credit": {
+      "en": "Photo: Eduardo Castro / Image Media",
+      "pt": "Foto: Eduardo Castro / Image Media",
+      "es": "Foto: Eduardo Castro / Image Media",
+      "fr": "Photo : Eduardo Castro / Image Media",
+      "it": "Foto: Eduardo Castro / Image Media"
+    },
+    "a20-p3": {
+      "en": "True to the organisers’ own description of the race as a meeting point for “sport, history and the Cartagena spirit,” the finish line doubled as a civic celebration, with local dignitaries and costumed historical performers gathering under the arch to greet runners as they crossed the line.",
+      "pt": "Fiel à própria descrição dos organizadores da prova como um ponto de encontro entre \"desporto, história e o espírito de Cartagena\", a linha de chegada transformou-se também numa celebração cívica, com dignitários locais e figurantes em trajes históricos reunidos sob o arco para saudar os corredores na chegada.",
+      "es": "Fiel a la propia descripción de los organizadores de la carrera como un punto de encuentro entre \"deporte, historia y el espíritu de Cartagena\", la línea de meta se convirtió también en una celebración cívica, con autoridades locales y figurantes con trajes históricos reunidos bajo el arco para recibir a los corredores en la llegada.",
+      "fr": "Fidèle à la description que les organisateurs font eux-mêmes de la course comme un point de rencontre entre \"sport, histoire et esprit de Carthagène\", la ligne d’arrivée s’est aussi transformée en célébration civique, avec des dignitaires locaux et des figurants en costumes historiques rassemblés sous l’arche pour accueillir les coureurs à l’arrivée.",
+      "it": "Fedele alla stessa descrizione della gara data dagli organizzatori come punto d’incontro tra \"sport, storia e spirito di Cartagena\", il traguardo si è trasformato anche in una celebrazione civica, con dignitari locali e figuranti in costumi storici riuniti sotto l’arco per accogliere i corridori all’arrivo."
+    },
+    "a20-stat": {
+      "en": "21km & 10K · ~3,000 registered · 33rd edition",
+      "pt": "21 km e 10 km · ~3.000 inscritos · 33ª edição",
+      "es": "21 km y 10K · ~3.000 inscritos · 33ª edición",
+      "fr": "21 km et 10 km · ~3 000 inscrits · 33e édition",
+      "it": "21 km e 10 km · ~3.000 iscritti · 33ª edizione"
+    },
+    "a20-inline2-credit": {
+      "en": "Photo: Paulo Nomade / Image Media",
+      "pt": "Foto: Paulo Nomade / Image Media",
+      "es": "Foto: Paulo Nomade / Image Media",
+      "fr": "Photo : Paulo Nomade / Image Media",
+      "it": "Foto: Paulo Nomade / Image Media"
+    },
+    "a20-p4": {
+      "en": "Image Media covered the race with a four-person team — Eduardo Castro, Paulo Nomade, Jose Ramon Moreno and Casian Nicorescu — capturing the winning moments at the tape, the crowds lining the finish straight, and the civic ceremony that closed out the morning.",
+      "pt": "A Image Media cobriu a prova com uma equipa de quatro pessoas — Eduardo Castro, Paulo Nomade, Jose Ramon Moreno e Casian Nicorescu — captando os momentos da vitória na meta, o público ao longo da reta de chegada e a cerimónia cívica que encerrou a manhã.",
+      "es": "Image Media cubrió la prueba con un equipo de cuatro personas — Eduardo Castro, Paulo Nomade, Jose Ramon Moreno y Casian Nicorescu — captando los momentos de la victoria en la meta, el público a lo largo de la recta de llegada y la ceremonia cívica que cerró la mañana.",
+      "fr": "Image Media a couvert la course avec une équipe de quatre personnes — Eduardo Castro, Paulo Nomade, Jose Ramon Moreno et Casian Nicorescu — capturant les moments de la victoire à l’arrivée, la foule le long de la ligne droite finale et la cérémonie civique qui a clôturé la matinée.",
+      "it": "Image Media ha coperto la gara con una squadra di quattro persone — Eduardo Castro, Paulo Nomade, Jose Ramon Moreno e Casian Nicorescu — catturando i momenti della vittoria al traguardo, il pubblico lungo il rettilineo d’arrivo e la cerimonia civica che ha chiuso la mattinata."
+    },
+    "a20-p5": {
+      "en": "Galleries from the race are now live for participants to find and buy their photos, with the organising club receiving a full highlight pack to help promote next year’s edition.",
+      "pt": "As galerias da prova já estão disponíveis para que os participantes encontrem e comprem as suas fotos, com o clube organizador a receber um pacote completo de destaques para ajudar a promover a edição do próximo ano.",
+      "es": "Las galerías de la carrera ya están disponibles para que los participantes encuentren y compren sus fotos, y el club organizador recibe un paquete completo de destacados para ayudar a promover la edición del próximo año.",
+      "fr": "Les galeries de la course sont désormais en ligne pour que les participants retrouvent et achètent leurs photos, le club organisateur recevant un pack complet de temps forts pour promouvoir l’édition de l’an prochain.",
+      "it": "Le gallerie della gara sono ora online affinché i partecipanti possano trovare e acquistare le proprie foto, mentre il club organizzatore riceve un pacchetto completo di momenti salienti per promuovere l’edizione del prossimo anno."
+    },
+    "a20-tagpill1": {
+      "en": "Cartagena",
+      "pt": "Cartagena",
+      "es": "Cartagena",
+      "fr": "Carthagène",
+      "it": "Cartagena"
+    },
+    "a20-tagpill2": {
+      "en": "Half Marathon",
+      "pt": "Meia Maratona",
+      "es": "Media Maratón",
+      "fr": "Semi-marathon",
+      "it": "Mezza Maratona"
+    },
+    "a20-tagpill3": {
+      "en": "Gregorio Lorente Rosas",
+      "pt": "Gregorio Lorente Rosas",
+      "es": "Gregorio Lorente Rosas",
+      "fr": "Gregorio Lorente Rosas",
+      "it": "Gregorio Lorente Rosas"
+    },
+    "a20-related-title": {
+      "en": "More from Image Media",
+      "pt": "Mais da Image Media",
+      "es": "Más de Image Media",
+      "fr": "Plus de Image Media",
+      "it": "Altro da Image Media"
+    },
+    "a20-related1-tag": {
+      "en": "Sports",
+      "pt": "Desporto",
+      "es": "Deportes",
+      "fr": "Sport",
+      "it": "Sport"
+    },
+    "a20-related1-title": {
+      "en": "See all Sports coverage",
+      "pt": "Ver toda a cobertura de Desporto",
+      "es": "Ver toda la cobertura de Deportes",
+      "fr": "Voir toute la couverture Sport",
+      "it": "Vedi tutta la copertura Sport"
+    },
+    "a20-related1-link": {
+      "en": "Visit section →",
+      "pt": "Visitar secção →",
+      "es": "Visitar sección →",
+      "fr": "Voir la rubrique →",
+      "it": "Vai alla sezione →"
+    },
+    "a20-related2-tag": {
+      "en": "Image Media",
+      "pt": "Image Media",
+      "es": "Image Media",
+      "fr": "Image Media",
+      "it": "Image Media"
+    },
+    "a20-related2-title": {
+      "en": "How Image Media covers your event",
+      "pt": "Como a Image Media cobre o seu evento",
+      "es": "Cómo Image Media cubre tu evento",
+      "fr": "Comment Image Media couvre votre événement",
+      "it": "Come Image Media copre il tuo evento"
+    },
+    "a20-related2-link": {
+      "en": "Learn more →",
+      "pt": "Saber mais →",
+      "es": "Saber más →",
+      "fr": "En savoir plus →",
+      "it": "Scopri di più →"
+    },
+    "a20-related3-tag": {
+      "en": "Athletics",
+      "pt": "Atletismo",
+      "es": "Atletismo",
+      "fr": "Athlétisme",
+      "it": "Atletica"
+    },
+    "a20-related3-title": {
+      "en": "XIV Carrera Popular Parque Tamarguillo Brings Andalucía Day Crowds To Seville’s Valdezorras",
+      "pt": "XIV Carrera Popular Parque Tamarguillo Leva Multidões Do Dia Da Andaluzia A Valdezorras, Em Sevilha",
+      "es": "La XIV Carrera Popular Parque Tamarguillo Lleva A Las Multitudes Del Día De Andalucía A Valdezorras, En Sevilla",
+      "fr": "La XIVe Carrera Popular Parque Tamarguillo Attire Les Foules Du Jour De L’Andalousie À Valdezorras, À Séville",
+      "it": "La XIV Carrera Popular Parque Tamarguillo Porta Le Folle Del Giorno Dell’Andalusia A Valdezorras, Siviglia"
+    },
+    "a20-related3-link": {
+      "en": "Read more →",
+      "pt": "Ler mais →",
+      "es": "Leer más →",
+      "fr": "Lire la suite →",
+      "it": "Leggi tutto →"
+    },
+    "card-s15__field__tag": {
+      "en": "Athletics",
+      "pt": "Atletismo",
+      "es": "Atletismo",
+      "fr": "Athlétisme",
+      "it": "Atletica"
+    },
+    "card-s15__field__title": {
+      "en": "XXXIII Media Maratón Ciudad de Cartagena Sets Participation Record With Nearly 3,000 Runners",
+      "pt": "XXXIII Media Maratón Ciudad de Cartagena Bate Recorde De Participação Com Quase 3.000 Corredores",
+      "es": "La XXXIII Media Maratón Ciudad de Cartagena Bate El Récord De Participación Con Casi 3.000 Corredores",
+      "fr": "La XXXIIIe Media Maratón Ciudad de Cartagena Bat Le Record De Participation Avec Près De 3 000 Coureurs",
+      "it": "La XXXIII Media Maratón Ciudad de Cartagena Batte Il Record Di Partecipazione Con Quasi 3.000 Corridori"
+    },
+    "card-s15__field__deck": {
+      "en": "The Memorial Gregorio Lorente Rosas half marathon and 10K drew record entries through the streets of historic Cartagena.",
+      "pt": "A meia maratona e os 10 km do Memorial Gregorio Lorente Rosas registaram um número recorde de inscrições pelas ruas da histórica Cartagena.",
+      "es": "La media maratón y los 10K del Memorial Gregorio Lorente Rosas registraron un récord de inscripciones por las calles de la histórica Cartagena.",
+      "fr": "Le semi-marathon et le 10 km du Memorial Gregorio Lorente Rosas ont enregistré un nombre record d’inscriptions dans les rues de la Carthagène historique.",
+      "it": "La mezza maratona e i 10 km del Memorial Gregorio Lorente Rosas hanno registrato un numero record di iscrizioni per le strade della storica Cartagena."
+    },
+    "card-s15__field__meta": {
+      "en": "Image Media coverage",
+      "pt": "Cobertura Image Media",
+      "es": "Cobertura Image Media",
+      "fr": "Couverture Image Media",
+      "it": "Copertura Image Media"
+    },
+    "card-s15__field__link": {
+      "en": "Read more →",
+      "pt": "Ler mais →",
+      "es": "Leer más →",
+      "fr": "Lire la suite →",
+      "it": "Leggi tutto →"
     }
   },
   "chrome": {
