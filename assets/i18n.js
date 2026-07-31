@@ -5314,11 +5314,11 @@ window.IM_I18N = {
   "it": "Foto: Eduardo Castro / Image Media"
  },
  "a23-p1": {
-  "en": "The Army Performance HYROX Training Camp took place in Vila Nova de Gaia on 27 February 2026. The event coverage was produced by the Image Media team, with photography by Eduardo Castro.",
-  "pt": "O Training Camp HYROX da Army Performance realizou-se em Vila Nova de Gaia a 27 de fevereiro de 2026. A cobertura do evento foi realizada pela equipa da Image Media, com fotografia de Eduardo Castro.",
-  "es": "El Training Camp HYROX de Army Performance se celebró en Vila Nova de Gaia el 27 de febrero de 2026. La cobertura del evento fue realizada por el equipo de Image Media, con fotografías de Eduardo Castro.",
-  "fr": "Le Training Camp HYROX d'Army Performance s'est déroulé à Vila Nova de Gaia le 27 février 2026. La couverture de l'événement a été réalisée par l'équipe d'Image Media, avec des photographies d'Eduardo Castro.",
-  "it": "Il Training Camp HYROX di Army Performance si è svolto a Vila Nova de Gaia il 27 febbraio 2026. La copertura dell'evento è stata realizzata dal team di Image Media, con fotografie di Eduardo Castro."
+  "en": "The Army Performance HYROX Training Camp took place in Vila Nova de Gaia on 27 February 2026. The event coverage was produced by the Image Media team.",
+  "pt": "O Training Camp HYROX da Army Performance realizou-se em Vila Nova de Gaia a 27 de fevereiro de 2026. A cobertura do evento foi realizada pela equipa da Image Media.",
+  "es": "El Training Camp HYROX de Army Performance se celebró en Vila Nova de Gaia el 27 de febrero de 2026. La cobertura del evento fue realizada por el equipo de Image Media.",
+  "fr": "Le Training Camp HYROX d'Army Performance s'est déroulé à Vila Nova de Gaia le 27 février 2026. La couverture de l'événement a été réalisée par l'équipe d'Image Media.",
+  "it": "Il Training Camp HYROX di Army Performance si è svolto a Vila Nova de Gaia il 27 febbraio 2026. La copertura dell'evento è stata realizzata dal team di Image Media."
  },
  "a23-p2": {
   "en": "Army Performance explains on its official website that HYROX combines endurance, strength and technique across eight workouts. The format is designed to test both performance and personal progression.",
