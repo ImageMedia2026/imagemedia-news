@@ -1422,11 +1422,11 @@ window.IM_I18N = {
    "it": "contact@imagemedia.one"
   },
   "about-contact-instagram": {
-   "en": "@imnews",
-   "pt": "@imnews",
-   "es": "@imnews",
-   "fr": "@imnews",
-   "it": "@imnews"
+   "en": "@imnews.one",
+   "pt": "@imnews.one",
+   "es": "@imnews.one",
+   "fr": "@imnews.one",
+   "it": "@imnews.one"
   },
   "a4-tag": {
    "en": "Functional",
