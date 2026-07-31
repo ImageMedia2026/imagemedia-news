@@ -5278,26 +5278,26 @@ window.IM_I18N = {
   "fr": "Lire plus →",
   "it": "Leggi di più →"
  },
- "a23-tag": {
-  "en": "Functional",
-  "pt": "Treino funcional",
-  "es": "Entrenamiento funcional",
-  "fr": "Entraînement fonctionnel",
-  "it": "Allenamento funzionale"
+"a23-tag": {
+  "en": "CrossFit",
+  "pt": "CrossFit",
+  "es": "CrossFit",
+  "fr": "CrossFit",
+  "it": "CrossFit"
  },
  "a23-title": {
-  "en": "Army Performance Hosts Three-Day Hybrid Training Camp In Vila Nova De Gaia",
-  "pt": "Army Performance Realiza Training Camp Híbrido De Três Dias Em Vila Nova De Gaia",
-  "es": "Army Performance Celebra Un Training Camp Híbrido De Tres Días En Vila Nova De Gaia",
-  "fr": "Army Performance Organise Un Stage D'Entraînement Hybride De Trois Jours À Vila Nova De Gaia",
-  "it": "Army Performance Organizza Un Training Camp Ibrido Di Tre Giorni A Vila Nova De Gaia"
+  "en": "Army Performance Hybrid Training Camp In Vila Nova De Gaia",
+  "pt": "Hybrid Training Camp Da Army Performance Em Vila Nova De Gaia",
+  "es": "Hybrid Training Camp De Army Performance En Vila Nova De Gaia",
+  "fr": "Hybrid Training Camp D'Army Performance À Vila Nova De Gaia",
+  "it": "Hybrid Training Camp Di Army Performance A Vila Nova De Gaia"
  },
  "a23-deck": {
-  "en": "Athletes combined strength, endurance and technical work from 16 to 18 January during an intensive training weekend at AVYNT Hybrid Arena, documented by Image Media.",
-  "pt": "Os atletas combinaram força, resistência e trabalho técnico de 16 a 18 de janeiro, durante um fim de semana intensivo de treino na AVYNT Hybrid Arena, documentado pela Image Media.",
-  "es": "Los atletas combinaron fuerza, resistencia y trabajo técnico del 16 al 18 de enero, durante un fin de semana intensivo de entrenamiento en AVYNT Hybrid Arena, documentado por Image Media.",
-  "fr": "Les athlètes ont combiné force, endurance et travail technique du 16 au 18 janvier, lors d'un week-end d'entraînement intensif à l'AVYNT Hybrid Arena, documenté par Image Media.",
-  "it": "Gli atleti hanno combinato forza, resistenza e lavoro tecnico dal 16 al 18 gennaio, durante un intenso fine settimana di allenamento all'AVYNT Hybrid Arena, documentato da Image Media."
+  "en": "The event took place in Vila Nova de Gaia on 27 February 2026, with Image Media coverage and photographs by Eduardo Castro.",
+  "pt": "O evento realizou-se em Vila Nova de Gaia a 27 de fevereiro de 2026, com cobertura da Image Media e fotografias de Eduardo Castro.",
+  "es": "El evento se celebró en Vila Nova de Gaia el 27 de febrero de 2026, con cobertura de Image Media y fotografías de Eduardo Castro.",
+  "fr": "L'événement s'est déroulé à Vila Nova de Gaia le 27 février 2026, avec une couverture d'Image Media et des photographies d'Eduardo Castro.",
+  "it": "L'evento si è svolto a Vila Nova de Gaia il 27 febbraio 2026, con copertura di Image Media e fotografie di Eduardo Castro."
  },
  "a23-byline": {
   "en": "By Image Media News Staff — Vila Nova de Gaia, Portugal",
@@ -5314,18 +5314,18 @@ window.IM_I18N = {
   "it": "Foto: Eduardo Castro / Image Media"
  },
  "a23-p1": {
-  "en": "Army Performance brought athletes together at AVYNT Hybrid Arena in Vila Nova de Gaia for a three-day Hybrid Training Camp held from 16 to 18 January 2026. The programme placed participants in a shared training environment built around strength, endurance and technical development.",
-  "pt": "A Army Performance reuniu atletas na AVYNT Hybrid Arena, em Vila Nova de Gaia, para um Hybrid Training Camp de três dias, realizado de 16 a 18 de janeiro de 2026. O programa colocou os participantes num ambiente de treino partilhado, centrado na força, resistência e desenvolvimento técnico.",
-  "es": "Army Performance reunió a atletas en AVYNT Hybrid Arena, en Vila Nova de Gaia, para un Hybrid Training Camp de tres días, celebrado del 16 al 18 de enero de 2026. El programa situó a los participantes en un entorno de entrenamiento compartido, centrado en la fuerza, la resistencia y el desarrollo técnico.",
-  "fr": "Army Performance a réuni des athlètes à l'AVYNT Hybrid Arena de Vila Nova de Gaia pour un Hybrid Training Camp de trois jours, organisé du 16 au 18 janvier 2026. Le programme a placé les participants dans un environnement d'entraînement collectif axé sur la force, l'endurance et le développement technique.",
-  "it": "Army Performance ha riunito gli atleti all'AVYNT Hybrid Arena di Vila Nova de Gaia per un Hybrid Training Camp di tre giorni, dal 16 al 18 gennaio 2026. Il programma ha inserito i partecipanti in un ambiente di allenamento condiviso, incentrato su forza, resistenza e sviluppo tecnico."
+  "en": "The Army Performance Hybrid Training Camp took place in Vila Nova de Gaia on 27 February 2026.",
+  "pt": "O Hybrid Training Camp da Army Performance realizou-se em Vila Nova de Gaia a 27 de fevereiro de 2026.",
+  "es": "El Hybrid Training Camp de Army Performance se celebró en Vila Nova de Gaia el 27 de febrero de 2026.",
+  "fr": "Le Hybrid Training Camp d'Army Performance s'est déroulé à Vila Nova de Gaia le 27 février 2026.",
+  "it": "L'Hybrid Training Camp di Army Performance si è svolto a Vila Nova de Gaia il 27 febbraio 2026."
  },
  "a23-p2": {
-  "en": "Army Performance describes hybrid training as a combination of running, strength and resistance in a functional format. During the camp, athletes worked through structured sessions that included rowing ergometers and other conditioning exercises, with coaches guiding technique and effort across the weekend.",
-  "pt": "A Army Performance descreve o treino híbrido como uma combinação de corrida, força e resistência num formato funcional. Durante o camp, os atletas realizaram sessões estruturadas que incluíram remo ergómetro e outros exercícios de condicionamento, com os treinadores a orientar a técnica e o esforço ao longo do fim de semana.",
-  "es": "Army Performance describe el entrenamiento híbrido como una combinación de carrera, fuerza y resistencia en un formato funcional. Durante el camp, los atletas completaron sesiones estructuradas que incluyeron remo ergómetro y otros ejercicios de acondicionamiento, con los entrenadores guiando la técnica y el esfuerzo durante el fin de semana.",
-  "fr": "Army Performance décrit l'entraînement hybride comme une combinaison de course, de force et d'endurance dans un format fonctionnel. Pendant le stage, les athlètes ont suivi des séances structurées comprenant du rameur et d'autres exercices de conditionnement, avec des entraîneurs guidant la technique et l'effort tout au long du week-end.",
-  "it": "Army Performance descrive l'allenamento ibrido come una combinazione di corsa, forza e resistenza in formato funzionale. Durante il camp, gli atleti hanno svolto sessioni strutturate con remoergometri e altri esercizi di condizionamento, guidati dagli allenatori su tecnica e intensità per tutto il fine settimana."
+  "en": "The event is listed in the CrossFit category.",
+  "pt": "O evento está inserido na categoria CrossFit.",
+  "es": "El evento está incluido en la categoría CrossFit.",
+  "fr": "L'événement est classé dans la catégorie CrossFit.",
+  "it": "L'evento è inserito nella categoria CrossFit."
  },
  "a23-inline1-credit": {
   "en": "Photo: Eduardo Castro / Image Media",
@@ -5335,32 +5335,32 @@ window.IM_I18N = {
   "it": "Foto: Eduardo Castro / Image Media"
  },
  "a23-p3": {
-  "en": "The organiser presents its camps as intensive programmes where athletes can train, learn and progress alongside others. The Vila Nova de Gaia weekend reflected that approach, combining individual effort with group sessions and a strong community atmosphere.",
-  "pt": "A organização apresenta os seus camps como programas intensivos onde os atletas podem treinar, aprender e evoluir ao lado de outros participantes. O fim de semana em Vila Nova de Gaia refletiu essa abordagem, combinando esforço individual, sessões de grupo e um forte ambiente de comunidade.",
-  "es": "La organización presenta sus camps como programas intensivos en los que los atletas pueden entrenar, aprender y progresar junto a otros participantes. El fin de semana de Vila Nova de Gaia reflejó ese enfoque, combinando esfuerzo individual, sesiones de grupo y un fuerte ambiente de comunidad.",
-  "fr": "L'organisateur présente ses stages comme des programmes intensifs où les athlètes peuvent s'entraîner, apprendre et progresser aux côtés d'autres participants. Le week-end de Vila Nova de Gaia a reflété cette approche, en associant effort individuel, séances collectives et fort esprit de communauté.",
-  "it": "L'organizzatore presenta i propri camp come programmi intensivi in cui gli atleti possono allenarsi, imparare e progredire insieme ad altri partecipanti. Il fine settimana di Vila Nova de Gaia ha rispecchiato questo approccio, combinando impegno individuale, sessioni di gruppo e un forte spirito di comunità."
+  "en": "Image Media covered the event.",
+  "pt": "A Image Media realizou a cobertura do evento.",
+  "es": "Image Media realizó la cobertura del evento.",
+  "fr": "Image Media a couvert l'événement.",
+  "it": "Image Media ha seguito l'evento."
  },
  "a23-stat": {
-  "en": "3 days · 16–18 January 2026 · Vila Nova de Gaia · Hybrid training",
-  "pt": "3 dias · 16–18 de janeiro de 2026 · Vila Nova de Gaia · Treino híbrido",
-  "es": "3 días · 16–18 de enero de 2026 · Vila Nova de Gaia · Entrenamiento híbrido",
-  "fr": "3 jours · 16–18 janvier 2026 · Vila Nova de Gaia · Entraînement hybride",
-  "it": "3 giorni · 16–18 gennaio 2026 · Vila Nova de Gaia · Allenamento ibrido"
+  "en": "27 February 2026 · Vila Nova de Gaia · CrossFit · Image Media coverage",
+  "pt": "27 de fevereiro de 2026 · Vila Nova de Gaia · CrossFit · Cobertura Image Media",
+  "es": "27 de febrero de 2026 · Vila Nova de Gaia · CrossFit · Cobertura de Image Media",
+  "fr": "27 février 2026 · Vila Nova de Gaia · CrossFit · Couverture Image Media",
+  "it": "27 febbraio 2026 · Vila Nova de Gaia · CrossFit · Copertura Image Media"
  },
  "a23-p4": {
-  "en": "Image Media covered the event throughout the camp. Photographer Eduardo Castro documented the group, the coaching environment and athletes working through the rowing and conditioning sessions.",
-  "pt": "A Image Media acompanhou o evento durante todo o camp. O fotógrafo Eduardo Castro documentou o grupo, o ambiente de treino e os atletas durante as sessões de remo e condicionamento.",
-  "es": "Image Media cubrió el evento durante todo el camp. El fotógrafo Eduardo Castro documentó al grupo, el entorno de entrenamiento y a los atletas durante las sesiones de remo y acondicionamiento.",
-  "fr": "Image Media a couvert l'événement pendant toute la durée du stage. Le photographe Eduardo Castro a documenté le groupe, l'environnement d'entraînement et les athlètes pendant les séances de rameur et de conditionnement.",
-  "it": "Image Media ha seguito l'evento per tutta la durata del camp. Il fotografo Eduardo Castro ha documentato il gruppo, l'ambiente di allenamento e gli atleti durante le sessioni al remoergometro e di condizionamento."
+  "en": "Photographs by Eduardo Castro show participants at the venue and during rowing-machine training.",
+  "pt": "As fotografias de Eduardo Castro mostram participantes no local e durante o treino em máquinas de remo.",
+  "es": "Las fotografías de Eduardo Castro muestran a participantes en el recinto y durante el entrenamiento en máquinas de remo.",
+  "fr": "Les photographies d'Eduardo Castro montrent des participants sur place et pendant un entraînement sur rameurs.",
+  "it": "Le fotografie di Eduardo Castro mostrano i partecipanti sul posto e durante l'allenamento ai vogatori."
  },
  "a23-p5": {
-  "en": "The resulting coverage records both the physical demands of hybrid training and the shared experience of a weekend built around preparation, technique and consistent performance.",
-  "pt": "A cobertura resultante regista tanto as exigências físicas do treino híbrido como a experiência partilhada de um fim de semana dedicado à preparação, técnica e desempenho consistente.",
-  "es": "La cobertura resultante recoge tanto las exigencias físicas del entrenamiento híbrido como la experiencia compartida de un fin de semana dedicado a la preparación, la técnica y el rendimiento constante.",
-  "fr": "La couverture qui en résulte montre à la fois les exigences physiques de l'entraînement hybride et l'expérience collective d'un week-end consacré à la préparation, à la technique et à la régularité de la performance.",
-  "it": "La copertura racconta sia le esigenze fisiche dell'allenamento ibrido sia l'esperienza condivisa di un fine settimana dedicato a preparazione, tecnica e continuità della prestazione."
+  "en": "The images in this report and on the Sports page are credited to Eduardo Castro.",
+  "pt": "As imagens desta reportagem e da página Sports são creditadas a Eduardo Castro.",
+  "es": "Las imágenes de este reportaje y de la página Sports están acreditadas a Eduardo Castro.",
+  "fr": "Les images de cet article et de la page Sports sont créditées à Eduardo Castro.",
+  "it": "Le immagini in questo articolo e nella pagina Sports sono accreditate a Eduardo Castro."
  },
  "a23-tagpill1": {
   "en": "Army Performance", "pt": "Army Performance", "es": "Army Performance", "fr": "Army Performance", "it": "Army Performance"
@@ -5369,7 +5369,7 @@ window.IM_I18N = {
   "en": "Vila Nova de Gaia", "pt": "Vila Nova de Gaia", "es": "Vila Nova de Gaia", "fr": "Vila Nova de Gaia", "it": "Vila Nova de Gaia"
  },
  "a23-tagpill3": {
-  "en": "Hybrid Training", "pt": "Treino híbrido", "es": "Entrenamiento híbrido", "fr": "Entraînement hybride", "it": "Allenamento ibrido"
+  "en": "CrossFit", "pt": "CrossFit", "es": "CrossFit", "fr": "CrossFit", "it": "CrossFit"
  },
  "a23-related-title": {
   "en": "More from Image Media", "pt": "Mais da Image Media", "es": "Más de Image Media", "fr": "Plus d'Image Media", "it": "Altro da Image Media"
@@ -5409,21 +5409,21 @@ window.IM_I18N = {
   "en": "Photo: Eduardo Castro / Image Media", "pt": "Foto: Eduardo Castro / Image Media", "es": "Foto: Eduardo Castro / Image Media", "fr": "Photo : Eduardo Castro / Image Media", "it": "Foto: Eduardo Castro / Image Media"
  },
  "card-s18__field__tag": {
-  "en": "Functional", "pt": "Treino funcional", "es": "Entrenamiento funcional", "fr": "Entraînement fonctionnel", "it": "Allenamento funzionale"
+  "en": "CrossFit", "pt": "CrossFit", "es": "CrossFit", "fr": "CrossFit", "it": "CrossFit"
  },
  "card-s18__field__title": {
-  "en": "Army Performance Hosts Three-Day Hybrid Training Camp In Vila Nova De Gaia",
-  "pt": "Army Performance Realiza Training Camp Híbrido De Três Dias Em Vila Nova De Gaia",
-  "es": "Army Performance Celebra Un Training Camp Híbrido De Tres Días En Vila Nova De Gaia",
-  "fr": "Army Performance Organise Un Stage Hybride De Trois Jours À Vila Nova De Gaia",
-  "it": "Army Performance Organizza Un Training Camp Ibrido Di Tre Giorni A Vila Nova De Gaia"
+  "en": "Army Performance Hybrid Training Camp In Vila Nova De Gaia",
+  "pt": "Hybrid Training Camp Da Army Performance Em Vila Nova De Gaia",
+  "es": "Hybrid Training Camp De Army Performance En Vila Nova De Gaia",
+  "fr": "Hybrid Training Camp D'Army Performance À Vila Nova De Gaia",
+  "it": "Hybrid Training Camp Di Army Performance A Vila Nova De Gaia"
  },
  "card-s18__field__deck": {
-  "en": "Athletes combined strength, endurance and technical work during an intensive training weekend at AVYNT Hybrid Arena.",
-  "pt": "Os atletas combinaram força, resistência e trabalho técnico num fim de semana intensivo na AVYNT Hybrid Arena.",
-  "es": "Los atletas combinaron fuerza, resistencia y trabajo técnico durante un fin de semana intensivo en AVYNT Hybrid Arena.",
-  "fr": "Les athlètes ont combiné force, endurance et travail technique lors d'un week-end intensif à l'AVYNT Hybrid Arena.",
-  "it": "Gli atleti hanno combinato forza, resistenza e lavoro tecnico durante un intenso fine settimana all'AVYNT Hybrid Arena."
+  "en": "The event took place in Vila Nova de Gaia on 27 February 2026, with Image Media coverage.",
+  "pt": "O evento realizou-se em Vila Nova de Gaia a 27 de fevereiro de 2026, com cobertura da Image Media.",
+  "es": "El evento se celebró en Vila Nova de Gaia el 27 de febrero de 2026, con cobertura de Image Media.",
+  "fr": "L'événement s'est déroulé à Vila Nova de Gaia le 27 février 2026, avec une couverture d'Image Media.",
+  "it": "L'evento si è svolto a Vila Nova de Gaia il 27 febbraio 2026, con copertura di Image Media."
  },
  "card-s18__field__meta": {
   "en": "Image Media coverage", "pt": "Cobertura Image Media", "es": "Cobertura de Image Media", "fr": "Couverture Image Media", "it": "Copertura Image Media"
