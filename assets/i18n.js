@@ -5293,11 +5293,11 @@ window.IM_I18N = {
   "it": "Il Training Camp HYROX Di Army Performance Riunisce Gli Atleti A Vila Nova De Gaia"
  },
  "a23-deck": {
-  "en": "Held on 27 February 2026, the Vila Nova de Gaia camp formed part of Army Performance's HYROX-focused training work, with Image Media coverage.",
-  "pt": "Realizado a 27 de fevereiro de 2026, o camp de Vila Nova de Gaia integrou o trabalho de preparação HYROX da Army Performance, com cobertura da Image Media.",
-  "es": "Celebrado el 27 de febrero de 2026, el camp de Vila Nova de Gaia formó parte del trabajo de preparación HYROX de Army Performance, con cobertura de Image Media.",
-  "fr": "Organisé le 27 février 2026, le camp de Vila Nova de Gaia s'inscrivait dans le travail de préparation HYROX d'Army Performance, avec une couverture d'Image Media.",
-  "it": "Svoltosi il 27 febbraio 2026, il camp di Vila Nova de Gaia rientrava nel lavoro di preparazione HYROX di Army Performance, con copertura di Image Media."
+  "en": "Held on 27 February 2026, the Vila Nova de Gaia camp formed part of Army Performance's HYROX-focused training work, with coverage produced by the Image Media team.",
+  "pt": "Realizado a 27 de fevereiro de 2026, o camp de Vila Nova de Gaia integrou o trabalho de preparação HYROX da Army Performance, com cobertura realizada pela equipa da Image Media.",
+  "es": "Celebrado el 27 de febrero de 2026, el camp de Vila Nova de Gaia formó parte del trabajo de preparación HYROX de Army Performance, con cobertura realizada por el equipo de Image Media.",
+  "fr": "Organisé le 27 février 2026, le camp de Vila Nova de Gaia s'inscrivait dans le travail de préparation HYROX d'Army Performance, avec une couverture réalisée par l'équipe d'Image Media.",
+  "it": "Svoltosi il 27 febbraio 2026, il camp di Vila Nova de Gaia rientrava nel lavoro di preparazione HYROX di Army Performance, con copertura realizzata dal team di Image Media."
  },
  "a23-byline": {
   "en": "By Image Media News Staff — Vila Nova de Gaia, Portugal",
@@ -5314,11 +5314,11 @@ window.IM_I18N = {
   "it": "Foto: Eduardo Castro / Image Media"
  },
  "a23-p1": {
-  "en": "The Army Performance HYROX Training Camp took place in Vila Nova de Gaia on 27 February 2026. Image Media covered the event, with photography by Eduardo Castro.",
-  "pt": "O Training Camp HYROX da Army Performance realizou-se em Vila Nova de Gaia a 27 de fevereiro de 2026. A Image Media cobriu o evento, com fotografia de Eduardo Castro.",
-  "es": "El Training Camp HYROX de Army Performance se celebró en Vila Nova de Gaia el 27 de febrero de 2026. Image Media cubrió el evento, con fotografías de Eduardo Castro.",
-  "fr": "Le Training Camp HYROX d'Army Performance s'est déroulé à Vila Nova de Gaia le 27 février 2026. Image Media a couvert l'événement, avec des photographies d'Eduardo Castro.",
-  "it": "Il Training Camp HYROX di Army Performance si è svolto a Vila Nova de Gaia il 27 febbraio 2026. Image Media ha seguito l'evento, con fotografie di Eduardo Castro."
+  "en": "The Army Performance HYROX Training Camp took place in Vila Nova de Gaia on 27 February 2026. The event coverage was produced by the Image Media team, with photography by Eduardo Castro.",
+  "pt": "O Training Camp HYROX da Army Performance realizou-se em Vila Nova de Gaia a 27 de fevereiro de 2026. A cobertura do evento foi realizada pela equipa da Image Media, com fotografia de Eduardo Castro.",
+  "es": "El Training Camp HYROX de Army Performance se celebró en Vila Nova de Gaia el 27 de febrero de 2026. La cobertura del evento fue realizada por el equipo de Image Media, con fotografías de Eduardo Castro.",
+  "fr": "Le Training Camp HYROX d'Army Performance s'est déroulé à Vila Nova de Gaia le 27 février 2026. La couverture de l'événement a été réalisée par l'équipe d'Image Media, avec des photographies d'Eduardo Castro.",
+  "it": "Il Training Camp HYROX di Army Performance si è svolto a Vila Nova de Gaia il 27 febbraio 2026. La copertura dell'evento è stata realizzata dal team di Image Media, con fotografie di Eduardo Castro."
  },
  "a23-p2": {
   "en": "Army Performance explains on its official website that HYROX combines endurance, strength and technique across eight workouts. The format is designed to test both performance and personal progression.",
@@ -5342,11 +5342,11 @@ window.IM_I18N = {
   "it": "L'organizzatore presenta i propri Training Camp come programmi intensivi progettati dal team, nei quali gli atleti si allenano, imparano e progrediscono insieme ad altri partecipanti, entrando nel contesto pratico della competizione."
  },
  "a23-stat": {
-  "en": "27 February 2026 · Vila Nova de Gaia · HYROX · Image Media coverage",
-  "pt": "27 de fevereiro de 2026 · Vila Nova de Gaia · HYROX · Cobertura Image Media",
-  "es": "27 de febrero de 2026 · Vila Nova de Gaia · HYROX · Cobertura de Image Media",
-  "fr": "27 février 2026 · Vila Nova de Gaia · HYROX · Couverture Image Media",
-  "it": "27 febbraio 2026 · Vila Nova de Gaia · HYROX · Copertura Image Media"
+  "en": "27 February 2026 · Vila Nova de Gaia · HYROX · Image Media team coverage",
+  "pt": "27 de fevereiro de 2026 · Vila Nova de Gaia · HYROX · Cobertura pela equipa da Image Media",
+  "es": "27 de febrero de 2026 · Vila Nova de Gaia · HYROX · Cobertura del equipo de Image Media",
+  "fr": "27 février 2026 · Vila Nova de Gaia · HYROX · Couverture par l'équipe d'Image Media",
+  "it": "27 febbraio 2026 · Vila Nova de Gaia · HYROX · Copertura del team di Image Media"
  },
  "a23-p4": {
   "en": "Army Performance also states that its coaches have direct HYROX competition experience and that its programming balances running and strength through progressive, structured preparation.",
@@ -5356,18 +5356,11 @@ window.IM_I18N = {
   "it": "Army Performance afferma inoltre che i suoi allenatori hanno esperienza diretta nelle competizioni HYROX e che la programmazione bilancia corsa e forza attraverso una preparazione progressiva e strutturata."
  },
  "a23-p5": {
-  "en": "Eduardo Castro's photographs document participants together at the venue and athletes working on rowing ergometers. The images form the visual record of Image Media's coverage of the camp.",
-  "pt": "As fotografias de Eduardo Castro documentam os participantes reunidos no local e atletas a trabalhar em ergómetros de remo. As imagens constituem o registo visual da cobertura do camp pela Image Media.",
-  "es": "Las fotografías de Eduardo Castro documentan a los participantes reunidos en el recinto y a atletas trabajando en ergómetros de remo. Las imágenes constituyen el registro visual de la cobertura del camp por Image Media.",
-  "fr": "Les photographies d'Eduardo Castro montrent les participants réunis sur place et des athlètes travaillant sur des rameurs. Elles constituent le témoignage visuel de la couverture du camp par Image Media.",
-  "it": "Le fotografie di Eduardo Castro documentano i partecipanti riuniti sul posto e gli atleti al lavoro sui vogatori. Le immagini costituiscono la testimonianza visiva della copertura del camp da parte di Image Media."
- },
- "a23-source-label": {
-  "en": "Official sources:",
-  "pt": "Fontes oficiais:",
-  "es": "Fuentes oficiales:",
-  "fr": "Sources officielles :",
-  "it": "Fonti ufficiali:"
+  "en": "Eduardo Castro's photographs document participants together at the venue and athletes working on rowing ergometers. The images form the visual record of the camp's coverage produced by the Image Media team.",
+  "pt": "As fotografias de Eduardo Castro documentam os participantes reunidos no local e atletas a trabalhar em ergómetros de remo. As imagens constituem o registo visual da cobertura do camp realizada pela equipa da Image Media.",
+  "es": "Las fotografías de Eduardo Castro documentan a los participantes reunidos en el recinto y a atletas trabajando en ergómetros de remo. Las imágenes constituyen el registro visual de la cobertura del camp realizada por el equipo de Image Media.",
+  "fr": "Les photographies d'Eduardo Castro montrent les participants réunis sur place et des athlètes travaillant sur des rameurs. Elles constituent le témoignage visuel de la couverture du camp réalisée par l'équipe d'Image Media.",
+  "it": "Le fotografie di Eduardo Castro documentano i partecipanti riuniti sul posto e gli atleti al lavoro sui vogatori. Le immagini costituiscono la testimonianza visiva della copertura del camp realizzata dal team di Image Media."
  },
  "a23-tagpill1": {
   "en": "Army Performance", "pt": "Army Performance", "es": "Army Performance", "fr": "Army Performance", "it": "Army Performance"
@@ -5426,14 +5419,14 @@ window.IM_I18N = {
   "it": "Il Training Camp HYROX Di Army Performance Riunisce Gli Atleti A Vila Nova De Gaia"
  },
  "card-s18__field__deck": {
-  "en": "The event took place in Vila Nova de Gaia on 27 February 2026, with Image Media coverage.",
-  "pt": "O evento realizou-se em Vila Nova de Gaia a 27 de fevereiro de 2026, com cobertura da Image Media.",
-  "es": "El evento se celebró en Vila Nova de Gaia el 27 de febrero de 2026, con cobertura de Image Media.",
-  "fr": "L'événement s'est déroulé à Vila Nova de Gaia le 27 février 2026, avec une couverture d'Image Media.",
-  "it": "L'evento si è svolto a Vila Nova de Gaia il 27 febbraio 2026, con copertura di Image Media."
+  "en": "The event took place in Vila Nova de Gaia on 27 February 2026, with coverage by the Image Media team.",
+  "pt": "O evento realizou-se em Vila Nova de Gaia a 27 de fevereiro de 2026, com cobertura da equipa da Image Media.",
+  "es": "El evento se celebró en Vila Nova de Gaia el 27 de febrero de 2026, con cobertura del equipo de Image Media.",
+  "fr": "L'événement s'est déroulé à Vila Nova de Gaia le 27 février 2026, avec une couverture de l'équipe d'Image Media.",
+  "it": "L'evento si è svolto a Vila Nova de Gaia il 27 febbraio 2026, con copertura del team di Image Media."
  },
  "card-s18__field__meta": {
-  "en": "Image Media coverage", "pt": "Cobertura Image Media", "es": "Cobertura de Image Media", "fr": "Couverture Image Media", "it": "Copertura Image Media"
+  "en": "Image Media team coverage", "pt": "Cobertura da equipa da Image Media", "es": "Cobertura del equipo de Image Media", "fr": "Couverture de l'équipe d'Image Media", "it": "Copertura del team di Image Media"
  },
  "card-s18__field__link": {
   "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
