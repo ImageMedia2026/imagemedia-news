@@ -4185,6 +4185,223 @@ window.IM_I18N = {
       "es": "Leer más →",
       "fr": "Lire la suite →",
       "it": "Leggi tutto →"
+    },
+    "a19-tag": {
+      "en": "Athletics",
+      "pt": "Atletismo",
+      "es": "Atletismo",
+      "fr": "Athlétisme",
+      "it": "Atletica"
+    },
+    "a19-title": {
+      "en": "XIV Carrera Popular Parque Tamarguillo Brings Andalucía Day Crowds To Seville’s Valdezorras",
+      "pt": "XIV Carrera Popular Parque Tamarguillo Leva Multidões Do Dia Da Andaluzia A Valdezorras, Em Sevilha",
+      "es": "La XIV Carrera Popular Parque Tamarguillo Lleva A Las Multitudes Del Día De Andalucía A Valdezorras, En Sevilla",
+      "fr": "La XIVe Carrera Popular Parque Tamarguillo Attire Les Foules Du Jour De L’Andalousie À Valdezorras, À Séville",
+      "it": "La XIV Carrera Popular Parque Tamarguillo Porta Le Folle Del Giorno Dell’Andalusia A Valdezorras, Siviglia"
+    },
+    "a19-deck": {
+      "en": "More than 1,000 runners tackled the 13km and 6km courses inside Tamarguillo Park, with children’s races and a community finish-line party marking the event’s fourteenth year.",
+      "pt": "Mais de 1.000 corredores enfrentaram os percursos de 13 km e 6 km dentro do Parque Tamarguillo, com corridas infantis e uma festa comunitária na meta a marcar o décimo quarto ano do evento.",
+      "es": "Más de 1.000 corredores afrontaron los recorridos de 13 km y 6 km dentro del Parque Tamarguillo, con carreras infantiles y una fiesta comunitaria en la meta que marcó el decimocuarto año del evento.",
+      "fr": "Plus de 1 000 coureurs ont affronté les parcours de 13 km et 6 km à l’intérieur du Parc Tamarguillo, avec des courses pour enfants et une fête communautaire à l’arrivée marquant la quatorzième année de l’événement.",
+      "it": "Oltre 1.000 corridori hanno affrontato i percorsi di 13 km e 6 km all’interno del Parco Tamarguillo, con gare per bambini e una festa comunitaria al traguardo a celebrare il quattordicesimo anno dell’evento."
+    },
+    "a19-byline": {
+      "en": "By Image Media News Staff — Seville",
+      "pt": "Por Image Media News Staff — Sevilha",
+      "es": "Por Image Media News Staff — Sevilla",
+      "fr": "Par Image Media News Staff — Séville",
+      "it": "Di Image Media News Staff — Siviglia"
+    },
+    "a19-hero-credit": {
+      "en": "Photo: Eduardo Castro / Image Media",
+      "pt": "Foto: Eduardo Castro / Image Media",
+      "es": "Foto: Eduardo Castro / Image Media",
+      "fr": "Photo : Eduardo Castro / Image Media",
+      "it": "Foto: Eduardo Castro / Image Media"
+    },
+    "a19-p1": {
+      "en": "The XIV Carrera Popular Parque Tamarguillo took over Seville’s Este-Alcosa-Torreblanca district on 28 February, with start and finish set on the plaza beside Cortijo San Ildefonso, inside Tamarguillo Park. Held every year on Andalucía Day, the race is one of the city’s longest-running community road events, and this year’s edition drew a strong turnout under clear late-winter skies.",
+      "pt": "A XIV Carrera Popular Parque Tamarguillo tomou conta do distrito Este-Alcosa-Torreblanca de Sevilha a 28 de fevereiro, com partida e chegada na praça junto ao Cortijo San Ildefonso, dentro do Parque Tamarguillo. Realizada todos os anos no Dia da Andaluzia, a corrida é um dos eventos de estrada comunitários mais antigos da cidade, e a edição deste ano registou uma forte adesão sob um céu limpo de final de inverno.",
+      "es": "La XIV Carrera Popular Parque Tamarguillo tomó el distrito Este-Alcosa-Torreblanca de Sevilla el 28 de febrero, con salida y meta en la plaza junto al Cortijo San Ildefonso, dentro del Parque Tamarguillo. Celebrada cada año en el Día de Andalucía, la carrera es uno de los eventos populares más longevos de la ciudad, y la edición de este año registró una gran participación bajo un cielo despejado de final de invierno.",
+      "fr": "La XIVe Carrera Popular Parque Tamarguillo a envahi le quartier Este-Alcosa-Torreblanca de Séville le 28 février, avec départ et arrivée sur la place jouxtant le Cortijo San Ildefonso, à l’intérieur du parc Tamarguillo. Organisée chaque année lors du Jour de l’Andalousie, la course est l’un des événements populaires les plus anciens de la ville, et l’édition de cette année a enregistré une forte affluence sous un ciel dégagé de fin d’hiver.",
+      "it": "La XIV Carrera Popular Parque Tamarguillo ha invaso il quartiere Este-Alcosa-Torreblanca di Siviglia il 28 febbraio, con partenza e arrivo sulla piazza accanto al Cortijo San Ildefonso, all’interno del Parco Tamarguillo. Organizzata ogni anno nel Giorno dell’Andalusia, la corsa è uno degli eventi popolari su strada più longevi della città, e l’edizione di quest’anno ha registrato una forte affluenza sotto un cielo terso di fine inverno."
+    },
+    "a19-p2": {
+      "en": "Runners chose between a 13km course and a shorter 6km route, both looping through the park before finishing at the plaza, while a full slate of children’s races kept the morning family-friendly. Organisers capped registration at 2,000 places — 1,500 for the adult distances and 500 across the school and children’s categories — and more than 1,000 runners ultimately took part.",
+      "pt": "Os corredores escolheram entre um percurso de 13 km e uma rota mais curta de 6 km, ambos a percorrer o parque antes de terminar na praça, enquanto um leque completo de corridas infantis manteve a manhã familiar. Os organizadores limitaram as inscrições a 2.000 lugares — 1.500 para as distâncias de adultos e 500 nas categorias escolares e infantis — e mais de 1.000 corredores participaram no final.",
+      "es": "Los corredores eligieron entre un recorrido de 13 km y una ruta más corta de 6 km, ambos recorriendo el parque antes de terminar en la plaza, mientras que un amplio programa de carreras infantiles mantuvo la mañana en clave familiar. Los organizadores limitaron la inscripción a 2.000 plazas — 1.500 para las distancias de adultos y 500 en las categorías escolares e infantiles — y más de 1.000 corredores participaron finalmente.",
+      "fr": "Les coureurs ont choisi entre un parcours de 13 km et une route plus courte de 6 km, tous deux traversant le parc avant de se terminer sur la place, tandis qu’un programme complet de courses pour enfants a gardé la matinée conviviale pour les familles. Les organisateurs ont plafonné les inscriptions à 2 000 places — 1 500 pour les distances adultes et 500 dans les catégories scolaires et enfants — et plus de 1 000 coureurs y ont finalement pris part.",
+      "it": "I corridori hanno scelto tra un percorso di 13 km e un tragitto più breve di 6 km, entrambi attraverso il parco prima di concludersi in piazza, mentre un ricco programma di gare per bambini ha reso la mattinata adatta alle famiglie. Gli organizzatori hanno limitato le iscrizioni a 2.000 posti — 1.500 per le distanze adulte e 500 tra le categorie scolastiche e bambini — e alla fine hanno partecipato oltre 1.000 corridori."
+    },
+    "a19-inline1-credit": {
+      "en": "Photo: Paulo Nomade / Image Media",
+      "pt": "Foto: Paulo Nomade / Image Media",
+      "es": "Foto: Paulo Nomade / Image Media",
+      "fr": "Photo : Paulo Nomade / Image Media",
+      "it": "Foto: Paulo Nomade / Image Media"
+    },
+    "a19-p3": {
+      "en": "The event is organised by Club Atletismo Los Lentos together with Create Acción Creativa de Eventos SL, with backing from the Este-Alcosa-Torreblanca District and Seville’s Instituto Municipal de Deportes. Entry fees stayed modest by design — as low as €7 for the 6km and €11 for the 13km in early registration, with children’s races priced at €3 — keeping the race accessible to local families rather than positioning it as a premium road event.",
+      "pt": "O evento é organizado pelo Club Atletismo Los Lentos em conjunto com a Create Acción Creativa de Eventos SL, com o apoio do Distrito Este-Alcosa-Torreblanca e do Instituto Municipal de Deportes de Sevilha. As inscrições mantiveram-se propositadamente modestas — a partir de 7 € para os 6 km e 11 € para os 13 km na inscrição antecipada, com as corridas infantis a custar 3 € — mantendo a corrida acessível às famílias locais em vez de a posicionar como um evento de estrada premium.",
+      "es": "El evento está organizado por el Club Atletismo Los Lentos junto con Create Acción Creativa de Eventos SL, con el respaldo del Distrito Este-Alcosa-Torreblanca y el Instituto Municipal de Deportes de Sevilla. Las cuotas de inscripción se mantuvieron deliberadamente modestas — desde 7 € para los 6 km y 11 € para los 13 km en la inscripción anticipada, con las carreras infantiles a 3 € — manteniendo la carrera accesible para las familias locales en lugar de posicionarla como un evento premium.",
+      "fr": "L’événement est organisé par le Club Atletismo Los Lentos avec Create Acción Creativa de Eventos SL, soutenu par le district Este-Alcosa-Torreblanca et l’Instituto Municipal de Deportes de Séville. Les frais d’inscription sont restés volontairement modestes — à partir de 7 € pour le 6 km et 11 € pour le 13 km en inscription anticipée, les courses enfants à 3 € — afin de garder la course accessible aux familles locales plutôt que d’en faire un événement premium.",
+      "it": "L’evento è organizzato dal Club Atletismo Los Lentos insieme a Create Acción Creativa de Eventos SL, con il sostegno del Distretto Este-Alcosa-Torreblanca e dell’Instituto Municipal de Deportes di Siviglia. Le quote di iscrizione sono rimaste volutamente contenute — a partire da 7 € per i 6 km e 11 € per i 13 km nell’iscrizione anticipata, con le gare per bambini a 3 € — per mantenere la corsa accessibile alle famiglie locali invece di posizionarla come evento premium."
+    },
+    "a19-stat": {
+      "en": "13km & 6km courses · 1,000+ finishers · 14th edition",
+      "pt": "Percursos de 13 km e 6 km · +1.000 concluintes · 14ª edição",
+      "es": "Recorridos de 13 km y 6 km · +1.000 finalizadores · 14ª edición",
+      "fr": "Parcours 13 km et 6 km · +1 000 finishers · 14e édition",
+      "it": "Percorsi 13 km e 6 km · +1.000 finisher · 14ª edizione"
+    },
+    "a19-inline2-credit": {
+      "en": "Photo: Paulo Nomade / Image Media",
+      "pt": "Foto: Paulo Nomade / Image Media",
+      "es": "Foto: Paulo Nomade / Image Media",
+      "fr": "Photo : Paulo Nomade / Image Media",
+      "it": "Foto: Paulo Nomade / Image Media"
+    },
+    "a19-p4": {
+      "en": "Image Media covered the race on the ground with a three-person team — Eduardo Castro, Paulo Nomade and Jose Ramon Moreno — capturing finish-line moments, the family and dog-friendly atmosphere along the course, and portraits of the competitive front-runners.",
+      "pt": "A Image Media cobriu a corrida no terreno com uma equipa de três pessoas — Eduardo Castro, Paulo Nomade e Jose Ramon Moreno — captando momentos na meta, o ambiente familiar e amigo dos cães ao longo do percurso, e retratos dos corredores da frente.",
+      "es": "Image Media cubrió la carrera sobre el terreno con un equipo de tres personas — Eduardo Castro, Paulo Nomade y Jose Ramon Moreno — captando momentos en la meta, el ambiente familiar y amigable con los perros a lo largo del recorrido, y retratos de los corredores de cabeza.",
+      "fr": "Image Media a couvert la course sur le terrain avec une équipe de trois personnes — Eduardo Castro, Paulo Nomade et Jose Ramon Moreno — capturant les moments à l’arrivée, l’ambiance familiale et conviviale pour les chiens tout au long du parcours, ainsi que des portraits des coureurs de tête.",
+      "it": "Image Media ha coperto la gara sul campo con una squadra di tre persone — Eduardo Castro, Paulo Nomade e Jose Ramon Moreno — catturando i momenti al traguardo, l’atmosfera familiare e a misura di cane lungo il percorso, e i ritratti dei corridori di testa."
+    },
+    "a19-p5": {
+      "en": "Galleries from the day are now live for participants to find and buy their photos, with the club and district organisers receiving a full highlight pack to help promote next year’s fifteenth edition.",
+      "pt": "As galerias do dia já estão disponíveis para que os participantes encontrem e comprem as suas fotos, com o clube e os organizadores do distrito a receber um pacote completo de destaques para ajudar a promover a décima quinta edição do próximo ano.",
+      "es": "Las galerías del día ya están disponibles para que los participantes encuentren y compren sus fotos, y el club y los organizadores del distrito reciben un paquete completo de destacados para ayudar a promover la decimoquinta edición del próximo año.",
+      "fr": "Les galeries de la journée sont désormais en ligne pour que les participants retrouvent et achètent leurs photos, le club et les organisateurs du district recevant un pack complet de temps forts pour promouvoir la quinzième édition l’an prochain.",
+      "it": "Le gallerie della giornata sono ora online affinché i partecipanti possano trovare e acquistare le proprie foto, mentre il club e gli organizzatori del distretto ricevono un pacchetto completo di momenti salienti per promuovere la quindicesima edizione del prossimo anno."
+    },
+    "a19-tagpill1": {
+      "en": "Tamarguillo",
+      "pt": "Tamarguillo",
+      "es": "Tamarguillo",
+      "fr": "Tamarguillo",
+      "it": "Tamarguillo"
+    },
+    "a19-tagpill2": {
+      "en": "Seville",
+      "pt": "Sevilha",
+      "es": "Sevilla",
+      "fr": "Séville",
+      "it": "Siviglia"
+    },
+    "a19-tagpill3": {
+      "en": "Andalucía Day",
+      "pt": "Dia da Andaluzia",
+      "es": "Día de Andalucía",
+      "fr": "Jour de l’Andalousie",
+      "it": "Giorno dell’Andalusia"
+    },
+    "a19-related-title": {
+      "en": "More from Image Media",
+      "pt": "Mais da Image Media",
+      "es": "Más de Image Media",
+      "fr": "Plus de Image Media",
+      "it": "Altro da Image Media"
+    },
+    "a19-related1-tag": {
+      "en": "Sports",
+      "pt": "Desporto",
+      "es": "Deportes",
+      "fr": "Sport",
+      "it": "Sport"
+    },
+    "a19-related1-title": {
+      "en": "See all Sports coverage",
+      "pt": "Ver toda a cobertura de Desporto",
+      "es": "Ver toda la cobertura de Deportes",
+      "fr": "Voir toute la couverture Sport",
+      "it": "Vedi tutta la copertura Sport"
+    },
+    "a19-related2-tag": {
+      "en": "Image Media",
+      "pt": "Image Media",
+      "es": "Image Media",
+      "fr": "Image Media",
+      "it": "Image Media"
+    },
+    "a19-related2-title": {
+      "en": "How Image Media covers your event",
+      "pt": "Como a Image Media cobre o seu evento",
+      "es": "Cómo Image Media cubre tu evento",
+      "fr": "Comment Image Media couvre votre événement",
+      "it": "Come Image Media copre il tuo evento"
+    },
+    "a19-related3-tag": {
+      "en": "Athletics",
+      "pt": "Atletismo",
+      "es": "Atletismo",
+      "fr": "Athlétisme",
+      "it": "Atletica"
+    },
+    "a19-related3-title": {
+      "en": "Daroca Trail Returns For A Fifth Edition Through The Aragón Mountains",
+      "pt": "Daroca Trail Regressa Para Uma Quinta Edição Pelas Montanhas De Aragão",
+      "es": "Daroca Trail Regresa Para Una Quinta Edición Por Las Montañas De Aragón",
+      "fr": "Le Daroca Trail Revient Pour Une Cinquième Édition À Travers Les Montagnes D’Aragon",
+      "it": "Il Daroca Trail Torna Per Una Quinta Edizione Tra Le Montagne D’Aragona"
+    },
+    "card-s14__field__tag": {
+      "en": "Athletics",
+      "pt": "Atletismo",
+      "es": "Atletismo",
+      "fr": "Athlétisme",
+      "it": "Atletica"
+    },
+    "card-s14__field__title": {
+      "en": "XIV Carrera Popular Parque Tamarguillo Brings Andalucía Day Crowds To Seville’s Valdezorras",
+      "pt": "XIV Carrera Popular Parque Tamarguillo Leva Multidões Do Dia Da Andaluzia A Valdezorras, Em Sevilha",
+      "es": "La XIV Carrera Popular Parque Tamarguillo Lleva A Las Multitudes Del Día De Andalucía A Valdezorras, En Sevilla",
+      "fr": "La XIVe Carrera Popular Parque Tamarguillo Attire Les Foules Du Jour De L’Andalousie À Valdezorras, À Séville",
+      "it": "La XIV Carrera Popular Parque Tamarguillo Porta Le Folle Del Giorno Dell’Andalusia A Valdezorras, Siviglia"
+    },
+    "card-s14__field__deck": {
+      "en": "More than 1,000 runners tackled the 13km and 6km courses inside Tamarguillo Park on Andalucía Day.",
+      "pt": "Mais de 1.000 corredores enfrentaram os percursos de 13 km e 6 km dentro do Parque Tamarguillo no Dia da Andaluzia.",
+      "es": "Más de 1.000 corredores afrontaron los recorridos de 13 km y 6 km dentro del Parque Tamarguillo en el Día de Andalucía.",
+      "fr": "Plus de 1 000 coureurs ont affronté les parcours de 13 km et 6 km à l’intérieur du parc Tamarguillo lors du Jour de l’Andalousie.",
+      "it": "Oltre 1.000 corridori hanno affrontato i percorsi di 13 km e 6 km all’interno del Parco Tamarguillo nel Giorno dell’Andalusia."
+    },
+    "card-s14__field__meta": {
+      "en": "Image Media coverage",
+      "pt": "Cobertura Image Media",
+      "es": "Cobertura Image Media",
+      "fr": "Couverture Image Media",
+      "it": "Copertura Image Media"
+    },
+    "a19-related1-link": {
+      "en": "Visit section →",
+      "pt": "Visitar secção →",
+      "es": "Visitar sección →",
+      "fr": "Voir la rubrique →",
+      "it": "Vai alla sezione →"
+    },
+    "a19-related2-link": {
+      "en": "Learn more →",
+      "pt": "Saber mais →",
+      "es": "Saber más →",
+      "fr": "En savoir plus →",
+      "it": "Scopri di più →"
+    },
+    "a19-related3-link": {
+      "en": "Read more →",
+      "pt": "Ler mais →",
+      "es": "Leer más →",
+      "fr": "Lire la suite →",
+      "it": "Leggi tutto →"
+    },
+    "card-s14__field__link": {
+      "en": "Read more →",
+      "pt": "Ler mais →",
+      "es": "Leer más →",
+      "fr": "Lire la suite →",
+      "it": "Leggi tutto →"
     }
   },
   "chrome": {
