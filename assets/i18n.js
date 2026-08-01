@@ -15,39 +15,39 @@ window.IM_I18N = {
  "default": "en",
  "content": {
   "home-breaking-text": {
-   "en": "Record turnout at the XXXIII Media Maratón Ciudad de Cartagena — full story inside.",
-   "pt": "Adesão recorde na XXXIII Media Maratón Ciudad de Cartagena — história completa lá dentro.",
-   "es": "Participación récord en la XXXIII Media Maratón Ciudad de Cartagena — historia completa dentro.",
-   "fr": "Affluence record à la XXXIIIe Media Maratón Ciudad de Cartagena — l’histoire complète à l’intérieur.",
-   "it": "Affluenza record alla XXXIII Media Maratón Ciudad de Cartagena — la storia completa all’interno."
+   "en": "Gran Fondo València draws over 2,600 cyclists from 24 countries for the XXI edition — full story inside.",
+   "pt": "Gran Fondo València reúne mais de 2.600 ciclistas de 24 países na XXI edição — história completa lá dentro.",
+   "es": "El Gran Fondo València reúne a más de 2.600 ciclistas de 24 países en su XXI edición — historia completa dentro.",
+   "fr": "Le Gran Fondo València réunit plus de 2 600 cyclistes de 24 pays pour sa XXIe édition — l’histoire complète à l’intérieur.",
+   "it": "Il Gran Fondo València riunisce oltre 2.600 ciclisti da 24 paesi per la XXI edizione — la storia completa all’interno."
   },
   "home-hero-tag": {
-   "en": "Athletics",
-   "pt": "Atletismo",
-   "es": "Atletismo",
-   "fr": "Athlétisme",
-   "it": "Atletica"
+   "en": "Cycling",
+   "pt": "Ciclismo",
+   "es": "Ciclismo",
+   "fr": "Cyclisme",
+   "it": "Ciclismo"
   },
   "home-hero-title": {
-   "en": "XXXIII Media Maratón Ciudad de Cartagena Sets Participation Record With Nearly 3,000 Runners",
-   "pt": "XXXIII Media Maratón Ciudad de Cartagena Bate Recorde De Participação Com Quase 3.000 Corredores",
-   "es": "La XXXIII Media Maratón Ciudad de Cartagena Bate El Récord De Participación Con Casi 3.000 Corredores",
-   "fr": "La XXXIIIe Media Maratón Ciudad de Cartagena Bat Le Record De Participation Avec Près De 3 000 Coureurs",
-   "it": "La XXXIII Media Maratón Ciudad de Cartagena Batte Il Record Di Partecipazione Con Quasi 3.000 Corridori"
+   "en": "Gran Fondo València Returns For XXI Edition With Over 2,600 Cyclists From 24 Countries",
+   "pt": "Gran Fondo València Regressa Para a XXI Edição Com Mais de 2.600 Ciclistas de 24 Países",
+   "es": "Gran Fondo València Regresa En Su XXI Edición Con Más de 2.600 Ciclistas de 24 Países",
+   "fr": "Le Gran Fondo València Est De Retour Pour Sa XXIe Édition Avec Plus de 2 600 Cyclistes de 24 Pays",
+   "it": "Il Gran Fondo València Torna Per La XXI Edizione Con Oltre 2.600 Ciclisti Da 24 Paesi"
   },
   "home-hero-deck": {
-   "en": "The Memorial Gregorio Lorente Rosas half marathon and 10K drew record entries through the streets of historic Cartagena, both finishing together at the Palacio de Deportes.",
-   "pt": "A meia maratona e os 10 km do Memorial Gregorio Lorente Rosas registaram um número recorde de inscrições pelas ruas da histórica Cartagena, ambas a terminar juntas no Palacio de Deportes.",
-   "es": "La media maratón y los 10K del Memorial Gregorio Lorente Rosas registraron un récord de inscripciones por las calles de la histórica Cartagena, ambas finalizando juntas en el Palacio de Deportes.",
-   "fr": "Le semi-marathon et le 10 km du Memorial Gregorio Lorente Rosas ont enregistré un nombre record d’inscriptions dans les rues de la Carthagène historique, tous deux se terminant ensemble au Palacio de Deportes.",
-   "it": "La mezza maratona e i 10 km del Memorial Gregorio Lorente Rosas hanno registrato un numero record di iscrizioni per le strade della storica Cartagena, entrambe con arrivo insieme al Palacio de Deportes."
+   "en": "The Santander-backed cyclosportive brought two routes of up to 177 kilometres through 28 municipalities of the Comunitat Valenciana on 2 May 2026, with event coverage by the Image Media team.",
+   "pt": "A cicloturista, com o patrocínio do Santander, levou dois percursos de até 177 quilómetros por 28 municípios da Comunitat Valenciana em 2 de maio de 2026, com cobertura do evento pela equipa da Image Media.",
+   "es": "La marcha cicloturista, patrocinada por Santander, llevó dos recorridos de hasta 177 kilómetros por 28 municipios de la Comunitat Valenciana el 2 de mayo de 2026, con cobertura del evento a cargo del equipo de Image Media.",
+   "fr": "La cyclosportive, sponsorisée par Santander, a proposé deux parcours allant jusqu'à 177 kilomètres à travers 28 communes de la Communauté valencienne le 2 mai 2026, avec une couverture de l'événement assurée par l'équipe d'Image Media.",
+   "it": "La granfondo, sponsorizzata da Santander, ha proposto due percorsi fino a 177 chilometri attraverso 28 comuni della Comunità Valenzana il 2 maggio 2026, con la copertura dell'evento affidata al team di Image Media."
   },
   "home-hero-byline": {
-   "en": "By Image Media News Staff — Cartagena",
-   "pt": "Por Image Media News Staff — Cartagena",
-   "es": "Por Image Media News Staff — Cartagena",
-   "fr": "Par Image Media News Staff — Carthagène",
-   "it": "Di Image Media News Staff — Cartagena"
+   "en": "By Image Media News Staff — Valencia, Spain",
+   "pt": "Por Image Media News Staff — Valência, Espanha",
+   "es": "Por Image Media News Staff — Valencia, España",
+   "fr": "Par Image Media News Staff — Valence, Espagne",
+   "it": "Di Image Media News Staff — Valencia, Spagna"
   },
   "home-topstories-title": {
    "en": "Top Stories",
@@ -64,32 +64,32 @@ window.IM_I18N = {
    "it": "Altro sport →"
   },
   "card-h1__field__tag": {
-   "en": "Football",
-   "pt": "Futebol",
-   "es": "Fútbol",
-   "fr": "Football",
-   "it": "Calcio"
+   "en": "Functional",
+   "pt": "Funcional",
+   "es": "Funcional",
+   "fr": "Fonctionnel",
+   "it": "Funzionale"
   },
   "card-h1__field__title": {
-   "en": "Leixões and Benjamin Kanuric Agree to Contract Termination",
-   "pt": "Leixões E Benjamin Kanuric Chegam A Acordo Para Rescisão De Contrato",
-   "es": "Leixões Y Benjamin Kanuric Acuerdan La Rescisión Del Contrato",
-   "fr": "Leixões Et Benjamin Kanuric S'Accordent Sur La Résiliation Du Contrat",
-   "it": "Leixões E Benjamin Kanuric Trovano L'Accordo Per La Risoluzione Del Contratto"
+   "en": "Hurbax Valladolid Draws Over 600 Athletes In Race Marking 475th Anniversary Of The Valladolid Controversy",
+   "pt": "Hurbax Valladolid Reúne Mais de 600 Atletas Em Prova Que Assinala o 475.º Aniversário da Controvérsia de Valladolid",
+   "es": "Hurbax Valladolid Reúne a Más de 600 Atletas En Una Prueba Que Conmemora el 475.º Aniversario de la Controversia de Valladolid",
+   "fr": "Hurbax Valladolid Réunit Plus de 600 Athlètes Pour Une Course Marquant le 475e Anniversaire de la Controverse de Valladolid",
+   "it": "Hurbax Valladolid Riunisce Oltre 600 Atleti In Una Gara Che Celebra il 475° Anniversario Della Controversia di Valladolid"
   },
   "card-h1__field__deck": {
-   "en": "The Austrian midfielder leaves Estádio do Mar by mutual agreement, closing his spell at the club with 16 official appearances, three goals and two assists.",
-   "pt": "O médio austríaco deixa o Estádio do Mar por mútuo acordo, encerrando a sua passagem pelo clube com 16 jogos oficiais, três golos e duas assistências.",
-   "es": "El centrocampista austríaco deja el Estádio do Mar de mutuo acuerdo, cerrando su etapa en el club con 16 partidos oficiales, tres goles y dos asistencias.",
-   "fr": "Le milieu de terrain autrichien quitte l'Estádio do Mar d'un commun accord, mettant fin à son passage au club avec 16 matches officiels, trois buts et deux passes décisives.",
-   "it": "Il centrocampista austriaco lascia l'Estádio do Mar di comune accordo, chiudendo la sua esperienza al club con 16 presenze ufficiali, tre gol e due assist."
+   "en": "The Club Deportivo Básico Hurbax brought its hybrid running-and-functional-fitness circuit to Acera de Recoletos on 25 April 2026, with more than 600 athletes registered and organisers highlighting record female participation.",
+   "pt": "O Club Deportivo Básico Hurbax levou o seu circuito híbrido de corrida e fitness funcional à Acera de Recoletos, em 25 de abril de 2026, com mais de 600 atletas inscritos e os organizadores a destacarem uma elevada participação feminina.",
+   "es": "El Club Deportivo Básico Hurbax llevó su circuito híbrido de carrera y fitness funcional a la Acera de Recoletos el 25 de abril de 2026, con más de 600 atletas inscritos y los organizadores destacando una elevada participación femenina.",
+   "fr": "Le Club Deportivo Básico Hurbax a organisé son circuit hybride de course et de fitness fonctionnel à Acera de Recoletos le 25 avril 2026, avec plus de 600 athlètes inscrits et une participation féminine record soulignée par les organisateurs.",
+   "it": "Il Club Deportivo Básico Hurbax ha portato il suo circuito ibrido di corsa e fitness funzionale ad Acera de Recoletos il 25 aprile 2026, con oltre 600 atleti iscritti e gli organizzatori che hanno sottolineato una partecipazione femminile record."
   },
   "card-h1__field__meta": {
-   "en": "3 hours ago",
-   "pt": "há 3 horas",
-   "es": "hace 3 horas",
-   "fr": "il y a 3 heures",
-   "it": "3 ore fa"
+   "en": "Image Media coverage",
+   "pt": "Cobertura Image Media",
+   "es": "Cobertura de Image Media",
+   "fr": "Couverture Image Media",
+   "it": "Copertura Image Media"
   },
   "card-h1__field__link": {
    "en": "Read more →",
@@ -99,25 +99,25 @@ window.IM_I18N = {
    "it": "Leggi tutto →"
   },
   "card-h2__field__tag": {
-   "en": "Functional",
-   "pt": "Funcional",
-   "es": "Funcional",
-   "fr": "Fonctionnel",
-   "it": "Funzionale"
+   "en": "Athletics",
+   "pt": "Atletismo",
+   "es": "Atletismo",
+   "fr": "Athlétisme",
+   "it": "Atletica"
   },
   "card-h2__field__title": {
-   "en": "VORTEX Hybrid Games Makes Algarve Debut At Lagos Municipal Stadium",
-   "pt": "VORTEX Hybrid Games Estreia-se No Algarve No Estádio Municipal De Lagos",
-   "es": "VORTEX Hybrid Games Debuta En El Algarve En El Estadio Municipal De Lagos",
-   "fr": "Le VORTEX Hybrid Games Fait Ses Débuts En Algarve Au Stade Municipal De Lagos",
-   "it": "Il VORTEX Hybrid Games Debutta Nell'Algarve Allo Stadio Municipale Di Lagos"
+   "en": "González Rivera And Tisalema Win III Viamed Media Maratón Ciudad De Chiclana",
+   "pt": "González Rivera E Tisalema Vencem A III Viamed Media Maratón Ciudad De Chiclana",
+   "es": "González Rivera Y Tisalema Ganan La III Viamed Media Maratón Ciudad De Chiclana",
+   "fr": "González Rivera Et Tisalema Remportent La III Viamed Media Maratón Ciudad De Chiclana",
+   "it": "González Rivera E Tisalema Vincono La III Viamed Media Maratón Ciudad De Chiclana"
   },
   "card-h2__field__deck": {
-   "en": "Eight rounds of 800-metre runs and functional stations — from sled pushes to farmers carries — brought Hyrox-style racing to the Estádio Municipal de Lagos for the format's first Portuguese edition.",
-   "pt": "Oito rondas de corridas de 800 metros e estações funcionais — de sled pushes a farmers carries — trouxeram corrida ao estilo Hyrox ao Estádio Municipal de Lagos na primeira edição portuguesa do formato.",
-   "es": "Ocho rondas de carreras de 800 metros y estaciones funcionales — de sled pushes a farmers carries — trajeron carreras al estilo Hyrox al Estadio Municipal de Lagos en la primera edición portuguesa del formato.",
-   "fr": "Huit tours de courses de 800 mètres et d'ateliers fonctionnels — du sled push au farmers carry — ont apporté une course de style Hyrox au Stade Municipal de Lagos pour la première édition portugaise du format.",
-   "it": "Otto round di corse da 800 metri e stazioni funzionali — dallo sled push al farmers carry — hanno portato una gara in stile Hyrox allo Stadio Municipale di Lagos per la prima edizione portoghese del format."
+   "en": "Jorge González Rivera set a new course record and Katherine Tisalema Puruncaja won the women's race, as a record 2,800 runners from 33 countries took part in Chiclana's first officially homologated half marathon on 19 April 2026.",
+   "pt": "Jorge González Rivera bateu o recorde do percurso e Katherine Tisalema Puruncaja venceu a corrida feminina, numa prova que reuniu um recorde de 2.800 corredores de 33 países na primeira meia maratona oficialmente homologada de Chiclana, a 19 de abril de 2026.",
+   "es": "Jorge González Rivera batió el récord del recorrido y Katherine Tisalema Puruncaja ganó la carrera femenina, en una prueba que reunió a un récord de 2.800 corredores de 33 países en la primera media maratón oficialmente homologada de Chiclana, el 19 de abril de 2026.",
+   "fr": "Jorge González Rivera a battu le record du parcours et Katherine Tisalema Puruncaja a remporté la course féminine, alors qu'un nombre record de 2 800 coureurs venus de 33 pays ont pris part au premier semi-marathon officiellement homologué de Chiclana, le 19 avril 2026.",
+   "it": "Jorge González Rivera ha battuto il record del percorso e Katherine Tisalema Puruncaja ha vinto la gara femminile, in una prova che ha visto un record di 2.800 corridori provenienti da 33 paesi prendere parte alla prima mezza maratona ufficialmente omologata di Chiclana, il 19 aprile 2026."
   },
   "card-h2__field__meta": {
    "en": "Image Media coverage",
@@ -141,25 +141,25 @@ window.IM_I18N = {
    "it": "Ciclismo"
   },
   "card-h3__field__title": {
-   "en": "Massos Gravel Rolls Through Maspujols in Sold-Out Charity Ride",
-   "pt": "Massos Gravel Passa por Maspujols em Prova Solidária Esgotada",
-   "es": "Massos Gravel Recorre Maspujols en una Marcha Solidaria con las Plazas Agotadas",
-   "fr": "Massos Gravel Traverse Maspujols pour une Sortie Solidaire à Guichets Fermés",
-   "it": "Massos Gravel Attraversa Maspujols in una Pedalata Benefica Sold Out"
+   "en": "Fischer And Benedito Win Preeuropeo Templarios MTB Race In Jerez De Los Caballeros",
+   "pt": "Fischer E Benedito Vencem A Preeuropeo Templarios MTB Race Em Jerez De Los Caballeros",
+   "es": "Fischer Y Benedito Ganan La Preeuropeo Templarios MTB Race En Jerez De Los Caballeros",
+   "fr": "Fischer Et Benedito Remportent La Preeuropeo Templarios MTB Race À Jerez De Los Caballeros",
+   "it": "Fischer E Benedito Vincono La Preeuropeo Templarios MTB Race A Jerez De Los Caballeros"
   },
   "card-h3__field__deck": {
-   "en": "The second round of the Sport1ion Gravel Circuit brought gravel, MTB and e-bike riders through 60km and 700m of climbing around Maspujols on February 22, with proceeds supporting ACCU Catalunya.",
-   "pt": "A segunda etapa do Sport1ion Gravel Circuit levou ciclistas de gravel, BTT e e-bike por 60km e 700m de desnível em torno de Maspujols a 22 de fevereiro, com receitas a apoiar a ACCU Catalunya.",
-   "es": "La segunda etapa del Sport1ion Gravel Circuit llevó a ciclistas de gravel, BTT y e-bike por 60km y 700m de desnivel alrededor de Maspujols el 22 de febrero, con lo recaudado destinado a ACCU Catalunya.",
-   "fr": "La deuxième étape du Sport1ion Gravel Circuit a réuni des cyclistes gravel, VTT et e-bike sur 60km et 700m de dénivelé autour de Maspujols le 22 février, au profit d'ACCU Catalunya.",
-   "it": "La seconda tappa del Sport1ion Gravel Circuit ha portato ciclisti gravel, MTB ed e-bike lungo 60km e 700m di dislivello intorno a Maspujols il 22 febbraio, a sostegno di ACCU Catalunya."
+   "en": "The UCI-sanctioned marathon served as an official test event for the 2027 European MTB Marathon Championship, drawing riders to the Templar stronghold of Jerez de los Caballeros on 12 April 2026.",
+   "pt": "A maratona reconhecida pela UCI serviu como evento-teste oficial para o Campeonato Europeu de Maratona BTT de 2027, atraindo ciclistas à fortaleza templária de Jerez de los Caballeros a 12 de abril de 2026.",
+   "es": "La maratón reconocida por la UCI sirvió como evento de test oficial para el Campeonato de Europa de Maratón BTT 2027, atrayendo a corredores a la fortaleza templaria de Jerez de los Caballeros el 12 de abril de 2026.",
+   "fr": "Ce marathon homologué par l'UCI a servi d'épreuve test officielle pour le Championnat d'Europe de Marathon VTT 2027, attirant les coureurs vers la forteresse templière de Jerez de los Caballeros le 12 avril 2026.",
+   "it": "La maratona riconosciuta dall'UCI è stata l'evento test ufficiale per il Campionato Europeo di Maratona MTB 2027, richiamando i corridori nella fortezza templare di Jerez de los Caballeros il 12 aprile 2026."
   },
   "card-h3__field__meta": {
-   "en": "1 day ago",
-   "pt": "há 1 dia",
-   "es": "hace 1 día",
-   "fr": "il y a 1 jour",
-   "it": "1 giorno fa"
+   "en": "Image Media coverage",
+   "pt": "Cobertura Image Media",
+   "es": "Cobertura de Image Media",
+   "fr": "Couverture Image Media",
+   "it": "Copertura Image Media"
   },
   "card-h3__field__link": {
    "en": "Read more →",
@@ -176,23 +176,23 @@ window.IM_I18N = {
    "it": "Ultime Notizie"
   },
   "home-latest1-tag": {
-   "en": "Football",
-   "pt": "Futebol",
-   "es": "Fútbol",
-   "fr": "Football",
-   "it": "Calcio"
+   "en": "Functional",
+   "pt": "Funcional",
+   "es": "Funcional",
+   "fr": "Fonctionnel",
+   "it": "Funzionale"
   },
   "home-latest1-title": {
-   "en": "Slough Town Build Momentum Ahead Of National League South Opener",
-   "pt": "Slough Town Ganha Confiança Antes Da Estreia Na National League South",
-   "es": "Slough Town Gana Confianza Antes Del Estreno En La National League South",
-   "fr": "Le Slough Town Prend De L'Élan Avant Son Entrée En National League South",
-   "it": "Lo Slough Town Guadagna Fiducia Prima Dell'Esordio In National League South"
+   "en": "The Battle Games Marks Tenth Edition With Over 800 Athletes In Castellón",
+   "pt": "The Battle Games Assinala a Décima Edição Com Mais de 800 Atletas Em Castellón",
+   "es": "The Battle Games Celebra Su Décima Edición Con Más de 800 Atletas En Castellón",
+   "fr": "The Battle Games Marque Sa Dixième Édition Avec Plus de 800 Athlètes À Castellón",
+   "it": "The Battle Games Celebra La Decima Edizione Con Oltre 800 Atleti A Castellón"
   },
   "home-latest1-meta": {
    "en": "Image Media coverage",
    "pt": "Cobertura Image Media",
-   "es": "Cobertura Image Media",
+   "es": "Cobertura de Image Media",
    "fr": "Couverture Image Media",
    "it": "Copertura Image Media"
   },
@@ -204,79 +204,79 @@ window.IM_I18N = {
    "it": "Atletica"
   },
   "home-latest2-title": {
-   "en": "Daroca Trail Returns For A Fifth Edition Through The Aragón Mountains",
-   "pt": "Daroca Trail Regressa Para Uma Quinta Edição Pelas Montanhas De Aragão",
-   "es": "Daroca Trail Regresa Para Una Quinta Edición Por Las Montañas De Aragón",
-   "fr": "Le Daroca Trail Revient Pour Une Cinquième Édition À Travers Les Montagnes D’Aragon",
-   "it": "Il Daroca Trail Torna Per Una Quinta Edizione Tra Le Montagne D’Aragona"
+   "en": "Aferdi And Ouhaddou Crowned Spanish Half Marathon Champions At XX Media Maratón De Mérida",
+   "pt": "Aferdi E Ouhaddou Sagram-Se Campeões De Espanha De Meia Maratona Na XX Media Maratón De Mérida",
+   "es": "Aferdi Y Ouhaddou Se Proclaman Campeones De España De Media Maratón En La XX Media Maratón De Mérida",
+   "fr": "Aferdi Et Ouhaddou Sacrés Champions D'Espagne Du Semi-Marathon À La XXe Media Maratón De Mérida",
+   "it": "Aferdi E Ouhaddou Campioni Di Spagna Di Mezza Maratona Alla XX Media Maratón De Mérida"
   },
   "home-latest2-meta": {
    "en": "Image Media coverage",
    "pt": "Cobertura Image Media",
-   "es": "Cobertura Image Media",
+   "es": "Cobertura de Image Media",
    "fr": "Couverture Image Media",
    "it": "Copertura Image Media"
   },
   "home-latest3-tag": {
-   "en": "Functional",
-   "pt": "Funcional",
-   "es": "Funcional",
-   "fr": "Fonctionnel",
-   "it": "Funzionale"
+   "en": "Cycling",
+   "pt": "Ciclismo",
+   "es": "Ciclismo",
+   "fr": "Cyclisme",
+   "it": "Ciclismo"
   },
   "home-latest3-title": {
-   "en": "Turtle Games Debut Draws Over 100 Athletes to CrossFit Esmoriz",
-   "pt": "Turtle Games Estreia-se com Mais de 100 Atletas no CrossFit Esmoriz",
-   "es": "Turtle Games Debuta con Más de 100 Atletas en CrossFit Esmoriz",
-   "fr": "Turtle Games Réunit Plus de 100 Athlètes pour ses Débuts au CrossFit Esmoriz",
-   "it": "I Turtle Games Debuttano con Oltre 100 Atleti al CrossFit Esmoriz"
+   "en": "Cingles Gravel Alcover Brings Cycling And Solidarity Together In Alt Camp",
+   "pt": "Cingles Gravel Alcover Une Ciclismo E Solidariedade No Alt Camp",
+   "es": "Cingles Gravel Alcover Une Ciclismo Y Solidaridad En El Alt Camp",
+   "fr": "Cingles Gravel Alcover Réunit Cyclisme Et Solidarité Dans L'Alt Camp",
+   "it": "Cingles Gravel Alcover Unisce Ciclismo E Solidarietà Nell'Alt Camp"
   },
   "home-latest3-meta": {
    "en": "Image Media coverage",
    "pt": "Cobertura Image Media",
-   "es": "Cobertura Image Media",
+   "es": "Cobertura de Image Media",
    "fr": "Couverture Image Media",
    "it": "Copertura Image Media"
   },
   "home-latest4-tag": {
-   "en": "Culture",
-   "pt": "Cultura",
-   "es": "Cultura",
-   "fr": "Culture",
-   "it": "Cultura"
+   "en": "Cycling",
+   "pt": "Ciclismo",
+   "es": "Ciclismo",
+   "fr": "Cyclisme",
+   "it": "Ciclismo"
   },
   "home-latest4-title": {
-   "en": "NOS Primavera Sound Returns To Porto's Parque Da Cidade In June",
-   "pt": "NOS Primavera Sound Regressa Ao Parque Da Cidade Do Porto Em Junho",
-   "es": "NOS Primavera Sound Regresa Al Parque Da Cidade De Oporto En Junio",
-   "fr": "Le NOS Primavera Sound De Retour Au Parque Da Cidade De Porto En Juin",
-   "it": "Il NOS Primavera Sound Torna Al Parque Da Cidade Di Porto A Giugno"
+   "en": "Blas Rivero And Michela Santini Win Two-Day Desafío La Titánica In Gran Canaria",
+   "pt": "Blas Rivero E Michela Santini Vencem O Desafío La Titánica De Dois Dias Na Gran Canaria",
+   "es": "Blas Rivero Y Michela Santini Ganan El Desafío La Titánica De Dos Días En Gran Canaria",
+   "fr": "Blas Rivero Et Michela Santini Remportent Le Desafío La Titánica Sur Deux Jours À Grande Canarie",
+   "it": "Blas Rivero E Michela Santini Vincono Il Desafío La Titánica Di Due Giorni A Gran Canaria"
   },
   "home-latest4-meta": {
    "en": "Image Media coverage",
    "pt": "Cobertura Image Media",
-   "es": "Cobertura Image Media",
+   "es": "Cobertura de Image Media",
    "fr": "Couverture Image Media",
    "it": "Copertura Image Media"
   },
   "home-latest5-tag": {
-   "en": "Culture",
-   "pt": "Cultura",
-   "es": "Cultura",
-   "fr": "Culture",
-   "it": "Cultura"
+   "en": "Athletics",
+   "pt": "Atletismo",
+   "es": "Atletismo",
+   "fr": "Athlétisme",
+   "it": "Atletica"
   },
   "home-latest5-title": {
-   "en": "Fantasporto Marks 46th Edition At Porto's Cinema Batalha",
-   "pt": "Fantasporto Assinala 46.ª Edição No Cinema Batalha Do Porto",
-   "es": "Fantasporto Celebra Su 46.ª Edición En El Cinema Batalha De Oporto",
-   "fr": "Le Fantasporto Célèbre Sa 46ᵉ Édition Au Cinema Batalha De Porto",
-   "it": "Il Fantasporto Celebra La 46ª Edizione Al Cinema Batalha Di Porto"
+   "en": "Ángel Mier And María Alles Win Fourth Trail Peña Cabarga In Solares",
+   "pt": "Ángel Mier E María Alles Vencem A Quarta Edição Do Trail Peña Cabarga Em Solares",
+   "es": "Ángel Mier Y María Alles Ganan La Cuarta Edición Del Trail Peña Cabarga En Solares",
+   "fr": "Ángel Mier Et María Alles Remportent La Quatrième Édition Du Trail Peña Cabarga À Solares",
+   "it": "Ángel Mier E María Alles Vincono La Quarta Edizione Del Trail Peña Cabarga A Solares"
   },
   "home-latest5-meta": {
    "en": "Image Media coverage",
    "pt": "Cobertura Image Media",
-   "es": "Cobertura Image Media",
+   "es": "Cobertura de Image Media",
    "fr": "Couverture Image Media",
    "it": "Copertura Image Media"
   },
@@ -302,18 +302,18 @@ window.IM_I18N = {
    "it": "Funzionale"
   },
   "home-sports1-title": {
-   "en": "AVYNT League Opens With Hyrox-Style Stage One in Vila Nova de Gaia",
-   "pt": "AVYNT League Abre Época Com Etapa de Estilo Hyrox em Vila Nova de Gaia",
-   "es": "La AVYNT League Arranca con una Primera Etapa de Estilo Hyrox en Vila Nova de Gaia",
-   "fr": "L'AVYNT League Débute avec une Étape de Style Hyrox à Vila Nova de Gaia",
-   "it": "La AVYNT League Apre con una Tappa in Stile Hyrox a Vila Nova de Gaia"
+   "en": "Matosinhos Throwdown Brings 400 Athletes Together For Trio Competition",
+   "pt": "Matosinhos Throwdown Reúne 400 Atletas Em Competição De Trios",
+   "es": "Matosinhos Throwdown Reúne A 400 Atletas En Una Competición Por Tríos",
+   "fr": "Le Matosinhos Throwdown Réunit 400 Athlètes Pour Une Compétition Par Trios",
+   "it": "Il Matosinhos Throwdown Riunisce 400 Atleti Per Una Competizione A Terzetti"
   },
   "home-sports1-deck": {
-   "en": "AVYNT Hybrid Arena launched its new league across ten divisions on February 21, with Timon e Pumba's Doubles Masculino Pro win the fastest time of the day.",
-   "pt": "A AVYNT Hybrid Arena lançou a sua nova liga em dez categorias a 21 de fevereiro, com a vitória de Timon e Pumba na Doubles Masculino Pro a marcar o tempo mais rápido do dia.",
-   "es": "AVYNT Hybrid Arena lanzó su nueva liga en diez categorías el 21 de febrero, con la victoria de Timon e Pumba en Doubles Masculino Pro como el tiempo más rápido del día.",
-   "fr": "AVYNT Hybrid Arena a lancé sa nouvelle ligue dans dix catégories le 21 février, la victoire de Timon e Pumba en Doubles Masculino Pro signant le temps le plus rapide de la journée.",
-   "it": "AVYNT Hybrid Arena ha lanciato la sua nuova lega in dieci categorie il 21 febbraio, con la vittoria di Timon e Pumba nella Doubles Masculino Pro come tempo più veloce della giornata."
+   "en": "The 28 March crosstraining competition brought HHM trios to Matosinhos across RX, Intermediate and Scaled divisions, with coverage by the Image Media team.",
+   "pt": "A competição de crosstraining de 28 de março levou trios HHM a Matosinhos nas divisões RX, Intermédio e Scaled, com cobertura da equipa da Image Media.",
+   "es": "La competición de crosstraining del 28 de marzo llevó tríos HHM a Matosinhos en las divisiones RX, Intermedio y Scaled, con cobertura del equipo de Image Media.",
+   "fr": "La compétition de crosstraining du 28 mars a réuni à Matosinhos des trios HHM dans les divisions RX, Intermédiaire et Scaled, avec une couverture de l'équipe d'Image Media.",
+   "it": "La competizione di crosstraining del 28 marzo ha riunito a Matosinhos terzetti HHM nelle divisioni RX, Intermedia e Scaled, con la copertura del team di Image Media."
   },
   "home-sports1-link": {
    "en": "Read more →",
@@ -323,25 +323,25 @@ window.IM_I18N = {
    "it": "Leggi tutto →"
   },
   "home-sports2-tag": {
-   "en": "Athletics",
-   "pt": "Atletismo",
-   "es": "Atletismo",
-   "fr": "Athlétisme",
-   "it": "Atletica"
+   "en": "Functional",
+   "pt": "Funcional",
+   "es": "Funcional",
+   "fr": "Fonctionnel",
+   "it": "Funzionale"
   },
   "home-sports2-title": {
-   "en": "Manuel Merillas and Sara Alonso Win Acantilados del Norte Skyrace in La Palma",
-   "pt": "Manuel Merillas e Sara Alonso Vencem a Acantilados del Norte Skyrace em La Palma",
-   "es": "Manuel Merillas y Sara Alonso Ganan la Acantilados del Norte Skyrace en La Palma",
-   "fr": "Manuel Merillas et Sara Alonso Remportent l'Acantilados del Norte Skyrace à La Palma",
-   "it": "Manuel Merillas e Sara Alonso Vincono l'Acantilados del Norte Skyrace a La Palma"
+   "en": "Army Performance HYROX Training Camp Brings Athletes Together In Vila Nova De Gaia",
+   "pt": "Training Camp HYROX Da Army Performance Reúne Atletas Em Vila Nova De Gaia",
+   "es": "El Training Camp HYROX De Army Performance Reúne A Atletas En Vila Nova De Gaia",
+   "fr": "Le Training Camp HYROX D'Army Performance Réunit Des Athlètes À Vila Nova De Gaia",
+   "it": "Il Training Camp HYROX Di Army Performance Riunisce Gli Atleti A Vila Nova De Gaia"
   },
   "home-sports2-deck": {
-   "en": "The ninth edition of the Canary Islands classic opened the European leg of the 2026 Skyrunner World Series, with Sara Alonso setting a new course record on a demanding 29km route above the Atlantic.",
-   "pt": "A nona edição do clássico das Ilhas Canárias abriu a etapa europeia da Skyrunner World Series 2026, com Sara Alonso a bater o recorde do percurso num exigente traçado de 29km sobre o Atlântico.",
-   "es": "La novena edición del clásico de las Islas Canarias abrió la etapa europea de la Skyrunner World Series 2026, con Sara Alonso batiendo el récord del circuito en un exigente recorrido de 29km sobre el Atlántico.",
-   "fr": "La neuvième édition du classique des îles Canaries a ouvert l'étape européenne de la Skyrunner World Series 2026, Sara Alonso battant le record du parcours sur un tracé exigeant de 29km au-dessus de l'Atlantique.",
-   "it": "La nona edizione del classico delle Isole Canarie ha aperto la tappa europea della Skyrunner World Series 2026, con Sara Alonso che ha stabilito il record del percorso su un tracciato impegnativo di 29km sopra l'Atlantico."
+   "en": "On 27 March 2026, Army Performance brought athletes together in Vila Nova de Gaia for HYROX-focused group training, with event coverage produced by the Image Media team.",
+   "pt": "A 27 de março de 2026, a Army Performance reuniu atletas em Vila Nova de Gaia para um treino de grupo focado em HYROX, com cobertura do evento realizada pela equipa da Image Media.",
+   "es": "El 27 de marzo de 2026, Army Performance reunió a atletas en Vila Nova de Gaia para un entrenamiento grupal centrado en HYROX, con cobertura del evento realizada por el equipo de Image Media.",
+   "fr": "Le 27 mars 2026, Army Performance a réuni des athlètes à Vila Nova de Gaia pour un entraînement collectif axé sur le HYROX, avec une couverture de l'événement réalisée par l'équipe d'Image Media.",
+   "it": "Il 27 marzo 2026, Army Performance ha riunito gli atleti a Vila Nova de Gaia per un allenamento di gruppo incentrato sull'HYROX, con la copertura dell'evento realizzata dal team di Image Media."
   },
   "home-sports2-link": {
    "en": "Read more →",
@@ -358,18 +358,18 @@ window.IM_I18N = {
    "it": "Atletica"
   },
   "home-sports3-title": {
-   "en": "Diego Menéndez and María Martínez Crowned Spanish Trail Champions in Caldas de Reis",
-   "pt": "Diego Menéndez e María Martínez sagram-se campeões de Espanha de trail em Caldas de Reis",
-   "es": "Diego Menéndez y María Martínez, campeones de España de trail en Caldas de Reis",
-   "fr": "Diego Menéndez et María Martínez sacrés champions d'Espagne de trail à Caldas de Reis",
-   "it": "Diego Menéndez e María Martínez campioni di Spagna di trail a Caldas de Reis"
+   "en": "Trilhos Dos Calceteiros Returns To Fanhões For Sixth Edition As Lisbon’s Regional Trail Championship",
+   "pt": "Trilhos Dos Calceteiros Regressa A Fanhões Para Sexta Edição Como Campeonato Regional De Trail De Lisboa",
+   "es": "Trilhos Dos Calceteiros Regresa A Fanhões Para Su Sexta Edición Como Campeonato Regional De Trail De Lisboa",
+   "fr": "Trilhos Dos Calceteiros De Retour À Fanhões Pour Sa Sixième Édition, Championnat Régional De Trail De Lisbonne",
+   "it": "I Trilhos Dos Calceteiros Tornano A Fanhões Per La Sesta Edizione Come Campionato Regionale Di Trail Di Lisbona"
   },
   "home-sports3-deck": {
-   "en": "The third edition of the Laxe dos Bolos trail jumped from Galician to national championship status, with an Asturian breakthrough win and a Galician upset in the women's race across 43km and 2,300m of climbing.",
-   "pt": "A terceira edição do trail Laxe dos Bolos deu o salto de campeonato galego a campeonato nacional, com uma vitória de estreia asturiana e uma surpresa galega na prova feminina, ao longo de 43 km e 2300 m de desnível.",
-   "es": "La tercera edición del trail Laxe dos Bolos dio el salto de campeonato gallego a campeonato nacional, con una victoria de estreno asturiana y una sorpresa gallega en la prueba femenina, en un recorrido de 43 km y 2300 m de desnivel.",
-   "fr": "La troisième édition du trail Laxe dos Bolos est passée du championnat galicien au championnat national, avec une première victoire asturienne et une surprise galicienne chez les femmes, sur 43 km et 2300 m de dénivelé.",
-   "it": "La terza edizione del trail Laxe dos Bolos è passata da campionato galiziano a campionato nazionale, con una vittoria d'esordio asturiana e una sorpresa galiziana nella gara femminile, su 43 km e 2300 m di dislivello."
+   "en": "Faz-te aos Trilhos! brings trail running back to the hills above Loures on March 15, with routes through Fanhões, São Julião do Tojal, Bucelas and Lousa doubling as this year’s Athletics Association of Lisbon regional trail title race.",
+   "pt": "A Faz-te aos Trilhos! traz de volta o trail running às colinas acima de Loures a 15 de março, com percursos por Fanhões, São Julião do Tojal, Bucelas e Lousa que servem também de prova do campeonato regional de trail da Associação de Atletismo de Lisboa este ano.",
+   "es": "Faz-te aos Trilhos! trae de vuelta el trail running a las colinas sobre Loures el 15 de marzo, con recorridos por Fanhões, São Julião do Tojal, Bucelas y Lousa que este año también sirven de prueba del campeonato regional de trail de la Asociación de Atletismo de Lisboa.",
+   "fr": "Faz-te aos Trilhos! ramène le trail running sur les collines au-dessus de Loures le 15 mars, avec des parcours à travers Fanhões, São Julião do Tojal, Bucelas et Lousa qui font aussi office cette année de manche du championnat régional de trail de l'Association d'Athlétisme de Lisbonne.",
+   "it": "La Faz-te aos Trilhos! riporta il trail running sulle colline sopra Loures il 15 marzo, con percorsi tra Fanhões, São Julião do Tojal, Bucelas e Lousa che quest'anno fungono anche da tappa del campionato regionale di trail dell'Associazione di Atletica di Lisbona."
   },
   "home-sports3-link": {
    "en": "Read more →",
