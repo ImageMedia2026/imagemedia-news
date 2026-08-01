@@ -5999,8 +5999,6 @@ window.IM_I18N = {
  },
  "card-s22__field__link": {
   "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
- }
-
  },
  "a10-related1-link": {
   "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
@@ -6178,6 +6176,7 @@ window.IM_I18N = {
  },
  "card-s23__field__link": {
   "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
+ },
  },
  "chrome": {
   "nav.home": {
