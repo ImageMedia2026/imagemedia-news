@@ -6625,6 +6625,223 @@ window.IM_I18N = {
   "fr": "Lire plus →",
   "it": "Leggi di più →"
  },
+ "a31-tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a31-title": {
+  "en": "The Battle Games Marks Tenth Edition With Over 800 Athletes In Castellón",
+  "pt": "The Battle Games Assinala a Décima Edição Com Mais de 800 Atletas Em Castellón",
+  "es": "The Battle Games Celebra Su Décima Edición Con Más de 800 Atletas En Castellón",
+  "fr": "The Battle Games Marque Sa Dixième Édition Avec Plus de 800 Athlètes À Castellón",
+  "it": "The Battle Games Celebra La Decima Edizione Con Oltre 800 Atleti A Castellón"
+ },
+ "a31-deck": {
+  "en": "Arnau Sabaté Batalla topped the RX Individual Masculino division as three days of national crosstraining competition brought athletes from across Spain to the Perpetuo Socorro football fields on 24–26 April 2026.",
+  "pt": "Arnau Sabaté Batalla venceu a divisão RX Individual Masculino, numa prova que reuniu, ao longo de três dias, atletas de toda a Espanha nos campos de futebol do Perpetuo Socorro, de 24 a 26 de abril de 2026.",
+  "es": "Arnau Sabaté Batalla se impuso en la división RX Individual Masculino, en una prueba que reunió, durante tres días, a atletas de toda España en los campos de fútbol del Perpetuo Socorro, del 24 al 26 de abril de 2026.",
+  "fr": "Arnau Sabaté Batalla s'est imposé dans la division RX Individuel Masculin, lors d'une compétition qui a réuni, pendant trois jours, des athlètes venus de toute l'Espagne sur les terrains de football du Perpetuo Socorro, du 24 au 26 avril 2026.",
+  "it": "Arnau Sabaté Batalla ha vinto la divisione RX Individuale Maschile, in una competizione che ha riunito, per tre giorni, atleti da tutta la Spagna sui campi da calcio del Perpetuo Socorro, dal 24 al 26 aprile 2026."
+ },
+ "a31-byline": {
+  "en": "By Image Media News Staff — Castellón de la Plana, Spain",
+  "pt": "Por Image Media News Staff — Castellón de la Plana, Espanha",
+  "es": "Por Image Media News Staff — Castellón de la Plana, España",
+  "fr": "Par Image Media News Staff — Castellón de la Plana, Espagne",
+  "it": "Di Image Media News Staff — Castellón de la Plana, Spagna"
+ },
+ "a31-hero-credit": {
+  "en": "Photo: Lucas Araújo / Image Media",
+  "pt": "Foto: Lucas Araújo / Image Media",
+  "es": "Foto: Lucas Araújo / Image Media",
+  "fr": "Photo : Lucas Araújo / Image Media",
+  "it": "Foto: Lucas Araújo / Image Media"
+ },
+ "a31-p1": {
+  "en": "The Battle Games returned to the Perpetuo Socorro football fields in Castellón de la Plana for its tenth edition, running from Friday 24 to Sunday 26 April 2026, with event coverage by the Image Media team. More than 800 athletes from across Spain took part, with organisers reporting that roughly three-quarters of the field travelled from outside the Comunitat Valenciana.",
+  "pt": "The Battle Games regressou aos campos de futebol do Perpetuo Socorro, em Castellón de la Plana, para a sua décima edição, disputada de sexta-feira, dia 24, a domingo, dia 26 de abril de 2026, com cobertura do evento pela equipa da Image Media. Mais de 800 atletas de toda a Espanha participaram, tendo os organizadores registado que cerca de três quartos dos participantes vieram de fora da Comunidade Valenciana.",
+  "es": "The Battle Games regresó a los campos de fútbol del Perpetuo Socorro, en Castellón de la Plana, para su décima edición, disputada de viernes 24 a domingo 26 de abril de 2026, con cobertura del evento a cargo del equipo de Image Media. Más de 800 atletas de toda España tomaron parte, y los organizadores registraron que aproximadamente tres cuartas partes de los participantes procedían de fuera de la Comunitat Valenciana.",
+  "fr": "The Battle Games est revenu sur les terrains de football du Perpetuo Socorro, à Castellón de la Plana, pour sa dixième édition, disputée du vendredi 24 au dimanche 26 avril 2026, avec une couverture de l'événement assurée par l'équipe d'Image Media. Plus de 800 athlètes venus de toute l'Espagne y ont pris part, les organisateurs indiquant qu'environ les trois quarts des participants venaient de l'extérieur de la Communauté valencienne.",
+  "it": "The Battle Games è tornato sui campi da calcio del Perpetuo Socorro, a Castellón de la Plana, per la sua decima edizione, disputata da venerdì 24 a domenica 26 aprile 2026, con la copertura dell'evento affidata al team di Image Media. Più di 800 atleti provenienti da tutta la Spagna hanno preso parte alla competizione, con gli organizzatori che hanno registrato come circa tre quarti dei partecipanti provenissero da fuori la Comunità Valenzana."
+ },
+ "a31-p2": {
+  "en": "The national crosstraining competition ran individual divisions across Rookie, Scaled, Intermediate, Master (35+) and RX levels, in men's, women's and mixed categories, alongside team formats in pairs and trios. Registration was handled through the Arena WodBuster platform, with an online qualifying phase in February and March feeding into the in-person finals in Castellón. The event ran with the collaboration of the Ayuntamiento de Castelló de la Plana, whose Sports Councilor, Maica Hurtado, attended the final day and said the competition \"reinforces the city's position as a venue for major sporting events.\"",
+  "pt": "A competição nacional de crosstraining disputou divisões individuais nos níveis Rookie, Scaled, Intermediate, Master (35+) e RX, nas categorias masculina, feminina e mista, além de formatos por equipas, em dupla e em trio. As inscrições foram geridas através da plataforma Arena WodBuster, com uma fase de qualificação online em fevereiro e março a alimentar a fase final presencial em Castellón. O evento contou com a colaboração da Câmara Municipal de Castelló de la Plana, cuja vereadora do Desporto, Maica Hurtado, esteve presente no último dia e afirmou que a competição \"reforça a posição da cidade como palco de grandes eventos desportivos\".",
+  "es": "La competición nacional de crosstraining disputó divisiones individuales en los niveles Rookie, Scaled, Intermediate, Master (35+) y RX, en categoría masculina, femenina y mixta, además de formatos por equipos en parejas y tríos. Las inscripciones se gestionaron a través de la plataforma Arena WodBuster, con una fase de clasificación online en febrero y marzo que dio paso a la fase final presencial en Castellón. El evento contó con la colaboración del Ayuntamiento de Castelló de la Plana, cuya concejala de Deportes, Maica Hurtado, asistió a la última jornada y afirmó que la competición \"refuerza la posición de la ciudad como sede de grandes eventos deportivos\".",
+  "fr": "La compétition nationale de crosstraining a proposé des divisions individuelles réparties en niveaux Rookie, Scaled, Intermediate, Master (35+) et RX, en catégories masculine, féminine et mixte, ainsi que des formats par équipes en duo et en trio. Les inscriptions ont été gérées via la plateforme Arena WodBuster, avec une phase de qualification en ligne en février et mars menant à la finale en présentiel à Castellón. L'événement s'est déroulé avec la collaboration de la mairie de Castelló de la Plana, dont l'adjointe aux Sports, Maica Hurtado, a assisté à la dernière journée et a déclaré que la compétition « renforce la position de la ville en tant que lieu d'accueil de grands événements sportifs ».",
+  "it": "La competizione nazionale di crosstraining ha previsto divisioni individuali nei livelli Rookie, Scaled, Intermediate, Master (35+) e RX, nelle categorie maschile, femminile e mista, oltre a formati a squadre in coppia e in trio. Le iscrizioni sono state gestite tramite la piattaforma Arena WodBuster, con una fase di qualificazione online a febbraio e marzo che ha preceduto la finale in presenza a Castellón. L'evento si è svolto con la collaborazione del Comune di Castelló de la Plana, la cui assessora allo Sport, Maica Hurtado, ha partecipato all'ultima giornata e ha dichiarato che la competizione \"rafforza la posizione della città come sede di grandi eventi sportivi\"."
+ },
+ "a31-inline1-credit": {
+  "en": "Photo: Lucas Araújo / Image Media",
+  "pt": "Foto: Lucas Araújo / Image Media",
+  "es": "Foto: Lucas Araújo / Image Media",
+  "fr": "Photo : Lucas Araújo / Image Media",
+  "it": "Foto: Lucas Araújo / Image Media"
+ },
+ "a31-p3": {
+  "en": "In the RX Individual Masculino division, the highest-level individual category, <strong>Arnau Sabaté Batalla</strong> (Red Ribbon Alt Camp) took the win, with <strong>Dami Martínez Satorres</strong> (Box la Jungla) second and <strong>Saverio Cardone</strong> (Fitness Elite) completing the podium. The division's entry list also drew competitors from Italy, Ecuador, Egypt, the Bahamas, Colombia and Puerto Rico.",
+  "pt": "Na divisão RX Individual Masculino, a categoria individual de nível mais elevado, <strong>Arnau Sabaté Batalla</strong> (Red Ribbon Alt Camp) venceu, com <strong>Dami Martínez Satorres</strong> (Box la Jungla) em segundo e <strong>Saverio Cardone</strong> (Fitness Elite) a completar o pódio. A lista de inscritos da divisão contou ainda com atletas de Itália, Equador, Egito, Baamas, Colômbia e Porto Rico.",
+  "es": "En la división RX Individual Masculino, la categoría individual de mayor nivel, <strong>Arnau Sabaté Batalla</strong> (Red Ribbon Alt Camp) se llevó la victoria, con <strong>Dami Martínez Satorres</strong> (Box la Jungla) segundo y <strong>Saverio Cardone</strong> (Fitness Elite) completando el podio. La lista de inscritos de la división contó también con competidores de Italia, Ecuador, Egipto, Bahamas, Colombia y Puerto Rico.",
+  "fr": "Dans la division RX Individuel Masculin, la catégorie individuelle de plus haut niveau, <strong>Arnau Sabaté Batalla</strong> (Red Ribbon Alt Camp) l'a emporté, devant <strong>Dami Martínez Satorres</strong> (Box la Jungla), deuxième, et <strong>Saverio Cardone</strong> (Fitness Elite), qui complète le podium. La liste des inscrits de la division comptait également des concurrents venus d'Italie, d'Équateur, d'Égypte, des Bahamas, de Colombie et de Porto Rico.",
+  "it": "Nella divisione RX Individuale Maschile, la categoria individuale di livello più alto, <strong>Arnau Sabaté Batalla</strong> (Red Ribbon Alt Camp) ha conquistato la vittoria, davanti a <strong>Dami Martínez Satorres</strong> (Box la Jungla), secondo, e <strong>Saverio Cardone</strong> (Fitness Elite), che completa il podio. L'elenco degli iscritti alla divisione comprendeva anche concorrenti provenienti da Italia, Ecuador, Egitto, Bahamas, Colombia e Porto Rico."
+ },
+ "a31-stat": {
+  "en": "24–26 April 2026 · Castellón de la Plana · The Battle Games, X Edition · 800+ athletes",
+  "pt": "24–26 de abril de 2026 · Castellón de la Plana · The Battle Games, X Edição · +800 atletas",
+  "es": "24–26 de abril de 2026 · Castellón de la Plana · The Battle Games, X Edición · +800 atletas",
+  "fr": "24–26 avril 2026 · Castellón de la Plana · The Battle Games, Xe édition · +800 athlètes",
+  "it": "24–26 aprile 2026 · Castellón de la Plana · The Battle Games, X Edizione · +800 atleti"
+ },
+ "a31-inline2-credit": {
+  "en": "Photo: Eduardo Castro / Image Media",
+  "pt": "Foto: Eduardo Castro / Image Media",
+  "es": "Foto: Eduardo Castro / Image Media",
+  "fr": "Photo : Eduardo Castro / Image Media",
+  "it": "Foto: Eduardo Castro / Image Media"
+ },
+ "a31-p4": {
+  "en": "The Rookie, Scaled, Intermediate and Master divisions ran across the same three days, giving athletes at every level a route into the competition alongside the RX field. Organisers framed the tenth edition as further evidence of Castellón's standing as a national hub for crosstraining, following years of steady growth in the event's entry numbers.",
+  "pt": "As divisões Rookie, Scaled, Intermediate e Master decorreram ao longo dos mesmos três dias, dando a atletas de todos os níveis uma via de acesso à competição, a par do pelotão RX. Os organizadores apresentaram a décima edição como mais uma prova da posição de Castellón como polo nacional do crosstraining, após anos de crescimento sustentado no número de inscritos no evento.",
+  "es": "Las divisiones Rookie, Scaled, Intermediate y Master se disputaron a lo largo de los mismos tres días, ofreciendo a atletas de todos los niveles una vía de acceso a la competición junto al pelotón RX. Los organizadores presentaron la décima edición como una prueba más de la posición de Castellón como referente nacional del crosstraining, tras años de crecimiento sostenido en el número de inscritos del evento.",
+  "fr": "Les divisions Rookie, Scaled, Intermediate et Master se sont déroulées sur les mêmes trois jours, offrant aux athlètes de tous niveaux une voie d'accès à la compétition aux côtés du peloton RX. Les organisateurs ont présenté cette dixième édition comme une nouvelle preuve du statut de Castellón en tant que pôle national du crosstraining, après plusieurs années de croissance constante du nombre d'inscrits à l'événement.",
+  "it": "Le divisioni Rookie, Scaled, Intermediate e Master si sono svolte negli stessi tre giorni, offrendo agli atleti di ogni livello una via d'accesso alla competizione accanto al gruppo RX. Gli organizzatori hanno presentato la decima edizione come un'ulteriore conferma del ruolo di Castellón come polo nazionale del crosstraining, dopo anni di crescita costante nel numero di iscritti all'evento."
+ },
+ "a31-p5": {
+  "en": "The Image Media coverage team comprised Eduardo Castro, Lucas Araújo, Marcelo Lopes, Luan Rodrigo and José Ramón Moreno.",
+  "pt": "A equipa de cobertura da Image Media foi composta por Eduardo Castro, Lucas Araújo, Marcelo Lopes, Luan Rodrigo e José Ramón Moreno.",
+  "es": "El equipo de cobertura de Image Media estuvo formado por Eduardo Castro, Lucas Araújo, Marcelo Lopes, Luan Rodrigo y José Ramón Moreno.",
+  "fr": "L'équipe de couverture d'Image Media était composée d'Eduardo Castro, Lucas Araújo, Marcelo Lopes, Luan Rodrigo et José Ramón Moreno.",
+  "it": "Il team di copertura di Image Media era composto da Eduardo Castro, Lucas Araújo, Marcelo Lopes, Luan Rodrigo e José Ramón Moreno."
+ },
+ "a31-tagpill1": {
+  "en": "The Battle Games",
+  "pt": "The Battle Games",
+  "es": "The Battle Games",
+  "fr": "The Battle Games",
+  "it": "The Battle Games"
+ },
+ "a31-tagpill2": {
+  "en": "Castellón",
+  "pt": "Castellón",
+  "es": "Castellón",
+  "fr": "Castellón",
+  "it": "Castellón"
+ },
+ "a31-tagpill3": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a31-related-title": {
+  "en": "More from Image Media",
+  "pt": "Mais da Image Media",
+  "es": "Más de Image Media",
+  "fr": "Plus d'Image Media",
+  "it": "Altro da Image Media"
+ },
+ "a31-related1-tag": {
+  "en": "Sports",
+  "pt": "Desporto",
+  "es": "Deportes",
+  "fr": "Sports",
+  "it": "Sport"
+ },
+ "a31-related1-title": {
+  "en": "See all Sports coverage",
+  "pt": "Ver toda a cobertura de Desporto",
+  "es": "Ver toda la cobertura de Deportes",
+  "fr": "Voir toute la couverture Sports",
+  "it": "Vedi tutta la copertura Sport"
+ },
+ "a31-related1-link": {
+  "en": "Visit section →",
+  "pt": "Visitar secção →",
+  "es": "Visitar sección →",
+  "fr": "Visiter la rubrique →",
+  "it": "Visita la sezione →"
+ },
+ "a31-related2-tag": {
+  "en": "Image Media",
+  "pt": "Image Media",
+  "es": "Image Media",
+  "fr": "Image Media",
+  "it": "Image Media"
+ },
+ "a31-related2-title": {
+  "en": "How Image Media covers your event",
+  "pt": "Como a Image Media cobre o seu evento",
+  "es": "Cómo cubre Image Media tu evento",
+  "fr": "Comment Image Media couvre votre événement",
+  "it": "Come Image Media copre il tuo evento"
+ },
+ "a31-related2-link": {
+  "en": "Learn more →",
+  "pt": "Saber mais →",
+  "es": "Saber más →",
+  "fr": "En savoir plus →",
+  "it": "Scopri di più →"
+ },
+ "a31-related3-tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a31-related3-title": {
+  "en": "Turtle Games Debut Draws Over 100 Athletes to CrossFit Esmoriz",
+  "pt": "Turtle Games Estreia-se com Mais de 100 Atletas no CrossFit Esmoriz",
+  "es": "Turtle Games Debuta con Más de 100 Atletas en CrossFit Esmoriz",
+  "fr": "Turtle Games Réunit Plus de 100 Athlètes pour ses Débuts au CrossFit Esmoriz",
+  "it": "I Turtle Games Debuttano con Oltre 100 Atleti al CrossFit Esmoriz"
+ },
+ "a31-related3-link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
+ "card-s26__field__tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "card-s26__field__title": {
+  "en": "The Battle Games Marks Tenth Edition With Over 800 Athletes In Castellón",
+  "pt": "The Battle Games Assinala a Décima Edição Com Mais de 800 Atletas Em Castellón",
+  "es": "The Battle Games Celebra Su Décima Edición Con Más de 800 Atletas En Castellón",
+  "fr": "The Battle Games Marque Sa Dixième Édition Avec Plus de 800 Athlètes À Castellón",
+  "it": "The Battle Games Celebra La Decima Edizione Con Oltre 800 Atleti A Castellón"
+ },
+ "card-s26__field__deck": {
+  "en": "Arnau Sabaté Batalla topped the RX Individual Masculino division as more than 800 athletes took part in The Battle Games' tenth edition in Castellón, held 24–26 April 2026.",
+  "pt": "Arnau Sabaté Batalla venceu a divisão RX Individual Masculino, numa décima edição de The Battle Games que reuniu mais de 800 atletas em Castellón, entre 24 e 26 de abril de 2026.",
+  "es": "Arnau Sabaté Batalla se impuso en la división RX Individual Masculino, en una décima edición de The Battle Games que reunió a más de 800 atletas en Castellón, del 24 al 26 de abril de 2026.",
+  "fr": "Arnau Sabaté Batalla s'est imposé dans la division RX Individuel Masculin, lors de la dixième édition de The Battle Games qui a réuni plus de 800 athlètes à Castellón, du 24 au 26 avril 2026.",
+  "it": "Arnau Sabaté Batalla ha vinto la divisione RX Individuale Maschile, nella decima edizione di The Battle Games che ha riunito oltre 800 atleti a Castellón, dal 24 al 26 aprile 2026."
+ },
+ "card-s26__field__meta": {
+  "en": "Image Media coverage",
+  "pt": "Cobertura Image Media",
+  "es": "Cobertura de Image Media",
+  "fr": "Couverture Image Media",
+  "it": "Copertura Image Media"
+ },
+ "card-s26__field__link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
  },
  "chrome": {
   "nav.home": {
