@@ -6401,6 +6401,230 @@ window.IM_I18N = {
   "fr": "Lire plus →",
   "it": "Leggi di più →"
  },
+ "a30-tag": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "a30-title": {
+  "en": "González Rivera And Tisalema Win III Viamed Media Maratón Ciudad De Chiclana",
+  "pt": "González Rivera E Tisalema Vencem A III Viamed Media Maratón Ciudad De Chiclana",
+  "es": "González Rivera Y Tisalema Ganan La III Viamed Media Maratón Ciudad De Chiclana",
+  "fr": "González Rivera Et Tisalema Remportent La III Viamed Media Maratón Ciudad De Chiclana",
+  "it": "González Rivera E Tisalema Vincono La III Viamed Media Maratón Ciudad De Chiclana"
+ },
+ "a30-deck": {
+  "en": "Jorge González Rivera set a new course record and Katherine Tisalema Puruncaja won the women's race, as a record 2,800 runners from 33 countries took part in Chiclana's first officially homologated half marathon on 19 April 2026.",
+  "pt": "Jorge González Rivera bateu o recorde do percurso e Katherine Tisalema Puruncaja venceu a corrida feminina, numa prova que reuniu um recorde de 2.800 corredores de 33 países na primeira meia maratona oficialmente homologada de Chiclana, a 19 de abril de 2026.",
+  "es": "Jorge González Rivera batió el récord del recorrido y Katherine Tisalema Puruncaja ganó la carrera femenina, en una prueba que reunió a un récord de 2.800 corredores de 33 países en la primera media maratón oficialmente homologada de Chiclana, el 19 de abril de 2026.",
+  "fr": "Jorge González Rivera a battu le record du parcours et Katherine Tisalema Puruncaja a remporté la course féminine, alors qu'un nombre record de 2 800 coureurs venus de 33 pays ont pris part au premier semi-marathon officiellement homologué de Chiclana, le 19 avril 2026.",
+  "it": "Jorge González Rivera ha battuto il record del percorso e Katherine Tisalema Puruncaja ha vinto la gara femminile, in una prova che ha visto un record di 2.800 corridori provenienti da 33 paesi prendere parte alla prima mezza maratona ufficialmente omologata di Chiclana, il 19 aprile 2026."
+ },
+ "a30-byline": {
+  "en": "By Image Media News Staff — Chiclana de la Frontera, Spain",
+  "pt": "Por Image Media News Staff — Chiclana de la Frontera, Espanha",
+  "es": "Por Image Media News Staff — Chiclana de la Frontera, España",
+  "fr": "Par Image Media News Staff — Chiclana de la Frontera, Espagne",
+  "it": "Di Image Media News Staff — Chiclana de la Frontera, Spagna"
+ },
+ "a30-hero-credit": {
+  "en": "Photo: Michael Rosa / Image Media",
+  "pt": "Foto: Michael Rosa / Image Media",
+  "es": "Foto: Michael Rosa / Image Media",
+  "fr": "Photo : Michael Rosa / Image Media",
+  "it": "Foto: Michael Rosa / Image Media"
+ },
+ "a30-p1": {
+  "en": "The III Viamed Media Maratón Ciudad de Chiclana started and finished at the Centro Deportivo Urbano Costa Sancti Petri in Chiclana de la Frontera, Cádiz, on Sunday 19 April 2026, with event coverage by the Image Media team. The 21.097-kilometre half marathon was Chiclana's first officially homologated race over the distance, and organisers reported the highest participation for a half marathon in the history of Cádiz province.",
+  "pt": "A III Viamed Media Maratón Ciudad de Chiclana teve partida e chegada no Centro Deportivo Urbano Costa Sancti Petri, em Chiclana de la Frontera, Cádiz, no domingo, 19 de abril de 2026, com cobertura do evento pela equipa da Image Media. A meia maratona de 21,097 quilómetros foi a primeira prova oficialmente homologada de Chiclana sobre esta distância, e os organizadores registaram a maior participação de sempre numa meia maratona na história da província de Cádiz.",
+  "es": "La III Viamed Media Maratón Ciudad de Chiclana tuvo salida y meta en el Centro Deportivo Urbano Costa Sancti Petri, en Chiclana de la Frontera, Cádiz, el domingo 19 de abril de 2026, con cobertura del evento a cargo del equipo de Image Media. La media maratón de 21,097 kilómetros fue la primera prueba oficialmente homologada de Chiclana sobre esta distancia, y los organizadores registraron la mayor participación de la historia en una media maratón en la provincia de Cádiz.",
+  "fr": "Le III Viamed Media Maratón Ciudad de Chiclana a pris le départ et l'arrivée au Centro Deportivo Urbano Costa Sancti Petri, à Chiclana de la Frontera, dans la province de Cadix, le dimanche 19 avril 2026, avec une couverture de l'événement assurée par l'équipe d'Image Media. Ce semi-marathon de 21,097 kilomètres était la première course sur cette distance officiellement homologuée à Chiclana, et les organisateurs ont enregistré la plus forte participation jamais atteinte pour un semi-marathon dans la province de Cadix.",
+  "it": "La III Viamed Media Maratón Ciudad de Chiclana ha preso il via e si è conclusa al Centro Deportivo Urbano Costa Sancti Petri, a Chiclana de la Frontera, Cadice, domenica 19 aprile 2026, con la copertura dell'evento affidata al team di Image Media. La mezza maratona di 21,097 chilometri è stata la prima gara su questa distanza ufficialmente omologata a Chiclana, e gli organizzatori hanno registrato la più alta partecipazione di sempre per una mezza maratona nella provincia di Cadice."
+ },
+ "a30-p2": {
+  "en": "Around 2,800 runners from 33 countries registered for the event, organised by Club Deportivo Media Maratón Ciudad de Chiclana with institutional backing from the Ayuntamiento de Chiclana and the Diputación de Cádiz. Title sponsor Viamed headlined a sponsor list that also included Brooks, CaixaBank and ALS Sport, and former Olympic 1500m runner Martín Fiz took part as the race's ambassador.",
+  "pt": "Cerca de 2.800 corredores de 33 países inscreveram-se no evento, organizado pelo Club Deportivo Media Maratón Ciudad de Chiclana com o apoio institucional da Câmara Municipal de Chiclana e da Deputação de Cádiz. O patrocinador principal Viamed encabeçou uma lista de patrocinadores que incluiu ainda Brooks, CaixaBank e ALS Sport, e o antigo atleta olímpico de 1500m Martín Fiz participou como padrinho da prova.",
+  "es": "Cerca de 2.800 corredores de 33 países se inscribieron en el evento, organizado por el Club Deportivo Media Maratón Ciudad de Chiclana con el respaldo institucional del Ayuntamiento de Chiclana y la Diputación de Cádiz. El patrocinador principal Viamed encabezó una lista de patrocinadores que incluyó también a Brooks, CaixaBank y ALS Sport, y el excorredor olímpico de 1.500m Martín Fiz participó como padrino de la prueba.",
+  "fr": "Environ 2 800 coureurs venus de 33 pays se sont inscrits à l'événement, organisé par le Club Deportivo Media Maratón Ciudad de Chiclana avec le soutien institutionnel de la mairie de Chiclana et de la Diputación de Cádiz. Le sponsor principal Viamed a mené une liste de partenaires incluant également Brooks, CaixaBank et ALS Sport, et l'ancien coureur olympique du 1500m Martín Fiz a participé en tant que parrain de la course.",
+  "it": "Circa 2.800 corridori provenienti da 33 paesi si sono iscritti all'evento, organizzato dal Club Deportivo Media Maratón Ciudad de Chiclana con il sostegno istituzionale del Comune di Chiclana e della Diputación di Cadice. Lo sponsor principale Viamed ha guidato un elenco di sponsor che includeva anche Brooks, CaixaBank e ALS Sport, e l'ex mezzofondista olimpico Martín Fiz ha partecipato come padrino della gara."
+ },
+ "a30-inline1-credit": {
+  "en": "Photo: Fabricio Zerves / Image Media",
+  "pt": "Foto: Fabricio Zerves / Image Media",
+  "es": "Foto: Fabricio Zerves / Image Media",
+  "fr": "Photo : Fabricio Zerves / Image Media",
+  "it": "Foto: Fabricio Zerves / Image Media"
+ },
+ "a30-p3": {
+  "en": "<strong>Jorge González Rivera</strong> (Club Independiente) won the men's race and set a new course record, crossing the line in 1:03:27. <strong>Kelvine Kiptoo</strong> (Club Atletismo Albacete, Kenya) finished second in 1:04:36, and <strong>Cristian Martínez Aláez</strong> completed the podium in 1:05:22. <strong>Reyes Estévez</strong>, the fastest man in the previous edition, finished fifth overall in 1:10:03 to win the Master 50 category.",
+  "pt": "<strong>Jorge González Rivera</strong> (Club Independiente) venceu a corrida masculina e bateu o recorde do percurso, cruzando a meta em 1:03:27. <strong>Kelvine Kiptoo</strong> (Club Atletismo Albacete, Quénia) foi segundo em 1:04:36, e <strong>Cristian Martínez Aláez</strong> completou o pódio em 1:05:22. <strong>Reyes Estévez</strong>, o mais rápido na edição anterior, terminou em quinto lugar da geral, em 1:10:03, vencendo a categoria Master 50.",
+  "es": "<strong>Jorge González Rivera</strong> (Club Independiente) ganó la carrera masculina y batió el récord del recorrido, cruzando la meta en 1:03:27. <strong>Kelvine Kiptoo</strong> (Club Atletismo Albacete, Kenia) fue segundo en 1:04:36, y <strong>Cristian Martínez Aláez</strong> completó el podio en 1:05:22. <strong>Reyes Estévez</strong>, el más rápido en la edición anterior, terminó quinto de la general, en 1:10:03, ganando la categoría Master 50.",
+  "fr": "<strong>Jorge González Rivera</strong> (Club Independiente) a remporté la course masculine et battu le record du parcours, franchissant la ligne en 1:03:27. <strong>Kelvine Kiptoo</strong> (Club Atletismo Albacete, Kenya) a terminé deuxième en 1:04:36, et <strong>Cristian Martínez Aláez</strong> a complété le podium en 1:05:22. <strong>Reyes Estévez</strong>, le coureur le plus rapide de l'édition précédente, a terminé cinquième au classement général, en 1:10:03, remportant la catégorie Master 50.",
+  "it": "<strong>Jorge González Rivera</strong> (Club Independiente) ha vinto la gara maschile e battuto il record del percorso, tagliando il traguardo in 1:03:27. <strong>Kelvine Kiptoo</strong> (Club Atletismo Albacete, Kenya) è arrivato secondo in 1:04:36, e <strong>Cristian Martínez Aláez</strong> ha completato il podio in 1:05:22. <strong>Reyes Estévez</strong>, il più veloce nell'edizione precedente, ha chiuso quinto assoluto in 1:10:03, vincendo la categoria Master 50."
+ },
+ "a30-p4": {
+  "en": "<strong>Katherine Tisalema Puruncaja</strong> (Club Bikila) won the women's race in 1:14:20, with <strong>Annet Chesang</strong>, of Uganda, second in 1:14:37.",
+  "pt": "<strong>Katherine Tisalema Puruncaja</strong> (Club Bikila) venceu a corrida feminina em 1:14:20, com <strong>Annet Chesang</strong>, do Uganda, em segundo, em 1:14:37.",
+  "es": "<strong>Katherine Tisalema Puruncaja</strong> (Club Bikila) ganó la carrera femenina en 1:14:20, con <strong>Annet Chesang</strong>, de Uganda, segunda, en 1:14:37.",
+  "fr": "<strong>Katherine Tisalema Puruncaja</strong> (Club Bikila) a remporté la course féminine en 1:14:20, devant <strong>Annet Chesang</strong>, d'Ouganda, deuxième en 1:14:37.",
+  "it": "<strong>Katherine Tisalema Puruncaja</strong> (Club Bikila) ha vinto la gara femminile in 1:14:20, davanti a <strong>Annet Chesang</strong>, dell'Uganda, seconda in 1:14:37."
+ },
+ "a30-stat": {
+  "en": "19 April 2026 · Chiclana de la Frontera · 21.097 km · III Viamed Media Maratón Ciudad de Chiclana · 2,800 runners",
+  "pt": "19 de abril de 2026 · Chiclana de la Frontera · 21,097 km · III Viamed Media Maratón Ciudad de Chiclana · 2.800 corredores",
+  "es": "19 de abril de 2026 · Chiclana de la Frontera · 21,097 km · III Viamed Media Maratón Ciudad de Chiclana · 2.800 corredores",
+  "fr": "19 avril 2026 · Chiclana de la Frontera · 21,097 km · III Viamed Media Maratón Ciudad de Chiclana · 2 800 coureurs",
+  "it": "19 aprile 2026 · Chiclana de la Frontera · 21,097 km · III Viamed Media Maratón Ciudad de Chiclana · 2.800 corridori"
+ },
+ "a30-inline2-credit": {
+  "en": "Photo: Paulo Nomade / Image Media",
+  "pt": "Foto: Paulo Nomade / Image Media",
+  "es": "Foto: Paulo Nomade / Image Media",
+  "fr": "Photo : Paulo Nomade / Image Media",
+  "it": "Foto: Paulo Nomade / Image Media"
+ },
+ "a30-p5": {
+  "en": "Chiclana mayor José María Román said the course was \"the ideal setting to achieve great marks,\" noting the competitive level had risen sharply since the race's first edition. The event has grown into what organisers describe as the city's flagship sporting fixture.",
+  "pt": "O presidente da câmara de Chiclana, José María Román, disse que o percurso era \"o cenário ideal para conseguir grandes marcas\", destacando que o nível competitivo tinha subido acentuadamente desde a primeira edição da prova. O evento tornou-se, segundo os organizadores, o evento desportivo de referência da cidade.",
+  "es": "El alcalde de Chiclana, José María Román, afirmó que el recorrido era \"el escenario ideal para lograr grandes marcas\", destacando que el nivel competitivo había subido notablemente desde la primera edición de la prueba. El evento se ha convertido, según los organizadores, en la gran cita deportiva de la ciudad.",
+  "fr": "Le maire de Chiclana, José María Román, a déclaré que le parcours était « le cadre idéal pour réaliser de grandes performances », soulignant que le niveau de compétition avait fortement augmenté depuis la première édition de la course. L'événement est devenu, selon les organisateurs, le rendez-vous sportif phare de la ville.",
+  "it": "Il sindaco di Chiclana, José María Román, ha dichiarato che il percorso era \"lo scenario ideale per ottenere grandi tempi\", sottolineando che il livello competitivo era cresciuto notevolmente dalla prima edizione della gara. L'evento è diventato, secondo gli organizzatori, il grande appuntamento sportivo della città."
+ },
+ "a30-p6": {
+  "en": "The Image Media coverage team comprised Michael Rosa, Paulo Nomade, Luis Moreira, Eduardo Castro and Fabricio Zerves.",
+  "pt": "A equipa de cobertura da Image Media foi composta por Michael Rosa, Paulo Nomade, Luis Moreira, Eduardo Castro e Fabricio Zerves.",
+  "es": "El equipo de cobertura de Image Media estuvo formado por Michael Rosa, Paulo Nomade, Luis Moreira, Eduardo Castro y Fabricio Zerves.",
+  "fr": "L'équipe de couverture d'Image Media était composée de Michael Rosa, Paulo Nomade, Luis Moreira, Eduardo Castro et Fabricio Zerves.",
+  "it": "Il team di copertura di Image Media era composto da Michael Rosa, Paulo Nomade, Luis Moreira, Eduardo Castro e Fabricio Zerves."
+ },
+ "a30-tagpill1": {
+  "en": "Media Maratón Ciudad de Chiclana",
+  "pt": "Media Maratón Ciudad de Chiclana",
+  "es": "Media Maratón Ciudad de Chiclana",
+  "fr": "Media Maratón Ciudad de Chiclana",
+  "it": "Media Maratón Ciudad de Chiclana"
+ },
+ "a30-tagpill2": {
+  "en": "Cádiz",
+  "pt": "Cádiz",
+  "es": "Cádiz",
+  "fr": "Cadix",
+  "it": "Cadice"
+ },
+ "a30-tagpill3": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "a30-related-title": {
+  "en": "More from Image Media",
+  "pt": "Mais da Image Media",
+  "es": "Más de Image Media",
+  "fr": "Plus d'Image Media",
+  "it": "Altro da Image Media"
+ },
+ "a30-related1-tag": {
+  "en": "Sports",
+  "pt": "Desporto",
+  "es": "Deportes",
+  "fr": "Sports",
+  "it": "Sport"
+ },
+ "a30-related1-title": {
+  "en": "See all Sports coverage",
+  "pt": "Ver toda a cobertura de Desporto",
+  "es": "Ver toda la cobertura de Deportes",
+  "fr": "Voir toute la couverture Sports",
+  "it": "Vedi tutta la copertura Sport"
+ },
+ "a30-related1-link": {
+  "en": "Visit section →",
+  "pt": "Visitar secção →",
+  "es": "Visitar sección →",
+  "fr": "Visiter la rubrique →",
+  "it": "Visita la sezione →"
+ },
+ "a30-related2-tag": {
+  "en": "Image Media",
+  "pt": "Image Media",
+  "es": "Image Media",
+  "fr": "Image Media",
+  "it": "Image Media"
+ },
+ "a30-related2-title": {
+  "en": "How Image Media covers your event",
+  "pt": "Como a Image Media cobre o seu evento",
+  "es": "Cómo cubre Image Media tu evento",
+  "fr": "Comment Image Media couvre votre événement",
+  "it": "Come Image Media copre il tuo evento"
+ },
+ "a30-related2-link": {
+  "en": "Learn more →",
+  "pt": "Saber mais →",
+  "es": "Saber más →",
+  "fr": "En savoir plus →",
+  "it": "Scopri di più →"
+ },
+ "a30-related3-tag": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "a30-related3-title": {
+  "en": "Aferdi And Ouhaddou Crowned Spanish Half Marathon Champions At XX Media Maratón De Mérida",
+  "pt": "Aferdi E Ouhaddou Sagram-Se Campeões De Espanha De Meia Maratona Na XX Media Maratón De Mérida",
+  "es": "Aferdi Y Ouhaddou Se Proclaman Campeones De España De Media Maratón En La XX Media Maratón De Mérida",
+  "fr": "Aferdi Et Ouhaddou Sacrés Champions D'Espagne Du Semi-Marathon À La XXe Media Maratón De Mérida",
+  "it": "Aferdi E Ouhaddou Campioni Di Spagna Di Mezza Maratona Alla XX Media Maratón De Mérida"
+ },
+ "a30-related3-link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
+ "card-s25__field__tag": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "card-s25__field__title": {
+  "en": "González Rivera And Tisalema Win III Viamed Media Maratón Ciudad De Chiclana",
+  "pt": "González Rivera E Tisalema Vencem A III Viamed Media Maratón Ciudad De Chiclana",
+  "es": "González Rivera Y Tisalema Ganan La III Viamed Media Maratón Ciudad De Chiclana",
+  "fr": "González Rivera Et Tisalema Remportent La III Viamed Media Maratón Ciudad De Chiclana",
+  "it": "González Rivera E Tisalema Vincono La III Viamed Media Maratón Ciudad De Chiclana"
+ },
+ "card-s25__field__deck": {
+  "en": "Jorge González Rivera set a new course record as a record 2,800 runners from 33 countries took part in Chiclana's first officially homologated half marathon on 19 April 2026.",
+  "pt": "Jorge González Rivera bateu o recorde do percurso, numa prova que reuniu um recorde de 2.800 corredores de 33 países na primeira meia maratona oficialmente homologada de Chiclana, a 19 de abril de 2026.",
+  "es": "Jorge González Rivera batió el récord del recorrido, en una prueba que reunió a un récord de 2.800 corredores de 33 países en la primera media maratón oficialmente homologada de Chiclana, el 19 de abril de 2026.",
+  "fr": "Jorge González Rivera a battu le record du parcours, alors qu'un nombre record de 2 800 coureurs venus de 33 pays ont pris part au premier semi-marathon officiellement homologué de Chiclana, le 19 avril 2026.",
+  "it": "Jorge González Rivera ha battuto il record del percorso, in una prova che ha visto un record di 2.800 corridori provenienti da 33 paesi prendere parte alla prima mezza maratona ufficialmente omologata di Chiclana, il 19 aprile 2026."
+ },
+ "card-s25__field__meta": {
+  "en": "Image Media coverage",
+  "pt": "Cobertura Image Media",
+  "es": "Cobertura de Image Media",
+  "fr": "Couverture Image Media",
+  "it": "Copertura Image Media"
+ },
+ "card-s25__field__link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
  },
  "chrome": {
   "nav.home": {
