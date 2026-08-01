@@ -6842,6 +6842,223 @@ window.IM_I18N = {
   "fr": "Lire plus →",
   "it": "Leggi di più →"
  },
+ "a32-tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a32-title": {
+  "en": "Hurbax Valladolid Draws Over 600 Athletes In Race Marking 475th Anniversary Of The Valladolid Controversy",
+  "pt": "Hurbax Valladolid Reúne Mais de 600 Atletas Em Prova Que Assinala o 475.º Aniversário da Controvérsia de Valladolid",
+  "es": "Hurbax Valladolid Reúne a Más de 600 Atletas En Una Prueba Que Conmemora el 475.º Aniversario de la Controversia de Valladolid",
+  "fr": "Hurbax Valladolid Réunit Plus de 600 Athlètes Pour Une Course Marquant le 475e Anniversaire de la Controverse de Valladolid",
+  "it": "Hurbax Valladolid Riunisce Oltre 600 Atleti In Una Gara Che Celebra il 475° Anniversario Della Controversia di Valladolid"
+ },
+ "a32-deck": {
+  "en": "The Club Deportivo Básico Hurbax brought its hybrid running-and-functional-fitness circuit to Acera de Recoletos on 25 April 2026, with more than 600 athletes registered and organisers highlighting record female participation.",
+  "pt": "O Club Deportivo Básico Hurbax levou o seu circuito híbrido de corrida e fitness funcional à Acera de Recoletos, em 25 de abril de 2026, com mais de 600 atletas inscritos e os organizadores a destacarem uma elevada participação feminina.",
+  "es": "El Club Deportivo Básico Hurbax llevó su circuito híbrido de carrera y fitness funcional a la Acera de Recoletos el 25 de abril de 2026, con más de 600 atletas inscritos y los organizadores destacando una elevada participación femenina.",
+  "fr": "Le Club Deportivo Básico Hurbax a organisé son circuit hybride de course et de fitness fonctionnel à Acera de Recoletos le 25 avril 2026, avec plus de 600 athlètes inscrits et une participation féminine record soulignée par les organisateurs.",
+  "it": "Il Club Deportivo Básico Hurbax ha portato il suo circuito ibrido di corsa e fitness funzionale ad Acera de Recoletos il 25 aprile 2026, con oltre 600 atleti iscritti e gli organizzatori che hanno sottolineato una partecipazione femminile record."
+ },
+ "a32-byline": {
+  "en": "By Image Media News Staff — Valladolid, Spain",
+  "pt": "Por Image Media News Staff — Valladolid, Espanha",
+  "es": "Por Image Media News Staff — Valladolid, España",
+  "fr": "Par Image Media News Staff — Valladolid, Espagne",
+  "it": "Di Image Media News Staff — Valladolid, Spagna"
+ },
+ "a32-hero-credit": {
+  "en": "Photo: Thainá Duete / Image Media",
+  "pt": "Foto: Thainá Duete / Image Media",
+  "es": "Foto: Thainá Duete / Image Media",
+  "fr": "Photo : Thainá Duete / Image Media",
+  "it": "Foto: Thainá Duete / Image Media"
+ },
+ "a32-p1": {
+  "en": "Hurbax brought its 2026 national circuit to Valladolid on Saturday 25 April, staging its hybrid running-and-functional-fitness race at Acera de Recoletos, with event coverage by the Image Media team. The event was organised by Club Deportivo Básico Hurbax, directed by Mario Reis Nava.",
+  "pt": "A Hurbax levou o seu circuito nacional de 2026 a Valladolid no sábado, dia 25 de abril, com a sua prova híbrida de corrida e fitness funcional na Acera de Recoletos, com cobertura do evento pela equipa da Image Media. O evento foi organizado pelo Club Deportivo Básico Hurbax, dirigido por Mario Reis Nava.",
+  "es": "Hurbax llevó su circuito nacional de 2026 a Valladolid el sábado 25 de abril, con su prueba híbrida de carrera y fitness funcional en la Acera de Recoletos, con cobertura del evento a cargo del equipo de Image Media. El evento fue organizado por el Club Deportivo Básico Hurbax, dirigido por Mario Reis Nava.",
+  "fr": "Hurbax a fait étape à Valladolid le samedi 25 avril dans le cadre de son circuit national 2026, avec sa course hybride de course à pied et de fitness fonctionnel à Acera de Recoletos, couverte par l'équipe d'Image Media. L'événement a été organisé par le Club Deportivo Básico Hurbax, dirigé par Mario Reis Nava.",
+  "it": "Hurbax ha portato il suo circuito nazionale 2026 a Valladolid sabato 25 aprile, con la sua gara ibrida di corsa e fitness funzionale ad Acera de Recoletos, con la copertura dell'evento affidata al team di Image Media. L'evento è stato organizzato dal Club Deportivo Básico Hurbax, diretto da Mario Reis Nava."
+ },
+ "a32-p2": {
+  "en": "The format combines running with functional workout stations along a one-kilometre urban circuit, alternating rowing, wall balls, sandbag lunges, farmer's carry and burpee broad jumps over a total distance of roughly 5 kilometres. Athletes competed in individual, pairs and team categories, with the individual men's race starting at 14:00.",
+  "pt": "O formato combina corrida com estações de treino funcional ao longo de um circuito urbano de um quilómetro, alternando remo, wall balls, avanços com saco de areia, farmer's carry e burpee broad jumps, ao longo de uma distância total de cerca de 5 quilómetros. Os atletas competiram nas categorias individual, dupla e equipa, com a prova individual masculina a arrancar às 14h00.",
+  "es": "El formato combina carrera con estaciones de entrenamiento funcional a lo largo de un circuito urbano de un kilómetro, alternando remo, wall balls, zancadas con saco de arena, farmer's carry y burpee broad jumps, en una distancia total de unos 5 kilómetros. Los atletas compitieron en categorías individual, parejas y equipos, con la prueba individual masculina arrancando a las 14:00.",
+  "fr": "Le format combine course à pied et ateliers de fitness fonctionnel sur un circuit urbain d'un kilomètre, alternant aviron, wall balls, fentes avec sac de sable, farmer's carry et burpee broad jumps, sur une distance totale d'environ 5 kilomètres. Les athlètes ont concouru dans les catégories individuelle, en duo et en équipe, la course individuelle masculine débutant à 14h00.",
+  "it": "Il formato combina la corsa con stazioni di allenamento funzionale lungo un circuito urbano di un chilometro, alternando canottaggio, wall ball, affondi con sacco di sabbia, farmer's carry e burpee broad jump, per una distanza totale di circa 5 chilometri. Gli atleti hanno gareggiato nelle categorie individuale, coppie e squadre, con la gara individuale maschile al via alle 14:00."
+ },
+ "a32-inline1-credit": {
+  "en": "Photo: Johnny / Image Media",
+  "pt": "Foto: Johnny / Image Media",
+  "es": "Foto: Johnny / Image Media",
+  "fr": "Photo : Johnny / Image Media",
+  "it": "Foto: Johnny / Image Media"
+ },
+ "a32-p3": {
+  "en": "Ahead of the event, organisers reported 632 registered participants, with capacity for up to around 1,000. More than 60% of entrants were women, which the organisers and Valladolid's city council highlighted as making it the only mixed outdoor sporting event in Spain with that level of female participation.",
+  "pt": "Antes do evento, os organizadores registaram 632 participantes inscritos, com capacidade para cerca de 1.000. Mais de 60% dos inscritos eram mulheres, algo que os organizadores e a Câmara Municipal de Valladolid destacaram como tornando este o único evento desportivo ao ar livre misto em Espanha com este nível de participação feminina.",
+  "es": "Antes del evento, los organizadores registraron 632 participantes inscritos, con capacidad para cerca de 1.000. Más del 60% de los inscritos eran mujeres, algo que los organizadores y el Ayuntamiento de Valladolid destacaron como el único evento deportivo al aire libre mixto de España con ese nivel de participación femenina.",
+  "fr": "Avant l'événement, les organisateurs ont annoncé 632 participants inscrits, pour une capacité d'environ 1 000. Plus de 60 % des inscrits étaient des femmes, un chiffre que les organisateurs et la mairie de Valladolid ont mis en avant comme faisant de cet événement le seul événement sportif mixte en plein air d'Espagne avec un tel niveau de participation féminine.",
+  "it": "Prima dell'evento, gli organizzatori hanno registrato 632 partecipanti iscritti, con una capacità di circa 1.000. Oltre il 60% degli iscritti erano donne, un dato che gli organizzatori e il Comune di Valladolid hanno sottolineato come l'unico evento sportivo misto all'aperto in Spagna con questo livello di partecipazione femminile."
+ },
+ "a32-stat": {
+  "en": "25 April 2026 · Valladolid · Hurbax Valladolid · 632+ registered · 60%+ women",
+  "pt": "25 de abril de 2026 · Valladolid · Hurbax Valladolid · +632 inscritos · +60% mulheres",
+  "es": "25 de abril de 2026 · Valladolid · Hurbax Valladolid · +632 inscritos · +60% mujeres",
+  "fr": "25 avril 2026 · Valladolid · Hurbax Valladolid · +632 inscrits · +60 % de femmes",
+  "it": "25 aprile 2026 · Valladolid · Hurbax Valladolid · +632 iscritti · +60% donne"
+ },
+ "a32-inline2-credit": {
+  "en": "Photo: Johnny / Image Media",
+  "pt": "Foto: Johnny / Image Media",
+  "es": "Foto: Johnny / Image Media",
+  "fr": "Photo : Johnny / Image Media",
+  "it": "Foto: Johnny / Image Media"
+ },
+ "a32-p4": {
+  "en": "The event doubled as a commemoration of the 475th anniversary of the Valladolid Controversy, the 16th-century debate held in the city that is widely regarded as an early precedent for human rights discourse. The programme, supported by Valladolid City Council's Participation and Sports department, included talks on women in sport, volunteer initiatives and live entertainment alongside the race.",
+  "pt": "O evento serviu também para assinalar o 475.º aniversário da Controvérsia de Valladolid, o debate do século XVI realizado na cidade que é amplamente considerado um precedente da discussão sobre direitos humanos. O programa, apoiado pelo departamento de Participação e Desporto da Câmara de Valladolid, incluiu palestras sobre mulheres e desporto, iniciativas de voluntariado e animação ao vivo em torno da prova.",
+  "es": "El evento también sirvió para conmemorar el 475.º aniversario de la Controversia de Valladolid, el debate del siglo XVI celebrado en la ciudad y ampliamente considerado un precedente en el discurso de los derechos humanos. El programa, apoyado por el área de Participación y Deportes del Ayuntamiento de Valladolid, incluyó charlas sobre mujer y deporte, iniciativas de voluntariado y animación en directo en torno a la prueba.",
+  "fr": "L'événement a également marqué le 475e anniversaire de la Controverse de Valladolid, le débat du XVIe siècle tenu dans la ville et largement considéré comme un précédent du discours sur les droits humains. Le programme, soutenu par le service Participation et Sports de la mairie de Valladolid, comprenait des conférences sur les femmes et le sport, des initiatives de bénévolat et de l'animation en direct autour de la course.",
+  "it": "L'evento ha inoltre celebrato il 475° anniversario della Controversia di Valladolid, il dibattito del XVI secolo tenutosi in città e ampiamente considerato un precedente nel discorso sui diritti umani. Il programma, sostenuto dall'assessorato alla Partecipazione e allo Sport del Comune di Valladolid, ha incluso conferenze sulle donne nello sport, iniziative di volontariato e intrattenimento dal vivo attorno alla gara."
+ },
+ "a32-p5": {
+  "en": "The Image Media coverage team comprised Luis Moreira, Thainá Duete, Mateus Pereira and Johnny.",
+  "pt": "A equipa de cobertura da Image Media foi composta por Luis Moreira, Thainá Duete, Mateus Pereira e Johnny.",
+  "es": "El equipo de cobertura de Image Media estuvo formado por Luis Moreira, Thainá Duete, Mateus Pereira y Johnny.",
+  "fr": "L'équipe de couverture d'Image Media était composée de Luis Moreira, Thainá Duete, Mateus Pereira et Johnny.",
+  "it": "Il team di copertura di Image Media era composto da Luis Moreira, Thainá Duete, Mateus Pereira e Johnny."
+ },
+ "a32-tagpill1": {
+  "en": "Hurbax Valladolid",
+  "pt": "Hurbax Valladolid",
+  "es": "Hurbax Valladolid",
+  "fr": "Hurbax Valladolid",
+  "it": "Hurbax Valladolid"
+ },
+ "a32-tagpill2": {
+  "en": "Valladolid",
+  "pt": "Valladolid",
+  "es": "Valladolid",
+  "fr": "Valladolid",
+  "it": "Valladolid"
+ },
+ "a32-tagpill3": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a32-related-title": {
+  "en": "More from Image Media",
+  "pt": "Mais da Image Media",
+  "es": "Más de Image Media",
+  "fr": "Plus d'Image Media",
+  "it": "Altro da Image Media"
+ },
+ "a32-related1-tag": {
+  "en": "Sports",
+  "pt": "Desporto",
+  "es": "Deportes",
+  "fr": "Sports",
+  "it": "Sport"
+ },
+ "a32-related1-title": {
+  "en": "See all Sports coverage",
+  "pt": "Ver toda a cobertura de Desporto",
+  "es": "Ver toda la cobertura de Deportes",
+  "fr": "Voir toute la couverture Sports",
+  "it": "Vedi tutta la copertura Sport"
+ },
+ "a32-related1-link": {
+  "en": "Visit section →",
+  "pt": "Visitar secção →",
+  "es": "Visitar sección →",
+  "fr": "Visiter la rubrique →",
+  "it": "Visita la sezione →"
+ },
+ "a32-related2-tag": {
+  "en": "Image Media",
+  "pt": "Image Media",
+  "es": "Image Media",
+  "fr": "Image Media",
+  "it": "Image Media"
+ },
+ "a32-related2-title": {
+  "en": "How Image Media covers your event",
+  "pt": "Como a Image Media cobre o seu evento",
+  "es": "Cómo cubre Image Media tu evento",
+  "fr": "Comment Image Media couvre votre événement",
+  "it": "Come Image Media copre il tuo evento"
+ },
+ "a32-related2-link": {
+  "en": "Learn more →",
+  "pt": "Saber mais →",
+  "es": "Saber más →",
+  "fr": "En savoir plus →",
+  "it": "Scopri di più →"
+ },
+ "a32-related3-tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a32-related3-title": {
+  "en": "Turtle Games Debut Draws Over 100 Athletes to CrossFit Esmoriz",
+  "pt": "Turtle Games Estreia-se com Mais de 100 Atletas no CrossFit Esmoriz",
+  "es": "Turtle Games Debuta con Más de 100 Atletas en CrossFit Esmoriz",
+  "fr": "Turtle Games Réunit Plus de 100 Athlètes pour ses Débuts au CrossFit Esmoriz",
+  "it": "I Turtle Games Debuttano con Oltre 100 Atleti al CrossFit Esmoriz"
+ },
+ "a32-related3-link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
+ "card-s27__field__tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "card-s27__field__title": {
+  "en": "Hurbax Valladolid Draws Over 600 Athletes In Race Marking 475th Anniversary Of The Valladolid Controversy",
+  "pt": "Hurbax Valladolid Reúne Mais de 600 Atletas Em Prova Que Assinala o 475.º Aniversário da Controvérsia de Valladolid",
+  "es": "Hurbax Valladolid Reúne a Más de 600 Atletas En Una Prueba Que Conmemora el 475.º Aniversario de la Controversia de Valladolid",
+  "fr": "Hurbax Valladolid Réunit Plus de 600 Athlètes Pour Une Course Marquant le 475e Anniversaire de la Controverse de Valladolid",
+  "it": "Hurbax Valladolid Riunisce Oltre 600 Atleti In Una Gara Che Celebra il 475° Anniversario Della Controversia di Valladolid"
+ },
+ "card-s27__field__deck": {
+  "en": "More than 600 athletes registered for Hurbax's 2026 stop in Valladolid, a hybrid running-and-functional-fitness race held 25 April 2026 to mark the 475th anniversary of the Valladolid Controversy.",
+  "pt": "Mais de 600 atletas inscreveram-se na etapa de Valladolid da Hurbax 2026, uma prova híbrida de corrida e fitness funcional disputada a 25 de abril de 2026 para assinalar o 475.º aniversário da Controvérsia de Valladolid.",
+  "es": "Más de 600 atletas se inscribieron en la etapa de Valladolid de Hurbax 2026, una prueba híbrida de carrera y fitness funcional disputada el 25 de abril de 2026 para conmemorar el 475.º aniversario de la Controversia de Valladolid.",
+  "fr": "Plus de 600 athlètes se sont inscrits à l'étape de Valladolid du circuit Hurbax 2026, une course hybride de course à pied et de fitness fonctionnel disputée le 25 avril 2026 pour marquer le 475e anniversaire de la Controverse de Valladolid.",
+  "it": "Oltre 600 atleti si sono iscritti alla tappa di Valladolid di Hurbax 2026, una gara ibrida di corsa e fitness funzionale disputata il 25 aprile 2026 per celebrare il 475° anniversario della Controversia di Valladolid."
+ },
+ "card-s27__field__meta": {
+  "en": "Image Media coverage",
+  "pt": "Cobertura Image Media",
+  "es": "Cobertura de Image Media",
+  "fr": "Couverture Image Media",
+  "it": "Copertura Image Media"
+ },
+ "card-s27__field__link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
  },
  "chrome": {
   "nav.home": {
