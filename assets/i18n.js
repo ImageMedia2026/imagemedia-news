@@ -7059,6 +7059,223 @@ window.IM_I18N = {
   "fr": "Lire plus →",
   "it": "Leggi di più →"
  },
+ "a33-tag": {
+  "en": "Cycling",
+  "pt": "Ciclismo",
+  "es": "Ciclismo",
+  "fr": "Cyclisme",
+  "it": "Ciclismo"
+ },
+ "a33-title": {
+  "en": "Gran Fondo València Returns For XXI Edition With Over 2,600 Cyclists From 24 Countries",
+  "pt": "Gran Fondo València Regressa Para a XXI Edição Com Mais de 2.600 Ciclistas de 24 Países",
+  "es": "Gran Fondo València Regresa En Su XXI Edición Con Más de 2.600 Ciclistas de 24 Países",
+  "fr": "Le Gran Fondo València Est De Retour Pour Sa XXIe Édition Avec Plus de 2 600 Cyclistes de 24 Pays",
+  "it": "Il Gran Fondo València Torna Per La XXI Edizione Con Oltre 2.600 Ciclisti Da 24 Paesi"
+ },
+ "a33-deck": {
+  "en": "The Santander-backed cyclosportive brought two routes of up to 177 kilometres through 28 municipalities of the Comunitat Valenciana on 2 May 2026, with event coverage by the Image Media team.",
+  "pt": "A cicloturista, com o patrocínio do Santander, levou dois percursos de até 177 quilómetros por 28 municípios da Comunitat Valenciana em 2 de maio de 2026, com cobertura do evento pela equipa da Image Media.",
+  "es": "La marcha cicloturista, patrocinada por Santander, llevó dos recorridos de hasta 177 kilómetros por 28 municipios de la Comunitat Valenciana el 2 de mayo de 2026, con cobertura del evento a cargo del equipo de Image Media.",
+  "fr": "La cyclosportive, sponsorisée par Santander, a proposé deux parcours allant jusqu'à 177 kilomètres à travers 28 communes de la Communauté valencienne le 2 mai 2026, avec une couverture de l'événement assurée par l'équipe d'Image Media.",
+  "it": "La granfondo, sponsorizzata da Santander, ha proposto due percorsi fino a 177 chilometri attraverso 28 comuni della Comunità Valenzana il 2 maggio 2026, con la copertura dell'evento affidata al team di Image Media."
+ },
+ "a33-byline": {
+  "en": "By Image Media News Staff — Valencia, Spain",
+  "pt": "Por Image Media News Staff — Valência, Espanha",
+  "es": "Por Image Media News Staff — Valencia, España",
+  "fr": "Par Image Media News Staff — Valence, Espagne",
+  "it": "Di Image Media News Staff — Valencia, Spagna"
+ },
+ "a33-hero-credit": {
+  "en": "Photo: Sergio Mendes / Image Media",
+  "pt": "Foto: Sergio Mendes / Image Media",
+  "es": "Foto: Sergio Mendes / Image Media",
+  "fr": "Photo : Sergio Mendes / Image Media",
+  "it": "Foto: Sergio Mendes / Image Media"
+ },
+ "a33-p1": {
+  "en": "The Gran Fondo Internacional Marcha Ciudad València returned to La Marina de València for its 21st edition on Saturday 2 May 2026, starting and finishing at Tinglado 2, with event coverage by the Image Media team. More than 2,600 cyclists from 24 countries and 36 Spanish provinces took part, riding a route that passed through 28 municipalities across the Comunitat Valenciana.",
+  "pt": "A Gran Fondo Internacional Marcha Ciudad València regressou à Marina de Valência para a sua 21.ª edição, no sábado, dia 2 de maio de 2026, com partida e chegada no Tinglado 2, com cobertura do evento pela equipa da Image Media. Mais de 2.600 ciclistas de 24 países e 36 províncias espanholas participaram, percorrendo um trajeto que passou por 28 municípios da Comunitat Valenciana.",
+  "es": "La Gran Fondo Internacional Marcha Ciudad València regresó a la Marina de Valencia para su 21.ª edición, el sábado 2 de mayo de 2026, con salida y meta en el Tinglado 2, con cobertura del evento a cargo del equipo de Image Media. Más de 2.600 ciclistas de 24 países y 36 provincias españolas tomaron parte, recorriendo un trazado que pasó por 28 municipios de la Comunitat Valenciana.",
+  "fr": "Le Gran Fondo Internacional Marcha Ciudad València est revenu à La Marina de València pour sa 21e édition, le samedi 2 mai 2026, avec un départ et une arrivée au Tinglado 2, couvert par l'équipe d'Image Media. Plus de 2 600 cyclistes venus de 24 pays et de 36 provinces espagnoles y ont pris part, sur un parcours traversant 28 communes de la Communauté valencienne.",
+  "it": "Il Gran Fondo Internacional Marcha Ciudad València è tornato a La Marina de València per la sua 21ª edizione, sabato 2 maggio 2026, con partenza e arrivo al Tinglado 2, con la copertura dell'evento affidata al team di Image Media. Oltre 2.600 ciclisti provenienti da 24 paesi e 36 province spagnole hanno preso parte, percorrendo un tracciato che ha attraversato 28 comuni della Comunità Valenzana."
+ },
+ "a33-p2": {
+  "en": "Riders chose between two distances: a 177-kilometre Gran Fondo route with 2,033 metres of elevation gain, and a 148-kilometre Medio Fondo route with 1,474 metres of climbing. Both shared a series of notable ascents, including Canteras, l'Oronet (up to 11% gradient), Alto Segart (up to 22%) and Chirivilla (up to 8%). As a mass-participation cyclosportive rather than a competitive race, the event does not publish individual finishing results.",
+  "pt": "Os ciclistas escolheram entre duas distâncias: um percurso Gran Fondo de 177 quilómetros com 2.033 metros de desnível, e um percurso Medio Fondo de 148 quilómetros com 1.474 metros de subida. Ambos partilharam uma série de subidas notáveis, incluindo Canteras, l'Oronet (até 11% de inclinação), Alto Segart (até 22%) e Chirivilla (até 8%). Por se tratar de uma cicloturista de participação em massa e não de uma prova competitiva, o evento não publica resultados individuais.",
+  "es": "Los ciclistas eligieron entre dos distancias: un recorrido Gran Fondo de 177 kilómetros con 2.033 metros de desnivel, y un recorrido Medio Fondo de 148 kilómetros con 1.474 metros de subida. Ambos compartieron una serie de ascensos destacados, entre ellos Canteras, l'Oronet (hasta 11% de pendiente), Alto Segart (hasta 22%) y Chirivilla (hasta 8%). Al tratarse de una marcha cicloturista de participación masiva y no de una prueba competitiva, el evento no publica resultados individuales.",
+  "fr": "Les participants avaient le choix entre deux distances : un parcours Gran Fondo de 177 kilomètres avec 2 033 mètres de dénivelé, et un parcours Medio Fondo de 148 kilomètres avec 1 474 mètres d'ascension. Les deux parcours partageaient plusieurs montées notables, dont Canteras, l'Oronet (jusqu'à 11 % de pente), Alto Segart (jusqu'à 22 %) et Chirivilla (jusqu'à 8 %). S'agissant d'une cyclosportive de participation de masse et non d'une course compétitive, l'événement ne publie pas de résultats individuels.",
+  "it": "I ciclisti hanno scelto tra due distanze: un percorso Gran Fondo di 177 chilometri con 2.033 metri di dislivello, e un percorso Medio Fondo di 148 chilometri con 1.474 metri di salita. Entrambi condividevano una serie di salite notevoli, tra cui Canteras, l'Oronet (fino all'11% di pendenza), Alto Segart (fino al 22%) e Chirivilla (fino all'8%). Trattandosi di una granfondo di partecipazione di massa e non di una gara competitiva, l'evento non pubblica risultati individuali."
+ },
+ "a33-inline1-credit": {
+  "en": "Photo: Paulo Nomade / Image Media",
+  "pt": "Foto: Paulo Nomade / Image Media",
+  "es": "Foto: Paulo Nomade / Image Media",
+  "fr": "Photo : Paulo Nomade / Image Media",
+  "it": "Foto: Paulo Nomade / Image Media"
+ },
+ "a33-p3": {
+  "en": "The event, directed by Javier Castellar of Club Deportivo Podium, mobilised more than 1,100 security and logistics personnel and 250 Motoenlaces motorcycles, with support from the Guardia Civil, the Generalitat Valenciana, the Diputación de Valencia and local police across the 28 municipalities on the route. Tour de France winner Pedro Delgado served as the event's cycling ambassador.",
+  "pt": "O evento, dirigido por Javier Castellar, do Club Deportivo Podium, mobilizou mais de 1.100 elementos de segurança e logística e 250 motos de Motoenlaces, com o apoio da Guardia Civil, da Generalitat Valenciana, da Diputación de Valencia e das polícias locais nos 28 municípios do percurso. O vencedor do Tour de France Pedro Delgado foi o embaixador ciclista do evento.",
+  "es": "El evento, dirigido por Javier Castellar, del Club Deportivo Podium, movilizó a más de 1.100 efectivos de seguridad y logística y 250 motos de Motoenlaces, con el apoyo de la Guardia Civil, la Generalitat Valenciana, la Diputación de Valencia y las policías locales en los 28 municipios del recorrido. El ganador del Tour de Francia Pedro Delgado ejerció como embajador ciclista del evento.",
+  "fr": "L'événement, dirigé par Javier Castellar, du Club Deportivo Podium, a mobilisé plus de 1 100 agents de sécurité et de logistique et 250 motos Motoenlaces, avec le soutien de la Guardia Civil, de la Generalitat Valenciana, de la Diputación de Valencia et des polices locales des 28 communes du parcours. Le vainqueur du Tour de France Pedro Delgado a été l'ambassadeur cycliste de l'événement.",
+  "it": "L'evento, diretto da Javier Castellar del Club Deportivo Podium, ha mobilitato oltre 1.100 addetti alla sicurezza e alla logistica e 250 moto Motoenlaces, con il supporto della Guardia Civil, della Generalitat Valenciana, della Diputación de Valencia e delle polizie locali nei 28 comuni del percorso. Il vincitore del Tour de France Pedro Delgado è stato l'ambasciatore ciclistico dell'evento."
+ },
+ "a33-stat": {
+  "en": "2 May 2026 · Valencia · Gran Fondo València, XXI Edition · 2,600+ cyclists · 24 countries",
+  "pt": "2 de maio de 2026 · Valência · Gran Fondo València, XXI Edição · +2.600 ciclistas · 24 países",
+  "es": "2 de mayo de 2026 · Valencia · Gran Fondo València, XXI Edición · +2.600 ciclistas · 24 países",
+  "fr": "2 mai 2026 · Valence · Gran Fondo València, XXIe édition · +2 600 cyclistes · 24 pays",
+  "it": "2 maggio 2026 · Valencia · Gran Fondo València, XXI Edizione · +2.600 ciclisti · 24 paesi"
+ },
+ "a33-inline2-credit": {
+  "en": "Photo: Luan Rodrigo / Image Media",
+  "pt": "Foto: Luan Rodrigo / Image Media",
+  "es": "Foto: Luan Rodrigo / Image Media",
+  "fr": "Photo : Luan Rodrigo / Image Media",
+  "it": "Foto: Luan Rodrigo / Image Media"
+ },
+ "a33-p4": {
+  "en": "The event partnered with Fundación CRIS contra el Cáncer, directing proceeds from solidarity jersey sales toward cancer research and paediatric cancer programmes. Alongside the ride, La Marina de València hosted the Expo-Ciclismo trade show, live music and gastronomy stands, with organisers estimating an economic impact of around €3 million for the region.",
+  "pt": "O evento associou-se à Fundación CRIS contra el Cáncer, destinando as receitas da venda das camisolas solidárias à investigação oncológica e a programas de cancro pediátrico. Paralelamente à prova, a Marina de Valência recebeu a feira Expo-Ciclismo, música ao vivo e espaços de gastronomia, com os organizadores a estimarem um impacto económico de cerca de 3 milhões de euros para a região.",
+  "es": "El evento se asoció con la Fundación CRIS contra el Cáncer, destinando lo recaudado con la venta del maillot solidario a la investigación oncológica y a programas de cáncer infantil. Junto a la marcha, la Marina de Valencia acogió la feria Expo-Ciclismo, música en directo y puestos de gastronomía, con un impacto económico estimado por los organizadores en unos 3 millones de euros para la región.",
+  "fr": "L'événement s'est associé à la Fundación CRIS contra el Cáncer, reversant les recettes de la vente du maillot solidaire à la recherche contre le cancer et à des programmes de cancérologie pédiatrique. Parallèlement à la course, La Marina de València a accueilli le salon Expo-Ciclismo, de la musique live et des stands gastronomiques, pour un impact économique estimé par les organisateurs à environ 3 millions d'euros pour la région.",
+  "it": "L'evento ha collaborato con la Fundación CRIS contra el Cáncer, destinando i proventi della vendita della maglia solidale alla ricerca sul cancro e a programmi di oncologia pediatrica. Accanto alla gara, La Marina de València ha ospitato la fiera Expo-Ciclismo, musica dal vivo e stand gastronomici, con un impatto economico stimato dagli organizzatori di circa 3 milioni di euro per la regione."
+ },
+ "a33-p5": {
+  "en": "The Image Media coverage team comprised Eduardo Castro, Luis Moreira, Paulo Nomade, Eduardo Almeida, Lucas Araújo, Luan Rodrigo, Sérgio Mendes, José Ramón Moreno and Fran Paulino.",
+  "pt": "A equipa de cobertura da Image Media foi composta por Eduardo Castro, Luis Moreira, Paulo Nomade, Eduardo Almeida, Lucas Araújo, Luan Rodrigo, Sérgio Mendes, José Ramón Moreno e Fran Paulino.",
+  "es": "El equipo de cobertura de Image Media estuvo formado por Eduardo Castro, Luis Moreira, Paulo Nomade, Eduardo Almeida, Lucas Araújo, Luan Rodrigo, Sérgio Mendes, José Ramón Moreno y Fran Paulino.",
+  "fr": "L'équipe de couverture d'Image Media était composée d'Eduardo Castro, Luis Moreira, Paulo Nomade, Eduardo Almeida, Lucas Araújo, Luan Rodrigo, Sérgio Mendes, José Ramón Moreno et Fran Paulino.",
+  "it": "Il team di copertura di Image Media era composto da Eduardo Castro, Luis Moreira, Paulo Nomade, Eduardo Almeida, Lucas Araújo, Luan Rodrigo, Sérgio Mendes, José Ramón Moreno e Fran Paulino."
+ },
+ "a33-tagpill1": {
+  "en": "Gran Fondo València",
+  "pt": "Gran Fondo València",
+  "es": "Gran Fondo València",
+  "fr": "Gran Fondo València",
+  "it": "Gran Fondo València"
+ },
+ "a33-tagpill2": {
+  "en": "Valencia",
+  "pt": "Valência",
+  "es": "Valencia",
+  "fr": "Valence",
+  "it": "Valencia"
+ },
+ "a33-tagpill3": {
+  "en": "Cycling",
+  "pt": "Ciclismo",
+  "es": "Ciclismo",
+  "fr": "Cyclisme",
+  "it": "Ciclismo"
+ },
+ "a33-related-title": {
+  "en": "More from Image Media",
+  "pt": "Mais da Image Media",
+  "es": "Más de Image Media",
+  "fr": "Plus d'Image Media",
+  "it": "Altro da Image Media"
+ },
+ "a33-related1-tag": {
+  "en": "Sports",
+  "pt": "Desporto",
+  "es": "Deportes",
+  "fr": "Sports",
+  "it": "Sport"
+ },
+ "a33-related1-title": {
+  "en": "See all Sports coverage",
+  "pt": "Ver toda a cobertura de Desporto",
+  "es": "Ver toda la cobertura de Deportes",
+  "fr": "Voir toute la couverture Sports",
+  "it": "Vedi tutta la copertura Sport"
+ },
+ "a33-related1-link": {
+  "en": "Visit section →",
+  "pt": "Visitar secção →",
+  "es": "Visitar sección →",
+  "fr": "Visiter la rubrique →",
+  "it": "Visita la sezione →"
+ },
+ "a33-related2-tag": {
+  "en": "Image Media",
+  "pt": "Image Media",
+  "es": "Image Media",
+  "fr": "Image Media",
+  "it": "Image Media"
+ },
+ "a33-related2-title": {
+  "en": "How Image Media covers your event",
+  "pt": "Como a Image Media cobre o seu evento",
+  "es": "Cómo cubre Image Media tu evento",
+  "fr": "Comment Image Media couvre votre événement",
+  "it": "Come Image Media copre il tuo evento"
+ },
+ "a33-related2-link": {
+  "en": "Learn more →",
+  "pt": "Saber mais →",
+  "es": "Saber más →",
+  "fr": "En savoir plus →",
+  "it": "Scopri di più →"
+ },
+ "a33-related3-tag": {
+  "en": "Cycling",
+  "pt": "Ciclismo",
+  "es": "Ciclismo",
+  "fr": "Cyclisme",
+  "it": "Ciclismo"
+ },
+ "a33-related3-title": {
+  "en": "Fischer And Benedito Win Preeuropeo Templarios MTB Race In Jerez De Los Caballeros",
+  "pt": "Fischer E Benedito Vencem A Preeuropeo Templarios MTB Race Em Jerez De Los Caballeros",
+  "es": "Fischer Y Benedito Ganan La Preeuropeo Templarios MTB Race En Jerez De Los Caballeros",
+  "fr": "Fischer Et Benedito Remportent La Preeuropeo Templarios MTB Race À Jerez De Los Caballeros",
+  "it": "Fischer E Benedito Vincono La Preeuropeo Templarios MTB Race A Jerez De Los Caballeros"
+ },
+ "a33-related3-link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
+ "card-s28__field__tag": {
+  "en": "Cycling",
+  "pt": "Ciclismo",
+  "es": "Ciclismo",
+  "fr": "Cyclisme",
+  "it": "Ciclismo"
+ },
+ "card-s28__field__title": {
+  "en": "Gran Fondo València Returns For XXI Edition With Over 2,600 Cyclists From 24 Countries",
+  "pt": "Gran Fondo València Regressa Para a XXI Edição Com Mais de 2.600 Ciclistas de 24 Países",
+  "es": "Gran Fondo València Regresa En Su XXI Edición Con Más de 2.600 Ciclistas de 24 Países",
+  "fr": "Le Gran Fondo València Est De Retour Pour Sa XXIe Édition Avec Plus de 2 600 Cyclistes de 24 Pays",
+  "it": "Il Gran Fondo València Torna Per La XXI Edizione Con Oltre 2.600 Ciclisti Da 24 Paesi"
+ },
+ "card-s28__field__deck": {
+  "en": "The Santander-backed cyclosportive offered 177km and 148km routes through 28 municipalities of the Comunitat Valenciana on 2 May 2026.",
+  "pt": "A cicloturista, com o patrocínio do Santander, ofereceu percursos de 177 km e 148 km por 28 municípios da Comunitat Valenciana em 2 de maio de 2026.",
+  "es": "La marcha cicloturista, patrocinada por Santander, ofreció recorridos de 177 km y 148 km por 28 municipios de la Comunitat Valenciana el 2 de mayo de 2026.",
+  "fr": "La cyclosportive, sponsorisée par Santander, proposait des parcours de 177 km et 148 km à travers 28 communes de la Communauté valencienne le 2 mai 2026.",
+  "it": "La granfondo, sponsorizzata da Santander, ha offerto percorsi di 177 km e 148 km attraverso 28 comuni della Comunità Valenzana il 2 maggio 2026."
+ },
+ "card-s28__field__meta": {
+  "en": "Image Media coverage",
+  "pt": "Cobertura Image Media",
+  "es": "Cobertura de Image Media",
+  "fr": "Couverture Image Media",
+  "it": "Copertura Image Media"
+ },
+ "card-s28__field__link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
  },
  "chrome": {
   "nav.home": {
