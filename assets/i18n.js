@@ -5568,6 +5568,151 @@ window.IM_I18N = {
  },
  "card-s19__field__link": {
   "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
+ },
+ "a25-tag": {
+  "en": "Athletics", "pt": "Atletismo", "es": "Atletismo", "fr": "Athlétisme", "it": "Atletica"
+ },
+ "a25-title": {
+  "en": "Ángel Mier And María Alles Win Fourth Trail Peña Cabarga In Solares",
+  "pt": "Ángel Mier E María Alles Vencem A Quarta Edição Do Trail Peña Cabarga Em Solares",
+  "es": "Ángel Mier Y María Alles Ganan La Cuarta Edición Del Trail Peña Cabarga En Solares",
+  "fr": "Ángel Mier Et María Alles Remportent La Quatrième Édition Du Trail Peña Cabarga À Solares",
+  "it": "Ángel Mier E María Alles Vincono La Quarta Edizione Del Trail Peña Cabarga A Solares"
+ },
+ "a25-deck": {
+  "en": "More than 750 athletes took part across three formats on 5 April, as the 28K also hosted the FCDME individual mountain-running championship.",
+  "pt": "Mais de 750 atletas participaram em três formatos a 5 de abril, com os 28K a receberem também o campeonato individual de corridas de montanha da FCDME.",
+  "es": "Más de 750 atletas participaron en tres formatos el 5 de abril, mientras que los 28K acogieron también el campeonato individual de carreras por montaña de la FCDME.",
+  "fr": "Plus de 750 athlètes ont participé à trois formats le 5 avril, tandis que le 28K accueillait également le championnat individuel de course en montagne de la FCDME.",
+  "it": "Oltre 750 atleti hanno partecipato a tre formati il 5 aprile, mentre la 28K ha ospitato anche il campionato individuale di corsa in montagna della FCDME."
+ },
+ "a25-byline": {
+  "en": "By Image Media News Staff — Solares, Spain",
+  "pt": "Por Image Media News — Solares, Espanha",
+  "es": "Por Image Media News — Solares, España",
+  "fr": "Par Image Media News — Solares, Espagne",
+  "it": "Di Image Media News — Solares, Spagna"
+ },
+ "a25-hero-credit": {
+  "en": "Photo: Kaue / Image Media", "pt": "Foto: Kaue / Image Media", "es": "Foto: Kaue / Image Media", "fr": "Photo : Kaue / Image Media", "it": "Foto: Kaue / Image Media"
+ },
+ "a25-p1": {
+  "en": "The fourth Trail Peña Cabarga was held on 5 April 2026, with its start and finish in Solares. Organised by Club Deportivo Ozono with the Medio Cudeyo Town Council, the event drew more than 750 athletes and was covered by the Image Media team.",
+  "pt": "A quarta edição do Trail Peña Cabarga realizou-se a 5 de abril de 2026, com partida e chegada em Solares. Organizado pelo Club Deportivo Ozono com o Município de Medio Cudeyo, o evento reuniu mais de 750 atletas e teve cobertura da equipa Image Media.",
+  "es": "La cuarta edición del Trail Peña Cabarga se celebró el 5 de abril de 2026, con salida y llegada en Solares. Organizado por el Club Deportivo Ozono junto con el Ayuntamiento de Medio Cudeyo, el evento reunió a más de 750 atletas y contó con la cobertura del equipo de Image Media.",
+  "fr": "La quatrième édition du Trail Peña Cabarga s'est tenue le 5 avril 2026, avec départ et arrivée à Solares. Organisé par le Club Deportivo Ozono avec la mairie de Medio Cudeyo, l'événement a réuni plus de 750 athlètes et a été couvert par l'équipe Image Media.",
+  "it": "La quarta edizione del Trail Peña Cabarga si è svolta il 5 aprile 2026, con partenza e arrivo a Solares. Organizzato dal Club Deportivo Ozono con il Comune di Medio Cudeyo, l'evento ha riunito oltre 750 atleti ed è stato seguito dal team Image Media."
+ },
+ "a25-p2": {
+  "en": "The programme combined a 28K main race, a 14K event for runners and walkers, and a 6K youth vertical for cadet and younger categories. The 28K also hosted the FCDME individual mountain-running championship.",
+  "pt": "O programa combinou uma prova principal de 28K, uma prova de 14K para corredores e caminhantes e uma vertical jovem de 6K para cadetes e categorias mais novas. Os 28K receberam também o campeonato individual de corridas de montanha da FCDME.",
+  "es": "El programa combinó una prueba principal de 28K, una carrera de 14K para corredores y andarines y una vertical juvenil de 6K para cadetes y categorías inferiores. Los 28K acogieron también el campeonato individual de carreras por montaña de la FCDME.",
+  "fr": "Le programme associait une épreuve principale de 28K, une course de 14K pour coureurs et marcheurs et une verticale jeunes de 6K pour les cadets et les catégories inférieures. Le 28K accueillait également le championnat individuel de course en montagne de la FCDME.",
+  "it": "Il programma comprendeva una gara principale di 28K, una prova di 14K per corridori e camminatori e una verticale giovanile di 6K per cadetti e categorie inferiori. La 28K ospitava anche il campionato individuale di corsa in montagna della FCDME."
+ },
+ "a25-inline1-credit": {
+  "en": "Photo: Eduardo Castro / Image Media", "pt": "Foto: Eduardo Castro / Image Media", "es": "Foto: Eduardo Castro / Image Media", "fr": "Photo : Eduardo Castro / Image Media", "it": "Foto: Eduardo Castro / Image Media"
+ },
+ "a25-p3": {
+  "en": "Álvaro Boo led the men's 28K at kilometres eight and 20, but Ángel Mier was strongest in the final section. Mier won in 2:34:10, ahead of Víctor Álvarez Martínez in 2:35:24 and Diego Díaz Pando in 2:37:06.",
+  "pt": "Álvaro Boo liderou os 28K masculinos aos quilómetros oito e 20, mas Ángel Mier foi o mais forte no troço final. Mier venceu em 2:34:10, à frente de Víctor Álvarez Martínez, com 2:35:24, e Diego Díaz Pando, com 2:37:06.",
+  "es": "Álvaro Boo lideró los 28K masculinos en los kilómetros ocho y 20, pero Ángel Mier fue el más fuerte en el tramo final. Mier ganó en 2:34:10, por delante de Víctor Álvarez Martínez, con 2:35:24, y Diego Díaz Pando, con 2:37:06.",
+  "fr": "Álvaro Boo menait le 28K masculin aux kilomètres huit et 20, mais Ángel Mier s'est montré le plus fort dans la partie finale. Mier s'est imposé en 2 h 34 min 10 s, devant Víctor Álvarez Martínez en 2 h 35 min 24 s et Diego Díaz Pando en 2 h 37 min 06 s.",
+  "it": "Álvaro Boo ha guidato la 28K maschile ai chilometri otto e 20, ma Ángel Mier è stato il più forte nel tratto finale. Mier ha vinto in 2:34:10, davanti a Víctor Álvarez Martínez in 2:35:24 e Diego Díaz Pando in 2:37:06."
+ },
+ "a25-stat": {
+  "en": "5 April 2026 · Solares · Fourth edition · More than 750 athletes · 28K / 14K / youth vertical",
+  "pt": "5 de abril de 2026 · Solares · Quarta edição · Mais de 750 atletas · 28K / 14K / vertical jovem",
+  "es": "5 de abril de 2026 · Solares · Cuarta edición · Más de 750 atletas · 28K / 14K / vertical juvenil",
+  "fr": "5 avril 2026 · Solares · Quatrième édition · Plus de 750 athlètes · 28K / 14K / verticale jeunes",
+  "it": "5 aprile 2026 · Solares · Quarta edizione · Oltre 750 atleti · 28K / 14K / verticale giovanile"
+ },
+ "a25-p4": {
+  "en": "María Alles took control of the women's 28K during the second half and finished in 3:16:14. María Ricondo placed second in 3:23:29, while Verónica Ordóñez completed the podium in 3:26:38.",
+  "pt": "María Alles assumiu a liderança dos 28K femininos na segunda metade e terminou em 3:16:14. María Ricondo foi segunda, em 3:23:29, enquanto Verónica Ordóñez completou o pódio em 3:26:38.",
+  "es": "María Alles tomó el control de los 28K femeninos en la segunda mitad y terminó en 3:16:14. María Ricondo fue segunda en 3:23:29, mientras que Verónica Ordóñez completó el podio en 3:26:38.",
+  "fr": "María Alles a pris le contrôle du 28K féminin dans la seconde moitié et a terminé en 3 h 16 min 14 s. María Ricondo s'est classée deuxième en 3 h 23 min 29 s, tandis que Verónica Ordóñez a complété le podium en 3 h 26 min 38 s.",
+  "it": "María Alles ha preso il comando della 28K femminile nella seconda metà e ha chiuso in 3:16:14. María Ricondo si è classificata seconda in 3:23:29, mentre Verónica Ordóñez ha completato il podio in 3:26:38."
+ },
+ "a25-p5": {
+  "en": "The 14K victories went to Aimar Larrea in 1:07:34 and Eva Fernández in 1:28:20. Fog remained around Pico Llen during the morning, adding a further mountain element to a race held in otherwise favourable conditions.",
+  "pt": "As vitórias nos 14K foram para Aimar Larrea, em 1:07:34, e Eva Fernández, em 1:28:20. O nevoeiro manteve-se em torno do Pico Llen durante a manhã, acrescentando mais um elemento de montanha a uma prova disputada, de resto, em condições favoráveis.",
+  "es": "Las victorias en los 14K fueron para Aimar Larrea, con 1:07:34, y Eva Fernández, con 1:28:20. La niebla se mantuvo alrededor del Pico Llen durante la mañana, añadiendo un elemento más de montaña a una carrera disputada, por lo demás, en condiciones favorables.",
+  "fr": "Les victoires du 14K sont revenues à Aimar Larrea en 1 h 07 min 34 s et à Eva Fernández en 1 h 28 min 20 s. Le brouillard est resté autour du Pico Llen pendant la matinée, ajoutant une dimension montagnarde supplémentaire à une course disputée par ailleurs dans des conditions favorables.",
+  "it": "Le vittorie nella 14K sono andate ad Aimar Larrea in 1:07:34 e a Eva Fernández in 1:28:20. La nebbia è rimasta intorno al Pico Llen durante la mattinata, aggiungendo un ulteriore elemento di montagna a una gara disputata, per il resto, in condizioni favorevoli."
+ },
+ "a25-p6": {
+  "en": "The Image Media coverage team comprised Eduardo Castro, Kaue, Lucas, Yamada, Clereson Martins and Jose Ramon Moreno. Their work followed the event from pole-assisted climbing and wooded trail sections to the finishing tape in Solares.",
+  "pt": "A equipa de cobertura da Image Media foi composta por Eduardo Castro, Kaue, Lucas, Yamada, Clereson Martins e Jose Ramon Moreno. O trabalho acompanhou o evento desde as subidas com bastões e os trilhos arborizados até à meta em Solares.",
+  "es": "El equipo de cobertura de Image Media estuvo formado por Eduardo Castro, Kaue, Lucas, Yamada, Clereson Martins y Jose Ramon Moreno. Su trabajo siguió el evento desde las subidas con bastones y los tramos boscosos hasta la meta en Solares.",
+  "fr": "L'équipe de couverture d'Image Media était composée d'Eduardo Castro, Kaue, Lucas, Yamada, Clereson Martins et Jose Ramon Moreno. Son travail a suivi l'événement depuis les montées avec bâtons et les passages boisés jusqu'à la ligne d'arrivée à Solares.",
+  "it": "Il team di copertura di Image Media era composto da Eduardo Castro, Kaue, Lucas, Yamada, Clereson Martins e Jose Ramon Moreno. Il lavoro ha seguito l'evento dalle salite con i bastoncini e dai tratti boschivi fino al traguardo di Solares."
+ },
+ "a25-tagpill1": {
+  "en": "Trail Peña Cabarga", "pt": "Trail Peña Cabarga", "es": "Trail Peña Cabarga", "fr": "Trail Peña Cabarga", "it": "Trail Peña Cabarga"
+ },
+ "a25-tagpill2": {
+  "en": "Solares", "pt": "Solares", "es": "Solares", "fr": "Solares", "it": "Solares"
+ },
+ "a25-tagpill3": {
+  "en": "Trail Running", "pt": "Trail Running", "es": "Carreras por montaña", "fr": "Trail", "it": "Trail running"
+ },
+ "a25-related-title": {
+  "en": "More from Image Media", "pt": "Mais da Image Media", "es": "Más de Image Media", "fr": "Plus d'Image Media", "it": "Altro da Image Media"
+ },
+ "a25-related1-tag": {
+  "en": "Sports", "pt": "Desporto", "es": "Deportes", "fr": "Sports", "it": "Sport"
+ },
+ "a25-related1-title": {
+  "en": "See all Sports coverage", "pt": "Ver toda a cobertura de Desporto", "es": "Ver toda la cobertura de Deportes", "fr": "Voir toute la couverture Sports", "it": "Vedi tutta la copertura Sport"
+ },
+ "a25-related1-link": {
+  "en": "Visit section →", "pt": "Visitar secção →", "es": "Visitar sección →", "fr": "Visiter la rubrique →", "it": "Visita la sezione →"
+ },
+ "a25-related2-tag": {
+  "en": "Image Media", "pt": "Image Media", "es": "Image Media", "fr": "Image Media", "it": "Image Media"
+ },
+ "a25-related2-title": {
+  "en": "How Image Media covers your event", "pt": "Como a Image Media cobre o seu evento", "es": "Cómo cubre Image Media tu evento", "fr": "Comment Image Media couvre votre événement", "it": "Come Image Media copre il tuo evento"
+ },
+ "a25-related2-link": {
+  "en": "Learn more →", "pt": "Saber mais →", "es": "Saber más →", "fr": "En savoir plus →", "it": "Scopri di più →"
+ },
+ "a25-related3-tag": {
+  "en": "Athletics", "pt": "Atletismo", "es": "Atletismo", "fr": "Athlétisme", "it": "Atletica"
+ },
+ "a25-related3-title": {
+  "en": "Diego Menéndez And María Martínez Crowned Spanish Trail Champions In Caldas De Reis",
+  "pt": "Diego Menéndez E María Martínez Sagram-se Campeões De Espanha De Trail Em Caldas De Reis",
+  "es": "Diego Menéndez Y María Martínez, Campeones De España De Trail En Caldas De Reis",
+  "fr": "Diego Menéndez Et María Martínez Sacrés Champions D'Espagne De Trail À Caldas De Reis",
+  "it": "Diego Menéndez E María Martínez Campioni Di Spagna Di Trail A Caldas De Reis"
+ },
+ "a25-related3-link": {
+  "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
+ },
+ "card-s20__field__tag": {
+  "en": "Athletics", "pt": "Atletismo", "es": "Atletismo", "fr": "Athlétisme", "it": "Atletica"
+ },
+ "card-s20__field__title": {
+  "en": "Ángel Mier And María Alles Win Fourth Trail Peña Cabarga In Solares",
+  "pt": "Ángel Mier E María Alles Vencem A Quarta Edição Do Trail Peña Cabarga Em Solares",
+  "es": "Ángel Mier Y María Alles Ganan La Cuarta Edición Del Trail Peña Cabarga En Solares",
+  "fr": "Ángel Mier Et María Alles Remportent La Quatrième Édition Du Trail Peña Cabarga À Solares",
+  "it": "Ángel Mier E María Alles Vincono La Quarta Edizione Del Trail Peña Cabarga A Solares"
+ },
+ "card-s20__field__deck": {
+  "en": "More than 750 athletes took part across three mountain-running formats on 5 April 2026.",
+  "pt": "Mais de 750 atletas participaram em três formatos de corrida de montanha a 5 de abril de 2026.",
+  "es": "Más de 750 atletas participaron en tres formatos de carreras por montaña el 5 de abril de 2026.",
+  "fr": "Plus de 750 athlètes ont participé à trois formats de course en montagne le 5 avril 2026.",
+  "it": "Oltre 750 atleti hanno partecipato a tre formati di corsa in montagna il 5 aprile 2026."
+ },
+ "card-s20__field__meta": {
+  "en": "Image Media coverage", "pt": "Cobertura Image Media", "es": "Cobertura de Image Media", "fr": "Couverture Image Media", "it": "Copertura Image Media"
+ },
+ "card-s20__field__link": {
+  "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
  }
 
  },
