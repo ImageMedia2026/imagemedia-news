@@ -65,6 +65,8 @@ header.site-header{border-bottom:2px solid var(--ink-900);background:var(--white
 .nav{display:flex;align-items:center;justify-content:space-between;padding:16px 0;}
 .brand{font-weight:900;font-size:1.5rem;letter-spacing:-.02em;color:var(--ink-900);text-transform:uppercase;}
 .brand span.accent{color:var(--brand);}
+.brand-logo{display:block;height:36px;width:auto;}
+footer.site-footer .brand-logo{height:32px;}
 .nav-toggle{display:none;background:none;border:1px solid var(--line);color:var(--ink-900);border-radius:6px;padding:8px 10px;font-size:1.1rem;}
 nav.menu{display:flex;gap:26px;align-items:center;}
 nav.menu a{
