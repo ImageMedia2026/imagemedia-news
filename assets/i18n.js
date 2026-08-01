@@ -7234,6 +7234,223 @@ window.IM_I18N = {
   "fr": "Lire plus →",
   "it": "Leggi di più →"
  },
+ "a35-tag": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "a35-title": {
+  "en": "Delphi Half Marathon & 10K Sells Out Point-To-Point Course Past Killary Fjord",
+  "pt": "Delphi Half Marathon & 10K Esgota Percurso Point-To-Point Junto Ao Fiorde De Killary",
+  "es": "La Delphi Half Marathon & 10K Agota Su Recorrido Point-To-Point Junto Al Fiordo De Killary",
+  "fr": "Le Delphi Half Marathon & 10K Affiche Complet Sur Son Parcours Point-To-Point Le Long Du Fjord De Killary",
+  "it": "La Delphi Half Marathon & 10K Esaurisce I Posti Sul Percorso Point-To-Point Lungo Il Fiordo Di Killary"
+ },
+ "a35-deck": {
+  "en": "Runners took on the half marathon and 10K from Glenkeen Farm to Leenane on 16 May 2026, with registration selling out ahead of race day and a waiting list opened for the point-to-point route through Doolough Valley and Connemara.",
+  "pt": "Os corredores enfrentaram a meia maratona e os 10K entre a Glenkeen Farm e Leenane a 16 de maio de 2026, com as inscrições esgotadas antes do dia da prova e lista de espera aberta para o percurso point-to-point pelo Vale de Doolough e pela Connemara.",
+  "es": "Los corredores afrontaron la media maratón y los 10K entre Glenkeen Farm y Leenane el 16 de mayo de 2026, con las inscripciones agotadas antes de la prueba y una lista de espera abierta para el recorrido point-to-point por el valle de Doolough y Connemara.",
+  "fr": "Les coureurs se sont élancés sur le semi-marathon et le 10K entre Glenkeen Farm et Leenane le 16 mai 2026, les inscriptions ayant affiché complet avant la course et une liste d'attente ayant été ouverte pour ce parcours point-to-point à travers la vallée de Doolough et le Connemara.",
+  "it": "I corridori hanno affrontato la mezza maratona e i 10K tra Glenkeen Farm e Leenane il 16 maggio 2026, con le iscrizioni esaurite prima della gara e una lista d'attesa aperta per il percorso point-to-point attraverso la Doolough Valley e il Connemara."
+ },
+ "a35-byline": {
+  "en": "By Image Media News Staff — Leenane, Ireland",
+  "pt": "Por Image Media News Staff — Leenane, Irlanda",
+  "es": "Por Image Media News Staff — Leenane, Irlanda",
+  "fr": "Par Image Media News Staff — Leenane, Irlande",
+  "it": "Di Image Media News Staff — Leenane, Irlanda"
+ },
+ "a35-hero-credit": {
+  "en": "Photo: Luis Moreira / Image Media",
+  "pt": "Foto: Luis Moreira / Image Media",
+  "es": "Foto: Luis Moreira / Image Media",
+  "fr": "Photo : Luis Moreira / Image Media",
+  "it": "Foto: Luis Moreira / Image Media"
+ },
+ "a35-p1": {
+  "en": "The Delphi Half Marathon & 10K took place on Saturday 16 May 2026, with event coverage by the Image Media team. Both races ran point-to-point from Glenkeen Farm near Louisburgh, Co. Mayo, to Leenane in Connemara, Co. Galway, organised by Delphi Marathon with race timing and operations run by JustRace Events.",
+  "pt": "A Delphi Half Marathon & 10K disputou-se no sábado, 16 de maio de 2026, com cobertura do evento pela equipa da Image Media. Ambas as provas percorreram um trajeto point-to-point desde a Glenkeen Farm, perto de Louisburgh, no Condado de Mayo, até Leenane, na Connemara, Condado de Galway, organizadas pela Delphi Marathon, com cronometragem e operações da prova a cargo da JustRace Events.",
+  "es": "La Delphi Half Marathon & 10K se disputó el sábado 16 de mayo de 2026, con cobertura del evento por parte del equipo de Image Media. Ambas pruebas discurrieron en un trazado point-to-point desde Glenkeen Farm, cerca de Louisburgh, en el condado de Mayo, hasta Leenane, en Connemara, condado de Galway, organizadas por Delphi Marathon, con cronometraje y operaciones de carrera a cargo de JustRace Events.",
+  "fr": "Le Delphi Half Marathon & 10K s'est déroulé le samedi 16 mai 2026, avec une couverture de l'événement par l'équipe d'Image Media. Les deux courses se sont disputées sur un tracé point-to-point depuis Glenkeen Farm, près de Louisburgh, dans le comté de Mayo, jusqu'à Leenane, dans le Connemara, comté de Galway, organisées par Delphi Marathon, le chronométrage et l'organisation de la course étant assurés par JustRace Events.",
+  "it": "La Delphi Half Marathon & 10K si è svolta sabato 16 maggio 2026, con copertura dell'evento a cura del team di Image Media. Entrambe le gare si sono disputate su un percorso point-to-point da Glenkeen Farm, vicino a Louisburgh, nella contea di Mayo, fino a Leenane, nel Connemara, contea di Galway, organizzate da Delphi Marathon, con cronometraggio e organizzazione della gara a cura di JustRace Events."
+ },
+ "a35-p2": {
+  "en": "The half marathon covered 21.1km with 180m of climbing and 235m of descent, starting at 9:30am, while the 10K covered 10km with 80m of climbing and 100m of descent from a 10:00am start. Organisers describe the officially measured course as mostly downhill and flowing, and the route passed through Doolough Valley and Bundorragha and by Ashleagh Falls before finishing alongside Killary Fjord, Ireland's only fjord. A shuttle bus ran from the Sheep & Wool Centre car park in Leenane to the start line ahead of racing.",
+  "pt": "A meia maratona percorreu 21,1 km, com 180 m de subida e 235 m de descida, com partida às 9h30, enquanto os 10K percorreram 10 km, com 80 m de subida e 100 m de descida, com partida às 10h00. Os organizadores descrevem o percurso, oficialmente medido, como maioritariamente descendente e fluido, e o trajeto passou pelo Vale de Doolough e por Bundorragha, junto às Cascatas de Ashleagh, antes de terminar junto ao Fiorde de Killary, o único fiorde da Irlanda. Um autocarro de apoio fez o transporte desde o parque de estacionamento do Sheep & Wool Centre, em Leenane, até à partida, antes da prova.",
+  "es": "La media maratón recorrió 21,1 km, con 180 m de desnivel positivo y 235 m de desnivel negativo, con salida a las 9:30, mientras que los 10K recorrieron 10 km, con 80 m de desnivel positivo y 100 m de desnivel negativo, con salida a las 10:00. La organización describe el recorrido, oficialmente medido, como mayoritariamente descendente y fluido, y el trazado pasó por el valle de Doolough y Bundorragha, junto a las cascadas de Ashleagh, antes de terminar junto al fiordo de Killary, el único fiordo de Irlanda. Un autobús lanzadera trasladó a los corredores desde el aparcamiento del Sheep & Wool Centre, en Leenane, hasta la salida antes de la prueba.",
+  "fr": "Le semi-marathon comptait 21,1 km avec 180 m de dénivelé positif et 235 m de dénivelé négatif, avec un départ à 9h30, tandis que le 10K comptait 10 km avec 80 m de dénivelé positif et 100 m de dénivelé négatif, avec un départ à 10h00. Les organisateurs décrivent le parcours, officiellement mesuré, comme majoritairement descendant et fluide, et le tracé traversait la vallée de Doolough et Bundorragha, longeait les chutes d'Ashleagh, avant de se terminer le long du fjord de Killary, le seul fjord d'Irlande. Une navette a assuré le transport depuis le parking du Sheep & Wool Centre, à Leenane, jusqu'au départ avant la course.",
+  "it": "La mezza maratona ha coperto 21,1 km con 180 m di dislivello positivo e 235 m di dislivello negativo, con partenza alle 9:30, mentre i 10K hanno coperto 10 km con 80 m di dislivello positivo e 100 m di dislivello negativo, con partenza alle 10:00. Gli organizzatori descrivono il percorso, ufficialmente misurato, come prevalentemente in discesa e scorrevole, e il tracciato ha attraversato la Doolough Valley e Bundorragha, costeggiando le cascate di Ashleagh, prima di concludersi lungo il fiordo di Killary, l'unico fiordo d'Irlanda. Una navetta ha effettuato il trasporto dal parcheggio dello Sheep & Wool Centre, a Leenane, fino alla partenza prima della gara."
+ },
+ "a35-inline1-credit": {
+  "en": "Photo: Luis Moreira / Image Media",
+  "pt": "Foto: Luis Moreira / Image Media",
+  "es": "Foto: Luis Moreira / Image Media",
+  "fr": "Photo : Luis Moreira / Image Media",
+  "it": "Foto: Luis Moreira / Image Media"
+ },
+ "a35-p3": {
+  "en": "Registration sold out ahead of race day, with organisers opening a waiting list; the event's own entry structure — free t-shirts guaranteed for the first 400 registrants — points to a field of several hundred runners across the two distances. Every finisher received a medal, with prizes awarded to the top three men and women plus age-category winners in the 40+, 50+ and 60+ brackets. Entry was open to runners aged 18 and over.",
+  "pt": "As inscrições esgotaram antes do dia da prova, com os organizadores a abrir uma lista de espera; a própria estrutura de inscrição do evento — t-shirts gratuitas garantidas aos primeiros 400 inscritos — aponta para um pelotão de várias centenas de corredores nas duas distâncias. Todos os que terminaram receberam medalha, com prémios para os três primeiros classificados masculinos e femininos, além dos vencedores dos escalões etários 40+, 50+ e 60+. As inscrições estavam abertas a corredores com 18 ou mais anos.",
+  "es": "Las inscripciones se agotaron antes del día de la prueba, con la organización abriendo una lista de espera; la propia estructura de inscripción del evento — camisetas gratuitas garantizadas para los primeros 400 inscritos — apunta a un pelotón de varios cientos de corredores entre las dos distancias. Todos los finishers recibieron una medalla, con premios para los tres primeros clasificados masculinos y femeninos, además de los ganadores de las categorías de edad 40+, 50+ y 60+. La inscripción estaba abierta a corredores de 18 años en adelante.",
+  "fr": "Les inscriptions ont affiché complet avant le jour de la course, les organisateurs ayant ouvert une liste d'attente ; la structure d'inscription elle-même — t-shirts gratuits garantis aux 400 premiers inscrits — laisse penser à un peloton de plusieurs centaines de coureurs sur les deux distances. Chaque finisseur a reçu une médaille, avec des prix pour les trois premiers hommes et femmes ainsi que les vainqueurs des catégories d'âge 40+, 50+ et 60+. L'épreuve était ouverte aux coureurs de 18 ans et plus.",
+  "it": "Le iscrizioni sono andate esaurite prima del giorno della gara, con gli organizzatori che hanno aperto una lista d'attesa; la stessa struttura di iscrizione dell'evento — magliette gratuite garantite ai primi 400 iscritti — indica un gruppo di diverse centinaia di corridori tra le due distanze. Tutti i finisher hanno ricevuto una medaglia, con premi per i primi tre classificati maschili e femminili e per i vincitori delle categorie d'età 40+, 50+ e 60+. L'iscrizione era aperta ai corridori dai 18 anni in su."
+ },
+ "a35-stat": {
+  "en": "16 May 2026 · Glenkeen Farm to Leenane · Half Marathon 21.1km / 10K 10km · Sold out",
+  "pt": "16 de maio de 2026 · Glenkeen Farm a Leenane · Meia Maratona 21,1 km / 10K 10 km · Esgotado",
+  "es": "16 de mayo de 2026 · Glenkeen Farm a Leenane · Media Maratón 21,1 km / 10K 10 km · Agotado",
+  "fr": "16 mai 2026 · Glenkeen Farm à Leenane · Semi-marathon 21,1 km / 10K 10 km · Complet",
+  "it": "16 maggio 2026 · Glenkeen Farm a Leenane · Mezza Maratona 21,1 km / 10K 10 km · Esaurito"
+ },
+ "a35-inline2-credit": {
+  "en": "Photo: Luis Moreira / Image Media",
+  "pt": "Foto: Luis Moreira / Image Media",
+  "es": "Foto: Luis Moreira / Image Media",
+  "fr": "Photo : Luis Moreira / Image Media",
+  "it": "Foto: Luis Moreira / Image Media"
+ },
+ "a35-p4": {
+  "en": "The race is backed by more than two dozen local partners, including Glenkeen Farm and Leenane Hotel, alongside support from Mayo County Council, Discover Ireland and the Wild Atlantic Way. Finishers crossed the line under the JustRace Events arch in Leenane, with mountains and Killary Fjord as a backdrop.",
+  "pt": "A prova conta com o apoio de mais de duas dezenas de parceiros locais, incluindo a Glenkeen Farm e o Leenane Hotel, além do apoio do Conselho Municipal de Mayo, da Discover Ireland e da Wild Atlantic Way. Os corredores cruzaram a meta sob o arco da JustRace Events, em Leenane, com as montanhas e o Fiorde de Killary como cenário.",
+  "es": "La prueba cuenta con el respaldo de más de dos docenas de socios locales, entre ellos Glenkeen Farm y Leenane Hotel, además del apoyo del Ayuntamiento de Mayo, Discover Ireland y la Wild Atlantic Way. Los corredores cruzaron la meta bajo el arco de JustRace Events, en Leenane, con las montañas y el fiordo de Killary como telón de fondo.",
+  "fr": "La course est soutenue par plus de deux douzaines de partenaires locaux, dont Glenkeen Farm et le Leenane Hotel, ainsi que par le soutien du conseil du comté de Mayo, de Discover Ireland et de la Wild Atlantic Way. Les coureurs ont franchi la ligne d'arrivée sous l'arche de JustRace Events, à Leenane, avec les montagnes et le fjord de Killary en toile de fond.",
+  "it": "La gara è sostenuta da oltre due dozzine di partner locali, tra cui Glenkeen Farm e il Leenane Hotel, oltre al supporto del Mayo County Council, di Discover Ireland e della Wild Atlantic Way. I corridori hanno tagliato il traguardo sotto l'arco di JustRace Events, a Leenane, con le montagne e il fiordo di Killary sullo sfondo."
+ },
+ "a35-p5": {
+  "en": "The Image Media coverage team comprised Eduardo Castro, Luis Moreira and Paulo Nomade.",
+  "pt": "A equipa de cobertura da Image Media foi composta por Eduardo Castro, Luis Moreira e Paulo Nomade.",
+  "es": "El equipo de cobertura de Image Media estuvo formado por Eduardo Castro, Luis Moreira y Paulo Nomade.",
+  "fr": "L'équipe de couverture d'Image Media était composée d'Eduardo Castro, Luis Moreira et Paulo Nomade.",
+  "it": "Il team di copertura di Image Media era composto da Eduardo Castro, Luis Moreira e Paulo Nomade."
+ },
+ "a35-tagpill1": {
+  "en": "Delphi Half Marathon",
+  "pt": "Delphi Half Marathon",
+  "es": "Delphi Half Marathon",
+  "fr": "Delphi Half Marathon",
+  "it": "Delphi Half Marathon"
+ },
+ "a35-tagpill2": {
+  "en": "Connemara",
+  "pt": "Connemara",
+  "es": "Connemara",
+  "fr": "Connemara",
+  "it": "Connemara"
+ },
+ "a35-tagpill3": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "a35-related-title": {
+  "en": "More from Image Media",
+  "pt": "Mais da Image Media",
+  "es": "Más de Image Media",
+  "fr": "Plus d'Image Media",
+  "it": "Altro da Image Media"
+ },
+ "a35-related1-tag": {
+  "en": "Sports",
+  "pt": "Desporto",
+  "es": "Deportes",
+  "fr": "Sport",
+  "it": "Sport"
+ },
+ "a35-related1-title": {
+  "en": "See all Sports coverage",
+  "pt": "Ver toda a cobertura de Desporto",
+  "es": "Ver toda la cobertura de Deportes",
+  "fr": "Voir toute la couverture Sport",
+  "it": "Vedi tutta la copertura Sport"
+ },
+ "a35-related1-link": {
+  "en": "Visit section →",
+  "pt": "Visitar secção →",
+  "es": "Visitar sección →",
+  "fr": "Visiter la section →",
+  "it": "Visita la sezione →"
+ },
+ "a35-related2-tag": {
+  "en": "Image Media",
+  "pt": "Image Media",
+  "es": "Image Media",
+  "fr": "Image Media",
+  "it": "Image Media"
+ },
+ "a35-related2-title": {
+  "en": "How Image Media covers your event",
+  "pt": "Como a Image Media cobre o seu evento",
+  "es": "Cómo Image Media cubre tu evento",
+  "fr": "Comment Image Media couvre votre événement",
+  "it": "Come Image Media copre il tuo evento"
+ },
+ "a35-related2-link": {
+  "en": "Learn more →",
+  "pt": "Saber mais →",
+  "es": "Saber más →",
+  "fr": "En savoir plus →",
+  "it": "Scopri di più →"
+ },
+ "a35-related3-tag": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "a35-related3-title": {
+  "en": "González Rivera And Tisalema Win III Viamed Media Maratón Ciudad De Chiclana",
+  "pt": "González Rivera E Tisalema Vencem A III Viamed Media Maratón Ciudad De Chiclana",
+  "es": "González Rivera Y Tisalema Ganan La III Viamed Media Maratón Ciudad De Chiclana",
+  "fr": "González Rivera Et Tisalema Remportent La III Viamed Media Maratón Ciudad De Chiclana",
+  "it": "González Rivera E Tisalema Vincono La III Viamed Media Maratón Ciudad De Chiclana"
+ },
+ "a35-related3-link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
+ "card-s30__field__tag": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "card-s30__field__title": {
+  "en": "Delphi Half Marathon & 10K Sells Out Point-To-Point Course Past Killary Fjord",
+  "pt": "Delphi Half Marathon & 10K Esgota Percurso Point-To-Point Junto Ao Fiorde De Killary",
+  "es": "La Delphi Half Marathon & 10K Agota Su Recorrido Point-To-Point Junto Al Fiordo De Killary",
+  "fr": "Le Delphi Half Marathon & 10K Affiche Complet Sur Son Parcours Point-To-Point Le Long Du Fjord De Killary",
+  "it": "La Delphi Half Marathon & 10K Esaurisce I Posti Sul Percorso Point-To-Point Lungo Il Fiordo Di Killary"
+ },
+ "card-s30__field__deck": {
+  "en": "Runners took on the half marathon and 10K from Glenkeen Farm to Leenane on 16 May 2026, with registration selling out ahead of race day.",
+  "pt": "Os corredores enfrentaram a meia maratona e os 10K entre a Glenkeen Farm e Leenane a 16 de maio de 2026, com as inscrições esgotadas antes do dia da prova.",
+  "es": "Los corredores afrontaron la media maratón y los 10K entre Glenkeen Farm y Leenane el 16 de mayo de 2026, con las inscripciones agotadas antes de la prueba.",
+  "fr": "Les coureurs se sont élancés sur le semi-marathon et le 10K entre Glenkeen Farm et Leenane le 16 mai 2026, les inscriptions ayant affiché complet avant la course.",
+  "it": "I corridori hanno affrontato la mezza maratona e i 10K tra Glenkeen Farm e Leenane il 16 maggio 2026, con le iscrizioni esaurite prima della gara."
+ },
+ "card-s30__field__meta": {
+  "en": "Image Media coverage",
+  "pt": "Cobertura Image Media",
+  "es": "Cobertura de Image Media",
+  "fr": "Couverture Image Media",
+  "it": "Copertura Image Media"
+ },
+ "card-s30__field__link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
  "card-s27__field__tag": {
   "en": "Functional",
   "pt": "Funcional",
