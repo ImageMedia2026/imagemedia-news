@@ -5858,6 +5858,147 @@ window.IM_I18N = {
  },
  "card-s21__field__link": {
   "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
+ },
+ "a27-tag": {
+  "en": "Cycling", "pt": "Ciclismo", "es": "Ciclismo", "fr": "Cyclisme", "it": "Ciclismo"
+ },
+ "a27-title": {
+  "en": "Cingles Gravel Alcover Brings Cycling And Solidarity Together In Alt Camp",
+  "pt": "Cingles Gravel Alcover Une Ciclismo E Solidariedade No Alt Camp",
+  "es": "Cingles Gravel Alcover Une Ciclismo Y Solidaridad En El Alt Camp",
+  "fr": "Cingles Gravel Alcover Réunit Cyclisme Et Solidarité Dans L'Alt Camp",
+  "it": "Cingles Gravel Alcover Unisce Ciclismo E Solidarietà Nell'Alt Camp"
+ },
+ "a27-deck": {
+  "en": "The non-competitive ride offered 53-kilometre and 90-kilometre routes through Alcover on 12 April 2026.",
+  "pt": "A marcha não competitiva ofereceu percursos de 53 e 90 quilómetros por Alcover a 12 de abril de 2026.",
+  "es": "La marcha no competitiva ofreció recorridos de 53 y 90 kilómetros por Alcover el 12 de abril de 2026.",
+  "fr": "La randonnée non compétitive proposait des parcours de 53 et 90 kilomètres à Alcover le 12 avril 2026.",
+  "it": "La pedalata non competitiva ha proposto percorsi di 53 e 90 chilometri ad Alcover il 12 aprile 2026."
+ },
+ "a27-byline": {
+  "en": "By Image Media News Staff — Alcover, Spain", "pt": "Por Image Media News — Alcover, Espanha", "es": "Por Image Media News — Alcover, España", "fr": "Par Image Media News — Alcover, Espagne", "it": "Di Image Media News — Alcover, Spagna"
+ },
+ "a27-hero-credit": {
+  "en": "Photo: Eduardo Castro / Image Media", "pt": "Foto: Eduardo Castro / Image Media", "es": "Foto: Eduardo Castro / Image Media", "fr": "Photo : Eduardo Castro / Image Media", "it": "Foto: Eduardo Castro / Image Media"
+ },
+ "a27-p1": {
+  "en": "Cingles Gravel Alcover was held in Alcover, Tarragona, on 12 April 2026. The non-competitive solidarity ride welcomed gravel, mountain-bike and e-bike participants, with event coverage by the Image Media team.",
+  "pt": "A Cingles Gravel Alcover realizou-se em Alcover, Tarragona, a 12 de abril de 2026. A marcha solidária e não competitiva recebeu participantes de gravel, BTT e bicicletas elétricas, com cobertura da equipa Image Media.",
+  "es": "La Cingles Gravel Alcover se celebró en Alcover, Tarragona, el 12 de abril de 2026. La marcha solidaria y no competitiva reunió a participantes de gravel, BTT y bicicletas eléctricas, con cobertura del equipo de Image Media.",
+  "fr": "La Cingles Gravel Alcover s'est tenue à Alcover, dans la province de Tarragone, le 12 avril 2026. Cette randonnée solidaire et non compétitive a accueilli des participants en gravel, VTT et vélos électriques, avec une couverture de l'équipe Image Media.",
+  "it": "La Cingles Gravel Alcover si è svolta ad Alcover, in provincia di Tarragona, il 12 aprile 2026. La pedalata solidale e non competitiva ha accolto partecipanti in gravel, mountain bike ed e-bike, con copertura del team Image Media."
+ },
+ "a27-p2": {
+  "en": "Riders could choose between two circular routes starting and finishing at the Pavelló de les Escoles: 53 kilometres with 530 metres of climbing, or 90 kilometres with 1,100 metres. The courses combined open tracks, faster sections and agricultural paths through hazelnut and olive groves in the Alt Camp.",
+  "pt": "Os ciclistas podiam escolher entre dois percursos circulares com partida e chegada no Pavelló de les Escoles: 53 quilómetros com 530 metros de subida ou 90 quilómetros com 1.100 metros. Os trajetos combinaram pistas abertas, setores rápidos e caminhos agrícolas entre aveleiras e olivais no Alt Camp.",
+  "es": "Los ciclistas podían elegir entre dos recorridos circulares con salida y llegada en el Pavelló de les Escoles: 53 kilómetros con 530 metros de desnivel positivo o 90 kilómetros con 1.100 metros. Los trazados combinaron pistas abiertas, tramos rápidos y caminos agrícolas entre avellanos y olivos del Alt Camp.",
+  "fr": "Les cyclistes pouvaient choisir entre deux boucles au départ et à l'arrivée du Pavelló de les Escoles : 53 kilomètres avec 530 mètres de dénivelé positif, ou 90 kilomètres avec 1 100 mètres. Les parcours mêlaient pistes ouvertes, sections rapides et chemins agricoles entre noisetiers et oliveraies de l'Alt Camp.",
+  "it": "I ciclisti potevano scegliere tra due percorsi ad anello con partenza e arrivo al Pavelló de les Escoles: 53 chilometri con 530 metri di dislivello positivo oppure 90 chilometri con 1.100 metri. I tracciati combinavano piste aperte, tratti veloci e strade agricole tra noccioleti e uliveti dell'Alt Camp."
+ },
+ "a27-inline1-credit": {
+  "en": "Photo: Eduardo Castro / Image Media", "pt": "Foto: Eduardo Castro / Image Media", "es": "Foto: Eduardo Castro / Image Media", "fr": "Photo : Eduardo Castro / Image Media", "it": "Foto: Eduardo Castro / Image Media"
+ },
+ "a27-p3": {
+  "en": "The Alcover event was the third fixture of the Sport1ion Gravel Circuit, following the Priorat Gravel in Falset and Massos Gravel in Maspujols. Sport1ion staged the circuit event with local involvement from Club Ciclista Alcover and Alcogravel, while ACCU Catalunya supported its solidarity focus.",
+  "pt": "O evento de Alcover foi a terceira etapa do Sport1ion Gravel Circuit, depois da Priorat Gravel em Falset e da Massos Gravel em Maspujols. A Sport1ion promoveu a etapa com participação local do Club Ciclista Alcover e da Alcogravel, enquanto a ACCU Catalunya apoiou a vertente solidária.",
+  "es": "La cita de Alcover fue la tercera prueba del Sport1ion Gravel Circuit, después de la Priorat Gravel en Falset y la Massos Gravel en Maspujols. Sport1ion organizó la prueba del circuito con la participación local del Club Ciclista Alcover y Alcogravel, mientras ACCU Catalunya apoyó su vertiente solidaria.",
+  "fr": "L'épreuve d'Alcover constituait la troisième manche du Sport1ion Gravel Circuit, après la Priorat Gravel à Falset et la Massos Gravel à Maspujols. Sport1ion a organisé cette étape avec l'implication locale du Club Ciclista Alcover et d'Alcogravel, tandis qu'ACCU Catalunya soutenait sa dimension solidaire.",
+  "it": "L'evento di Alcover è stato il terzo appuntamento dello Sport1ion Gravel Circuit, dopo la Priorat Gravel a Falset e la Massos Gravel a Maspujols. Sport1ion ha organizzato la tappa con il coinvolgimento locale del Club Ciclista Alcover e di Alcogravel, mentre ACCU Catalunya ne ha sostenuto la finalità solidale."
+ },
+ "a27-stat": {
+  "en": "12 April 2026 · Alcover · 53 km / +530 m · 90 km / +1,100 m · Non-competitive solidarity ride",
+  "pt": "12 de abril de 2026 · Alcover · 53 km / +530 m · 90 km / +1.100 m · Marcha solidária não competitiva",
+  "es": "12 de abril de 2026 · Alcover · 53 km / +530 m · 90 km / +1.100 m · Marcha solidaria no competitiva",
+  "fr": "12 avril 2026 · Alcover · 53 km / +530 m · 90 km / +1 100 m · Randonnée solidaire non compétitive",
+  "it": "12 aprile 2026 · Alcover · 53 km / +530 m · 90 km / +1.100 m · Pedalata solidale non competitiva"
+ },
+ "a27-p4": {
+  "en": "The initiative supported research and awareness around inflammatory bowel diseases, including Crohn's disease and ulcerative colitis. Under the circuit's agreement with ACCU Catalunya, one euro from every 2025–26 circuit registration was allocated to research, awareness and support projects.",
+  "pt": "A iniciativa apoiou a investigação e a sensibilização para as doenças inflamatórias intestinais, incluindo a doença de Crohn e a colite ulcerosa. Ao abrigo do acordo do circuito com a ACCU Catalunya, um euro de cada inscrição no circuito 2025–26 foi destinado a projetos de investigação, sensibilização e apoio.",
+  "es": "La iniciativa apoyó la investigación y la sensibilización sobre las enfermedades inflamatorias intestinales, entre ellas la enfermedad de Crohn y la colitis ulcerosa. En virtud del acuerdo del circuito con ACCU Catalunya, un euro de cada inscripción del circuito 2025–26 se destinó a proyectos de investigación, sensibilización y apoyo.",
+  "fr": "L'initiative soutenait la recherche et la sensibilisation autour des maladies inflammatoires chroniques de l'intestin, notamment la maladie de Crohn et la rectocolite hémorragique. Dans le cadre de l'accord avec ACCU Catalunya, un euro par inscription au circuit 2025–26 était destiné à des projets de recherche, de sensibilisation et d'accompagnement.",
+  "it": "L'iniziativa ha sostenuto la ricerca e la sensibilizzazione sulle malattie infiammatorie intestinali, tra cui il morbo di Crohn e la colite ulcerosa. In base all'accordo del circuito con ACCU Catalunya, un euro per ogni iscrizione al circuito 2025–26 è stato destinato a progetti di ricerca, sensibilizzazione e sostegno."
+ },
+ "a27-p5": {
+  "en": "The official entry list recorded 89 registrations. The programme also extended beyond the ride, with a children's traffic park and outdoor workshops creating a family-focused morning alongside the mid-route and finish-area refreshments.",
+  "pt": "A lista oficial registou 89 inscrições. O programa foi além da marcha, com um parque de trânsito infantil e oficinas ao ar livre que criaram uma manhã familiar, além dos abastecimentos a meio do percurso e na chegada.",
+  "es": "La lista oficial registró 89 inscripciones. El programa fue más allá de la marcha, con un parque infantil de tráfico y talleres al aire libre que completaron una mañana familiar junto a los avituallamientos de mitad de recorrido y meta.",
+  "fr": "La liste officielle comptait 89 inscriptions. Le programme allait au-delà de la randonnée, avec un circuit routier pour enfants et des ateliers de plein air qui complétaient une matinée familiale, ainsi que des ravitaillements à mi-parcours et à l'arrivée.",
+  "it": "L'elenco ufficiale riportava 89 iscrizioni. Il programma andava oltre la pedalata, con un parco di educazione stradale per bambini e laboratori all'aperto, oltre ai ristori a metà percorso e all'arrivo."
+ },
+ "a27-p6": {
+  "en": "The Image Media coverage team comprised Eduardo Castro, Joma and Jose Ramon Moreno. Their photographs documented riders across the gravel terrain and the varied conditions of the two route options.",
+  "pt": "A equipa de cobertura da Image Media foi composta por Eduardo Castro, Joma e Jose Ramon Moreno. As fotografias documentaram os ciclistas no terreno de gravel e as diferentes condições dos dois percursos.",
+  "es": "El equipo de cobertura de Image Media estuvo formado por Eduardo Castro, Joma y Jose Ramon Moreno. Sus fotografías documentaron a los ciclistas sobre el terreno de gravel y las distintas condiciones de los dos recorridos.",
+  "fr": "L'équipe de couverture d'Image Media était composée d'Eduardo Castro, Joma et Jose Ramon Moreno. Leurs photographies ont documenté les cyclistes sur le terrain gravel et les différentes conditions des deux parcours.",
+  "it": "Il team di copertura di Image Media era composto da Eduardo Castro, Joma e Jose Ramon Moreno. Le fotografie hanno documentato i ciclisti sui terreni gravel e le diverse condizioni dei due percorsi."
+ },
+ "a27-tagpill1": {
+  "en": "Cingles Gravel Alcover", "pt": "Cingles Gravel Alcover", "es": "Cingles Gravel Alcover", "fr": "Cingles Gravel Alcover", "it": "Cingles Gravel Alcover"
+ },
+ "a27-tagpill2": {
+  "en": "Alt Camp", "pt": "Alt Camp", "es": "Alt Camp", "fr": "Alt Camp", "it": "Alt Camp"
+ },
+ "a27-tagpill3": {
+  "en": "Cycling", "pt": "Ciclismo", "es": "Ciclismo", "fr": "Cyclisme", "it": "Ciclismo"
+ },
+ "a27-related-title": {
+  "en": "More from Image Media", "pt": "Mais da Image Media", "es": "Más de Image Media", "fr": "Plus d'Image Media", "it": "Altro da Image Media"
+ },
+ "a27-related1-tag": {
+  "en": "Sports", "pt": "Desporto", "es": "Deportes", "fr": "Sports", "it": "Sport"
+ },
+ "a27-related1-title": {
+  "en": "See all Sports coverage", "pt": "Ver toda a cobertura de Desporto", "es": "Ver toda la cobertura de Deportes", "fr": "Voir toute la couverture Sports", "it": "Vedi tutta la copertura Sport"
+ },
+ "a27-related1-link": {
+  "en": "Visit section →", "pt": "Visitar secção →", "es": "Visitar sección →", "fr": "Visiter la rubrique →", "it": "Visita la sezione →"
+ },
+ "a27-related2-tag": {
+  "en": "Image Media", "pt": "Image Media", "es": "Image Media", "fr": "Image Media", "it": "Image Media"
+ },
+ "a27-related2-title": {
+  "en": "How Image Media covers your event", "pt": "Como a Image Media cobre o seu evento", "es": "Cómo cubre Image Media tu evento", "fr": "Comment Image Media couvre votre événement", "it": "Come Image Media copre il tuo evento"
+ },
+ "a27-related2-link": {
+  "en": "Learn more →", "pt": "Saber mais →", "es": "Saber más →", "fr": "En savoir plus →", "it": "Scopri di più →"
+ },
+ "a27-related3-tag": {
+  "en": "Cycling", "pt": "Ciclismo", "es": "Ciclismo", "fr": "Cyclisme", "it": "Ciclismo"
+ },
+ "a27-related3-title": {
+  "en": "Massos Gravel Rolls Through Maspujols In Sold-Out Charity Ride",
+  "pt": "Massos Gravel Percorre Maspujols Numa Volta Solidária Com Lotação Esgotada",
+  "es": "Massos Gravel Recorre Maspujols En Una Marcha Solidaria Con Plazas Agotadas",
+  "fr": "Massos Gravel Traverse Maspujols Lors D'Une Randonnée Solidaire Complète",
+  "it": "Massos Gravel Attraversa Maspujols In Una Pedalata Solidale Tutto Esaurito"
+ },
+ "a27-related3-link": {
+  "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
+ },
+ "card-s22__field__tag": {
+  "en": "Cycling", "pt": "Ciclismo", "es": "Ciclismo", "fr": "Cyclisme", "it": "Ciclismo"
+ },
+ "card-s22__field__title": {
+  "en": "Cingles Gravel Alcover Combines Cycling, Community And Solidarity",
+  "pt": "Cingles Gravel Alcover Combina Ciclismo, Comunidade E Solidariedade",
+  "es": "Cingles Gravel Alcover Combina Ciclismo, Comunidad Y Solidaridad",
+  "fr": "Cingles Gravel Alcover Mêle Cyclisme, Communauté Et Solidarité",
+  "it": "Cingles Gravel Alcover Unisce Ciclismo, Comunità E Solidarietà"
+ },
+ "card-s22__field__deck": {
+  "en": "The non-competitive ride offered 53-kilometre and 90-kilometre routes through Alcover on 12 April 2026.",
+  "pt": "A marcha não competitiva ofereceu percursos de 53 e 90 quilómetros por Alcover a 12 de abril de 2026.",
+  "es": "La marcha no competitiva ofreció recorridos de 53 y 90 kilómetros por Alcover el 12 de abril de 2026.",
+  "fr": "La randonnée non compétitive proposait des parcours de 53 et 90 kilomètres à Alcover le 12 avril 2026.",
+  "it": "La pedalata non competitiva ha proposto percorsi di 53 e 90 chilometri ad Alcover il 12 aprile 2026."
+ },
+ "card-s22__field__meta": {
+  "en": "Image Media coverage", "pt": "Cobertura Image Media", "es": "Cobertura de Image Media", "fr": "Couverture Image Media", "it": "Copertura Image Media"
+ },
+ "card-s22__field__link": {
+  "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
  }
 
  },
