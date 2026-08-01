@@ -1330,13 +1330,6 @@ window.IM_I18N = {
    "fr": "Image Media News (IM News) est un média d'actualité consacré avant tout au sport, couvrant le football, l'athlétisme, le cyclisme, les sports de combat et le fitness fonctionnel — ainsi que les concerts, festivals et événements culturels qui partagent ces mêmes stades et arénas le reste de l'année.",
    "it": "Image Media News (IM News) è una testata giornalistica dedicata innanzitutto allo sport, con copertura di calcio, atletica, ciclismo, sport da combattimento e fitness funzionale — oltre ai concerti, festival ed eventi culturali che condividono gli stessi stadi e arene nel resto dell'anno."
   },
-  "about-lead2": {
-   "en": "Every story is reported and photographed on the ground by the Image Media team, with events covered as they happen across Portugal, Spain and beyond.",
-   "pt": "Todas as notícias são reportadas e fotografadas no terreno pela equipa da Image Media, com cobertura de eventos à medida que acontecem em Portugal, Espanha e mais além.",
-   "es": "Todas las noticias son reporteadas y fotografiadas sobre el terreno por el equipo de Image Media, con cobertura de eventos a medida que ocurren en Portugal, España y más allá.",
-   "fr": "Chaque article est réalisé et photographié sur place par l'équipe d'Image Media, qui couvre les événements au fur et à mesure qu'ils se déroulent au Portugal, en Espagne et au-delà.",
-   "it": "Ogni notizia è realizzata e fotografata sul posto dal team di Image Media, con la copertura degli eventi in tempo reale in Portogallo, Spagna e non solo."
-  },
   "about-focus-title": {
    "en": "Editorial focus",
    "pt": "Foco Editorial",
