@@ -484,11 +484,11 @@ window.IM_I18N = {
    "it": "Sport"
   },
   "sports-lead": {
-   "en": "Football, athletics, cycling and combat sports — placeholder coverage to preview the section layout.",
-   "pt": "Futebol, atletismo, ciclismo e desportos de combate — conteúdo provisório para pré-visualizar o layout da secção.",
-   "es": "Fútbol, atletismo, ciclismo y deportes de combate — contenido provisional para previsualizar el diseño de la sección.",
-   "fr": "Football, athlétisme, cyclisme et sports de combat — contenu provisoire pour prévisualiser la mise en page de la rubrique.",
-   "it": "Calcio, atletica, ciclismo e sport da combattimento — contenuti provvisori per anteprima del layout della sezione."
+   "en": "Football, athletics, cycling, combat sports and functional fitness — match reports, race results and event coverage from Image Media's team on the ground.",
+   "pt": "Futebol, atletismo, ciclismo, desportos de combate e fitness funcional — crónicas de jogo, resultados de prova e cobertura de eventos pela equipa da Image Media no terreno.",
+   "es": "Fútbol, atletismo, ciclismo, deportes de combate y fitness funcional — crónicas de partido, resultados de prueba y cobertura de eventos por el equipo de Image Media sobre el terreno.",
+   "fr": "Football, athlétisme, cyclisme, sports de combat et fitness fonctionnel — comptes-rendus, résultats de course et couverture d'événements par l'équipe d'Image Media sur place.",
+   "it": "Calcio, atletica, ciclismo, sport da combattimento e fitness funzionale — cronache, risultati di gara e copertura degli eventi a cura del team di Image Media sul posto."
   },
   "card-s1__field__tag": {
    "en": "Football",
@@ -708,11 +708,11 @@ window.IM_I18N = {
    "it": "Cultura e Concerti"
   },
   "culture-lead": {
-   "en": "When stadiums and arenas host more than sport — concerts, festivals and the cultural events around them. Placeholder coverage to preview the section layout.",
-   "pt": "Quando estádios e arenas recebem mais do que desporto — concertos, festivais e os eventos culturais em torno deles. Conteúdo provisório para pré-visualizar o layout da secção.",
-   "es": "Cuando los estadios y recintos acogen algo más que deporte — conciertos, festivales y los eventos culturales a su alrededor. Contenido provisional para previsualizar el diseño de la sección.",
-   "fr": "Quand les stades et arénas accueillent plus que du sport — concerts, festivals et événements culturels associés. Contenu provisoire pour prévisualiser la mise en page de la rubrique.",
-   "it": "Quando stadi e arene ospitano più che sport — concerti, festival e gli eventi culturali che li accompagnano. Contenuti provvisori per anteprima del layout della sezione."
+   "en": "When stadiums and arenas host more than sport — concerts, festivals and the cultural events around them.",
+   "pt": "Quando estádios e arenas recebem mais do que desporto — concertos, festivais e os eventos culturais em torno deles.",
+   "es": "Cuando los estadios y recintos acogen algo más que deporte — conciertos, festivales y los eventos culturales a su alrededor.",
+   "fr": "Quand les stades et arénas accueillent plus que du sport — concerts, festivals et événements culturels associés.",
+   "it": "Quando stadi e arene ospitano più che sport — concerti, festival e gli eventi culturali che li accompagnano."
   },
   "card-c1__field__tag": {
    "en": "Concerts",
@@ -1324,18 +1324,18 @@ window.IM_I18N = {
    "it": "Chi è Image Media News"
   },
   "about-lead": {
-   "en": "Image Media News is a placeholder masthead for a news outlet covering sports first — football, athletics, cycling and combat sports — and the cultural events that occasionally share the same stadiums and arenas: concerts, festivals and one-off shows.",
-   "pt": "A Image Media News é um cabeçalho provisório para um órgão de notícias focado sobretudo em desporto — futebol, atletismo, ciclismo e desportos de combate — e nos eventos culturais que por vezes partilham os mesmos estádios e arenas: concertos, festivais e espetáculos pontuais.",
-   "es": "Image Media News es una cabecera provisional para un medio informativo centrado principalmente en el deporte — fútbol, atletismo, ciclismo y deportes de combate — y en los eventos culturales que a veces comparten esos mismos estadios y recintos: conciertos, festivales y espectáculos puntuales.",
-   "fr": "Image Media News est un titre provisoire pour un média d'actualité consacré avant tout au sport — football, athlétisme, cyclisme et sports de combat — et aux événements culturels qui partagent parfois ces mêmes stades et arénas : concerts, festivals et spectacles ponctuels.",
-   "it": "Image Media News è una testata provvisoria per un organo di informazione dedicato innanzitutto allo sport — calcio, atletica, ciclismo e sport da combattimento — e agli eventi culturali che a volte condividono gli stessi stadi e arene: concerti, festival e spettacoli occasionali."
+   "en": "Image Media News (IM News) is a sports-first news outlet covering football, athletics, cycling, combat sports and functional fitness — plus the concerts, festivals and cultural events that share the same stadiums and arenas the rest of the year.",
+   "pt": "A Image Media News (IM News) é um órgão de informação centrado sobretudo no desporto, com cobertura de futebol, atletismo, ciclismo, desportos de combate e fitness funcional — além dos concertos, festivais e eventos culturais que partilham os mesmos estádios e recintos ao longo do ano.",
+   "es": "Image Media News (IM News) es un medio informativo centrado principalmente en el deporte, con cobertura de fútbol, atletismo, ciclismo, deportes de combate y fitness funcional — además de los conciertos, festivales y eventos culturales que comparten esos mismos estadios y recintos durante el resto del año.",
+   "fr": "Image Media News (IM News) est un média d'actualité consacré avant tout au sport, couvrant le football, l'athlétisme, le cyclisme, les sports de combat et le fitness fonctionnel — ainsi que les concerts, festivals et événements culturels qui partagent ces mêmes stades et arénas le reste de l'année.",
+   "it": "Image Media News (IM News) è una testata giornalistica dedicata innanzitutto allo sport, con copertura di calcio, atletica, ciclismo, sport da combattimento e fitness funzionale — oltre ai concerti, festival ed eventi culturali che condividono gli stessi stadi e arene nel resto dell'anno."
   },
   "about-lead2": {
-   "en": "Every page on this site is editable in place, so this concept can evolve into the real thing without touching any code.",
-   "pt": "Todas as páginas deste site são editáveis diretamente, para que este conceito possa evoluir para a versão final sem tocar em código.",
-   "es": "Todas las páginas de este sitio son editables directamente, para que este concepto pueda evolucionar hacia la versión final sin tocar código.",
-   "fr": "Chaque page de ce site est modifiable directement, afin que ce concept puisse évoluer vers la version définitive sans toucher au code.",
-   "it": "Ogni pagina di questo sito è modificabile direttamente, così che questo concept possa evolversi nella versione definitiva senza toccare il codice."
+   "en": "Every story is reported and photographed on the ground by the Image Media team, with events covered as they happen across Portugal, Spain and beyond.",
+   "pt": "Todas as notícias são reportadas e fotografadas no terreno pela equipa da Image Media, com cobertura de eventos à medida que acontecem em Portugal, Espanha e mais além.",
+   "es": "Todas las noticias son reporteadas y fotografiadas sobre el terreno por el equipo de Image Media, con cobertura de eventos a medida que ocurren en Portugal, España y más allá.",
+   "fr": "Chaque article est réalisé et photographié sur place par l'équipe d'Image Media, qui couvre les événements au fur et à mesure qu'ils se déroulent au Portugal, en Espagne et au-delà.",
+   "it": "Ogni notizia è realizzata e fotografata sul posto dal team di Image Media, con la copertura degli eventi in tempo reale in Portogallo, Spagna e non solo."
   },
   "about-focus-title": {
    "en": "Editorial focus",
@@ -1352,18 +1352,18 @@ window.IM_I18N = {
    "it": "Sport"
   },
   "about-focus1-title": {
-   "en": "Matchday reports & results",
-   "pt": "Crónicas e resultados de jogo",
-   "es": "Crónicas y resultados de partido",
+   "en": "Event reports & results",
+   "pt": "Crónicas e resultados de prova",
+   "es": "Crónicas y resultados de prueba",
    "fr": "Comptes-rendus et résultats",
    "it": "Cronache e risultati"
   },
   "about-focus1-text": {
-   "en": "Football, athletics, cycling and combat sports coverage, from build-up to final whistle.",
-   "pt": "Cobertura de futebol, atletismo, ciclismo e desportos de combate, da antevisão ao apito final.",
-   "es": "Cobertura de fútbol, atletismo, ciclismo y deportes de combate, desde la previa hasta el pitido final.",
-   "fr": "Couverture du football, de l'athlétisme, du cyclisme et des sports de combat, de l'avant-match au coup de sifflet final.",
-   "it": "Copertura di calcio, atletica, ciclismo e sport da combattimento, dalla vigilia al triplice fischio."
+   "en": "Football, athletics, cycling, combat sports and functional fitness — covered on the ground from build-up to result.",
+   "pt": "Futebol, atletismo, ciclismo, desportos de combate e fitness funcional — cobertura no terreno, da antevisão ao resultado final.",
+   "es": "Fútbol, atletismo, ciclismo, deportes de combate y fitness funcional — cobertura sobre el terreno, desde la previa hasta el resultado final.",
+   "fr": "Football, athlétisme, cyclisme, sports de combat et fitness fonctionnel — couverts sur place, de l'avant-événement au résultat final.",
+   "it": "Calcio, atletica, ciclismo, sport da combattimento e fitness funzionale — seguiti sul posto, dalla vigilia al risultato finale."
   },
   "about-focus2-tag": {
    "en": "Culture",
@@ -1401,11 +1401,11 @@ window.IM_I18N = {
    "it": "Segnalazioni e correzioni"
   },
   "about-focus3-text": {
-   "en": "Placeholder contact for tips, corrections and partnership enquiries.",
-   "pt": "Contacto provisório para dicas, correções e pedidos de parceria.",
-   "es": "Contacto provisional para consejos, correcciones y solicitudes de colaboración.",
-   "fr": "Contact provisoire pour les signalements, corrections et demandes de partenariat.",
-   "it": "Contatto provvisorio per segnalazioni, correzioni e richieste di collaborazione."
+   "en": "Have a tip, a correction, or an event you'd like Image Media to cover? Get in touch using the details below.",
+   "pt": "Tem uma informação, uma correção a apontar, ou um evento que gostaria que a Image Media cobrisse? Contacte-nos através dos dados abaixo.",
+   "es": "¿Tienes una información, una corrección que señalar, o un evento que te gustaría que Image Media cubriera? Contáctanos con los datos de abajo.",
+   "fr": "Vous avez une information, une correction à signaler, ou un événement que vous aimeriez voir couvert par Image Media ? Contactez-nous grâce aux coordonnées ci-dessous.",
+   "it": "Hai una segnalazione, una correzione da proporre o un evento che vorresti far coprire da Image Media? Contattaci con i recapiti qui sotto."
   },
   "about-contact-title": {
    "en": "Newsroom contact",
@@ -7776,11 +7776,11 @@ window.IM_I18N = {
    "it": "Questo file non sembra un backup valido."
   },
   "footer.suffix": {
-   "en": "Placeholder content for concept review — edit freely.",
-   "pt": "Conteúdo provisório para revisão do conceito — edite livremente.",
-   "es": "Contenido provisional para revisión del concepto — edítalo libremente.",
-   "fr": "Contenu provisoire pour la revue du concept — modifiable librement.",
-   "it": "Contenuti provvisori per la revisione del concept — modifica liberamente."
+   "en": "All rights reserved.",
+   "pt": "Todos os direitos reservados.",
+   "es": "Todos los derechos reservados.",
+   "fr": "Tous droits réservés.",
+   "it": "Tutti i diritti riservati."
   }
  }
 };;;
