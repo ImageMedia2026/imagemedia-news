@@ -7024,6 +7024,223 @@ window.IM_I18N = {
   "fr": "Lire plus →",
   "it": "Leggi di più →"
  },
+ "a34-tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a34-title": {
+  "en": "Hurbax Brings Its Hybrid Circuit To Galicia For The First Time, Drawing Over 500 Athletes In Pontevedra",
+  "pt": "Hurbax Leva o Seu Circuito Híbrido À Galiza Pela Primeira Vez, Reunindo Mais de 500 Atletas em Pontevedra",
+  "es": "Hurbax Lleva Su Circuito Híbrido a Galicia Por Primera Vez, Con Más de 500 Atletas en Pontevedra",
+  "fr": "Hurbax Fait Étape en Galice Pour La Première Fois Et Réunit Plus de 500 Athlètes à Pontevedra",
+  "it": "Hurbax Porta Per La Prima Volta Il Suo Circuito Ibrido in Galizia, Con Oltre 500 Atleti a Pontevedra"
+ },
+ "a34-deck": {
+  "en": "Hurbax staged its running-and-functional-fitness race at Montero Ríos on 16 May 2026, with more than 500 athletes registered and organisers highlighting strong female participation in the series' first stop in Galicia.",
+  "pt": "A Hurbax realizou a sua prova híbrida de corrida e fitness funcional em Montero Ríos, a 16 de maio de 2026, com mais de 500 atletas inscritos e os organizadores a destacarem uma forte participação feminina na primeira etapa da série na Galiza.",
+  "es": "Hurbax celebró su prueba híbrida de carrera y fitness funcional en Montero Ríos el 16 de mayo de 2026, con más de 500 atletas inscritos y los organizadores destacando una fuerte participación femenina en la primera parada de la serie en Galicia.",
+  "fr": "Hurbax a organisé sa course hybride de course à pied et de fitness fonctionnel à Montero Ríos le 16 mai 2026, avec plus de 500 athlètes inscrits et une forte participation féminine soulignée par les organisateurs pour cette première étape de la série en Galice.",
+  "it": "Hurbax ha disputato la sua gara ibrida di corsa e fitness funzionale a Montero Ríos il 16 maggio 2026, con oltre 500 atleti iscritti e gli organizzatori che hanno sottolineato una forte partecipazione femminile nella prima tappa della serie in Galizia."
+ },
+ "a34-byline": {
+  "en": "By Image Media News Staff — Pontevedra, Spain",
+  "pt": "Por Image Media News Staff — Pontevedra, Espanha",
+  "es": "Por Image Media News Staff — Pontevedra, España",
+  "fr": "Par Image Media News Staff — Pontevedra, Espagne",
+  "it": "Di Image Media News Staff — Pontevedra, Spagna"
+ },
+ "a34-hero-credit": {
+  "en": "Photo: Nemi / Image Media",
+  "pt": "Foto: Nemi / Image Media",
+  "es": "Foto: Nemi / Image Media",
+  "fr": "Photo : Nemi / Image Media",
+  "it": "Foto: Nemi / Image Media"
+ },
+ "a34-p1": {
+  "en": "Hurbax brought its 2026 national circuit to Pontevedra on Saturday 16 May, staging its hybrid running-and-functional-fitness race along Avenida Montero Ríos, with event coverage by the Image Media team. Organised by Club Deportivo Básico Hurbax, it was the first time the circuit had held a competition in Galicia.",
+  "pt": "A Hurbax levou o seu circuito nacional de 2026 a Pontevedra no sábado, dia 16 de maio, com a sua prova híbrida de corrida e fitness funcional ao longo da Avenida Montero Ríos, com cobertura do evento pela equipa da Image Media. Organizado pelo Club Deportivo Básico Hurbax, foi a primeira vez que o circuito realizou uma prova na Galiza.",
+  "es": "Hurbax llevó su circuito nacional de 2026 a Pontevedra el sábado 16 de mayo, con su prueba híbrida de carrera y fitness funcional a lo largo de la Avenida Montero Ríos, con cobertura del evento a cargo del equipo de Image Media. Organizado por el Club Deportivo Básico Hurbax, fue la primera vez que el circuito celebraba una prueba en Galicia.",
+  "fr": "Hurbax a fait étape à Pontevedra le samedi 16 mai dans le cadre de son circuit national 2026, avec sa course hybride de course à pied et de fitness fonctionnel le long de l'Avenida Montero Ríos, couverte par l'équipe d'Image Media. Organisé par le Club Deportivo Básico Hurbax, c'était la première fois que le circuit organisait une épreuve en Galice.",
+  "it": "Hurbax ha portato il suo circuito nazionale 2026 a Pontevedra sabato 16 maggio, con la sua gara ibrida di corsa e fitness funzionale lungo l'Avenida Montero Ríos, con la copertura dell'evento affidata al team di Image Media. Organizzato dal Club Deportivo Básico Hurbax, è stata la prima volta che il circuito ha disputato una gara in Galizia."
+ },
+ "a34-p2": {
+  "en": "The format combines running with functional workout stations along a one-kilometre urban circuit, alternating rowing, wall balls, sandbag lunges, farmer's carry and burpee broad jumps over a total distance of roughly 5 kilometres. Athletes competed in individual, pairs and team categories, with distances and repetitions doubled for team entries, and separate age divisions applied. Racing began at 15:30 and ran until around 20:00.",
+  "pt": "O formato combina corrida com estações de treino funcional ao longo de um circuito urbano de um quilómetro, alternando remo, wall balls, avanços com saco de areia, farmer's carry e burpee broad jumps, ao longo de uma distância total de cerca de 5 quilómetros. Os atletas competiram nas categorias individual, dupla e equipa, com distâncias e repetições duplicadas nas inscrições de equipa, e aplicaram-se escalões etários separados. As provas começaram às 15h30 e prolongaram-se até cerca das 20h00.",
+  "es": "El formato combina carrera con estaciones de entrenamiento funcional a lo largo de un circuito urbano de un kilómetro, alternando remo, wall balls, zancadas con saco de arena, farmer's carry y burpee broad jumps, en una distancia total de unos 5 kilómetros. Los atletas compitieron en categorías individual, parejas y equipos, con distancias y repeticiones duplicadas en las inscripciones de equipo, y se aplicaron categorías por edad. Las pruebas comenzaron a las 15:30 y se prolongaron hasta cerca de las 20:00.",
+  "fr": "Le format combine course à pied et ateliers de fitness fonctionnel sur un circuit urbain d'un kilomètre, alternant aviron, wall balls, fentes avec sac de sable, farmer's carry et burpee broad jumps, sur une distance totale d'environ 5 kilomètres. Les athlètes ont concouru dans les catégories individuelle, en duo et en équipe, avec des distances et répétitions doublées pour les équipes, et des catégories d'âge distinctes ont été appliquées. Les courses ont débuté à 15h30 et se sont poursuivies jusque vers 20h00.",
+  "it": "Il formato combina la corsa con stazioni di allenamento funzionale lungo un circuito urbano di un chilometro, alternando canottaggio, wall ball, affondi con sacco di sabbia, farmer's carry e burpee broad jump, per una distanza totale di circa 5 chilometri. Gli atleti hanno gareggiato nelle categorie individuale, coppie e squadre, con distanze e ripetizioni raddoppiate per le iscrizioni a squadre, e sono state applicate categorie di età separate. Le gare sono iniziate alle 15:30 e sono proseguite fino a circa le 20:00."
+ },
+ "a34-inline1-credit": {
+  "en": "Photo: Nemi / Image Media",
+  "pt": "Foto: Nemi / Image Media",
+  "es": "Foto: Nemi / Image Media",
+  "fr": "Photo : Nemi / Image Media",
+  "it": "Foto: Nemi / Image Media"
+ },
+ "a34-p3": {
+  "en": "More than 500 athletes registered for the event, with organisers reporting that the field was predominantly women. Results counted toward the standings of Spain's 2026 Hurbax national championship.",
+  "pt": "Mais de 500 atletas inscreveram-se no evento, com os organizadores a indicarem que o pelotão foi maioritariamente feminino. Os resultados contaram para a classificação do campeonato nacional Hurbax de 2026 em Espanha.",
+  "es": "Más de 500 atletas se inscribieron en el evento, y los organizadores señalaron que la participación fue mayoritariamente femenina. Los resultados contaron para la clasificación del campeonato nacional Hurbax de 2026 en España.",
+  "fr": "Plus de 500 athlètes se sont inscrits à l'événement, les organisateurs indiquant que le peloton était majoritairement féminin. Les résultats ont compté pour le classement du championnat national Hurbax 2026 en Espagne.",
+  "it": "Oltre 500 atleti si sono iscritti all'evento, con gli organizzatori che hanno riferito una partecipazione prevalentemente femminile. I risultati sono stati validi per la classifica del campionato nazionale Hurbax 2026 in Spagna."
+ },
+ "a34-stat": {
+  "en": "16 May 2026 · Pontevedra · Hurbax Pontevedra · 500+ registered · First Hurbax stop in Galicia",
+  "pt": "16 de maio de 2026 · Pontevedra · Hurbax Pontevedra · +500 inscritos · Primeira etapa da Hurbax na Galiza",
+  "es": "16 de mayo de 2026 · Pontevedra · Hurbax Pontevedra · +500 inscritos · Primera parada de Hurbax en Galicia",
+  "fr": "16 mai 2026 · Pontevedra · Hurbax Pontevedra · +500 inscrits · Première étape de Hurbax en Galice",
+  "it": "16 maggio 2026 · Pontevedra · Hurbax Pontevedra · +500 iscritti · Prima tappa di Hurbax in Galizia"
+ },
+ "a34-inline2-credit": {
+  "en": "Photo: Nemi / Image Media",
+  "pt": "Foto: Nemi / Image Media",
+  "es": "Foto: Nemi / Image Media",
+  "fr": "Photo : Nemi / Image Media",
+  "it": "Foto: Nemi / Image Media"
+ },
+ "a34-p4": {
+  "en": "The race drew large crowds of spectators along the course, with local reporting describing the debut as a success in both participation and public turnout. Upcoming stops on the 2026 Hurbax circuit are scheduled for Oviedo, Gijón and Madrid.",
+  "pt": "A prova reuniu grandes multidões de espectadores ao longo do percurso, com a imprensa local a descrever a estreia como um sucesso tanto de participação como de afluência de público. As próximas etapas do circuito Hurbax de 2026 estão marcadas para Oviedo, Gijón e Madrid.",
+  "es": "La prueba reunió a numerosos espectadores a lo largo del recorrido, y la prensa local describió el debut como un éxito tanto de participación como de afluencia de público. Las próximas paradas del circuito Hurbax de 2026 están previstas en Oviedo, Gijón y Madrid.",
+  "fr": "La course a attiré de nombreux spectateurs tout au long du parcours, la presse locale qualifiant ces débuts de réussite tant en termes de participation que d'affluence du public. Les prochaines étapes du circuit Hurbax 2026 sont prévues à Oviedo, Gijón et Madrid.",
+  "it": "La gara ha richiamato un folto pubblico lungo il percorso, con la stampa locale che ha descritto il debutto come un successo sia di partecipazione che di affluenza. Le prossime tappe del circuito Hurbax 2026 sono previste a Oviedo, Gijón e Madrid."
+ },
+ "a34-p5": {
+  "en": "The Image Media coverage team comprised Nemi, Luciano Inocencio, Willy Becker, Eduardo Pereira and Sergio Mendes.",
+  "pt": "A equipa de cobertura da Image Media foi composta por Nemi, Luciano Inocencio, Willy Becker, Eduardo Pereira e Sergio Mendes.",
+  "es": "El equipo de cobertura de Image Media estuvo formado por Nemi, Luciano Inocencio, Willy Becker, Eduardo Pereira y Sergio Mendes.",
+  "fr": "L'équipe de couverture d'Image Media était composée de Nemi, Luciano Inocencio, Willy Becker, Eduardo Pereira et Sergio Mendes.",
+  "it": "Il team di copertura di Image Media era composto da Nemi, Luciano Inocencio, Willy Becker, Eduardo Pereira e Sergio Mendes."
+ },
+ "a34-tagpill1": {
+  "en": "Hurbax Pontevedra",
+  "pt": "Hurbax Pontevedra",
+  "es": "Hurbax Pontevedra",
+  "fr": "Hurbax Pontevedra",
+  "it": "Hurbax Pontevedra"
+ },
+ "a34-tagpill2": {
+  "en": "Pontevedra",
+  "pt": "Pontevedra",
+  "es": "Pontevedra",
+  "fr": "Pontevedra",
+  "it": "Pontevedra"
+ },
+ "a34-tagpill3": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a34-related-title": {
+  "en": "More from Image Media",
+  "pt": "Mais da Image Media",
+  "es": "Más de Image Media",
+  "fr": "Plus d'Image Media",
+  "it": "Altro da Image Media"
+ },
+ "a34-related1-tag": {
+  "en": "Sports",
+  "pt": "Desporto",
+  "es": "Deportes",
+  "fr": "Sports",
+  "it": "Sport"
+ },
+ "a34-related1-title": {
+  "en": "See all Sports coverage",
+  "pt": "Ver toda a cobertura de Desporto",
+  "es": "Ver toda la cobertura de Deportes",
+  "fr": "Voir toute la couverture Sports",
+  "it": "Vedi tutta la copertura Sport"
+ },
+ "a34-related1-link": {
+  "en": "Visit section →",
+  "pt": "Visitar secção →",
+  "es": "Visitar sección →",
+  "fr": "Visiter la rubrique →",
+  "it": "Visita la sezione →"
+ },
+ "a34-related2-tag": {
+  "en": "Image Media",
+  "pt": "Image Media",
+  "es": "Image Media",
+  "fr": "Image Media",
+  "it": "Image Media"
+ },
+ "a34-related2-title": {
+  "en": "How Image Media covers your event",
+  "pt": "Como a Image Media cobre o seu evento",
+  "es": "Cómo cubre Image Media tu evento",
+  "fr": "Comment Image Media couvre votre événement",
+  "it": "Come Image Media copre il tuo evento"
+ },
+ "a34-related2-link": {
+  "en": "Learn more →",
+  "pt": "Saber mais →",
+  "es": "Saber más →",
+  "fr": "En savoir plus →",
+  "it": "Scopri di più →"
+ },
+ "a34-related3-tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a34-related3-title": {
+  "en": "Hurbax Valladolid Draws Over 600 Athletes In Race Marking 475th Anniversary Of The Valladolid Controversy",
+  "pt": "Hurbax Valladolid Reúne Mais de 600 Atletas Em Prova Que Assinala o 475.º Aniversário da Controvérsia de Valladolid",
+  "es": "Hurbax Valladolid Reúne a Más de 600 Atletas En Una Prueba Que Conmemora el 475.º Aniversario de la Controversia de Valladolid",
+  "fr": "Hurbax Valladolid Réunit Plus de 600 Athlètes Pour Une Course Marquant le 475e Anniversaire de la Controverse de Valladolid",
+  "it": "Hurbax Valladolid Riunisce Oltre 600 Atleti In Una Gara Che Celebra il 475° Anniversario Della Controversia di Valladolid"
+ },
+ "a34-related3-link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
+ "card-s29__field__tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "card-s29__field__title": {
+  "en": "Hurbax Brings Its Hybrid Circuit To Galicia For The First Time, Drawing Over 500 Athletes In Pontevedra",
+  "pt": "Hurbax Leva o Seu Circuito Híbrido À Galiza Pela Primeira Vez, Reunindo Mais de 500 Atletas em Pontevedra",
+  "es": "Hurbax Lleva Su Circuito Híbrido a Galicia Por Primera Vez, Con Más de 500 Atletas en Pontevedra",
+  "fr": "Hurbax Fait Étape en Galice Pour La Première Fois Et Réunit Plus de 500 Athlètes à Pontevedra",
+  "it": "Hurbax Porta Per La Prima Volta Il Suo Circuito Ibrido in Galizia, Con Oltre 500 Atleti a Pontevedra"
+ },
+ "card-s29__field__deck": {
+  "en": "Hurbax staged its running-and-functional-fitness race at Montero Ríos on 16 May 2026, with more than 500 athletes registered in the series' first stop in Galicia.",
+  "pt": "A Hurbax realizou a sua prova híbrida de corrida e fitness funcional em Montero Ríos, a 16 de maio de 2026, com mais de 500 atletas inscritos na primeira etapa da série na Galiza.",
+  "es": "Hurbax celebró su prueba híbrida de carrera y fitness funcional en Montero Ríos el 16 de mayo de 2026, con más de 500 atletas inscritos en la primera parada de la serie en Galicia.",
+  "fr": "Hurbax a organisé sa course hybride de course à pied et de fitness fonctionnel à Montero Ríos le 16 mai 2026, avec plus de 500 athlètes inscrits pour cette première étape de la série en Galice.",
+  "it": "Hurbax ha disputato la sua gara ibrida di corsa e fitness funzionale a Montero Ríos il 16 maggio 2026, con oltre 500 atleti iscritti nella prima tappa della serie in Galizia."
+ },
+ "card-s29__field__meta": {
+  "en": "Image Media coverage",
+  "pt": "Cobertura Image Media",
+  "es": "Cobertura de Image Media",
+  "fr": "Couverture Image Media",
+  "it": "Copertura Image Media"
+ },
+ "card-s29__field__link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
  "card-s27__field__tag": {
   "en": "Functional",
   "pt": "Funcional",
