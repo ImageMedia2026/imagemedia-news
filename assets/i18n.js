@@ -5713,6 +5713,151 @@ window.IM_I18N = {
  },
  "card-s20__field__link": {
   "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
+ },
+ "a26-tag": {
+  "en": "Cycling", "pt": "Ciclismo", "es": "Ciclismo", "fr": "Cyclisme", "it": "Ciclismo"
+ },
+ "a26-title": {
+  "en": "Blas Rivero And Michela Santini Win Two-Day Desafío La Titánica In Gran Canaria",
+  "pt": "Blas Rivero E Michela Santini Vencem O Desafío La Titánica De Dois Dias Na Gran Canaria",
+  "es": "Blas Rivero Y Michela Santini Ganan El Desafío La Titánica De Dos Días En Gran Canaria",
+  "fr": "Blas Rivero Et Michela Santini Remportent Le Desafío La Titánica Sur Deux Jours À Grande Canarie",
+  "it": "Blas Rivero E Michela Santini Vincono Il Desafío La Titánica Di Due Giorni A Gran Canaria"
+ },
+ "a26-deck": {
+  "en": "The 21st edition linked Agüimes and Vega de San Mateo on 11–12 April, with wind and rain reshaping the decisive stage.",
+  "pt": "A 21.ª edição ligou Agüimes a Vega de San Mateo em 11–12 de abril, com o vento e a chuva a alterarem a etapa decisiva.",
+  "es": "La 21.ª edición unió Agüimes y Vega de San Mateo los días 11 y 12 de abril, con el viento y la lluvia alterando la etapa decisiva.",
+  "fr": "La 21e édition a relié Agüimes à Vega de San Mateo les 11 et 12 avril, le vent et la pluie ayant modifié l'étape décisive.",
+  "it": "La 21ª edizione ha collegato Agüimes e Vega de San Mateo l'11 e 12 aprile, con vento e pioggia a modificare la tappa decisiva."
+ },
+ "a26-byline": {
+  "en": "By Image Media News Staff — Gran Canaria, Spain",
+  "pt": "Por Image Media News — Gran Canaria, Espanha",
+  "es": "Por Image Media News — Gran Canaria, España",
+  "fr": "Par Image Media News — Grande Canarie, Espagne",
+  "it": "Di Image Media News — Gran Canaria, Spagna"
+ },
+ "a26-hero-credit": {
+  "en": "Photo: Fabricio Zerves / Image Media", "pt": "Foto: Fabricio Zerves / Image Media", "es": "Foto: Fabricio Zerves / Image Media", "fr": "Photo : Fabricio Zerves / Image Media", "it": "Foto: Fabricio Zerves / Image Media"
+ },
+ "a26-p1": {
+  "en": "The 21st Monte Feliz – powered by Playitas Desafío La Titánica was held across Gran Canaria on 11 and 12 April 2026. The UCI-recognised event brought 170 cyclists per day to two stages centred on Agüimes and Vega de San Mateo, with coverage by the Image Media team.",
+  "pt": "A 21.ª edição do Monte Feliz – powered by Playitas Desafío La Titánica realizou-se na Gran Canaria nos dias 11 e 12 de abril de 2026. O evento reconhecido pela UCI reuniu 170 ciclistas por dia em duas etapas centradas em Agüimes e Vega de San Mateo, com cobertura da equipa Image Media.",
+  "es": "La 21.ª edición del Monte Feliz – powered by Playitas Desafío La Titánica se celebró en Gran Canaria los días 11 y 12 de abril de 2026. El evento reconocido por la UCI reunió a 170 ciclistas por jornada en dos etapas con epicentro en Agüimes y Vega de San Mateo, con cobertura del equipo de Image Media.",
+  "fr": "La 21e édition du Monte Feliz – powered by Playitas Desafío La Titánica s'est déroulée à Grande Canarie les 11 et 12 avril 2026. L'événement reconnu par l'UCI a réuni 170 cyclistes par jour sur deux étapes centrées sur Agüimes et Vega de San Mateo, avec une couverture de l'équipe Image Media.",
+  "it": "La 21ª edizione del Monte Feliz – powered by Playitas Desafío La Titánica si è svolta a Gran Canaria l'11 e 12 aprile 2026. L'evento riconosciuto dall'UCI ha riunito 170 ciclisti al giorno in due tappe incentrate su Agüimes e Vega de San Mateo, con copertura del team Image Media."
+ },
+ "a26-p2": {
+  "en": "Saturday's opening stage started and finished at the Auditorio de Agüimes. Its 18.3-kilometre route climbed 700 metres through the Barranco de Guayadeque and Alto Montaña Las Tierras, where Blas Rivero and Michela Santini established the first leads.",
+  "pt": "A etapa de abertura de sábado começou e terminou no Auditorio de Agüimes. O percurso de 18,3 quilómetros acumulou 700 metros de subida através do Barranco de Guayadeque e do Alto Montaña Las Tierras, onde Blas Rivero e Michela Santini estabeleceram as primeiras lideranças.",
+  "es": "La etapa inaugural del sábado comenzó y terminó en el Auditorio de Agüimes. Su recorrido de 18,3 kilómetros acumuló 700 metros de ascenso por el Barranco de Guayadeque y el Alto Montaña Las Tierras, donde Blas Rivero y Michela Santini establecieron los primeros lideratos.",
+  "fr": "L'étape d'ouverture du samedi est partie et arrivée à l'Auditorio de Agüimes. Son parcours de 18,3 kilomètres cumulait 700 mètres d'ascension à travers le Barranco de Guayadeque et l'Alto Montaña Las Tierras, où Blas Rivero et Michela Santini ont pris les premiers avantages.",
+  "it": "La tappa inaugurale di sabato è partita e si è conclusa all'Auditorio de Agüimes. Il percorso di 18,3 chilometri comprendeva 700 metri di salita attraverso il Barranco de Guayadeque e l'Alto Montaña Las Tierras, dove Blas Rivero e Michela Santini hanno stabilito i primi vantaggi."
+ },
+ "a26-inline1-credit": {
+  "en": "Photo: Michael Rosa / Image Media", "pt": "Foto: Michael Rosa / Image Media", "es": "Foto: Michael Rosa / Image Media", "fr": "Photo : Michael Rosa / Image Media", "it": "Foto: Michael Rosa / Image Media"
+ },
+ "a26-p3": {
+  "en": "The decisive Sunday stage covered 78 kilometres from Agüimes to Vega de San Mateo with 2,300 metres of climbing. Wind and rain affected much of the route, and ramps above 20 per cent tested the field around La Atalaya, Alto de la Bodeguilla and La Asomada. The organisers cancelled the final timed sector because of the conditions, leaving two timed sections to decide the classification.",
+  "pt": "A etapa decisiva de domingo percorreu 78 quilómetros entre Agüimes e Vega de San Mateo, com 2.300 metros de subida. O vento e a chuva afetaram grande parte do percurso, e rampas acima dos 20 por cento testaram o pelotão em La Atalaya, Alto de la Bodeguilla e La Asomada. A organização cancelou o último setor cronometrado devido às condições, deixando dois setores para decidir a classificação.",
+  "es": "La decisiva etapa del domingo recorrió 78 kilómetros desde Agüimes hasta Vega de San Mateo, con 2.300 metros de ascenso. El viento y la lluvia afectaron a gran parte del recorrido, y rampas superiores al 20 por ciento pusieron a prueba al pelotón en La Atalaya, Alto de la Bodeguilla y La Asomada. La organización canceló el último sector cronometrado debido a las condiciones, dejando dos sectores para decidir la clasificación.",
+  "fr": "L'étape décisive du dimanche a parcouru 78 kilomètres d'Agüimes à Vega de San Mateo, avec 2 300 mètres d'ascension. Le vent et la pluie ont touché une grande partie du parcours, et des pentes supérieures à 20 % ont mis le peloton à l'épreuve autour de La Atalaya, Alto de la Bodeguilla et La Asomada. Les organisateurs ont annulé le dernier secteur chronométré en raison des conditions, laissant deux secteurs décider du classement.",
+  "it": "La decisiva tappa di domenica ha coperto 78 chilometri da Agüimes a Vega de San Mateo, con 2.300 metri di salita. Vento e pioggia hanno interessato gran parte del percorso, mentre rampe superiori al 20 per cento hanno messo alla prova il gruppo a La Atalaya, Alto de la Bodeguilla e La Asomada. Gli organizzatori hanno annullato l'ultimo settore cronometrato a causa delle condizioni, lasciando due settori a decidere la classifica."
+ },
+ "a26-stat": {
+  "en": "11–12 April 2026 · Gran Canaria · 21st edition · Two stages · UCI event",
+  "pt": "11–12 de abril de 2026 · Gran Canaria · 21.ª edição · Duas etapas · Evento UCI",
+  "es": "11–12 de abril de 2026 · Gran Canaria · 21.ª edición · Dos etapas · Evento UCI",
+  "fr": "11–12 avril 2026 · Grande Canarie · 21e édition · Deux étapes · Événement UCI",
+  "it": "11–12 aprile 2026 · Gran Canaria · 21ª edizione · Due tappe · Evento UCI"
+ },
+ "a26-p4": {
+  "en": "Rivero secured the men's overall victory in 1:28:46, ahead of Edgar Clemente and Niklas Brantner. Santini won the women's classification in 1:48:13, with Emma Vickman second and Mónica Alarcón third.",
+  "pt": "Rivero garantiu a vitória na classificação geral masculina em 1:28:46, à frente de Edgar Clemente e Niklas Brantner. Santini venceu a classificação feminina em 1:48:13, com Emma Vickman em segundo e Mónica Alarcón em terceiro.",
+  "es": "Rivero aseguró la victoria en la clasificación general masculina con 1:28:46, por delante de Edgar Clemente y Niklas Brantner. Santini ganó la clasificación femenina con 1:48:13, con Emma Vickman segunda y Mónica Alarcón tercera.",
+  "fr": "Rivero a remporté le classement général masculin en 1 h 28 min 46 s, devant Edgar Clemente et Niklas Brantner. Santini a gagné le classement féminin en 1 h 48 min 13 s, devant Emma Vickman et Mónica Alarcón.",
+  "it": "Rivero ha conquistato la classifica generale maschile in 1:28:46, davanti a Edgar Clemente e Niklas Brantner. Santini ha vinto la classifica femminile in 1:48:13, con Emma Vickman seconda e Mónica Alarcón terza."
+ },
+ "a26-p5": {
+  "en": "DG Eventos organised the race with the municipalities of Agüimes and Vega de San Mateo. Monte Feliz – powered by Playitas was the principal sponsor, while the Cabildo de Gran Canaria supported the event through its tourism and sports departments.",
+  "pt": "A DG Eventos organizou a prova com os municípios de Agüimes e Vega de San Mateo. Monte Feliz – powered by Playitas foi o patrocinador principal, enquanto o Cabildo de Gran Canaria apoiou o evento através dos seus departamentos de turismo e desporto.",
+  "es": "DG Eventos organizó la prueba junto con los ayuntamientos de Agüimes y Vega de San Mateo. Monte Feliz – powered by Playitas fue el patrocinador principal, mientras que el Cabildo de Gran Canaria apoyó el evento a través de sus áreas de turismo y deporte.",
+  "fr": "DG Eventos a organisé la course avec les municipalités d'Agüimes et de Vega de San Mateo. Monte Feliz – powered by Playitas était le sponsor principal, tandis que le Cabildo de Gran Canaria soutenait l'événement par l'intermédiaire de ses services du tourisme et des sports.",
+  "it": "DG Eventos ha organizzato la gara con i comuni di Agüimes e Vega de San Mateo. Monte Feliz – powered by Playitas è stato lo sponsor principale, mentre il Cabildo de Gran Canaria ha sostenuto l'evento attraverso i dipartimenti del turismo e dello sport."
+ },
+ "a26-p6": {
+  "en": "The Image Media coverage team comprised Paulo Nomade, Michael Rosa and Fabricio Zerves. Their photographs documented the start, the wet and demanding racing conditions, and the podium celebrations at the end of the two-day event.",
+  "pt": "A equipa de cobertura da Image Media foi composta por Paulo Nomade, Michael Rosa e Fabricio Zerves. As fotografias documentaram a partida, as condições molhadas e exigentes da corrida e as celebrações do pódio no final do evento de dois dias.",
+  "es": "El equipo de cobertura de Image Media estuvo formado por Paulo Nomade, Michael Rosa y Fabricio Zerves. Sus fotografías documentaron la salida, las condiciones húmedas y exigentes de la carrera y las celebraciones del podio al final del evento de dos días.",
+  "fr": "L'équipe de couverture d'Image Media était composée de Paulo Nomade, Michael Rosa et Fabricio Zerves. Leurs photographies ont documenté le départ, les conditions humides et exigeantes de la course et les célébrations du podium à la fin de l'événement de deux jours.",
+  "it": "Il team di copertura di Image Media era composto da Paulo Nomade, Michael Rosa e Fabricio Zerves. Le fotografie hanno documentato la partenza, le condizioni di gara bagnate e impegnative e le celebrazioni sul podio al termine dell'evento di due giorni."
+ },
+ "a26-tagpill1": {
+  "en": "Desafío La Titánica", "pt": "Desafío La Titánica", "es": "Desafío La Titánica", "fr": "Desafío La Titánica", "it": "Desafío La Titánica"
+ },
+ "a26-tagpill2": {
+  "en": "Gran Canaria", "pt": "Gran Canaria", "es": "Gran Canaria", "fr": "Grande Canarie", "it": "Gran Canaria"
+ },
+ "a26-tagpill3": {
+  "en": "Cycling", "pt": "Ciclismo", "es": "Ciclismo", "fr": "Cyclisme", "it": "Ciclismo"
+ },
+ "a26-related-title": {
+  "en": "More from Image Media", "pt": "Mais da Image Media", "es": "Más de Image Media", "fr": "Plus d'Image Media", "it": "Altro da Image Media"
+ },
+ "a26-related1-tag": {
+  "en": "Sports", "pt": "Desporto", "es": "Deportes", "fr": "Sports", "it": "Sport"
+ },
+ "a26-related1-title": {
+  "en": "See all Sports coverage", "pt": "Ver toda a cobertura de Desporto", "es": "Ver toda la cobertura de Deportes", "fr": "Voir toute la couverture Sports", "it": "Vedi tutta la copertura Sport"
+ },
+ "a26-related1-link": {
+  "en": "Visit section →", "pt": "Visitar secção →", "es": "Visitar sección →", "fr": "Visiter la rubrique →", "it": "Visita la sezione →"
+ },
+ "a26-related2-tag": {
+  "en": "Image Media", "pt": "Image Media", "es": "Image Media", "fr": "Image Media", "it": "Image Media"
+ },
+ "a26-related2-title": {
+  "en": "How Image Media covers your event", "pt": "Como a Image Media cobre o seu evento", "es": "Cómo cubre Image Media tu evento", "fr": "Comment Image Media couvre votre événement", "it": "Come Image Media copre il tuo evento"
+ },
+ "a26-related2-link": {
+  "en": "Learn more →", "pt": "Saber mais →", "es": "Saber más →", "fr": "En savoir plus →", "it": "Scopri di più →"
+ },
+ "a26-related3-tag": {
+  "en": "Cycling", "pt": "Ciclismo", "es": "Ciclismo", "fr": "Cyclisme", "it": "Ciclismo"
+ },
+ "a26-related3-title": {
+  "en": "Massos Gravel Rolls Through Maspujols In Sold-Out Charity Ride",
+  "pt": "Massos Gravel Percorre Maspujols Numa Volta Solidária Com Lotação Esgotada",
+  "es": "Massos Gravel Recorre Maspujols En Una Marcha Solidaria Con Plazas Agotadas",
+  "fr": "Massos Gravel Traverse Maspujols Lors D'Une Randonnée Solidaire Complète",
+  "it": "Massos Gravel Attraversa Maspujols In Una Pedalata Solidale Tutto Esaurito"
+ },
+ "a26-related3-link": {
+  "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
+ },
+ "card-s21__field__tag": {
+  "en": "Cycling", "pt": "Ciclismo", "es": "Ciclismo", "fr": "Cyclisme", "it": "Ciclismo"
+ },
+ "card-s21__field__title": {
+  "en": "Blas Rivero And Michela Santini Win Two-Day Desafío La Titánica",
+  "pt": "Blas Rivero E Michela Santini Vencem O Desafío La Titánica De Dois Dias",
+  "es": "Blas Rivero Y Michela Santini Ganan El Desafío La Titánica De Dos Días",
+  "fr": "Blas Rivero Et Michela Santini Remportent Le Desafío La Titánica Sur Deux Jours",
+  "it": "Blas Rivero E Michela Santini Vincono Il Desafío La Titánica Di Due Giorni"
+ },
+ "card-s21__field__deck": {
+  "en": "The 21st edition crossed Gran Canaria on 11–12 April, with wind and rain reshaping the decisive stage.",
+  "pt": "A 21.ª edição atravessou a Gran Canaria em 11–12 de abril, com o vento e a chuva a alterarem a etapa decisiva.",
+  "es": "La 21.ª edición recorrió Gran Canaria los días 11 y 12 de abril, con el viento y la lluvia alterando la etapa decisiva.",
+  "fr": "La 21e édition a traversé Grande Canarie les 11 et 12 avril, le vent et la pluie ayant modifié l'étape décisive.",
+  "it": "La 21ª edizione ha attraversato Gran Canaria l'11 e 12 aprile, con vento e pioggia a modificare la tappa decisiva."
+ },
+ "card-s21__field__meta": {
+  "en": "Image Media coverage", "pt": "Cobertura Image Media", "es": "Cobertura de Image Media", "fr": "Couverture Image Media", "it": "Copertura Image Media"
+ },
+ "card-s21__field__link": {
+  "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
  }
 
  },
