@@ -6002,6 +6002,183 @@ window.IM_I18N = {
  }
 
  },
+ "a10-related1-link": {
+  "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
+ },
+ "a10-related2-link": {
+  "en": "Visit section →", "pt": "Visitar secção →", "es": "Visitar sección →", "fr": "Visiter la rubrique →", "it": "Visita la sezione →"
+ },
+ "a10-related3-link": {
+  "en": "Learn more →", "pt": "Saber mais →", "es": "Saber más →", "fr": "En savoir plus →", "it": "Scopri di più →"
+ },
+ "a9-related1-link": {
+  "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
+ },
+ "a9-related2-link": {
+  "en": "Visit section →", "pt": "Visitar secção →", "es": "Visitar sección →", "fr": "Visiter la rubrique →", "it": "Visita la sezione →"
+ },
+ "a9-related3-link": {
+  "en": "Learn more →", "pt": "Saber mais →", "es": "Saber más →", "fr": "En savoir plus →", "it": "Scopri di più →"
+ },
+ "a13-hero-credit": {
+  "en": "Photo: Michael Rosa", "pt": "Foto: Michael Rosa", "es": "Foto: Michael Rosa", "fr": "Photo : Michael Rosa", "it": "Foto: Michael Rosa"
+ },
+ "a4-tagpill1": {
+  "en": "Hurbax", "pt": "Hurbax", "es": "Hurbax", "fr": "Hurbax", "it": "Hurbax"
+ },
+ "card-s7__field__link": {
+  "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
+ },
+ "card-s8__field__link": {
+  "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
+ },
+ "card-s9__field__link": {
+  "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
+ },
+ "a28-tag": {
+  "en": "Athletics", "pt": "Atletismo", "es": "Atletismo", "fr": "Athlétisme", "it": "Atletica"
+ },
+ "a28-title": {
+  "en": "Aferdi And Ouhaddou Crowned Spanish Half Marathon Champions At XX Media Maratón De Mérida",
+  "pt": "Aferdi E Ouhaddou Sagram-Se Campeões De Espanha De Meia Maratona Na XX Media Maratón De Mérida",
+  "es": "Aferdi Y Ouhaddou Se Proclaman Campeones De España De Media Maratón En La XX Media Maratón De Mérida",
+  "fr": "Aferdi Et Ouhaddou Sacrés Champions D'Espagne Du Semi-Marathon À La XXe Media Maratón De Mérida",
+  "it": "Aferdi E Ouhaddou Campioni Di Spagna Di Mezza Maratona Alla XX Media Maratón De Mérida"
+ },
+ "a28-deck": {
+  "en": "Around 2,500 runners took the start on Mérida's Roman monuments circuit on 11 April 2026, as the race doubled as the Spanish Half Marathon Championship for the first time in Extremadura.",
+  "pt": "Cerca de 2.500 corredores partiram no circuito pelos monumentos romanos de Mérida a 11 de abril de 2026, numa prova que serviu também, pela primeira vez, de Campeonato de Espanha de Meia Maratona na Extremadura.",
+  "es": "Cerca de 2.500 corredores tomaron la salida en el circuito por los monumentos romanos de Mérida el 11 de abril de 2026, en una prueba que sirvió también, por primera vez, de Campeonato de España de Media Maratón en Extremadura.",
+  "fr": "Environ 2 500 coureurs ont pris le départ sur le circuit des monuments romains de Mérida le 11 avril 2026, cette course servant aussi, pour la première fois, de Championnat d'Espagne du semi-marathon en Estrémadure.",
+  "it": "Circa 2.500 corridori hanno preso il via sul circuito dei monumenti romani di Mérida l'11 aprile 2026, in una gara che ha fatto da Campionato di Spagna di mezza maratona per la prima volta in Estremadura."
+ },
+ "a28-byline": {
+  "en": "By Image Media News Staff — Mérida, Spain", "pt": "Por Image Media News — Mérida, Espanha", "es": "Por Image Media News — Mérida, España", "fr": "Par Image Media News — Mérida, Espagne", "it": "Di Image Media News — Mérida, Spagna"
+ },
+ "a28-hero-credit": {
+  "en": "Photo: Lucas / Image Media", "pt": "Foto: Lucas / Image Media", "es": "Foto: Lucas / Image Media", "fr": "Photo : Lucas / Image Media", "it": "Foto: Lucas / Image Media"
+ },
+ "a28-p1": {
+  "en": "The XX Media Maratón de Mérida took the start and finish on the Paseo de Roma on Saturday 11 April 2026 at 19:00, with event coverage by the Image Media team. The 21.097-kilometre route crossed one of the best-preserved sets of Roman monuments in the world, passing the Roman Theatre and Amphitheatre, the Roman Bridge, the Arch of Trajan, the Aqueduct of Los Milagros, the Alcazaba and the Temple of Diana, on a course UNESCO declared a World Heritage Site in 1993.",
+  "pt": "A XX Media Maratón de Mérida teve partida e chegada no Paseo de Roma no sábado, 11 de abril de 2026, às 19h00, com cobertura da equipa Image Media. O percurso de 21,097 quilómetros atravessou um dos conjuntos de monumentos romanos mais bem preservados do mundo, passando pelo Teatro e Anfiteatro Romanos, a Ponte Romana, o Arco de Trajano, o Aqueduto dos Milagres, a Alcazaba e o Templo de Diana, num traçado que a UNESCO classificou Património Mundial em 1993.",
+  "es": "La XX Media Maratón de Mérida tuvo salida y meta en el Paseo de Roma el sábado 11 de abril de 2026 a las 19:00 horas, con cobertura del equipo de Image Media. El recorrido de 21,097 kilómetros atravesó uno de los conjuntos de monumentos romanos mejor conservados del mundo, pasando por el Teatro y Anfiteatro romanos, el Puente Romano, el Arco de Trajano, el Acueducto de los Milagros, la Alcazaba y el Templo de Diana, en un trazado que la UNESCO declaró Patrimonio de la Humanidad en 1993.",
+  "fr": "La XXe Media Maratón de Mérida a eu son départ et son arrivée sur le Paseo de Roma le samedi 11 avril 2026 à 19h00, avec une couverture de l'équipe Image Media. Le parcours de 21,097 kilomètres traversait l'un des ensembles de monuments romains les mieux conservés au monde, passant par le théâtre et l'amphithéâtre romains, le pont romain, l'arc de Trajan, l'aqueduc des Milagros, l'Alcazaba et le temple de Diane, sur un tracé classé au patrimoine mondial de l'UNESCO en 1993.",
+  "it": "La XX Media Maratón de Mérida ha avuto partenza e arrivo al Paseo de Roma sabato 11 aprile 2026 alle 19:00, con copertura del team Image Media. Il percorso di 21,097 chilometri ha attraversato uno degli insiemi di monumenti romani meglio conservati al mondo, passando per il Teatro e l'Anfiteatro romani, il Ponte Romano, l'Arco di Traiano, l'Acquedotto dei Miracoli, l'Alcazaba e il Tempio di Diana, su un tracciato dichiarato Patrimonio dell'Umanità dall'UNESCO nel 1993."
+ },
+ "a28-p2": {
+  "en": "This twentieth edition carried the official seal of the Spanish Half Marathon Championship, Absolute and Master categories, the first time the national title has been decided in Extremadura. Around 2,500 race bibs for the mass-participation event sold out roughly 40 minutes after registration opened, months before the start. Separately, 619 federation-registered athletes from 190 clubs across Spain competed for the national titles across the full Campeonato de España de Ruta weekend, which also included 5-kilometre and mile races the following day. The Master category alone admitted 414 athletes, 87 women and 327 men, in the 44th edition of that national championship.",
+  "pt": "Esta vigésima edição contou com o selo oficial do Campeonato de Espanha de Meia Maratona, nas categorias Absoluta e Master, a primeira vez que o título nacional se decidiu na Extremadura. Cerca de 2.500 dorsais para a prova popular esgotaram-se em cerca de 40 minutos após a abertura das inscrições, meses antes da partida. Em paralelo, 619 atletas federados de 190 clubes de toda a Espanha disputaram os títulos nacionais ao longo de todo o fim de semana do Campeonato de Espanha de Estrada, que incluiu também provas de 5 quilómetros e milha no dia seguinte. Só a categoria Master admitiu 414 atletas, 87 mulheres e 327 homens, na 44.ª edição desse campeonato nacional.",
+  "es": "Esta vigésima edición llevó el sello oficial del Campeonato de España de Media Maratón, en categoría Absoluta y Máster, la primera vez que el título nacional se decide en Extremadura. Los cerca de 2.500 dorsales de la prueba popular se agotaron en unos 40 minutos tras abrirse las inscripciones, meses antes de la carrera. Por otro lado, 619 atletas federados de 190 clubes de toda España compitieron por los títulos nacionales a lo largo de todo el fin de semana del Campeonato de España de Ruta, que incluyó también pruebas de 5 kilómetros y milla al día siguiente. Solo la categoría Máster admitió a 414 atletas, 87 mujeres y 327 hombres, en la 44.ª edición de ese campeonato nacional.",
+  "fr": "Cette vingtième édition portait le label officiel du Championnat d'Espagne du semi-marathon, catégories Absolue et Master, la première fois que le titre national se décide en Estrémadure. Les quelque 2 500 dossards de l'épreuve populaire ont été écoulés en environ 40 minutes après l'ouverture des inscriptions, plusieurs mois avant la course. Par ailleurs, 619 athlètes licenciés de 190 clubs de toute l'Espagne ont disputé les titres nationaux sur l'ensemble du week-end du Championnat d'Espagne de course sur route, qui comprenait aussi des épreuves de 5 kilomètres et du mile le lendemain. La seule catégorie Master a réuni 414 athlètes, 87 femmes et 327 hommes, pour la 44e édition de ce championnat national.",
+  "it": "Questa ventesima edizione ha avuto il sigillo ufficiale del Campionato di Spagna di mezza maratona, categorie Assoluta e Master, la prima volta che il titolo nazionale si assegna in Estremadura. I circa 2.500 pettorali della gara popolare sono andati esauriti in circa 40 minuti dall'apertura delle iscrizioni, mesi prima della partenza. Parallelamente, 619 atleti tesserati di 190 club di tutta la Spagna hanno gareggiato per i titoli nazionali nell'intero fine settimana del Campionato di Spagna su strada, che ha incluso anche gare di 5 chilometri e miglio il giorno successivo. La sola categoria Master ha ammesso 414 atleti, 87 donne e 327 uomini, nella 44ª edizione di quel campionato nazionale."
+ },
+ "a28-inline1-credit": {
+  "en": "Photo: Ariel / Image Media", "pt": "Foto: Ariel / Image Media", "es": "Foto: Ariel / Image Media", "fr": "Photo : Ariel / Image Media", "it": "Foto: Ariel / Image Media"
+ },
+ "a28-p3": {
+  "en": "The men's race was decided in a sprint finish. <strong>Abderrahmane Aferdi</strong> (Morocco) won the national title in 1:04:17, three seconds ahead of local runner <strong>Jorge González Rivera</strong>, who clocked 1:04:20. <strong>Javier Guerra Polo</strong> completed the podium in 1:04:55, with the top ten finishers all inside 1:08.",
+  "pt": "A corrida masculina decidiu-se num sprint final. <strong>Abderrahmane Aferdi</strong> (Marrocos) venceu o título nacional em 1:04:17, três segundos à frente do corredor local <strong>Jorge González Rivera</strong>, que registou 1:04:20. <strong>Javier Guerra Polo</strong> completou o pódio em 1:04:55, com os dez primeiros classificados todos abaixo de 1:08.",
+  "es": "La carrera masculina se decidió en un esprint final. <strong>Abderrahmane Aferdi</strong> (Marruecos) se llevó el título nacional en 1:04:17, tres segundos por delante del corredor local <strong>Jorge González Rivera</strong>, que registró 1:04:20. <strong>Javier Guerra Polo</strong> completó el podio en 1:04:55, con los diez primeros clasificados por debajo de 1:08.",
+  "fr": "La course masculine s'est jouée au sprint. <strong>Abderrahmane Aferdi</strong> (Maroc) a remporté le titre national en 1:04:17, trois secondes devant le coureur local <strong>Jorge González Rivera</strong>, chronométré en 1:04:20. <strong>Javier Guerra Polo</strong> a complété le podium en 1:04:55, les dix premiers étant tous sous la barre de 1:08.",
+  "it": "La gara maschile si è decisa in volata. <strong>Abderrahmane Aferdi</strong> (Marocco) ha conquistato il titolo nazionale in 1:04:17, tre secondi davanti al corridore locale <strong>Jorge González Rivera</strong>, fermatosi in 1:04:20. <strong>Javier Guerra Polo</strong> ha completato il podio in 1:04:55, con i primi dieci classificati tutti sotto l'1:08."
+ },
+ "a28-p4": {
+  "en": "<strong>Fátima Ouhaddou Nafie</strong>, the reigning European marathon champion, led the women's race from the early kilometres and won in 1:14:53. <strong>Katherine Tisalema Puruncaja</strong> (Ecuador) took second in 1:15:20, 27 seconds back, and <strong>Lidia Campo Sastre</strong> completed the podium in 1:15:25. The top ten women all finished inside 1:21:15.",
+  "pt": "<strong>Fátima Ouhaddou Nafie</strong>, atual campeã da Europa de maratona, liderou a corrida feminina desde os primeiros quilómetros e venceu em 1:14:53. <strong>Katherine Tisalema Puruncaja</strong> (Equador) foi segunda em 1:15:20, a 27 segundos, e <strong>Lidia Campo Sastre</strong> completou o pódio em 1:15:25. As dez primeiras classificadas terminaram todas abaixo de 1:21:15.",
+  "es": "<strong>Fátima Ouhaddou Nafie</strong>, actual campeona de Europa de maratón, lideró la carrera femenina desde los primeros kilómetros y venció en 1:14:53. <strong>Katherine Tisalema Puruncaja</strong> (Ecuador) fue segunda en 1:15:20, a 27 segundos, y <strong>Lidia Campo Sastre</strong> completó el podio en 1:15:25. Las diez primeras clasificadas terminaron todas por debajo de 1:21:15.",
+  "fr": "<strong>Fátima Ouhaddou Nafie</strong>, championne d'Europe du marathon en titre, a mené la course féminine dès les premiers kilomètres et l'a emporté en 1:14:53. <strong>Katherine Tisalema Puruncaja</strong> (Équateur) a pris la deuxième place en 1:15:20, à 27 secondes, et <strong>Lidia Campo Sastre</strong> a complété le podium en 1:15:25. Les dix premières ont toutes terminé sous la barre de 1:21:15.",
+  "it": "<strong>Fátima Ouhaddou Nafie</strong>, campionessa europea di maratona in carica, ha guidato la gara femminile fin dai primi chilometri e ha vinto in 1:14:53. <strong>Katherine Tisalema Puruncaja</strong> (Ecuador) è arrivata seconda in 1:15:20, a 27 secondi, e <strong>Lidia Campo Sastre</strong> ha completato il podio in 1:15:25. Le prime dieci classificate hanno chiuso tutte sotto l'1:21:15."
+ },
+ "a28-stat": {
+  "en": "11 April 2026 · Mérida · 21.097 km · Campeonato de España de Media Maratón · 2,500 dorsales",
+  "pt": "11 de abril de 2026 · Mérida · 21,097 km · Campeonato de Espanha de Meia Maratona · 2.500 dorsais",
+  "es": "11 de abril de 2026 · Mérida · 21,097 km · Campeonato de España de Media Maratón · 2.500 dorsales",
+  "fr": "11 avril 2026 · Mérida · 21,097 km · Championnat d'Espagne du semi-marathon · 2 500 dossards",
+  "it": "11 aprile 2026 · Mérida · 21,097 km · Campionato di Spagna di mezza maratona · 2.500 pettorali"
+ },
+ "a28-inline2-credit": {
+  "en": "Photo: Luan Rodrigo / Image Media", "pt": "Foto: Luan Rodrigo / Image Media", "es": "Foto: Luan Rodrigo / Image Media", "fr": "Photo : Luan Rodrigo / Image Media", "it": "Foto: Luan Rodrigo / Image Media"
+ },
+ "a28-p5": {
+  "en": "As in previous editions, the race carried a solidarity cause alongside the competition: organisers donate one euro for every finisher who crosses the line to the Asociación ELA Extremadura.",
+  "pt": "Tal como em edições anteriores, a prova associou uma causa solidária à competição: a organização doa um euro por cada participante que cruza a meta à Asociación ELA Extremadura.",
+  "es": "Como en ediciones anteriores, la prueba unió una causa solidaria a la competición: la organización dona un euro por cada participante que cruza la línea de meta a la Asociación ELA Extremadura.",
+  "fr": "Comme lors des éditions précédentes, la course associait une cause solidaire à la compétition : les organisateurs reversent un euro pour chaque coureur franchissant la ligne d'arrivée à l'Asociación ELA Extremadura.",
+  "it": "Come nelle edizioni precedenti, la gara ha unito alla competizione una causa solidale: gli organizzatori donano un euro per ogni atleta che taglia il traguardo all'Asociación ELA Extremadura."
+ },
+ "a28-p6": {
+  "en": "The Image Media coverage team comprised Felipe Albano, Luan Rodrigo, Tuca, Lucas and Ariel.",
+  "pt": "A equipa de cobertura da Image Media foi composta por Felipe Albano, Luan Rodrigo, Tuca, Lucas e Ariel.",
+  "es": "El equipo de cobertura de Image Media estuvo formado por Felipe Albano, Luan Rodrigo, Tuca, Lucas y Ariel.",
+  "fr": "L'équipe de couverture d'Image Media était composée de Felipe Albano, Luan Rodrigo, Tuca, Lucas et Ariel.",
+  "it": "Il team di copertura di Image Media era composto da Felipe Albano, Luan Rodrigo, Tuca, Lucas e Ariel."
+ },
+ "a28-tagpill1": {
+  "en": "Media Maratón de Mérida", "pt": "Media Maratón de Mérida", "es": "Media Maratón de Mérida", "fr": "Media Maratón de Mérida", "it": "Media Maratón de Mérida"
+ },
+ "a28-tagpill2": {
+  "en": "Extremadura", "pt": "Extremadura", "es": "Extremadura", "fr": "Estrémadure", "it": "Estremadura"
+ },
+ "a28-tagpill3": {
+  "en": "Athletics", "pt": "Atletismo", "es": "Atletismo", "fr": "Athlétisme", "it": "Atletica"
+ },
+ "a28-related-title": {
+  "en": "More from Image Media", "pt": "Mais da Image Media", "es": "Más de Image Media", "fr": "Plus d'Image Media", "it": "Altro da Image Media"
+ },
+ "a28-related1-tag": {
+  "en": "Sports", "pt": "Desporto", "es": "Deportes", "fr": "Sports", "it": "Sport"
+ },
+ "a28-related1-title": {
+  "en": "See all Sports coverage", "pt": "Ver toda a cobertura de Desporto", "es": "Ver toda la cobertura de Deportes", "fr": "Voir toute la couverture Sports", "it": "Vedi tutta la copertura Sport"
+ },
+ "a28-related1-link": {
+  "en": "Visit section →", "pt": "Visitar secção →", "es": "Visitar sección →", "fr": "Visiter la rubrique →", "it": "Visita la sezione →"
+ },
+ "a28-related2-tag": {
+  "en": "Image Media", "pt": "Image Media", "es": "Image Media", "fr": "Image Media", "it": "Image Media"
+ },
+ "a28-related2-title": {
+  "en": "How Image Media covers your event", "pt": "Como a Image Media cobre o seu evento", "es": "Cómo cubre Image Media tu evento", "fr": "Comment Image Media couvre votre événement", "it": "Come Image Media copre il tuo evento"
+ },
+ "a28-related2-link": {
+  "en": "Learn more →", "pt": "Saber mais →", "es": "Saber más →", "fr": "En savoir plus →", "it": "Scopri di più →"
+ },
+ "a28-related3-tag": {
+  "en": "Athletics", "pt": "Atletismo", "es": "Atletismo", "fr": "Athlétisme", "it": "Atletica"
+ },
+ "a28-related3-title": {
+  "en": "XXXIII Media Maratón Ciudad de Cartagena Sets Participation Record With Nearly 3,000 Runners",
+  "pt": "XXXIII Media Maratón Ciudad de Cartagena Bate Recorde De Participação Com Quase 3.000 Corredores",
+  "es": "La XXXIII Media Maratón Ciudad de Cartagena Bate El Récord De Participación Con Casi 3.000 Corredores",
+  "fr": "La XXXIIIe Media Maratón Ciudad de Cartagena Bat Le Record De Participation Avec Près De 3 000 Coureurs",
+  "it": "La XXXIII Media Maratón Ciudad de Cartagena Batte Il Record Di Partecipazione Con Quasi 3.000 Corridori"
+ },
+ "a28-related3-link": {
+  "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
+ },
+ "card-s23__field__tag": {
+  "en": "Athletics", "pt": "Atletismo", "es": "Atletismo", "fr": "Athlétisme", "it": "Atletica"
+ },
+ "card-s23__field__title": {
+  "en": "Aferdi And Ouhaddou Crowned Spanish Half Marathon Champions At XX Media Maratón De Mérida",
+  "pt": "Aferdi E Ouhaddou Sagram-Se Campeões De Espanha De Meia Maratona Na XX Media Maratón De Mérida",
+  "es": "Aferdi Y Ouhaddou Se Proclaman Campeones De España De Media Maratón En La XX Media Maratón De Mérida",
+  "fr": "Aferdi Et Ouhaddou Sacrés Champions D'Espagne Du Semi-Marathon À La XXe Media Maratón De Mérida",
+  "it": "Aferdi E Ouhaddou Campioni Di Spagna Di Mezza Maratona Alla XX Media Maratón De Mérida"
+ },
+ "card-s23__field__deck": {
+  "en": "Around 2,500 runners took the start on Mérida's Roman monuments circuit on 11 April 2026, as the race doubled as the Spanish Half Marathon Championship for the first time in Extremadura.",
+  "pt": "Cerca de 2.500 corredores partiram no circuito pelos monumentos romanos de Mérida a 11 de abril de 2026, numa prova que serviu também, pela primeira vez, de Campeonato de Espanha de Meia Maratona na Extremadura.",
+  "es": "Cerca de 2.500 corredores tomaron la salida en el circuito por los monumentos romanos de Mérida el 11 de abril de 2026, en una prueba que sirvió también, por primera vez, de Campeonato de España de Media Maratón en Extremadura.",
+  "fr": "Environ 2 500 coureurs ont pris le départ sur le circuit des monuments romains de Mérida le 11 avril 2026, cette course servant aussi, pour la première fois, de Championnat d'Espagne du semi-marathon en Estrémadure.",
+  "it": "Circa 2.500 corridori hanno preso il via sul circuito dei monumenti romani di Mérida l'11 aprile 2026, in una gara che ha fatto da Campionato di Spagna di mezza maratona per la prima volta in Estremadura."
+ },
+ "card-s23__field__meta": {
+  "en": "Image Media coverage", "pt": "Cobertura Image Media", "es": "Cobertura de Image Media", "fr": "Couverture Image Media", "it": "Copertura Image Media"
+ },
+ "card-s23__field__link": {
+  "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
+ },
  "chrome": {
   "nav.home": {
    "en": "Home",
