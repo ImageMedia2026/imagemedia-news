@@ -6177,6 +6177,230 @@ window.IM_I18N = {
  "card-s23__field__link": {
   "en": "Read more →", "pt": "Ler mais →", "es": "Leer más →", "fr": "Lire plus →", "it": "Leggi di più →"
  },
+ "a29-tag": {
+  "en": "Cycling",
+  "pt": "Ciclismo",
+  "es": "Ciclismo",
+  "fr": "Cyclisme",
+  "it": "Ciclismo"
+ },
+ "a29-title": {
+  "en": "Fischer And Benedito Win Preeuropeo Templarios MTB Race In Jerez De Los Caballeros",
+  "pt": "Fischer E Benedito Vencem A Preeuropeo Templarios MTB Race Em Jerez De Los Caballeros",
+  "es": "Fischer Y Benedito Ganan La Preeuropeo Templarios MTB Race En Jerez De Los Caballeros",
+  "fr": "Fischer Et Benedito Remportent La Preeuropeo Templarios MTB Race À Jerez De Los Caballeros",
+  "it": "Fischer E Benedito Vincono La Preeuropeo Templarios MTB Race A Jerez De Los Caballeros"
+ },
+ "a29-deck": {
+  "en": "The UCI-sanctioned marathon served as an official test event for the 2027 European MTB Marathon Championship, drawing riders to the Templar stronghold of Jerez de los Caballeros on 12 April 2026.",
+  "pt": "A maratona reconhecida pela UCI serviu como evento-teste oficial para o Campeonato Europeu de Maratona BTT de 2027, atraindo ciclistas à fortaleza templária de Jerez de los Caballeros a 12 de abril de 2026.",
+  "es": "La maratón reconocida por la UCI sirvió como evento de test oficial para el Campeonato de Europa de Maratón BTT 2027, atrayendo a corredores a la fortaleza templaria de Jerez de los Caballeros el 12 de abril de 2026.",
+  "fr": "Ce marathon homologué par l'UCI a servi d'épreuve test officielle pour le Championnat d'Europe de Marathon VTT 2027, attirant les coureurs vers la forteresse templière de Jerez de los Caballeros le 12 avril 2026.",
+  "it": "La maratona riconosciuta dall'UCI è stata l'evento test ufficiale per il Campionato Europeo di Maratona MTB 2027, richiamando i corridori nella fortezza templare di Jerez de los Caballeros il 12 aprile 2026."
+ },
+ "a29-byline": {
+  "en": "By Image Media News Staff — Jerez de los Caballeros, Spain",
+  "pt": "Por Image Media News Staff — Jerez de los Caballeros, Espanha",
+  "es": "Por Image Media News Staff — Jerez de los Caballeros, España",
+  "fr": "Par Image Media News Staff — Jerez de los Caballeros, Espagne",
+  "it": "Di Image Media News Staff — Jerez de los Caballeros, Spagna"
+ },
+ "a29-hero-credit": {
+  "en": "Photo: Luis Moreira / Image Media",
+  "pt": "Foto: Luis Moreira / Image Media",
+  "es": "Foto: Luis Moreira / Image Media",
+  "fr": "Photo : Luis Moreira / Image Media",
+  "it": "Foto: Luis Moreira / Image Media"
+ },
+ "a29-p1": {
+  "en": "The Preeuropeo Templarios MTB Race took place in Jerez de los Caballeros, Extremadura, on Sunday 12 April 2026, with event coverage by the Image Media team. Included on the International UCI Calendar in the C2 XCM category, the race served as an official preparatory event for the 2027 European BTT Marathon Championship, which the town is set to host. The route built to a finish beneath the town's Templar Fortress, after a course organisers described as unfolding in three acts: challenging climbs, technical descents and a culminating series of steep ascents.",
+  "pt": "A Preeuropeo Templarios MTB Race decorreu em Jerez de los Caballeros, na Extremadura, no domingo, 12 de abril de 2026, com cobertura do evento pela equipa da Image Media. Incluída no Calendário Internacional UCI na categoria C2 XCM, a prova serviu como evento preparatório oficial para o Campeonato Europeu de Maratona BTT de 2027, que a vila vai acolher. O percurso terminou junto à Fortaleza Templária da vila, após um traçado que os organizadores descreveram como desenrolando-se em três atos: subidas exigentes, descidas técnicas e uma sequência final de rampas íngremes.",
+  "es": "La Preeuropeo Templarios MTB Race se disputó en Jerez de los Caballeros, Extremadura, el domingo 12 de abril de 2026, con cobertura del evento a cargo del equipo de Image Media. Incluida en el Calendario Internacional UCI en la categoría C2 XCM, la prueba sirvió como evento preparatorio oficial para el Campeonato de Europa de Maratón BTT 2027, que la localidad acogerá. El recorrido concluyó junto a la Fortaleza Templaria de la localidad, tras un trazado que los organizadores describieron como desarrollado en tres actos: subidas exigentes, bajadas técnicas y una serie final de rampas empinadas.",
+  "fr": "La Preeuropeo Templarios MTB Race s'est déroulée à Jerez de los Caballeros, en Estrémadure, le dimanche 12 avril 2026, avec une couverture de l'événement assurée par l'équipe d'Image Media. Inscrite au calendrier international UCI dans la catégorie C2 XCM, la course a servi d'épreuve préparatoire officielle pour le Championnat d'Europe de Marathon VTT 2027, que la ville accueillera. Le parcours s'est achevé au pied de la Forteresse des Templiers de la ville, sur un tracé que les organisateurs ont décrit comme se déroulant en trois actes : montées exigeantes, descentes techniques et une série finale de rampes raides.",
+  "it": "La Preeuropeo Templarios MTB Race si è svolta a Jerez de los Caballeros, in Estremadura, domenica 12 aprile 2026, con la copertura dell'evento affidata al team di Image Media. Inserita nel Calendario Internazionale UCI nella categoria C2 XCM, la gara è stata l'evento di preparazione ufficiale per il Campionato Europeo di Maratona MTB 2027, che la cittadina ospiterà. Il percorso si è concluso ai piedi della Fortezza Templare della città, dopo un tracciato che gli organizzatori hanno descritto come sviluppato in tre atti: salite impegnative, discese tecniche e una serie finale di rampe ripide."
+ },
+ "a29-p2": {
+  "en": "Riders chose between three distances: the absolute race of 93–94 kilometres with 2,000–2,400 metres of elevation gain, a Pro Trail circuit of 77 kilometres with over 2,000 metres of climbing, and a Pro Mini Trail circuit of 45 kilometres with more than 1,300 metres of elevation. More than 300 riders were expected on the start line. The event was organised by Club Ciclista Jerez de los Caballeros, with the Junta de Extremadura and the Ayuntamiento de Jerez de los Caballeros providing institutional backing, and counted toward both the Spanish BTT Marathon Cup (XCM) 2026 and the Extremadura XCM Open.",
+  "pt": "Os ciclistas escolheram entre três distâncias: a prova absoluta de 93–94 quilómetros com 2.000–2.400 metros de desnível positivo, um circuito Pro Trail de 77 quilómetros com mais de 2.000 metros de subida, e um circuito Pro Mini Trail de 45 quilómetros com mais de 1.300 metros de desnível. Eram esperados mais de 300 ciclistas na partida. O evento foi organizado pelo Club Ciclista Jerez de los Caballeros, com o apoio institucional da Junta de Extremadura e da Câmara Municipal de Jerez de los Caballeros, e contou para a Copa Espanhola de Maratona BTT (XCM) 2026 e para o Extremadura XCM Open.",
+  "es": "Los participantes eligieron entre tres distancias: la prueba absoluta de 93–94 kilómetros con 2.000–2.400 metros de desnivel positivo, un circuito Pro Trail de 77 kilómetros con más de 2.000 metros de subida, y un circuito Pro Mini Trail de 45 kilómetros con más de 1.300 metros de desnivel. Se esperaban más de 300 corredores en la línea de salida. El evento fue organizado por el Club Ciclista Jerez de los Caballeros, con el respaldo institucional de la Junta de Extremadura y el Ayuntamiento de Jerez de los Caballeros, y puntuó tanto para la Copa de España de Maratón BTT (XCM) 2026 como para el Extremadura XCM Open.",
+  "fr": "Les coureurs avaient le choix entre trois distances : la course absolue de 93 à 94 kilomètres avec 2 000 à 2 400 mètres de dénivelé positif, un circuit Pro Trail de 77 kilomètres avec plus de 2 000 mètres de montée, et un circuit Pro Mini Trail de 45 kilomètres avec plus de 1 300 mètres de dénivelé. Plus de 300 coureurs étaient attendus au départ. L'événement était organisé par le Club Ciclista Jerez de los Caballeros, avec le soutien institutionnel de la Junta de Extremadura et de la mairie de Jerez de los Caballeros, et comptait à la fois pour la Coupe d'Espagne de Marathon VTT (XCM) 2026 et pour l'Extremadura XCM Open.",
+  "it": "I corridori potevano scegliere tra tre distanze: la gara assoluta di 93–94 chilometri con 2.000–2.400 metri di dislivello positivo, un circuito Pro Trail di 77 chilometri con oltre 2.000 metri di salita, e un circuito Pro Mini Trail di 45 chilometri con oltre 1.300 metri di dislivello. Erano attesi più di 300 corridori alla partenza. L'evento è stato organizzato dal Club Ciclista Jerez de los Caballeros, con il sostegno istituzionale della Junta de Extremadura e del Comune di Jerez de los Caballeros, ed è valso sia per la Coppa di Spagna di Maratona MTB (XCM) 2026 sia per l'Extremadura XCM Open."
+ },
+ "a29-inline1-credit": {
+  "en": "Photo: Eduardo Almeida / Image Media",
+  "pt": "Foto: Eduardo Almeida / Image Media",
+  "es": "Foto: Eduardo Almeida / Image Media",
+  "fr": "Photo : Eduardo Almeida / Image Media",
+  "it": "Foto: Eduardo Almeida / Image Media"
+ },
+ "a29-p3": {
+  "en": "In the men's race, a leading trio broke clear early and had opened a gap of around four minutes by kilometre 22. <strong>Adrián Benedito</strong> (Scott-Montenevado) went on to win in 4:03'49\", with <strong>Raúl Rodríguez</strong> (Extremadura-Ecopilas) second, roughly two minutes back, and <strong>Luis Pérez</strong> (Klimatiza-Orbea) third, more than three minutes off the pace.",
+  "pt": "Na corrida masculina, um trio da frente destacou-se cedo e tinha aberto uma vantagem de cerca de quatro minutos ao quilómetro 22. <strong>Adrián Benedito</strong> (Scott-Montenevado) viria a vencer em 4:03'49\", com <strong>Raúl Rodríguez</strong> (Extremadura-Ecopilas) em segundo, cerca de dois minutos atrás, e <strong>Luis Pérez</strong> (Klimatiza-Orbea) em terceiro, a mais de três minutos do vencedor.",
+  "es": "En la carrera masculina, un trío destacado se escapó pronto y había abierto una diferencia de unos cuatro minutos en el kilómetro 22. <strong>Adrián Benedito</strong> (Scott-Montenevado) acabó ganando en 4:03'49\", con <strong>Raúl Rodríguez</strong> (Extremadura-Ecopilas) segundo, a unos dos minutos, y <strong>Luis Pérez</strong> (Klimatiza-Orbea) tercero, a más de tres minutos del ganador.",
+  "fr": "Dans la course masculine, un trio de tête s'est détaché rapidement et comptait environ quatre minutes d'avance au kilomètre 22. <strong>Adrián Benedito</strong> (Scott-Montenevado) a fini par l'emporter en 4:03'49\", devant <strong>Raúl Rodríguez</strong> (Extremadura-Ecopilas), deuxième à environ deux minutes, et <strong>Luis Pérez</strong> (Klimatiza-Orbea), troisième à plus de trois minutes.",
+  "it": "Nella gara maschile, un terzetto di testa si è staccato presto e al chilometro 22 aveva già circa quattro minuti di vantaggio. <strong>Adrián Benedito</strong> (Scott-Montenevado) ha poi vinto in 4:03'49\", davanti a <strong>Raúl Rodríguez</strong> (Extremadura-Ecopilas), secondo a circa due minuti, e <strong>Luis Pérez</strong> (Klimatiza-Orbea), terzo a oltre tre minuti dal vincitore."
+ },
+ "a29-p4": {
+  "en": "<strong>Natalia Fischer</strong> (Extremadura-Ecopilas), a five-time Spanish champion, dominated the women's race from early on and crossed the line well clear of the field in 4:55'37\". <strong>Corina Mesplet</strong> finished second, and <strong>María Reyes Murillo</strong> (Extremadura-Ecopilas), the fastest sub-23 rider, completed the podium in third.",
+  "pt": "<strong>Natalia Fischer</strong> (Extremadura-Ecopilas), pentacampeã espanhola, dominou a corrida feminina desde cedo e cruzou a meta bem destacada do pelotão em 4:55'37\". <strong>Corina Mesplet</strong> terminou em segundo, e <strong>María Reyes Murillo</strong> (Extremadura-Ecopilas), a mais rápida da categoria sub-23, completou o pódio em terceiro.",
+  "es": "<strong>Natalia Fischer</strong> (Extremadura-Ecopilas), pentacampeona española, dominó la carrera femenina desde el principio y cruzó la meta claramente destacada en 4:55'37\". <strong>Corina Mesplet</strong> terminó segunda, y <strong>María Reyes Murillo</strong> (Extremadura-Ecopilas), la más rápida de la categoría sub-23, completó el podio en tercer lugar.",
+  "fr": "<strong>Natalia Fischer</strong> (Extremadura-Ecopilas), quintuple championne d'Espagne, a dominé la course féminine dès le début et a franchi la ligne largement détachée en 4:55'37\". <strong>Corina Mesplet</strong> a terminé deuxième, et <strong>María Reyes Murillo</strong> (Extremadura-Ecopilas), la meilleure espoir (moins de 23 ans), a complété le podium en troisième position.",
+  "it": "<strong>Natalia Fischer</strong> (Extremadura-Ecopilas), cinque volte campionessa spagnola, ha dominato la gara femminile fin dall'inizio ed è arrivata al traguardo con largo margine in 4:55'37\". <strong>Corina Mesplet</strong> ha chiuso al secondo posto, mentre <strong>María Reyes Murillo</strong> (Extremadura-Ecopilas), la migliore tra le under 23, ha completato il podio al terzo posto."
+ },
+ "a29-stat": {
+  "en": "12 April 2026 · Jerez de los Caballeros · 94 km · UCI C2 · Preeuropeo Templarios MTB Race",
+  "pt": "12 de abril de 2026 · Jerez de los Caballeros · 94 km · UCI C2 · Preeuropeo Templarios MTB Race",
+  "es": "12 de abril de 2026 · Jerez de los Caballeros · 94 km · UCI C2 · Preeuropeo Templarios MTB Race",
+  "fr": "12 avril 2026 · Jerez de los Caballeros · 94 km · UCI C2 · Preeuropeo Templarios MTB Race",
+  "it": "12 aprile 2026 · Jerez de los Caballeros · 94 km · UCI C2 · Preeuropeo Templarios MTB Race"
+ },
+ "a29-inline2-credit": {
+  "en": "Photo: Luis Moreira / Image Media",
+  "pt": "Foto: Luis Moreira / Image Media",
+  "es": "Foto: Luis Moreira / Image Media",
+  "fr": "Photo : Luis Moreira / Image Media",
+  "it": "Foto: Luis Moreira / Image Media"
+ },
+ "a29-p5": {
+  "en": "The race doubled as final preparation for several of the field, with the Spanish XCM Championship following a week later in Paterna del Campo, Huelva. Organisers framed the event as a step toward putting Jerez de los Caballeros on the international cycling map ahead of the 2027 European Championship.",
+  "pt": "A prova serviu também como preparação final para vários dos participantes, com o Campeonato de Espanha de XCM a realizar-se uma semana depois em Paterna del Campo, Huelva. Os organizadores enquadraram o evento como um passo para colocar Jerez de los Caballeros no mapa internacional do ciclismo, na antecâmara do Campeonato da Europa de 2027.",
+  "es": "La prueba sirvió también como preparación final para varios de los participantes, con el Campeonato de España de XCM disputándose una semana después en Paterna del Campo, Huelva. Los organizadores enmarcaron el evento como un paso para situar a Jerez de los Caballeros en el mapa internacional del ciclismo, de cara al Campeonato de Europa de 2027.",
+  "fr": "La course a également servi de préparation finale pour plusieurs coureurs, le Championnat d'Espagne de XCM se disputant une semaine plus tard à Paterna del Campo, dans la province de Huelva. Les organisateurs ont présenté l'événement comme une étape vers l'inscription de Jerez de los Caballeros sur la carte internationale du cyclisme, à l'approche du Championnat d'Europe 2027.",
+  "it": "La gara è servita anche come preparazione finale per diversi atleti, con il Campionato Spagnolo di XCM in programma una settimana dopo a Paterna del Campo, Huelva. Gli organizzatori hanno presentato l'evento come un passo per collocare Jerez de los Caballeros sulla mappa internazionale del ciclismo, in vista del Campionato Europeo 2027."
+ },
+ "a29-p6": {
+  "en": "The Image Media coverage team comprised Eduardo Almeida, Luis Moreira and Fran Paulino.",
+  "pt": "A equipa de cobertura da Image Media foi composta por Eduardo Almeida, Luis Moreira e Fran Paulino.",
+  "es": "El equipo de cobertura de Image Media estuvo formado por Eduardo Almeida, Luis Moreira y Fran Paulino.",
+  "fr": "L'équipe de couverture d'Image Media était composée d'Eduardo Almeida, Luis Moreira et Fran Paulino.",
+  "it": "Il team di copertura di Image Media era composto da Eduardo Almeida, Luis Moreira e Fran Paulino."
+ },
+ "a29-tagpill1": {
+  "en": "Preeuropeo Templarios MTB Race",
+  "pt": "Preeuropeo Templarios MTB Race",
+  "es": "Preeuropeo Templarios MTB Race",
+  "fr": "Preeuropeo Templarios MTB Race",
+  "it": "Preeuropeo Templarios MTB Race"
+ },
+ "a29-tagpill2": {
+  "en": "Extremadura",
+  "pt": "Extremadura",
+  "es": "Extremadura",
+  "fr": "Estrémadure",
+  "it": "Estremadura"
+ },
+ "a29-tagpill3": {
+  "en": "Cycling",
+  "pt": "Ciclismo",
+  "es": "Ciclismo",
+  "fr": "Cyclisme",
+  "it": "Ciclismo"
+ },
+ "a29-related-title": {
+  "en": "More from Image Media",
+  "pt": "Mais da Image Media",
+  "es": "Más de Image Media",
+  "fr": "Plus d'Image Media",
+  "it": "Altro da Image Media"
+ },
+ "a29-related1-tag": {
+  "en": "Sports",
+  "pt": "Desporto",
+  "es": "Deportes",
+  "fr": "Sports",
+  "it": "Sport"
+ },
+ "a29-related1-title": {
+  "en": "See all Sports coverage",
+  "pt": "Ver toda a cobertura de Desporto",
+  "es": "Ver toda la cobertura de Deportes",
+  "fr": "Voir toute la couverture Sports",
+  "it": "Vedi tutta la copertura Sport"
+ },
+ "a29-related1-link": {
+  "en": "Visit section →",
+  "pt": "Visitar secção →",
+  "es": "Visitar sección →",
+  "fr": "Visiter la rubrique →",
+  "it": "Visita la sezione →"
+ },
+ "a29-related2-tag": {
+  "en": "Image Media",
+  "pt": "Image Media",
+  "es": "Image Media",
+  "fr": "Image Media",
+  "it": "Image Media"
+ },
+ "a29-related2-title": {
+  "en": "How Image Media covers your event",
+  "pt": "Como a Image Media cobre o seu evento",
+  "es": "Cómo cubre Image Media tu evento",
+  "fr": "Comment Image Media couvre votre événement",
+  "it": "Come Image Media copre il tuo evento"
+ },
+ "a29-related2-link": {
+  "en": "Learn more →",
+  "pt": "Saber mais →",
+  "es": "Saber más →",
+  "fr": "En savoir plus →",
+  "it": "Scopri di più →"
+ },
+ "a29-related3-tag": {
+  "en": "Cycling",
+  "pt": "Ciclismo",
+  "es": "Ciclismo",
+  "fr": "Cyclisme",
+  "it": "Ciclismo"
+ },
+ "a29-related3-title": {
+  "en": "Cingles Gravel Alcover Combines Cycling, Community And Solidarity",
+  "pt": "Cingles Gravel Alcover Combina Ciclismo, Comunidade E Solidariedade",
+  "es": "Cingles Gravel Alcover Combina Ciclismo, Comunidad Y Solidaridad",
+  "fr": "Cingles Gravel Alcover Mêle Cyclisme, Communauté Et Solidarité",
+  "it": "Cingles Gravel Alcover Unisce Ciclismo, Comunità E Solidarietà"
+ },
+ "a29-related3-link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
+ "card-s24__field__tag": {
+  "en": "Cycling",
+  "pt": "Ciclismo",
+  "es": "Ciclismo",
+  "fr": "Cyclisme",
+  "it": "Ciclismo"
+ },
+ "card-s24__field__title": {
+  "en": "Fischer And Benedito Win Preeuropeo Templarios MTB Race In Jerez De Los Caballeros",
+  "pt": "Fischer E Benedito Vencem A Preeuropeo Templarios MTB Race Em Jerez De Los Caballeros",
+  "es": "Fischer Y Benedito Ganan La Preeuropeo Templarios MTB Race En Jerez De Los Caballeros",
+  "fr": "Fischer Et Benedito Remportent La Preeuropeo Templarios MTB Race À Jerez De Los Caballeros",
+  "it": "Fischer E Benedito Vincono La Preeuropeo Templarios MTB Race A Jerez De Los Caballeros"
+ },
+ "card-s24__field__deck": {
+  "en": "The UCI-sanctioned marathon on 12 April 2026 served as an official test event for the 2027 European MTB Marathon Championship.",
+  "pt": "A maratona reconhecida pela UCI, a 12 de abril de 2026, serviu como evento-teste oficial para o Campeonato Europeu de Maratona BTT de 2027.",
+  "es": "La maratón reconocida por la UCI, el 12 de abril de 2026, sirvió como evento de test oficial para el Campeonato de Europa de Maratón BTT 2027.",
+  "fr": "Ce marathon homologué par l'UCI, le 12 avril 2026, a servi d'épreuve test officielle pour le Championnat d'Europe de Marathon VTT 2027.",
+  "it": "La maratona riconosciuta dall'UCI, il 12 aprile 2026, è stata l'evento test ufficiale per il Campionato Europeo di Maratona MTB 2027."
+ },
+ "card-s24__field__meta": {
+  "en": "Image Media coverage",
+  "pt": "Cobertura Image Media",
+  "es": "Cobertura de Image Media",
+  "fr": "Couverture Image Media",
+  "it": "Copertura Image Media"
+ },
+ "card-s24__field__link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
  },
  "chrome": {
   "nav.home": {
