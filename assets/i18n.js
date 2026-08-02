@@ -9383,6 +9383,216 @@ window.IM_I18N = {
   "fr": "Lire plus →",
   "it": "Leggi di più →"
  },
+ "a44-tag": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "a44-title": {
+  "en": "Workneh Fikire Serbessa And Eva Piñel Lorenzo Win Tenth SantYaGo10K Night Race Through Santiago De Compostela",
+  "pt": "Workneh Fikire Serbessa E Eva Piñel Lorenzo Vencem Décima SantYaGo10K, Corrida Noturna Por Santiago De Compostela",
+  "es": "Workneh Fikire Serbessa Y Eva Piñel Lorenzo Ganan La Décima SantYaGo10K, Carrera Nocturna Por Santiago De Compostela",
+  "fr": "Workneh Fikire Serbessa Et Eva Piñel Lorenzo Remportent La Dixième SantYaGo10K, Course Nocturne À Santiago De Compostela",
+  "it": "Workneh Fikire Serbessa Ed Eva Piñel Lorenzo Vincono La Decima SantYaGo10K, Corsa Notturna A Santiago De Compostela"
+ },
+ "a44-deck": {
+  "en": "Club Atletismo Fontes do Sar and the Concello de Santiago staged the tenth Carreira Nocturna SantYaGo10K on 30 May 2026, sending runners from San Francisco to a Praza do Obradoiro finish on an RFEA-homologated 10km course through the historic old town.",
+  "pt": "O Club Atletismo Fontes do Sar e a Concello de Santiago organizaram a décima Carreira Nocturna SantYaGo10K a 30 de maio de 2026, com partida em San Francisco e chegada na Praza do Obradoiro, num percurso de 10 km homologado pela RFEA pelo centro histórico.",
+  "es": "El Club Atletismo Fontes do Sar y el Concello de Santiago organizaron la décima Carreira Nocturna SantYaGo10K el 30 de mayo de 2026, con salida en San Francisco y meta en la Praza do Obradoiro, en un recorrido de 10 km homologado por la RFEA a través del casco histórico.",
+  "fr": "Le Club Atletismo Fontes do Sar et le Concello de Santiago ont organisé la dixième Carreira Nocturna SantYaGo10K le 30 mai 2026, avec un départ à San Francisco et une arrivée à la Praza do Obradoiro, sur un parcours de 10 km homologué par la RFEA à travers la vieille ville historique.",
+  "it": "Il Club Atletismo Fontes do Sar e il Concello de Santiago hanno organizzato la decima Carreira Nocturna SantYaGo10K il 30 maggio 2026, con partenza a San Francisco e arrivo in Praza do Obradoiro, su un percorso di 10 km omologato dalla RFEA attraverso il centro storico."
+ },
+ "a44-byline": {
+  "en": "By Image Media News Staff — Santiago de Compostela, Spain",
+  "pt": "Por Equipa Image Media News — Santiago de Compostela, Espanha",
+  "es": "Por el Equipo de Image Media News — Santiago de Compostela, España",
+  "fr": "Par l'équipe d'Image Media News — Santiago de Compostela, Espagne",
+  "it": "A cura del team di Image Media News — Santiago de Compostela, Spagna"
+ },
+ "a44-hero-credit": {
+  "en": "Photo: Jose Salgueiro / Image Media",
+  "pt": "Foto: Jose Salgueiro / Image Media",
+  "es": "Foto: Jose Salgueiro / Image Media",
+  "fr": "Photo : Jose Salgueiro / Image Media",
+  "it": "Foto: Jose Salgueiro / Image Media"
+ },
+ "a44-p1": {
+  "en": "Santiago de Compostela's old town turned out on Saturday 30 May 2026 for the tenth Carreira Nocturna SantYaGo10K, with event coverage by the Image Media team. Organised by Club Atletismo Fontes do Sar together with the Concello de Santiago's Departamento de Deportes and the Federación Galega de Atletismo, the night race set off from San Francisco at 22:00 on an RFEA-homologated 10km course with a maximum elevation gain of just 53 metres, winding through the city's emblematic streets — with music and ambient entertainment staged in plazas along the way — before finishing in front of the cathedral at Praza do Obradoiro. Organisers expanded this year's capacity to 2,000 registered runners, an increase of 500 on the previous edition.",
+  "pt": "O casco histórico de Santiago de Compostela encheu-se no sábado, 30 de maio de 2026, para a décima Carreira Nocturna SantYaGo10K, com cobertura do evento pela equipa da Image Media. Organizada pelo Club Atletismo Fontes do Sar em conjunto com o Departamento de Deportes do Concello de Santiago e a Federación Galega de Atletismo, a corrida nocturna partiu de San Francisco às 22h00 num percurso de 10 km homologado pela RFEA com um desnível máximo de apenas 53 metros, serpenteando pelas ruas emblemáticas da cidade — com música e animação em várias praças ao longo do trajeto — antes de terminar em frente à catedral, na Praza do Obradoiro. Os organizadores alargaram a capacidade desta edição para 2.000 corredores inscritos, mais 500 do que na edição anterior.",
+  "es": "El casco histórico de Santiago de Compostela se llenó el sábado 30 de mayo de 2026 para la décima Carreira Nocturna SantYaGo10K, con cobertura del evento por parte del equipo de Image Media. Organizada por el Club Atletismo Fontes do Sar junto con el Departamento de Deportes del Concello de Santiago y la Federación Galega de Atletismo, la carrera nocturna salió de San Francisco a las 22:00h en un recorrido de 10 km homologado por la RFEA con un desnivel máximo de solo 53 metros, serpenteando por las calles emblemáticas de la ciudad — con música y animación en varias plazas durante el recorrido — antes de terminar frente a la catedral, en la Praza do Obradoiro. Los organizadores ampliaron la capacidad de esta edición a 2.000 corredores inscritos, 500 más que en la edición anterior.",
+  "fr": "La vieille ville de Santiago de Compostela s'est mobilisée le samedi 30 mai 2026 pour la dixième Carreira Nocturna SantYaGo10K, avec une couverture de l'événement par l'équipe d'Image Media. Organisée par le Club Atletismo Fontes do Sar avec le Departamento de Deportes du Concello de Santiago et la Federación Galega de Atletismo, la course nocturne est partie de San Francisco à 22h00 sur un parcours de 10 km homologué par la RFEA avec un dénivelé maximal de seulement 53 mètres, serpentant à travers les rues emblématiques de la ville — avec musique et animations sur plusieurs places le long du parcours — avant de se terminer devant la cathédrale, à la Praza do Obradoiro. Les organisateurs ont porté la capacité de cette édition à 2 000 coureurs inscrits, soit 500 de plus que l'édition précédente.",
+  "it": "Il centro storico di Santiago de Compostela si è riempito sabato 30 maggio 2026 per la decima Carreira Nocturna SantYaGo10K, con la copertura dell'evento a cura del team di Image Media. Organizzata dal Club Atletismo Fontes do Sar insieme al Departamento de Deportes del Concello de Santiago e alla Federación Galega de Atletismo, la corsa notturna è partita da San Francisco alle 22:00 su un percorso di 10 km omologato dalla RFEA con un dislivello massimo di soli 53 metri, snodandosi tra le vie emblematiche della città — con musica e intrattenimento in diverse piazze lungo il percorso — prima di concludersi davanti alla cattedrale, in Praza do Obradoiro. Gli organizzatori hanno ampliato la capacità di questa edizione a 2.000 corridori iscritti, 500 in più rispetto all'edizione precedente."
+ },
+ "a44-inline1-credit": {
+  "en": "Photo: Felipe Albano / Image Media",
+  "pt": "Foto: Felipe Albano / Image Media",
+  "es": "Foto: Felipe Albano / Image Media",
+  "fr": "Photo : Felipe Albano / Image Media",
+  "it": "Foto: Felipe Albano / Image Media"
+ },
+ "a44-p2": {
+  "en": "Workneh Fikire Serbessa of Club Atletismo Narón won the men's race in 31:03, while Eva Piñel Lorenzo of Club Deportivo Delikia took the women's win in 36:27, according to the final classification published by the Federación Galega de Atletismo. More than 600 runners were classified across the course, with cash prizes and trophies awarded in the absolute and age-category divisions.",
+  "pt": "Workneh Fikire Serbessa, do Club Atletismo Narón, venceu a prova masculina em 31:03, enquanto Eva Piñel Lorenzo, do Club Deportivo Delikia, venceu a prova feminina em 36:27, segundo a classificação final publicada pela Federación Galega de Atletismo. Mais de 600 corredores foram classificados na prova, com prémios em dinheiro e troféus atribuídos nas categorias absoluta e de idade.",
+  "es": "Workneh Fikire Serbessa, del Club Atletismo Narón, ganó la prueba masculina en 31:03, mientras que Eva Piñel Lorenzo, del Club Deportivo Delikia, se impuso en la femenina en 36:27, según la clasificación final publicada por la Federación Galega de Atletismo. Más de 600 corredores fueron clasificados en la prueba, con premios en metálico y trofeos en las categorías absoluta y de edad.",
+  "fr": "Workneh Fikire Serbessa, du Club Atletismo Narón, a remporté la course masculine en 31:03, tandis qu'Eva Piñel Lorenzo, du Club Deportivo Delikia, s'est imposée chez les femmes en 36:27, selon le classement final publié par la Federación Galega de Atletismo. Plus de 600 coureurs ont été classés sur le parcours, avec des prix en argent et des trophées remis dans les catégories absolue et d'âge.",
+  "it": "Workneh Fikire Serbessa, del Club Atletismo Narón, ha vinto la gara maschile in 31:03, mentre Eva Piñel Lorenzo, del Club Deportivo Delikia, si è imposta in quella femminile in 36:27, secondo la classifica finale pubblicata dalla Federación Galega de Atletismo. Oltre 600 corridori sono stati classificati lungo il percorso, con premi in denaro e trofei assegnati nelle categorie assoluta ed età."
+ },
+ "a44-stat": {
+  "en": "30 May 2026 · Santiago de Compostela · X Carreira Nocturna SantYaGo10K",
+  "pt": "30 de maio de 2026 · Santiago de Compostela · X Carreira Nocturna SantYaGo10K",
+  "es": "30 de mayo de 2026 · Santiago de Compostela · X Carreira Nocturna SantYaGo10K",
+  "fr": "30 mai 2026 · Santiago de Compostela · X Carreira Nocturna SantYaGo10K",
+  "it": "30 maggio 2026 · Santiago de Compostela · X Carreira Nocturna SantYaGo10K"
+ },
+ "a44-inline2-credit": {
+  "en": "Photo: Felipe Albano / Image Media",
+  "pt": "Foto: Felipe Albano / Image Media",
+  "es": "Foto: Felipe Albano / Image Media",
+  "fr": "Photo : Felipe Albano / Image Media",
+  "it": "Foto: Felipe Albano / Image Media"
+ },
+ "a44-p3": {
+  "en": "The SantYaGo10K again ran as a solidarity race, with proceeds from entry fees and an optional \"dorsal 0\" donation supporting Aspanaes, the association for families of people with autism spectrum disorder in the province of A Coruña. Organisers also presented a special award for the oldest participant, honouring the late Cándido Calvo.",
+  "pt": "A SantYaGo10K voltou a decorrer como prova solidária, revertendo parte das inscrições e um donativo opcional de \"dorsal 0\" a favor da Aspanaes, associação de famílias de pessoas com perturbação do espectro do autismo na província da Corunha. Os organizadores atribuíram ainda um prémio especial ao participante mais idoso, em homenagem ao falecido Cándido Calvo.",
+  "es": "La SantYaGo10K volvió a celebrarse como prueba solidaria, destinando parte de las inscripciones y un donativo opcional de \"dorsal 0\" a Aspanaes, la asociación de familias de personas con trastorno del espectro autista de la provincia de A Coruña. Los organizadores entregaron además un premio especial al participante de mayor edad, en homenaje al fallecido Cándido Calvo.",
+  "fr": "La SantYaGo10K a de nouveau été organisée comme course solidaire, une partie des inscriptions et un don optionnel « dossard 0 » étant reversés à Aspanaes, l'association des familles de personnes atteintes de troubles du spectre autistique de la province de La Corogne. Les organisateurs ont également remis un prix spécial au participant le plus âgé, en hommage à feu Cándido Calvo.",
+  "it": "La SantYaGo10K si è di nuovo svolta come gara solidale, con parte delle iscrizioni e una donazione facoltativa \"pettorale 0\" a favore di Aspanaes, l'associazione delle famiglie di persone con disturbo dello spettro autistico della provincia di A Coruña. Gli organizzatori hanno inoltre assegnato un premio speciale al partecipante più anziano, in omaggio al compianto Cándido Calvo."
+ },
+ "a44-p4": {
+  "en": "The Image Media coverage team at the SantYaGo10K comprised Felipe Albano, Eduardo Pereira, Jose Salgueiro and Luciano Inocencio.",
+  "pt": "A equipa de cobertura da Image Media na SantYaGo10K foi composta por Felipe Albano, Eduardo Pereira, Jose Salgueiro e Luciano Inocencio.",
+  "es": "El equipo de cobertura de Image Media en la SantYaGo10K estuvo compuesto por Felipe Albano, Eduardo Pereira, Jose Salgueiro y Luciano Inocencio.",
+  "fr": "L'équipe de couverture d'Image Media à la SantYaGo10K était composée de Felipe Albano, Eduardo Pereira, Jose Salgueiro et Luciano Inocencio.",
+  "it": "Il team di copertura di Image Media alla SantYaGo10K era composto da Felipe Albano, Eduardo Pereira, Jose Salgueiro e Luciano Inocencio."
+ },
+ "a44-tagpill1": {
+  "en": "SantYaGo10K",
+  "pt": "SantYaGo10K",
+  "es": "SantYaGo10K",
+  "fr": "SantYaGo10K",
+  "it": "SantYaGo10K"
+ },
+ "a44-tagpill2": {
+  "en": "Santiago de Compostela",
+  "pt": "Santiago de Compostela",
+  "es": "Santiago de Compostela",
+  "fr": "Santiago de Compostela",
+  "it": "Santiago de Compostela"
+ },
+ "a44-tagpill3": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "a44-related-title": {
+  "en": "More from Image Media",
+  "pt": "Mais da Image Media",
+  "es": "Más de Image Media",
+  "fr": "Plus d'Image Media",
+  "it": "Altro da Image Media"
+ },
+ "a44-related1-tag": {
+  "en": "Sports",
+  "pt": "Desporto",
+  "es": "Deportes",
+  "fr": "Sport",
+  "it": "Sport"
+ },
+ "a44-related1-title": {
+  "en": "See all Sports coverage",
+  "pt": "Ver toda a cobertura de Desporto",
+  "es": "Ver toda la cobertura de Deportes",
+  "fr": "Voir toute la couverture Sport",
+  "it": "Vedi tutta la copertura Sport"
+ },
+ "a44-related1-link": {
+  "en": "Visit section →",
+  "pt": "Visitar secção →",
+  "es": "Visitar sección →",
+  "fr": "Visiter la section →",
+  "it": "Visita la sezione →"
+ },
+ "a44-related2-tag": {
+  "en": "Image Media",
+  "pt": "Image Media",
+  "es": "Image Media",
+  "fr": "Image Media",
+  "it": "Image Media"
+ },
+ "a44-related2-title": {
+  "en": "How Image Media covers your event",
+  "pt": "Como a Image Media cobre o seu evento",
+  "es": "Cómo Image Media cubre tu evento",
+  "fr": "Comment Image Media couvre votre événement",
+  "it": "Come Image Media copre il tuo evento"
+ },
+ "a44-related2-link": {
+  "en": "Learn more →",
+  "pt": "Saber mais →",
+  "es": "Saber más →",
+  "fr": "En savoir plus →",
+  "it": "Scopri di più →"
+ },
+ "a44-related3-tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a44-related3-title": {
+  "en": "AVYNT Hybrid Arena Hosts II Avynt Hyrox Simulation With 190 Registered In Vila Nova De Gaia",
+  "pt": "AVYNT Hybrid Arena Recebe II Avynt Hyrox Simulation Com 190 Inscritos Em Vila Nova De Gaia",
+  "es": "AVYNT Hybrid Arena Acoge La II Avynt Hyrox Simulation Con 190 Inscritos En Vila Nova De Gaia",
+  "fr": "AVYNT Hybrid Arena Accueille La II Avynt Hyrox Simulation Avec 190 Inscrits À Vila Nova De Gaia",
+  "it": "AVYNT Hybrid Arena Ospita La II Avynt Hyrox Simulation Con 190 Iscritti A Vila Nova De Gaia"
+ },
+ "a44-related3-link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
+ "card-s39__field__tag": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "card-s39__field__title": {
+  "en": "Workneh Fikire Serbessa And Eva Piñel Lorenzo Win Tenth SantYaGo10K Night Race Through Santiago De Compostela",
+  "pt": "Workneh Fikire Serbessa E Eva Piñel Lorenzo Vencem Décima SantYaGo10K, Corrida Noturna Por Santiago De Compostela",
+  "es": "Workneh Fikire Serbessa Y Eva Piñel Lorenzo Ganan La Décima SantYaGo10K, Carrera Nocturna Por Santiago De Compostela",
+  "fr": "Workneh Fikire Serbessa Et Eva Piñel Lorenzo Remportent La Dixième SantYaGo10K, Course Nocturne À Santiago De Compostela",
+  "it": "Workneh Fikire Serbessa Ed Eva Piñel Lorenzo Vincono La Decima SantYaGo10K, Corsa Notturna A Santiago De Compostela"
+ },
+ "card-s39__field__deck": {
+  "en": "Club Atletismo Fontes do Sar and the Concello de Santiago staged the tenth Carreira Nocturna SantYaGo10K on 30 May 2026, sending runners from San Francisco to a Praza do Obradoiro finish on an RFEA-homologated 10km course through the historic old town.",
+  "pt": "O Club Atletismo Fontes do Sar e a Concello de Santiago organizaram a décima Carreira Nocturna SantYaGo10K a 30 de maio de 2026, com partida em San Francisco e chegada na Praza do Obradoiro, num percurso de 10 km homologado pela RFEA pelo centro histórico.",
+  "es": "El Club Atletismo Fontes do Sar y el Concello de Santiago organizaron la décima Carreira Nocturna SantYaGo10K el 30 de mayo de 2026, con salida en San Francisco y meta en la Praza do Obradoiro, en un recorrido de 10 km homologado por la RFEA a través del casco histórico.",
+  "fr": "Le Club Atletismo Fontes do Sar et le Concello de Santiago ont organisé la dixième Carreira Nocturna SantYaGo10K le 30 mai 2026, avec un départ à San Francisco et une arrivée à la Praza do Obradoiro, sur un parcours de 10 km homologué par la RFEA à travers la vieille ville historique.",
+  "it": "Il Club Atletismo Fontes do Sar e il Concello de Santiago hanno organizzato la decima Carreira Nocturna SantYaGo10K il 30 maggio 2026, con partenza a San Francisco e arrivo in Praza do Obradoiro, su un percorso di 10 km omologato dalla RFEA attraverso il centro storico."
+ },
+ "card-s39__field__meta": {
+  "en": "Image Media coverage",
+  "pt": "Cobertura Image Media",
+  "es": "Cobertura de Image Media",
+  "fr": "Couverture Image Media",
+  "it": "Copertura Image Media"
+ },
+ "card-s39__field__link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
  },
  "chrome": {
   "nav.home": {
