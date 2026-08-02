@@ -10013,6 +10013,216 @@ window.IM_I18N = {
   "fr": "Lire plus →",
   "it": "Leggi di più →"
  },
+ "a47-tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a47-title": {
+  "en": "AVYNT Hybrid Arena Hosts III Avynt Hyrox Simulation With Full Registration In Vila Nova De Gaia",
+  "pt": "AVYNT Hybrid Arena Recebe III Avynt Hyrox Simulation Com Inscrições Esgotadas Em Vila Nova De Gaia",
+  "es": "AVYNT Hybrid Arena Acoge La III Avynt Hyrox Simulation Con Inscripciones Agotadas En Vila Nova De Gaia",
+  "fr": "AVYNT Hybrid Arena Accueille La III Avynt Hyrox Simulation À Guichets Fermés À Vila Nova De Gaia",
+  "it": "AVYNT Hybrid Arena Ospita La III Avynt Hyrox Simulation Con Iscrizioni Esaurite A Vila Nova De Gaia"
+ },
+ "a47-deck": {
+  "en": "AVYNT Hybrid Arena staged the III Avynt Hyrox Simulation on 1 August 2026, the third stage of its annual AVYNT League after February and May's editions, with a sold-out field working through an 8km run and eight strength stations in Vila Nova de Gaia.",
+  "pt": "A AVYNT Hybrid Arena organizou a III Avynt Hyrox Simulation a 1 de agosto de 2026, a terceira etapa da sua AVYNT League anual após as edições de fevereiro e maio, com inscrições esgotadas a percorrerem 8 km de corrida e oito estações de força em Vila Nova de Gaia.",
+  "es": "AVYNT Hybrid Arena organizó la III Avynt Hyrox Simulation el 1 de agosto de 2026, la tercera etapa de su AVYNT League anual tras las ediciones de febrero y mayo, con inscripciones agotadas superando 8 km de carrera y ocho estaciones de fuerza en Vila Nova de Gaia.",
+  "fr": "AVYNT Hybrid Arena a organisé la III Avynt Hyrox Simulation le 1er août 2026, la troisième étape de son AVYNT League annuelle après les éditions de février et mai, avec un plateau complet enchaînant 8 km de course et huit ateliers de force à Vila Nova de Gaia.",
+  "it": "AVYNT Hybrid Arena ha organizzato la III Avynt Hyrox Simulation il 1° agosto 2026, la terza tappa della sua AVYNT League annuale dopo le edizioni di febbraio e maggio, con iscrizioni esaurite impegnate in 8 km di corsa e otto stazioni di forza a Vila Nova de Gaia."
+ },
+ "a47-byline": {
+  "en": "By Image Media News Staff — Vila Nova de Gaia, Portugal",
+  "pt": "Por Equipa Image Media News — Vila Nova de Gaia, Portugal",
+  "es": "Por el Equipo de Image Media News — Vila Nova de Gaia, Portugal",
+  "fr": "Par l'équipe d'Image Media News — Vila Nova de Gaia, Portugal",
+  "it": "A cura del team di Image Media News — Vila Nova de Gaia, Portogallo"
+ },
+ "a47-hero-credit": {
+  "en": "Photo: Paulo Nomade / Image Media",
+  "pt": "Foto: Paulo Nomade / Image Media",
+  "es": "Foto: Paulo Nomade / Image Media",
+  "fr": "Photo : Paulo Nomade / Image Media",
+  "it": "Foto: Paulo Nomade / Image Media"
+ },
+ "a47-p1": {
+  "en": "AVYNT Hybrid Arena, the hybrid-training gym in Vilar do Paraíso, Vila Nova de Gaia, staged the III Avynt Hyrox Simulation on Saturday 1 August 2026, with event coverage by the Image Media team. Registration reached full capacity for the event, the third stage of the venue's annual AVYNT League after February's opener and May's second stage, again pairing an endurance run with a run of strength stations built around the Hyrox simulation format. The competition is organised independently by AVYNT and is not an official stage of the international HYROX circuit.",
+  "pt": "A AVYNT Hybrid Arena, o ginásio de treino híbrido em Vilar do Paraíso, Vila Nova de Gaia, organizou a III Avynt Hyrox Simulation no sábado, 1 de agosto de 2026, com cobertura do evento pela equipa da Image Media. As inscrições esgotaram para o evento, a terceira etapa da AVYNT League anual do espaço após a abertura em fevereiro e a segunda etapa em maio, voltando a combinar uma corrida de resistência com uma sequência de estações de força construídas em torno do formato de simulação Hyrox. A competição é organizada de forma independente pela AVYNT e não é uma etapa oficial do circuito internacional HYROX.",
+  "es": "AVYNT Hybrid Arena, el gimnasio de entrenamiento híbrido en Vilar do Paraíso, Vila Nova de Gaia, organizó la III Avynt Hyrox Simulation el sábado 1 de agosto de 2026, con cobertura del evento por parte del equipo de Image Media. Las inscripciones se agotaron para el evento, la tercera etapa de la AVYNT League anual del centro tras la apertura de febrero y la segunda etapa de mayo, combinando de nuevo una carrera de resistencia con una serie de estaciones de fuerza construidas en torno al formato de simulación Hyrox. La competición está organizada de forma independiente por AVYNT y no es una etapa oficial del circuito internacional HYROX.",
+  "fr": "AVYNT Hybrid Arena, la salle d'entraînement hybride de Vilar do Paraíso, Vila Nova de Gaia, a organisé la III Avynt Hyrox Simulation le samedi 1er août 2026, avec une couverture de l'événement par l'équipe d'Image Media. Les inscriptions ont été complètes pour cet événement, la troisième étape de l'AVYNT League annuelle de la salle après l'ouverture de février et la deuxième étape de mai, associant à nouveau une course d'endurance à une série d'ateliers de force construits autour du format de simulation Hyrox. La compétition est organisée de manière indépendante par AVYNT et ne constitue pas une étape officielle du circuit international HYROX.",
+  "it": "AVYNT Hybrid Arena, la palestra di allenamento ibrido di Vilar do Paraíso, Vila Nova de Gaia, ha organizzato la III Avynt Hyrox Simulation sabato 1° agosto 2026, con la copertura dell'evento a cura del team di Image Media. Le iscrizioni sono andate esaurite per l'evento, la terza tappa dell'AVYNT League annuale della struttura dopo l'apertura di febbraio e la seconda tappa di maggio, abbinando ancora una volta una corsa di resistenza a una serie di stazioni di forza costruite attorno al formato di simulazione Hyrox. La competizione è organizzata in modo indipendente da AVYNT e non è una tappa ufficiale del circuito internazionale HYROX."
+ },
+ "a47-inline1-credit": {
+  "en": "Photo: Paulo Nomade / Image Media",
+  "pt": "Foto: Paulo Nomade / Image Media",
+  "es": "Foto: Paulo Nomade / Image Media",
+  "fr": "Photo : Paulo Nomade / Image Media",
+  "it": "Foto: Paulo Nomade / Image Media"
+ },
+ "a47-p2": {
+  "en": "Competitors covered eight kilometres of running split into eight segments, alternating with strength stations including sled pushes, sled pulls, burpee broad jumps and wall balls. The programme ran across individual Open and Pro categories for men and women, men's, women's and mixed doubles, and men's, women's and mixed relay categories, spanning athletes from first-time competitors to more experienced racers.",
+  "pt": "Os competidores percorreram oito quilómetros de corrida divididos em oito segmentos, alternando com estações de força que incluíam sled push, sled pull, burpee broad jumps e wall balls. O programa decorreu em categorias individuais Open e Pro, masculinas e femininas, duplas masculinas, femininas e mistas, e categorias de relay masculino, feminino e misto, abrangendo atletas desde estreantes a competidores mais experientes.",
+  "es": "Los competidores recorrieron ocho kilómetros de carrera divididos en ocho segmentos, alternando con estaciones de fuerza que incluían sled push, sled pull, burpee broad jumps y wall balls. El programa se disputó en categorías individuales Open y Pro, masculinas y femeninas, dobles masculinos, femeninos y mixtos, y categorías de relevos masculino, femenino y mixto, abarcando desde atletas debutantes hasta competidores más experimentados.",
+  "fr": "Les concurrents ont parcouru huit kilomètres de course répartis en huit segments, alternant avec des ateliers de force incluant sled push, sled pull, burpee broad jumps et wall balls. Le programme s'est déroulé dans des catégories individuelles Open et Pro, masculines et féminines, des doubles masculins, féminins et mixtes, ainsi que des catégories de relais masculin, féminin et mixte, réunissant aussi bien des débutants que des compétiteurs plus expérimentés.",
+  "it": "I concorrenti hanno percorso otto chilometri di corsa suddivisi in otto segmenti, alternati a stazioni di forza tra cui sled push, sled pull, burpee broad jumps e wall balls. Il programma si è svolto nelle categorie individuali Open e Pro, maschili e femminili, doppi maschili, femminili e misti, e categorie relay maschile, femminile e misto, coinvolgendo atleti esordienti e concorrenti più esperti."
+ },
+ "a47-stat": {
+  "en": "1 August 2026 · Vila Nova de Gaia · III Avynt Hyrox Simulation · Registration full",
+  "pt": "1 de agosto de 2026 · Vila Nova de Gaia · III Avynt Hyrox Simulation · Inscrições esgotadas",
+  "es": "1 de agosto de 2026 · Vila Nova de Gaia · III Avynt Hyrox Simulation · Inscripciones agotadas",
+  "fr": "1er août 2026 · Vila Nova de Gaia · III Avynt Hyrox Simulation · Inscriptions complètes",
+  "it": "1° agosto 2026 · Vila Nova de Gaia · III Avynt Hyrox Simulation · Iscrizioni esaurite"
+ },
+ "a47-inline2-credit": {
+  "en": "Photo: Paulo Nomade / Image Media",
+  "pt": "Foto: Paulo Nomade / Image Media",
+  "es": "Foto: Paulo Nomade / Image Media",
+  "fr": "Photo : Paulo Nomade / Image Media",
+  "it": "Foto: Paulo Nomade / Image Media"
+ },
+ "a47-p3": {
+  "en": "The AVYNT League is an annual competition built around AVYNT Hybrid Arena's own Hyrox-style simulations, with results across each stage counting toward a season-long ranking rather than each event standing alone. The 2026 calendar opened on 21 February and continued on 30 May before Saturday's third stage, with six stages planned for the year and a fourth stage set for 26 September at the same venue.",
+  "pt": "A AVYNT League é uma competição anual construída em torno das próprias simulações em estilo Hyrox da AVYNT Hybrid Arena, com os resultados de cada etapa a contarem para uma classificação ao longo da temporada, em vez de cada evento ser isolado. O calendário de 2026 abriu a 21 de fevereiro e prosseguiu a 30 de maio antes da terceira etapa de sábado, com seis etapas previstas para o ano e uma quarta etapa marcada para 26 de setembro no mesmo espaço.",
+  "es": "La AVYNT League es una competición anual construida en torno a las propias simulaciones de estilo Hyrox de AVYNT Hybrid Arena, con los resultados de cada etapa sumando para una clasificación a lo largo de la temporada en lugar de que cada evento sea aislado. El calendario de 2026 se abrió el 21 de febrero y continuó el 30 de mayo antes de la tercera etapa del sábado, con seis etapas previstas para el año y una cuarta etapa fijada para el 26 de septiembre en el mismo recinto.",
+  "fr": "L'AVYNT League est une compétition annuelle construite autour des propres simulations de style Hyrox d'AVYNT Hybrid Arena, les résultats de chaque étape comptant pour un classement sur toute la saison plutôt que chaque événement restant isolé. Le calendrier 2026 s'est ouvert le 21 février et s'est poursuivi le 30 mai avant la troisième étape de samedi, avec six étapes prévues pour l'année et une quatrième étape fixée au 26 septembre dans la même salle.",
+  "it": "L'AVYNT League è una competizione annuale costruita attorno alle simulazioni in stile Hyrox della stessa AVYNT Hybrid Arena, con i risultati di ogni tappa che contribuiscono a una classifica stagionale anziché ogni evento restare isolato. Il calendario 2026 si è aperto il 21 febbraio ed è proseguito il 30 maggio prima della terza tappa di sabato, con sei tappe previste per l'anno e una quarta tappa fissata per il 26 settembre nella stessa struttura."
+ },
+ "a47-p4": {
+  "en": "The Image Media coverage team at the III Avynt Hyrox Simulation comprised Michael Rosa, Paulo Nomade, Luis Moreira, Pedro Oliveira and Luan Rodrigo.",
+  "pt": "A equipa de cobertura da Image Media na III Avynt Hyrox Simulation foi composta por Michael Rosa, Paulo Nomade, Luis Moreira, Pedro Oliveira e Luan Rodrigo.",
+  "es": "El equipo de cobertura de Image Media en la III Avynt Hyrox Simulation estuvo compuesto por Michael Rosa, Paulo Nomade, Luis Moreira, Pedro Oliveira y Luan Rodrigo.",
+  "fr": "L'équipe de couverture d'Image Media à la III Avynt Hyrox Simulation était composée de Michael Rosa, Paulo Nomade, Luis Moreira, Pedro Oliveira et Luan Rodrigo.",
+  "it": "Il team di copertura di Image Media alla III Avynt Hyrox Simulation era composto da Michael Rosa, Paulo Nomade, Luis Moreira, Pedro Oliveira e Luan Rodrigo."
+ },
+ "a47-tagpill1": {
+  "en": "Avynt Hyrox Simulation",
+  "pt": "Avynt Hyrox Simulation",
+  "es": "Avynt Hyrox Simulation",
+  "fr": "Avynt Hyrox Simulation",
+  "it": "Avynt Hyrox Simulation"
+ },
+ "a47-tagpill2": {
+  "en": "Vila Nova de Gaia",
+  "pt": "Vila Nova de Gaia",
+  "es": "Vila Nova de Gaia",
+  "fr": "Vila Nova de Gaia",
+  "it": "Vila Nova de Gaia"
+ },
+ "a47-tagpill3": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a47-related-title": {
+  "en": "More from Image Media",
+  "pt": "Mais da Image Media",
+  "es": "Más de Image Media",
+  "fr": "Plus d'Image Media",
+  "it": "Altro da Image Media"
+ },
+ "a47-related1-tag": {
+  "en": "Sports",
+  "pt": "Desporto",
+  "es": "Deportes",
+  "fr": "Sport",
+  "it": "Sport"
+ },
+ "a47-related1-title": {
+  "en": "See all Sports coverage",
+  "pt": "Ver toda a cobertura de Desporto",
+  "es": "Ver toda la cobertura de Deportes",
+  "fr": "Voir toute la couverture Sport",
+  "it": "Vedi tutta la copertura Sport"
+ },
+ "a47-related1-link": {
+  "en": "Visit section →",
+  "pt": "Visitar secção →",
+  "es": "Visitar sección →",
+  "fr": "Visiter la section →",
+  "it": "Visita la sezione →"
+ },
+ "a47-related2-tag": {
+  "en": "Image Media",
+  "pt": "Image Media",
+  "es": "Image Media",
+  "fr": "Image Media",
+  "it": "Image Media"
+ },
+ "a47-related2-title": {
+  "en": "How Image Media covers your event",
+  "pt": "Como a Image Media cobre o seu evento",
+  "es": "Cómo Image Media cubre tu evento",
+  "fr": "Comment Image Media couvre votre événement",
+  "it": "Come Image Media copre il tuo evento"
+ },
+ "a47-related2-link": {
+  "en": "Learn more →",
+  "pt": "Saber mais →",
+  "es": "Saber más →",
+  "fr": "En savoir plus →",
+  "it": "Scopri di più →"
+ },
+ "a47-related3-tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a47-related3-title": {
+  "en": "190 Athletes Compete As Trident Battle Returns To Nettuno For Fourth Edition",
+  "pt": "190 Atletas Competem Enquanto A Trident Battle Regressa A Nettuno Para A Quarta Edição",
+  "es": "190 Atletas Compiten Mientras La Trident Battle Regresa A Nettuno Para Su Cuarta Edición",
+  "fr": "190 Athlètes En Compétition Alors Que La Trident Battle Revient À Nettuno Pour Sa Quatrième Édition",
+  "it": "190 Atleti In Gara Mentre La Trident Battle Torna A Nettuno Per La Quarta Edizione"
+ },
+ "a47-related3-link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
+ "card-s42__field__tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "card-s42__field__title": {
+  "en": "AVYNT Hybrid Arena Hosts III Avynt Hyrox Simulation With Full Registration In Vila Nova De Gaia",
+  "pt": "AVYNT Hybrid Arena Recebe III Avynt Hyrox Simulation Com Inscrições Esgotadas Em Vila Nova De Gaia",
+  "es": "AVYNT Hybrid Arena Acoge La III Avynt Hyrox Simulation Con Inscripciones Agotadas En Vila Nova De Gaia",
+  "fr": "AVYNT Hybrid Arena Accueille La III Avynt Hyrox Simulation À Guichets Fermés À Vila Nova De Gaia",
+  "it": "AVYNT Hybrid Arena Ospita La III Avynt Hyrox Simulation Con Iscrizioni Esaurite A Vila Nova De Gaia"
+ },
+ "card-s42__field__deck": {
+  "en": "AVYNT Hybrid Arena staged the III Avynt Hyrox Simulation on 1 August 2026, the third AVYNT League stage of the year, with a sold-out field working through an 8km run and eight strength stations in Vila Nova de Gaia.",
+  "pt": "A AVYNT Hybrid Arena organizou a III Avynt Hyrox Simulation a 1 de agosto de 2026, a terceira etapa da AVYNT League do ano, com inscrições esgotadas a percorrerem 8 km de corrida e oito estações de força em Vila Nova de Gaia.",
+  "es": "AVYNT Hybrid Arena organizó la III Avynt Hyrox Simulation el 1 de agosto de 2026, la tercera etapa de la AVYNT League del año, con inscripciones agotadas superando 8 km de carrera y ocho estaciones de fuerza en Vila Nova de Gaia.",
+  "fr": "AVYNT Hybrid Arena a organisé la III Avynt Hyrox Simulation le 1er août 2026, la troisième étape de l'AVYNT League de l'année, avec un plateau complet enchaînant 8 km de course et huit ateliers de force à Vila Nova de Gaia.",
+  "it": "AVYNT Hybrid Arena ha organizzato la III Avynt Hyrox Simulation il 1° agosto 2026, la terza tappa dell'AVYNT League dell'anno, con iscrizioni esaurite impegnate in 8 km di corsa e otto stazioni di forza a Vila Nova de Gaia."
+ },
+ "card-s42__field__meta": {
+  "en": "Image Media coverage",
+  "pt": "Cobertura Image Media",
+  "es": "Cobertura de Image Media",
+  "fr": "Couverture Image Media",
+  "it": "Copertura Image Media"
+ },
+ "card-s42__field__link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
  },
  "chrome": {
   "nav.home": {
