@@ -7983,6 +7983,216 @@ window.IM_I18N = {
   "fr": "Lire plus →",
   "it": "Leggi di più →"
  },
+ "a39-tag": {
+  "en": "Triathlon",
+  "pt": "Triatlo",
+  "es": "Triatlón",
+  "fr": "Triathlon",
+  "it": "Triathlon"
+ },
+ "a39-title": {
+  "en": "Tri100Llanes Debuts As Asturias Championship With 100km Coastal Triathlon Through Llanes",
+  "pt": "Tri100Llanes Estreia-Se Como Campeonato Das Astúrias Com Triatlo Costeiro De 100km Em Llanes",
+  "es": "Tri100Llanes Debuta Como Campeonato De Asturias Con Triatlón Costero De 100km En Llanes",
+  "fr": "Le Tri100Llanes Fait Ses Débuts Comme Championnat Des Asturies Avec Un Triathlon Côtier De 100km À Llanes",
+  "it": "Il Tri100Llanes Debutta Come Campionato Delle Asturie Con Un Triathlon Costiero Di 100km A Llanes"
+ },
+ "a39-deck": {
+  "en": "The inaugural Tri100Llanes combined a Cantabrian Sea swim, an 80km bike leg and an 18km four-lap run through Llanes on 24 May, doubling as the 2026 Campeonato de Asturias de Triatlón in the Media Distancia category.",
+  "pt": "O primeiro Tri100Llanes combinou natação no Mar Cantábrico, um percurso de 80km de bicicleta e uma corrida de 18km em quatro voltas por Llanes, a 24 de maio, servindo também como Campeonato das Astúrias de Triatlo de 2026, na categoria Media Distancia.",
+  "es": "El primer Tri100Llanes combinó natación en el Mar Cantábrico, un tramo de 80km en bicicleta y una carrera de 18km en cuatro vueltas por Llanes, el 24 de mayo, sirviendo también como Campeonato de Asturias de Triatlón 2026, en la categoría Media Distancia.",
+  "fr": "Le premier Tri100Llanes a combiné une natation dans la mer Cantabrique, un parcours vélo de 80km et une course à pied de 18km en quatre boucles à travers Llanes, le 24 mai, servant aussi de Championnat des Asturies de Triathlon 2026, dans la catégorie Media Distancia.",
+  "it": "Il primo Tri100Llanes ha combinato un nuoto nel Mar Cantabrico, una frazione di 80km in bicicletta e una corsa di 18km su quattro giri per Llanes, il 24 maggio, fungendo anche da Campionato delle Asturie di Triathlon 2026, nella categoria Media Distancia."
+ },
+ "a39-byline": {
+  "en": "By Image Media News Staff — Llanes, Asturias, Spain",
+  "pt": "Por Equipa Image Media News — Llanes, Astúrias, Espanha",
+  "es": "Por el Equipo de Image Media News — Llanes, Asturias, España",
+  "fr": "Par l'équipe d'Image Media News — Llanes, Asturies, Espagne",
+  "it": "A cura del team di Image Media News — Llanes, Asturie, Spagna"
+ },
+ "a39-hero-credit": {
+  "en": "Photo: Paulo Nomade / Image Media",
+  "pt": "Foto: Paulo Nomade / Image Media",
+  "es": "Foto: Paulo Nomade / Image Media",
+  "fr": "Photo : Paulo Nomade / Image Media",
+  "it": "Foto: Paulo Nomade / Image Media"
+ },
+ "a39-p1": {
+  "en": "Tri100Llanes held its first edition on Sunday 24 May 2026 in Llanes, on the eastern Asturias coast, with event coverage by the Image Media team. The middle-distance triathlon doubled as the 2026 Campeonato de Asturias de Triatlón in the Media Distancia (MD) category, according to the Federación de Triatlón del Principado de Asturias's official 2026 calendar.",
+  "pt": "O Tri100Llanes realizou a sua primeira edição no domingo, 24 de maio de 2026, em Llanes, na costa oriental das Astúrias, com cobertura do evento pela equipa da Image Media. O triatlo de média distância serviu também como Campeonato das Astúrias de Triatlo de 2026, na categoria Media Distancia (MD), de acordo com o calendário oficial de 2026 da Federación de Triatlón del Principado de Asturias.",
+  "es": "El Tri100Llanes celebró su primera edición el domingo 24 de mayo de 2026 en Llanes, en la costa oriental de Asturias, con cobertura del evento por parte del equipo de Image Media. El triatlón de media distancia sirvió también como Campeonato de Asturias de Triatlón 2026, en la categoría Media Distancia (MD), según el calendario oficial 2026 de la Federación de Triatlón del Principado de Asturias.",
+  "fr": "Le Tri100Llanes a organisé sa première édition le dimanche 24 mai 2026 à Llanes, sur la côte orientale des Asturies, avec une couverture de l'événement par l'équipe d'Image Media. Ce triathlon de distance moyenne a également servi de Championnat des Asturies de Triathlon 2026, dans la catégorie Media Distancia (MD), selon le calendrier officiel 2026 de la Federación de Triatlón del Principado de Asturias.",
+  "it": "Il Tri100Llanes ha tenuto la sua prima edizione domenica 24 maggio 2026 a Llanes, sulla costa orientale delle Asturie, con la copertura dell'evento a cura del team di Image Media. Il triathlon di media distanza è servito anche da Campionato delle Asturie di Triathlon 2026, nella categoria Media Distancia (MD), secondo il calendario ufficiale 2026 della Federación de Triatlón del Principado de Asturias."
+ },
+ "a39-p2": {
+  "en": "The roughly 100km course combined a 1.8km open-water swim in the Cantabrian Sea with an 80km bike leg on Asturian roads — fast enough over its open stretches that the regulations permitted time-trial bikes — before finishing with an 18km run completed over four laps of an urban circuit through the centre of Llanes. Organisers set a 7:30am start to get ahead of the day's high temperatures, with a route designed to combine the Cantabrian Sea with the inland Sierra del Cuera.",
+  "pt": "O percurso, com cerca de 100km, combinou uma natação de 1,8km em águas abertas no Mar Cantábrico com um troço de 80km de bicicleta por estradas das Astúrias — suficientemente rápido nos seus trechos mais abertos para que o regulamento permitisse bicicletas de contrarrelógio — antes de terminar com uma corrida de 18km, completada em quatro voltas a um circuito urbano pelo centro de Llanes. A organização marcou a partida para as 7h30 para se antecipar às temperaturas elevadas do dia, com um percurso pensado para combinar o Mar Cantábrico com a Sierra del Cuera, no interior.",
+  "es": "El recorrido, de unos 100km, combinó una natación de 1,8km en aguas abiertas en el Mar Cantábrico con un tramo de 80km en bicicleta por carreteras asturianas — lo bastante rápido en sus tramos más abiertos como para que el reglamento permitiera bicicletas de contrarreloj — antes de terminar con una carrera de 18km, completada en cuatro vueltas a un circuito urbano por el centro de Llanes. La organización fijó la salida a las 7:30h para adelantarse a las altas temperaturas del día, con un recorrido pensado para combinar el Mar Cantábrico con la Sierra del Cuera, en el interior.",
+  "fr": "Le parcours, d'environ 100km, a combiné une natation de 1,8km en eau libre dans la mer Cantabrique avec un tronçon vélo de 80km sur des routes asturiennes — suffisamment rapide sur ses portions dégagées pour que le règlement autorise les vélos de contre-la-montre — avant de se terminer par une course à pied de 18km, effectuée en quatre boucles d'un circuit urbain à travers le centre de Llanes. Les organisateurs ont fixé le départ à 7h30 pour devancer les fortes chaleurs de la journée, avec un tracé conçu pour combiner la mer Cantabrique et la Sierra del Cuera, à l'intérieur des terres.",
+  "it": "Il percorso, di circa 100km, ha combinato un nuoto di 1,8km in acque libere nel Mar Cantabrico con una frazione di 80km in bicicletta su strade asturiane — abbastanza veloce nei tratti più aperti da consentire, secondo il regolamento, l'uso di biciclette da cronometro — prima di concludersi con una corsa di 18km, completata in quattro giri di un circuito urbano nel centro di Llanes. Gli organizzatori hanno fissato la partenza alle 7:30 per anticipare le alte temperature della giornata, con un tracciato pensato per combinare il Mar Cantabrico con la Sierra del Cuera, nell'entroterra."
+ },
+ "a39-inline1-credit": {
+  "en": "Photo: Nemi / Image Media",
+  "pt": "Foto: Nemi / Image Media",
+  "es": "Foto: Nemi / Image Media",
+  "fr": "Photo : Nemi / Image Media",
+  "it": "Foto: Nemi / Image Media"
+ },
+ "a39-p3": {
+  "en": "No overall winners or full results had been published by any organiser or federation source at the time of writing, so none are reported here. Among the competitors, CDA Puertollano's José Antonio Ruiz completed the course in 5 hours and 11 minutes, finishing inside the top 50 of his age group, according to his club's local newspaper.",
+  "pt": "Até ao momento da publicação deste artigo, nenhuma fonte da organização ou da federação tinha divulgado vencedores gerais ou resultados completos, pelo que não são aqui reportados. Entre os concorrentes, José Antonio Ruiz, do CDA Puertollano, completou o percurso em 5 horas e 11 minutos, terminando entre os 50 primeiros do seu escalão etário, segundo o jornal local do seu clube.",
+  "es": "Hasta el momento de la publicación de este artículo, ninguna fuente de la organización ni de la federación había divulgado ganadores generales ni resultados completos, por lo que no se recogen aquí. Entre los participantes, José Antonio Ruiz, del CDA Puertollano, completó el recorrido en 5 horas y 11 minutos, terminando entre los 50 primeros de su grupo de edad, según el periódico local de su club.",
+  "fr": "Au moment de la rédaction, aucune source de l'organisation ni de la fédération n'avait publié de vainqueurs généraux ni de résultats complets, ils ne sont donc pas rapportés ici. Parmi les concurrents, José Antonio Ruiz, du CDA Puertollano, a terminé le parcours en 5 heures et 11 minutes, se classant parmi les 50 premiers de sa catégorie d'âge, selon le journal local de son club.",
+  "it": "Al momento della pubblicazione di questo articolo, nessuna fonte dell'organizzazione o della federazione aveva diffuso vincitori assoluti o risultati completi, che quindi non vengono riportati qui. Tra i concorrenti, José Antonio Ruiz del CDA Puertollano ha completato il percorso in 5 ore e 11 minuti, chiudendo tra i primi 50 della sua categoria di età, secondo il giornale locale del suo club."
+ },
+ "a39-stat": {
+  "en": "24 May 2026 · Llanes, Asturias · Campeonato de Asturias MD",
+  "pt": "24 de maio de 2026 · Llanes, Astúrias · Campeonato de Asturias MD",
+  "es": "24 de mayo de 2026 · Llanes, Asturias · Campeonato de Asturias MD",
+  "fr": "24 mai 2026 · Llanes, Asturies · Campeonato de Asturias MD",
+  "it": "24 maggio 2026 · Llanes, Asturie · Campeonato de Asturias MD"
+ },
+ "a39-inline2-credit": {
+  "en": "Photo: Nemi / Image Media",
+  "pt": "Foto: Nemi / Image Media",
+  "es": "Foto: Nemi / Image Media",
+  "fr": "Photo : Nemi / Image Media",
+  "it": "Foto: Nemi / Image Media"
+ },
+ "a39-p4": {
+  "en": "The Image Media coverage team at Tri100Llanes comprised Michael Rosa, Paulo Nomade, Eduardo Castro and Nemi.",
+  "pt": "A equipa de cobertura da Image Media no Tri100Llanes foi composta por Michael Rosa, Paulo Nomade, Eduardo Castro e Nemi.",
+  "es": "El equipo de cobertura de Image Media en Tri100Llanes estuvo compuesto por Michael Rosa, Paulo Nomade, Eduardo Castro y Nemi.",
+  "fr": "L'équipe de couverture d'Image Media au Tri100Llanes était composée de Michael Rosa, Paulo Nomade, Eduardo Castro et Nemi.",
+  "it": "Il team di copertura di Image Media al Tri100Llanes era composto da Michael Rosa, Paulo Nomade, Eduardo Castro e Nemi."
+ },
+ "a39-tagpill1": {
+  "en": "Tri100Llanes",
+  "pt": "Tri100Llanes",
+  "es": "Tri100Llanes",
+  "fr": "Tri100Llanes",
+  "it": "Tri100Llanes"
+ },
+ "a39-tagpill2": {
+  "en": "Llanes",
+  "pt": "Llanes",
+  "es": "Llanes",
+  "fr": "Llanes",
+  "it": "Llanes"
+ },
+ "a39-tagpill3": {
+  "en": "Triathlon",
+  "pt": "Triatlo",
+  "es": "Triatlón",
+  "fr": "Triathlon",
+  "it": "Triathlon"
+ },
+ "a39-related-title": {
+  "en": "More from Image Media",
+  "pt": "Mais da Image Media",
+  "es": "Más de Image Media",
+  "fr": "Plus d'Image Media",
+  "it": "Altro da Image Media"
+ },
+ "a39-related1-tag": {
+  "en": "Sports",
+  "pt": "Desporto",
+  "es": "Deportes",
+  "fr": "Sport",
+  "it": "Sport"
+ },
+ "a39-related1-title": {
+  "en": "See all Sports coverage",
+  "pt": "Ver toda a cobertura de Desporto",
+  "es": "Ver toda la cobertura de Deportes",
+  "fr": "Voir toute la couverture Sport",
+  "it": "Vedi tutta la copertura Sport"
+ },
+ "a39-related1-link": {
+  "en": "Visit section →",
+  "pt": "Visitar secção →",
+  "es": "Visitar sección →",
+  "fr": "Visiter la section →",
+  "it": "Visita la sezione →"
+ },
+ "a39-related2-tag": {
+  "en": "Image Media",
+  "pt": "Image Media",
+  "es": "Image Media",
+  "fr": "Image Media",
+  "it": "Image Media"
+ },
+ "a39-related2-title": {
+  "en": "How Image Media covers your event",
+  "pt": "Como a Image Media cobre o seu evento",
+  "es": "Cómo Image Media cubre tu evento",
+  "fr": "Comment Image Media couvre votre événement",
+  "it": "Come Image Media copre il tuo evento"
+ },
+ "a39-related2-link": {
+  "en": "Learn more →",
+  "pt": "Saber mais →",
+  "es": "Saber más →",
+  "fr": "En savoir plus →",
+  "it": "Scopri di più →"
+ },
+ "a39-related3-tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a39-related3-title": {
+  "en": "Valencia Throwdown Returns For Three Days Of CrossFit Competition Across Individual, Pairs And Trios",
+  "pt": "Valencia Throwdown Regressa Com Três Dias De Competição De CrossFit Entre Individual, Duplas E Trios",
+  "es": "Valencia Throwdown Regresa Con Tres Días De Competición De CrossFit Entre Individual, Parejas Y Tríos",
+  "fr": "Le Valencia Throwdown Revient Pour Trois Jours De Compétition De CrossFit Entre Individuel, Duos Et Trios",
+  "it": "Il Valencia Throwdown Torna Con Tre Giorni Di Competizione CrossFit Tra Individuale, Coppie E Trii"
+ },
+ "a39-related3-link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
+ "card-s34__field__tag": {
+  "en": "Triathlon",
+  "pt": "Triatlo",
+  "es": "Triatlón",
+  "fr": "Triathlon",
+  "it": "Triathlon"
+ },
+ "card-s34__field__title": {
+  "en": "Tri100Llanes Debuts As Asturias Championship With 100km Coastal Triathlon Through Llanes",
+  "pt": "Tri100Llanes Estreia-Se Como Campeonato Das Astúrias Com Triatlo Costeiro De 100km Em Llanes",
+  "es": "Tri100Llanes Debuta Como Campeonato De Asturias Con Triatlón Costero De 100km En Llanes",
+  "fr": "Le Tri100Llanes Fait Ses Débuts Comme Championnat Des Asturies Avec Un Triathlon Côtier De 100km À Llanes",
+  "it": "Il Tri100Llanes Debutta Come Campionato Delle Asturie Con Un Triathlon Costiero Di 100km A Llanes"
+ },
+ "card-s34__field__deck": {
+  "en": "The inaugural Tri100Llanes combined a Cantabrian Sea swim, an 80km bike leg and an 18km four-lap run through Llanes on 24 May, doubling as the 2026 Campeonato de Asturias de Triatlón in the Media Distancia category.",
+  "pt": "O primeiro Tri100Llanes combinou natação no Mar Cantábrico, um percurso de 80km de bicicleta e uma corrida de 18km em quatro voltas por Llanes, a 24 de maio, servindo também como Campeonato das Astúrias de Triatlo de 2026, na categoria Media Distancia.",
+  "es": "El primer Tri100Llanes combinó natación en el Mar Cantábrico, un tramo de 80km en bicicleta y una carrera de 18km en cuatro vueltas por Llanes, el 24 de mayo, sirviendo también como Campeonato de Asturias de Triatlón 2026, en la categoría Media Distancia.",
+  "fr": "Le premier Tri100Llanes a combiné une natation dans la mer Cantabrique, un parcours vélo de 80km et une course à pied de 18km en quatre boucles à travers Llanes, le 24 mai, servant aussi de Championnat des Asturies de Triathlon 2026, dans la catégorie Media Distancia.",
+  "it": "Il primo Tri100Llanes ha combinato un nuoto nel Mar Cantabrico, una frazione di 80km in bicicletta e una corsa di 18km su quattro giri per Llanes, il 24 maggio, fungendo anche da Campionato delle Asturie di Triathlon 2026, nella categoria Media Distancia."
+ },
+ "card-s34__field__meta": {
+  "en": "Image Media coverage",
+  "pt": "Cobertura Image Media",
+  "es": "Cobertura de Image Media",
+  "fr": "Couverture Image Media",
+  "it": "Copertura Image Media"
+ },
+ "card-s34__field__link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
  "card-s33__field__tag": {
   "en": "Functional",
   "pt": "Funcional",
