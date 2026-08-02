@@ -9180,6 +9180,209 @@ window.IM_I18N = {
   "fr": "Lire plus →",
   "it": "Leggi di più →"
  },
+ "a43-tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a43-title": {
+  "en": "AVYNT Hybrid Arena Hosts II Avynt Hyrox Simulation With 190 Registered In Vila Nova De Gaia",
+  "pt": "AVYNT Hybrid Arena Recebe II Avynt Hyrox Simulation Com 190 Inscritos Em Vila Nova De Gaia",
+  "es": "AVYNT Hybrid Arena Acoge La II Avynt Hyrox Simulation Con 190 Inscritos En Vila Nova De Gaia",
+  "fr": "AVYNT Hybrid Arena Accueille La II Avynt Hyrox Simulation Avec 190 Inscrits À Vila Nova De Gaia",
+  "it": "AVYNT Hybrid Arena Ospita La II Avynt Hyrox Simulation Con 190 Iscritti A Vila Nova De Gaia"
+ },
+ "a43-deck": {
+  "en": "AVYNT Hybrid Arena staged the II Avynt Hyrox Simulation on 30 May 2026, the venue's second Hyrox-style stage after February's AVYNT League opener, with 190 registered competitors working through sandbag carries, sled pushes and rowing stations in Vila Nova de Gaia.",
+  "pt": "A AVYNT Hybrid Arena organizou a II Avynt Hyrox Simulation a 30 de maio de 2026, a segunda etapa em estilo Hyrox do espaço após a estreia da AVYNT League em fevereiro, com 190 competidores inscritos a percorrerem estações de transporte de sacos de areia, empurrar de trenó e remo em Vila Nova de Gaia.",
+  "es": "AVYNT Hybrid Arena organizó la II Avynt Hyrox Simulation el 30 de mayo de 2026, la segunda etapa de estilo Hyrox del centro tras el estreno de la AVYNT League en febrero, con 190 competidores inscritos superando estaciones de transporte de sacos de arena, empuje de trineo y remo en Vila Nova de Gaia.",
+  "fr": "AVYNT Hybrid Arena a organisé la II Avynt Hyrox Simulation le 30 mai 2026, la deuxième étape de style Hyrox de la salle après l'ouverture de l'AVYNT League en février, avec 190 concurrents inscrits enchaînant portage de sacs de sable, poussée de traîneau et ateliers de rame à Vila Nova de Gaia.",
+  "it": "AVYNT Hybrid Arena ha organizzato la II Avynt Hyrox Simulation il 30 maggio 2026, la seconda tappa in stile Hyrox della struttura dopo l'apertura dell'AVYNT League a febbraio, con 190 concorrenti iscritti impegnati in stazioni di trasporto sacchi di sabbia, spinta dello slittino e canottaggio a Vila Nova de Gaia."
+ },
+ "a43-byline": {
+  "en": "By Image Media News Staff — Vila Nova de Gaia, Portugal",
+  "pt": "Por Equipa Image Media News — Vila Nova de Gaia, Portugal",
+  "es": "Por el Equipo de Image Media News — Vila Nova de Gaia, Portugal",
+  "fr": "Par l'équipe d'Image Media News — Vila Nova de Gaia, Portugal",
+  "it": "A cura del team di Image Media News — Vila Nova de Gaia, Portogallo"
+ },
+ "a43-hero-credit": {
+  "en": "Photo: Paulo Nomade / Image Media",
+  "pt": "Foto: Paulo Nomade / Image Media",
+  "es": "Foto: Paulo Nomade / Image Media",
+  "fr": "Photo : Paulo Nomade / Image Media",
+  "it": "Foto: Paulo Nomade / Image Media"
+ },
+ "a43-p1": {
+  "en": "AVYNT Hybrid Arena, the hybrid-training gym in Vila Nova de Gaia, staged the II Avynt Hyrox Simulation on Saturday 30 May 2026, with event coverage by the Image Media team. Organisers recorded 190 registrations for the event, which followed the venue's Hyrox-style AVYNT League opening stage in February, again pairing hybrid-endurance work with a run of strength stations built around the Hyrox simulation format.",
+  "pt": "A AVYNT Hybrid Arena, o ginásio de treino híbrido em Vila Nova de Gaia, organizou a II Avynt Hyrox Simulation no sábado, 30 de maio de 2026, com cobertura do evento pela equipa da Image Media. Os organizadores registaram 190 inscrições para o evento, que se seguiu à etapa de abertura da AVYNT League em estilo Hyrox, em fevereiro, voltando a combinar trabalho de resistência híbrida com uma sequência de estações de força construídas em torno do formato de simulação Hyrox.",
+  "es": "AVYNT Hybrid Arena, el gimnasio de entrenamiento híbrido en Vila Nova de Gaia, organizó la II Avynt Hyrox Simulation el sábado 30 de mayo de 2026, con cobertura del evento por parte del equipo de Image Media. Los organizadores registraron 190 inscripciones para el evento, que llegó tras la etapa de apertura de la AVYNT League de estilo Hyrox en febrero, combinando de nuevo trabajo de resistencia híbrida con una serie de estaciones de fuerza construidas en torno al formato de simulación Hyrox.",
+  "fr": "AVYNT Hybrid Arena, la salle d'entraînement hybride de Vila Nova de Gaia, a organisé la II Avynt Hyrox Simulation le samedi 30 mai 2026, avec une couverture de l'événement par l'équipe d'Image Media. Les organisateurs ont enregistré 190 inscriptions pour cet événement, qui a suivi l'étape d'ouverture de style Hyrox de l'AVYNT League en février, associant à nouveau travail d'endurance hybride et une série d'ateliers de force construits autour du format de simulation Hyrox.",
+  "it": "AVYNT Hybrid Arena, la palestra di allenamento ibrido di Vila Nova de Gaia, ha organizzato la II Avynt Hyrox Simulation sabato 30 maggio 2026, con la copertura dell'evento a cura del team di Image Media. Gli organizzatori hanno registrato 190 iscrizioni per l'evento, che ha fatto seguito alla tappa di apertura in stile Hyrox dell'AVYNT League a febbraio, abbinando ancora una volta il lavoro di resistenza ibrida a una serie di stazioni di forza costruite attorno al formato di simulazione Hyrox."
+ },
+ "a43-inline1-credit": {
+  "en": "Photo: Nemi / Image Media",
+  "pt": "Foto: Nemi / Image Media",
+  "es": "Foto: Nemi / Image Media",
+  "fr": "Photo : Nemi / Image Media",
+  "it": "Foto: Nemi / Image Media"
+ },
+ "a43-p2": {
+  "en": "Competitors moved between stations including sandbag carries, sled pushes and rowing under a crowd of spectators gathered along the arena floor, with the format again built and run by AVYNT Hybrid Arena in the same Hyrox-inspired simulation style as February's opening stage.",
+  "pt": "Os competidores passaram por estações que incluíam transporte de sacos de areia, empurrar de trenó e remo, sob o olhar de uma plateia reunida junto ao piso da arena, com o formato novamente concebido e conduzido pela AVYNT Hybrid Arena no mesmo estilo de simulação inspirado no Hyrox da etapa de abertura em fevereiro.",
+  "es": "Los competidores pasaron por estaciones que incluían transporte de sacos de arena, empuje de trineo y remo, ante un público reunido junto a la pista de la arena, con el formato de nuevo diseñado y dirigido por AVYNT Hybrid Arena en el mismo estilo de simulación inspirado en Hyrox que la etapa de apertura de febrero.",
+  "fr": "Les concurrents sont passés par des ateliers incluant portage de sacs de sable, poussée de traîneau et rame, sous le regard d'un public rassemblé au bord de l'arène, le format étant à nouveau conçu et animé par AVYNT Hybrid Arena dans le même style de simulation inspiré du Hyrox que l'étape d'ouverture de février.",
+  "it": "I concorrenti si sono alternati tra stazioni che includevano trasporto di sacchi di sabbia, spinta dello slittino e canottaggio, davanti a un pubblico riunito a bordo arena, con il formato nuovamente ideato e gestito da AVYNT Hybrid Arena nello stesso stile di simulazione ispirato all'Hyrox della tappa di apertura di febbraio."
+ },
+ "a43-stat": {
+  "en": "30 May 2026 · Vila Nova de Gaia · II Avynt Hyrox Simulation · 190 registered",
+  "pt": "30 de maio de 2026 · Vila Nova de Gaia · II Avynt Hyrox Simulation · 190 inscritos",
+  "es": "30 de mayo de 2026 · Vila Nova de Gaia · II Avynt Hyrox Simulation · 190 inscritos",
+  "fr": "30 mai 2026 · Vila Nova de Gaia · II Avynt Hyrox Simulation · 190 inscrits",
+  "it": "30 maggio 2026 · Vila Nova de Gaia · II Avynt Hyrox Simulation · 190 iscritti"
+ },
+ "a43-inline2-credit": {
+  "en": "Photo: Nemi / Image Media",
+  "pt": "Foto: Nemi / Image Media",
+  "es": "Foto: Nemi / Image Media",
+  "fr": "Photo : Nemi / Image Media",
+  "it": "Foto: Nemi / Image Media"
+ },
+ "a43-p3": {
+  "en": "The Image Media coverage team at the II Avynt Hyrox Simulation comprised Nemi, Luanne Oliveira, Luciano Inocencio, Eduardo Pereira and Pedro Oliveira.",
+  "pt": "A equipa de cobertura da Image Media na II Avynt Hyrox Simulation foi composta por Nemi, Luanne Oliveira, Luciano Inocencio, Eduardo Pereira e Pedro Oliveira.",
+  "es": "El equipo de cobertura de Image Media en la II Avynt Hyrox Simulation estuvo compuesto por Nemi, Luanne Oliveira, Luciano Inocencio, Eduardo Pereira y Pedro Oliveira.",
+  "fr": "L'équipe de couverture d'Image Media à la II Avynt Hyrox Simulation était composée de Nemi, Luanne Oliveira, Luciano Inocencio, Eduardo Pereira et Pedro Oliveira.",
+  "it": "Il team di copertura di Image Media alla II Avynt Hyrox Simulation era composto da Nemi, Luanne Oliveira, Luciano Inocencio, Eduardo Pereira e Pedro Oliveira."
+ },
+ "a43-tagpill1": {
+  "en": "Avynt Hyrox Simulation",
+  "pt": "Avynt Hyrox Simulation",
+  "es": "Avynt Hyrox Simulation",
+  "fr": "Avynt Hyrox Simulation",
+  "it": "Avynt Hyrox Simulation"
+ },
+ "a43-tagpill2": {
+  "en": "Vila Nova de Gaia",
+  "pt": "Vila Nova de Gaia",
+  "es": "Vila Nova de Gaia",
+  "fr": "Vila Nova de Gaia",
+  "it": "Vila Nova de Gaia"
+ },
+ "a43-tagpill3": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a43-related-title": {
+  "en": "More from Image Media",
+  "pt": "Mais da Image Media",
+  "es": "Más de Image Media",
+  "fr": "Plus d'Image Media",
+  "it": "Altro da Image Media"
+ },
+ "a43-related1-tag": {
+  "en": "Sports",
+  "pt": "Desporto",
+  "es": "Deportes",
+  "fr": "Sport",
+  "it": "Sport"
+ },
+ "a43-related1-title": {
+  "en": "See all Sports coverage",
+  "pt": "Ver toda a cobertura de Desporto",
+  "es": "Ver toda la cobertura de Deportes",
+  "fr": "Voir toute la couverture Sport",
+  "it": "Vedi tutta la copertura Sport"
+ },
+ "a43-related1-link": {
+  "en": "Visit section →",
+  "pt": "Visitar secção →",
+  "es": "Visitar sección →",
+  "fr": "Visiter la section →",
+  "it": "Visita la sezione →"
+ },
+ "a43-related2-tag": {
+  "en": "Image Media",
+  "pt": "Image Media",
+  "es": "Image Media",
+  "fr": "Image Media",
+  "it": "Image Media"
+ },
+ "a43-related2-title": {
+  "en": "How Image Media covers your event",
+  "pt": "Como a Image Media cobre o seu evento",
+  "es": "Cómo Image Media cubre tu evento",
+  "fr": "Comment Image Media couvre votre événement",
+  "it": "Come Image Media copre il tuo evento"
+ },
+ "a43-related2-link": {
+  "en": "Learn more →",
+  "pt": "Saber mais →",
+  "es": "Saber más →",
+  "fr": "En savoir plus →",
+  "it": "Scopri di più →"
+ },
+ "a43-related3-tag": {
+  "en": "Cycling",
+  "pt": "Ciclismo",
+  "es": "Ciclismo",
+  "fr": "Cyclisme",
+  "it": "Ciclismo"
+ },
+ "a43-related3-title": {
+  "en": "Sergio Samitier Heads Third Edition Of La Magia Del Grial As Nearly 700 Cyclists Take On Huesca's Sierra De Guara",
+  "pt": "Sergio Samitier Lidera Terceira Edição De La Magia Del Grial Com Quase 700 Ciclistas A Enfrentar A Sierra De Guara Em Huesca",
+  "es": "Sergio Samitier Encabeza La Tercera Edición De La Magia Del Grial Con Casi 700 Ciclistas Ante La Sierra De Guara En Huesca",
+  "fr": "Sergio Samitier En Tête De La Troisième Édition De La Magia Del Grial Avec Près De 700 Cyclistes Affrontant La Sierra De Guara À Huesca",
+  "it": "Sergio Samitier Guida La Terza Edizione Di La Magia Del Grial Con Quasi 700 Ciclisti Alla Sierra De Guara Di Huesca"
+ },
+ "a43-related3-link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
+ "card-s38__field__tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "card-s38__field__title": {
+  "en": "AVYNT Hybrid Arena Hosts II Avynt Hyrox Simulation With 190 Registered In Vila Nova De Gaia",
+  "pt": "AVYNT Hybrid Arena Recebe II Avynt Hyrox Simulation Com 190 Inscritos Em Vila Nova De Gaia",
+  "es": "AVYNT Hybrid Arena Acoge La II Avynt Hyrox Simulation Con 190 Inscritos En Vila Nova De Gaia",
+  "fr": "AVYNT Hybrid Arena Accueille La II Avynt Hyrox Simulation Avec 190 Inscrits À Vila Nova De Gaia",
+  "it": "AVYNT Hybrid Arena Ospita La II Avynt Hyrox Simulation Con 190 Iscritti A Vila Nova De Gaia"
+ },
+ "card-s38__field__deck": {
+  "en": "AVYNT Hybrid Arena staged the II Avynt Hyrox Simulation on 30 May 2026, the venue's second Hyrox-style stage after February's AVYNT League opener, with 190 registered competitors working through sandbag carries, sled pushes and rowing stations in Vila Nova de Gaia.",
+  "pt": "A AVYNT Hybrid Arena organizou a II Avynt Hyrox Simulation a 30 de maio de 2026, a segunda etapa em estilo Hyrox do espaço após a estreia da AVYNT League em fevereiro, com 190 competidores inscritos a percorrerem estações de transporte de sacos de areia, empurrar de trenó e remo em Vila Nova de Gaia.",
+  "es": "AVYNT Hybrid Arena organizó la II Avynt Hyrox Simulation el 30 de mayo de 2026, la segunda etapa de estilo Hyrox del centro tras el estreno de la AVYNT League en febrero, con 190 competidores inscritos superando estaciones de transporte de sacos de arena, empuje de trineo y remo en Vila Nova de Gaia.",
+  "fr": "AVYNT Hybrid Arena a organisé la II Avynt Hyrox Simulation le 30 mai 2026, la deuxième étape de style Hyrox de la salle après l'ouverture de l'AVYNT League en février, avec 190 concurrents inscrits enchaînant portage de sacs de sable, poussée de traîneau et ateliers de rame à Vila Nova de Gaia.",
+  "it": "AVYNT Hybrid Arena ha organizzato la II Avynt Hyrox Simulation il 30 maggio 2026, la seconda tappa in stile Hyrox della struttura dopo l'apertura dell'AVYNT League a febbraio, con 190 concorrenti iscritti impegnati in stazioni di trasporto sacchi di sabbia, spinta dello slittino e canottaggio a Vila Nova de Gaia."
+ },
+ "card-s38__field__meta": {
+  "en": "Image Media coverage",
+  "pt": "Cobertura Image Media",
+  "es": "Cobertura de Image Media",
+  "fr": "Couverture Image Media",
+  "it": "Copertura Image Media"
+ },
+ "card-s38__field__link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
  },
  "chrome": {
   "nav.home": {
