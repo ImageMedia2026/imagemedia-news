@@ -15,39 +15,39 @@ window.IM_I18N = {
  "default": "en",
  "content": {
   "home-breaking-text": {
-   "en": "Gran Fondo València draws over 2,600 cyclists from 24 countries for the XXI edition — full story inside.",
-   "pt": "Gran Fondo València reúne mais de 2.600 ciclistas de 24 países na XXI edição — história completa lá dentro.",
-   "es": "El Gran Fondo València reúne a más de 2.600 ciclistas de 24 países en su XXI edición — historia completa dentro.",
-   "fr": "Le Gran Fondo València réunit plus de 2 600 cyclistes de 24 pays pour sa XXIe édition — l’histoire complète à l’intérieur.",
-   "it": "Il Gran Fondo València riunisce oltre 2.600 ciclisti da 24 paesi per la XXI edizione — la storia completa all’interno."
+   "en": "AVYNT Hybrid Arena hosts III Avynt Hyrox Simulation with full registration in Vila Nova de Gaia — full story inside.",
+   "pt": "AVYNT Hybrid Arena recebe a III Avynt Hyrox Simulation com inscrições esgotadas em Vila Nova de Gaia — história completa lá dentro.",
+   "es": "AVYNT Hybrid Arena acoge la III Avynt Hyrox Simulation con inscripciones agotadas en Vila Nova de Gaia — historia completa dentro.",
+   "fr": "AVYNT Hybrid Arena accueille la III Avynt Hyrox Simulation à guichets fermés à Vila Nova de Gaia — l'histoire complète à l'intérieur.",
+   "it": "AVYNT Hybrid Arena ospita la III Avynt Hyrox Simulation con iscrizioni esaurite a Vila Nova de Gaia — la storia completa all'interno."
   },
   "home-hero-tag": {
-   "en": "Cycling",
-   "pt": "Ciclismo",
-   "es": "Ciclismo",
-   "fr": "Cyclisme",
-   "it": "Ciclismo"
+   "en": "Functional",
+   "pt": "Funcional",
+   "es": "Funcional",
+   "fr": "Fonctionnel",
+   "it": "Funzionale"
   },
   "home-hero-title": {
-   "en": "Gran Fondo València Returns For XXI Edition With Over 2,600 Cyclists From 24 Countries",
-   "pt": "Gran Fondo València Regressa Para a XXI Edição Com Mais de 2.600 Ciclistas de 24 Países",
-   "es": "Gran Fondo València Regresa En Su XXI Edición Con Más de 2.600 Ciclistas de 24 Países",
-   "fr": "Le Gran Fondo València Est De Retour Pour Sa XXIe Édition Avec Plus de 2 600 Cyclistes de 24 Pays",
-   "it": "Il Gran Fondo València Torna Per La XXI Edizione Con Oltre 2.600 Ciclisti Da 24 Paesi"
+   "en": "AVYNT Hybrid Arena Hosts III Avynt Hyrox Simulation With Full Registration In Vila Nova De Gaia",
+   "pt": "AVYNT Hybrid Arena Recebe III Avynt Hyrox Simulation Com Inscrições Esgotadas Em Vila Nova De Gaia",
+   "es": "AVYNT Hybrid Arena Acoge La III Avynt Hyrox Simulation Con Inscripciones Agotadas En Vila Nova De Gaia",
+   "fr": "AVYNT Hybrid Arena Accueille La III Avynt Hyrox Simulation À Guichets Fermés À Vila Nova De Gaia",
+   "it": "AVYNT Hybrid Arena Ospita La III Avynt Hyrox Simulation Con Iscrizioni Esaurite A Vila Nova De Gaia"
   },
   "home-hero-deck": {
-   "en": "The Santander-backed cyclosportive brought two routes of up to 177 kilometres through 28 municipalities of the Comunitat Valenciana on 2 May 2026, with event coverage by the Image Media team.",
-   "pt": "A cicloturista, com o patrocínio do Santander, levou dois percursos de até 177 quilómetros por 28 municípios da Comunitat Valenciana em 2 de maio de 2026, com cobertura do evento pela equipa da Image Media.",
-   "es": "La marcha cicloturista, patrocinada por Santander, llevó dos recorridos de hasta 177 kilómetros por 28 municipios de la Comunitat Valenciana el 2 de mayo de 2026, con cobertura del evento a cargo del equipo de Image Media.",
-   "fr": "La cyclosportive, sponsorisée par Santander, a proposé deux parcours allant jusqu'à 177 kilomètres à travers 28 communes de la Communauté valencienne le 2 mai 2026, avec une couverture de l'événement assurée par l'équipe d'Image Media.",
-   "it": "La granfondo, sponsorizzata da Santander, ha proposto due percorsi fino a 177 chilometri attraverso 28 comuni della Comunità Valenzana il 2 maggio 2026, con la copertura dell'evento affidata al team di Image Media."
+   "en": "AVYNT Hybrid Arena staged the III Avynt Hyrox Simulation on 1 August 2026, the third AVYNT League stage of the year, with a sold-out field working through an 8km run and eight strength stations in Vila Nova de Gaia.",
+   "pt": "A AVYNT Hybrid Arena organizou a III Avynt Hyrox Simulation a 1 de agosto de 2026, a terceira etapa da AVYNT League do ano, com inscrições esgotadas a percorrerem 8 km de corrida e oito estações de força em Vila Nova de Gaia.",
+   "es": "AVYNT Hybrid Arena organizó la III Avynt Hyrox Simulation el 1 de agosto de 2026, la tercera etapa de la AVYNT League del año, con inscripciones agotadas superando 8 km de carrera y ocho estaciones de fuerza en Vila Nova de Gaia.",
+   "fr": "AVYNT Hybrid Arena a organisé la III Avynt Hyrox Simulation le 1er août 2026, la troisième étape de l'AVYNT League de l'année, avec un plateau complet enchaînant 8 km de course et huit ateliers de force à Vila Nova de Gaia.",
+   "it": "AVYNT Hybrid Arena ha organizzato la III Avynt Hyrox Simulation il 1° agosto 2026, la terza tappa dell'AVYNT League dell'anno, con iscrizioni esaurite impegnate in 8 km di corsa e otto stazioni di forza a Vila Nova de Gaia."
   },
   "home-hero-byline": {
-   "en": "By Image Media News Staff — Valencia, Spain",
-   "pt": "Por Image Media News Staff — Valência, Espanha",
-   "es": "Por Image Media News Staff — Valencia, España",
-   "fr": "Par Image Media News Staff — Valence, Espagne",
-   "it": "Di Image Media News Staff — Valencia, Spagna"
+   "en": "By Image Media News Staff — Vila Nova de Gaia, Portugal",
+   "pt": "Por Equipa Image Media News — Vila Nova de Gaia, Portugal",
+   "es": "Por el Equipo de Image Media News — Vila Nova de Gaia, Portugal",
+   "fr": "Par l'équipe d'Image Media News — Vila Nova de Gaia, Portugal",
+   "it": "A cura del team di Image Media News — Vila Nova de Gaia, Portogallo"
   },
   "home-topstories-title": {
    "en": "Top Stories",
