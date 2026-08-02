@@ -7451,6 +7451,223 @@ window.IM_I18N = {
   "fr": "Lire plus →",
   "it": "Leggi di più →"
  },
+ "a36-tag": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "a36-title": {
+  "en": "Cursa Ciutat De Vilanova Adds A Mile Race For 13th Edition Of Its Flat Seafront 10K And 5K",
+  "pt": "Cursa Ciutat De Vilanova Acrescenta Prova De Milha À 13.ª Edição Do Seu 10K E 5K Junto Ao Mar",
+  "es": "La Cursa Ciutat De Vilanova Añade Una Prueba De Milla En Su 13.ª Edición De 10K Y 5K Junto Al Mar",
+  "fr": "La Cursa Ciutat De Vilanova Ajoute Une Course Du Mile Pour La 13e Édition De Son 10 Km Et 5 Km En Bord De Mer",
+  "it": "La Cursa Ciutat De Vilanova Aggiunge Una Gara Sul Miglio Per La 13ª Edizione Della Sua 10K E 5K Sul Lungomare"
+ },
+ "a36-deck": {
+  "en": "Runners took on the 10km, 5km and a newly added Mile Obert along Vilanova i la Geltrú's Passeig Marítim on 17 May 2026, with a Children's 800m and the Audi Vilamobil grand prize rounding out the event.",
+  "pt": "Os corredores enfrentaram os 10 km, os 5 km e a nova prova Mile Obert ao longo do Passeig Marítim de Vilanova i la Geltrú, a 17 de maio de 2026, com uma prova infantil de 800 m e o grande prémio Audi Vilamobil a completar o evento.",
+  "es": "Los corredores afrontaron los 10 km, los 5 km y la nueva prueba Mile Obert por el Passeig Marítim de Vilanova i la Geltrú el 17 de mayo de 2026, con una prueba infantil de 800 m y el gran premio Audi Vilamobil completando el evento.",
+  "fr": "Les coureurs se sont élancés sur les 10 km, les 5 km et la nouvelle course Mile Obert le long du Passeig Marítim de Vilanova i la Geltrú le 17 mai 2026, complétés par une course enfants de 800 m et le grand prix Audi Vilamobil.",
+  "it": "I corridori hanno affrontato i 10 km, i 5 km e la nuova gara Mile Obert lungo il Passeig Marítim di Vilanova i la Geltrú il 17 maggio 2026, con una gara per bambini di 800 m e il gran premio Audi Vilamobil a completare l'evento."
+ },
+ "a36-byline": {
+  "en": "By Image Media News Staff — Vilanova i la Geltrú, Spain",
+  "pt": "Por Image Media News Staff — Vilanova i la Geltrú, Espanha",
+  "es": "Por Image Media News Staff — Vilanova i la Geltrú, España",
+  "fr": "Par Image Media News Staff — Vilanova i la Geltrú, Espagne",
+  "it": "Di Image Media News Staff — Vilanova i la Geltrú, Spagna"
+ },
+ "a36-hero-credit": {
+  "en": "Photo: Frank Eggers / Image Media",
+  "pt": "Foto: Frank Eggers / Image Media",
+  "es": "Foto: Frank Eggers / Image Media",
+  "fr": "Photo : Frank Eggers / Image Media",
+  "it": "Foto: Frank Eggers / Image Media"
+ },
+ "a36-p1": {
+  "en": "The Cursa Ciutat de Vilanova took place on Sunday 17 May 2026 in Vilanova i la Geltrú, Barcelona province, with event coverage by the Image Media team. The event was organised by Club Atletisme Atletesvng.org and staged its 13th edition of the 10km race, 11th edition of the 5km, 8th edition of the Children's 800m and, new for 2026, the 1st edition of a Mile Obert race.",
+  "pt": "A Cursa Ciutat de Vilanova disputou-se no domingo, 17 de maio de 2026, em Vilanova i la Geltrú, província de Barcelona, com cobertura do evento pela equipa da Image Media. O evento foi organizado pelo Club Atletisme Atletesvng.org e teve a sua 13.ª edição da prova de 10 km, 11.ª edição da prova de 5 km, 8.ª edição da prova infantil de 800 m e, nova em 2026, a 1.ª edição de uma prova Mile Obert.",
+  "es": "La Cursa Ciutat de Vilanova se disputó el domingo 17 de mayo de 2026 en Vilanova i la Geltrú, provincia de Barcelona, con cobertura del evento por parte del equipo de Image Media. El evento fue organizado por el Club Atletisme Atletesvng.org y celebró su 13.ª edición de la prueba de 10 km, 11.ª edición de la de 5 km, 8.ª edición de la prueba infantil de 800 m y, nueva en 2026, la 1.ª edición de una prueba Mile Obert.",
+  "fr": "La Cursa Ciutat de Vilanova s'est déroulée le dimanche 17 mai 2026 à Vilanova i la Geltrú, dans la province de Barcelone, avec une couverture de l'événement par l'équipe d'Image Media. L'événement a été organisé par le Club Atletisme Atletesvng.org et a connu sa 13e édition de l'épreuve du 10 km, sa 11e édition du 5 km, sa 8e édition de la course enfants de 800 m et, nouveauté en 2026, la 1re édition d'une course Mile Obert.",
+  "it": "La Cursa Ciutat de Vilanova si è svolta domenica 17 maggio 2026 a Vilanova i la Geltrú, provincia di Barcellona, con copertura dell'evento da parte del team di Image Media. L'evento è stato organizzato dal Club Atletisme Atletesvng.org e ha visto la sua 13ª edizione della gara sui 10 km, l'11ª edizione dei 5 km, l'8ª edizione della gara per bambini di 800 m e, novità del 2026, la 1ª edizione di una gara Mile Obert."
+ },
+ "a36-p2": {
+  "en": "The 10km and 5km races, both homologated by the Catalan Athletics Federation, started together at 9:00am from the Passeig Marítim on the straight by Plaça del Port, running a flat, largely traffic-free circuit along the seafront promenade and around the Rambla del Port. The Mile Obert, homologated by the Spanish Athletics Federation (RFEA), followed at 11:00am, with the Children's 800m closing the morning at 11:30am. A water station was set up at the 5km mark, with showers, a cloakroom service and pacers available on race day.",
+  "pt": "As provas de 10 km e 5 km, ambas homologadas pela Federació Catalana d'Atletisme, arrancaram juntas às 9h00 a partir do Passeig Marítim, na reta junto à Plaça del Port, percorrendo um circuito plano e maioritariamente livre de trânsito ao longo do passeio marítimo e em torno da Rambla del Port. A Mile Obert, homologada pela Real Federación Española de Atletismo (RFEA), seguiu-se às 11h00, com a prova infantil de 800 m a encerrar a manhã às 11h30. Foi montado um posto de água ao quilómetro 5, com duches, guarda-roupa e pacers disponíveis no dia da prova.",
+  "es": "Las pruebas de 10 km y 5 km, ambas homologadas por la Federació Catalana d'Atletisme, salieron juntas a las 9:00 desde el Passeig Marítim, en la recta junto a la Plaça del Port, recorriendo un circuito llano y mayoritariamente libre de tráfico por el paseo marítimo y alrededor de la Rambla del Port. La Mile Obert, homologada por la Real Federación Española de Atletismo (RFEA), salió a las 11:00, con la prueba infantil de 800 m cerrando la mañana a las 11:30. Se instaló un avituallamiento de agua en el kilómetro 5, con duchas, guardarropa y liebres disponibles el día de la carrera.",
+  "fr": "Les courses du 10 km et du 5 km, toutes deux homologuées par la Fédération catalane d'athlétisme, sont parties ensemble à 9h00 depuis le Passeig Marítim, sur la ligne droite près de la Plaça del Port, empruntant un circuit plat et largement fermé à la circulation le long de la promenade en bord de mer et autour de la Rambla del Port. Le Mile Obert, homologué par la Fédération royale espagnole d'athlétisme (RFEA), a suivi à 11h00, la course enfants de 800 m clôturant la matinée à 11h30. Un ravitaillement en eau était installé au 5e kilomètre, avec douches, vestiaire et lièvres disponibles le jour de la course.",
+  "it": "Le gare dei 10 km e dei 5 km, entrambe omologate dalla Federazione Catalana di Atletica, sono partite insieme alle 9:00 dal Passeig Marítim, sul rettilineo vicino a Plaça del Port, lungo un circuito pianeggiante e in gran parte chiuso al traffico sul lungomare e intorno alla Rambla del Port. La Mile Obert, omologata dalla Federazione Spagnola di Atletica (RFEA), è seguita alle 11:00, con la gara per bambini di 800 m a chiudere la mattinata alle 11:30. Un punto di ristoro con acqua è stato allestito al km 5, con docce, guardaroba e lepri disponibili il giorno della gara."
+ },
+ "a36-inline1-credit": {
+  "en": "Photo: José Ramón Moreno / Image Media",
+  "pt": "Foto: José Ramón Moreno / Image Media",
+  "es": "Foto: José Ramón Moreno / Image Media",
+  "fr": "Photo : José Ramón Moreno / Image Media",
+  "it": "Foto: José Ramón Moreno / Image Media"
+ },
+ "a36-p3": {
+  "en": "Registration was capped at 700 runners for the 10km and 400 for the 5km, with entry priced at €18 for either distance. The course record stands at 29'46\" for men (Xavier Badia, 2023) and 33'46\" for women (Meritxell Soler, 2023) over 10km, and 14'45\" for men (Marc Fernández, 2025) and 16'31\" for women (Elia Saura, 2025) over 5km.",
+  "pt": "As inscrições ficaram limitadas a 700 corredores nos 10 km e 400 nos 5 km, com uma taxa de inscrição de 18€ para qualquer uma das distâncias. O recorde do percurso está em 29'46\" em masculinos (Xavier Badia, 2023) e 33'46\" em femininos (Meritxell Soler, 2023) nos 10 km, e em 14'45\" em masculinos (Marc Fernández, 2025) e 16'31\" em femininos (Elia Saura, 2025) nos 5 km.",
+  "es": "Las inscripciones se limitaron a 700 corredores en los 10 km y 400 en los 5 km, con una cuota de inscripción de 18€ para cualquiera de las dos distancias. El récord del circuito se sitúa en 29'46\" en categoría masculina (Xavier Badia, 2023) y 33'46\" en femenina (Meritxell Soler, 2023) en los 10 km, y en 14'45\" en masculina (Marc Fernández, 2025) y 16'31\" en femenina (Elia Saura, 2025) en los 5 km.",
+  "fr": "Les inscriptions étaient limitées à 700 coureurs pour le 10 km et 400 pour le 5 km, avec des frais d'inscription de 18€ pour l'une ou l'autre distance. Le record du parcours s'établit à 29'46\" chez les hommes (Xavier Badia, 2023) et 33'46\" chez les femmes (Meritxell Soler, 2023) sur 10 km, et à 14'45\" chez les hommes (Marc Fernández, 2025) et 16'31\" chez les femmes (Elia Saura, 2025) sur 5 km.",
+  "it": "Le iscrizioni erano limitate a 700 corridori per i 10 km e 400 per i 5 km, con una quota di iscrizione di 18€ per entrambe le distanze. Il record del percorso è di 29'46\" per gli uomini (Xavier Badia, 2023) e 33'46\" per le donne (Meritxell Soler, 2023) sui 10 km, e di 14'45\" per gli uomini (Marc Fernández, 2025) e 16'31\" per le donne (Elia Saura, 2025) sui 5 km."
+ },
+ "a36-stat": {
+  "en": "17 May 2026 · Passeig Marítim, Vilanova i la Geltrú · 10km / 5km / 1 Mile · XIII edition",
+  "pt": "17 de maio de 2026 · Passeig Marítim, Vilanova i la Geltrú · 10 km / 5 km / 1 Milha · XIII edição",
+  "es": "17 de mayo de 2026 · Passeig Marítim, Vilanova i la Geltrú · 10 km / 5 km / 1 Milla · XIII edición",
+  "fr": "17 mai 2026 · Passeig Marítim, Vilanova i la Geltrú · 10 km / 5 km / 1 Mile · XIIIe édition",
+  "it": "17 maggio 2026 · Passeig Marítim, Vilanova i la Geltrú · 10 km / 5 km / 1 Miglio · XIII edizione"
+ },
+ "a36-inline2-credit": {
+  "en": "Photo: Frank Eggers / Image Media",
+  "pt": "Foto: Frank Eggers / Image Media",
+  "es": "Foto: Frank Eggers / Image Media",
+  "fr": "Photo : Frank Eggers / Image Media",
+  "it": "Foto: Frank Eggers / Image Media"
+ },
+ "a36-p4": {
+  "en": "Podium finishers in the men's and women's 10km were presented with the Audi Vilamobil grand prize — gift vouchers of €80 for first place, €50 for second and €30 for third — at a ceremony held at the Port de Vilanova, backed by the Ajuntament de Vilanova i la Geltrú.",
+  "pt": "Os finalistas do pódio, masculino e feminino, dos 10 km receberam o grande prémio Audi Vilamobil — vales-prenda de 80€ para o primeiro lugar, 50€ para o segundo e 30€ para o terceiro — numa cerimónia realizada no Port de Vilanova, com o apoio do Ajuntament de Vilanova i la Geltrú.",
+  "es": "Los finalistas del podio, masculino y femenino, de los 10 km recibieron el gran premio Audi Vilamobil — cheques regalo de 80€ para el primer puesto, 50€ para el segundo y 30€ para el tercero — en una ceremonia celebrada en el Port de Vilanova, con el respaldo del Ajuntament de Vilanova i la Geltrú.",
+  "fr": "Les finalistes du podium masculin et féminin du 10 km ont reçu le grand prix Audi Vilamobil — des bons cadeaux de 80€ pour la première place, 50€ pour la deuxième et 30€ pour la troisième — lors d'une cérémonie organisée au Port de Vilanova, avec le soutien de l'Ajuntament de Vilanova i la Geltrú.",
+  "it": "I finalisti del podio maschile e femminile dei 10 km hanno ricevuto il gran premio Audi Vilamobil — buoni regalo di 80€ per il primo posto, 50€ per il secondo e 30€ per il terzo — in una cerimonia tenutasi al Port de Vilanova, con il sostegno dell'Ajuntament de Vilanova i la Geltrú."
+ },
+ "a36-p5": {
+  "en": "The Image Media coverage team comprised José Ramón Moreno, Pablo Carvajal and Frank Eggers.",
+  "pt": "A equipa de cobertura da Image Media foi composta por José Ramón Moreno, Pablo Carvajal e Frank Eggers.",
+  "es": "El equipo de cobertura de Image Media estuvo formado por José Ramón Moreno, Pablo Carvajal y Frank Eggers.",
+  "fr": "L'équipe de couverture d'Image Media était composée de José Ramón Moreno, Pablo Carvajal et Frank Eggers.",
+  "it": "Il team di copertura di Image Media era composto da José Ramón Moreno, Pablo Carvajal e Frank Eggers."
+ },
+ "a36-tagpill1": {
+  "en": "Cursa Ciutat de Vilanova",
+  "pt": "Cursa Ciutat de Vilanova",
+  "es": "Cursa Ciutat de Vilanova",
+  "fr": "Cursa Ciutat de Vilanova",
+  "it": "Cursa Ciutat de Vilanova"
+ },
+ "a36-tagpill2": {
+  "en": "Vilanova i la Geltrú",
+  "pt": "Vilanova i la Geltrú",
+  "es": "Vilanova i la Geltrú",
+  "fr": "Vilanova i la Geltrú",
+  "it": "Vilanova i la Geltrú"
+ },
+ "a36-tagpill3": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "a36-related-title": {
+  "en": "More from Image Media",
+  "pt": "Mais da Image Media",
+  "es": "Más de Image Media",
+  "fr": "Plus d'Image Media",
+  "it": "Altro da Image Media"
+ },
+ "a36-related1-tag": {
+  "en": "Sports",
+  "pt": "Desporto",
+  "es": "Deportes",
+  "fr": "Sport",
+  "it": "Sport"
+ },
+ "a36-related1-title": {
+  "en": "See all Sports coverage",
+  "pt": "Ver toda a cobertura de Desporto",
+  "es": "Ver toda la cobertura de Deportes",
+  "fr": "Voir toute la couverture Sport",
+  "it": "Vedi tutta la copertura Sport"
+ },
+ "a36-related1-link": {
+  "en": "Visit section →",
+  "pt": "Visitar secção →",
+  "es": "Visitar sección →",
+  "fr": "Visiter la section →",
+  "it": "Visita la sezione →"
+ },
+ "a36-related2-tag": {
+  "en": "Image Media",
+  "pt": "Image Media",
+  "es": "Image Media",
+  "fr": "Image Media",
+  "it": "Image Media"
+ },
+ "a36-related2-title": {
+  "en": "How Image Media covers your event",
+  "pt": "Como a Image Media cobre o seu evento",
+  "es": "Cómo Image Media cubre tu evento",
+  "fr": "Comment Image Media couvre votre événement",
+  "it": "Come Image Media copre il tuo evento"
+ },
+ "a36-related2-link": {
+  "en": "Learn more →",
+  "pt": "Saber mais →",
+  "es": "Saber más →",
+  "fr": "En savoir plus →",
+  "it": "Scopri di più →"
+ },
+ "a36-related3-tag": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "a36-related3-title": {
+  "en": "Delphi Half Marathon & 10K Sells Out Point-To-Point Course Past Killary Fjord",
+  "pt": "Delphi Half Marathon & 10K Esgota Percurso Point-To-Point Junto Ao Fiorde De Killary",
+  "es": "La Delphi Half Marathon & 10K Agota Su Recorrido Point-To-Point Junto Al Fiordo De Killary",
+  "fr": "Le Delphi Half Marathon & 10K Affiche Complet Sur Son Parcours Point-To-Point Le Long Du Fjord De Killary",
+  "it": "La Delphi Half Marathon & 10K Esaurisce I Posti Sul Percorso Point-To-Point Lungo Il Fiordo Di Killary"
+ },
+ "a36-related3-link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
+ "card-s31__field__tag": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "card-s31__field__title": {
+  "en": "Cursa Ciutat De Vilanova Adds A Mile Race For 13th Edition Of Its Flat Seafront 10K And 5K",
+  "pt": "Cursa Ciutat De Vilanova Acrescenta Prova De Milha À 13.ª Edição Do Seu 10K E 5K Junto Ao Mar",
+  "es": "La Cursa Ciutat De Vilanova Añade Una Prueba De Milla En Su 13.ª Edición De 10K Y 5K Junto Al Mar",
+  "fr": "La Cursa Ciutat De Vilanova Ajoute Une Course Du Mile Pour La 13e Édition De Son 10 Km Et 5 Km En Bord De Mer",
+  "it": "La Cursa Ciutat De Vilanova Aggiunge Una Gara Sul Miglio Per La 13ª Edizione Della Sua 10K E 5K Sul Lungomare"
+ },
+ "card-s31__field__deck": {
+  "en": "Vilanova i la Geltrú hosted its 10km, 5km and a newly added Mile Obert along the Passeig Marítim on 17 May 2026, with prizes from the Audi Vilamobil grand prize.",
+  "pt": "Vilanova i la Geltrú acolheu os seus 10 km, 5 km e a nova prova Mile Obert ao longo do Passeig Marítim a 17 de maio de 2026, com prémios do grande prémio Audi Vilamobil.",
+  "es": "Vilanova i la Geltrú acogió sus 10 km, 5 km y la nueva prueba Mile Obert por el Passeig Marítim el 17 de mayo de 2026, con premios del gran premio Audi Vilamobil.",
+  "fr": "Vilanova i la Geltrú a accueilli son 10 km, son 5 km et la nouvelle course Mile Obert le long du Passeig Marítim le 17 mai 2026, avec des prix du grand prix Audi Vilamobil.",
+  "it": "Vilanova i la Geltrú ha ospitato i suoi 10 km, 5 km e la nuova gara Mile Obert lungo il Passeig Marítim il 17 maggio 2026, con premi dal gran premio Audi Vilamobil."
+ },
+ "card-s31__field__meta": {
+  "en": "Image Media coverage",
+  "pt": "Cobertura Image Media",
+  "es": "Cobertura de Image Media",
+  "fr": "Couverture Image Media",
+  "it": "Copertura Image Media"
+ },
+ "card-s31__field__link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
  "card-s27__field__tag": {
   "en": "Functional",
   "pt": "Funcional",
