@@ -8550,6 +8550,216 @@ window.IM_I18N = {
   "fr": "Lire plus →",
   "it": "Leggi di più →"
  },
+ "a40-tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a40-title": {
+  "en": "OCR European Championships Bring 2,573 Athletes From 28 Countries To Irun For Spain's First Hosting",
+  "pt": "Campeonato Europeu De OCR Traz 2.573 Atletas De 28 Países A Irun Na Primeira Vez Que Espanha É Anfitriã",
+  "es": "El Campeonato de Europa de OCR Reúne A 2.573 Atletas De 28 Países En Irun En La Primera Vez Que España Es Anfitriona",
+  "fr": "Les Championnats D'Europe D'OCR Réunissent 2 573 Athlètes De 28 Pays À Irun, Une Première Pour L'Espagne Comme Pays Hôte",
+  "it": "I Campionati Europei Di OCR Portano 2.573 Atleti Da 28 Paesi A Irun, Prima Volta Della Spagna Come Paese Ospitante"
+ },
+ "a40-deck": {
+  "en": "The ninth OCR European Championships ran from 28 to 31 May in Irun, Gipuzkoa — the first time Spain has hosted Europe's obstacle course racing championship — with Spain fielding the largest national delegation.",
+  "pt": "A nona edição do Campeonato Europeu de OCR decorreu de 28 a 31 de maio em Irun, Guipúscoa — a primeira vez que Espanha é anfitriã do campeonato europeu de corrida de obstáculos — com a Espanha a apresentar a maior delegação nacional.",
+  "es": "La novena edición del Campeonato de Europa de OCR se disputó del 28 al 31 de mayo en Irun, Guipúzcoa — la primera vez que España es anfitriona del campeonato europeo de carrera de obstáculos — con España presentando la mayor delegación nacional.",
+  "fr": "La neuvième édition des Championnats d'Europe d'OCR s'est déroulée du 28 au 31 mai à Irun, en Guipuscoa — une première pour l'Espagne comme pays hôte du championnat européen de course d'obstacles — l'Espagne alignant la plus grande délégation nationale.",
+  "it": "La nona edizione dei Campionati Europei di OCR si è svolta dal 28 al 31 maggio a Irun, Guipúzcoa — la prima volta che la Spagna ospita il campionato europeo di corsa a ostacoli — con la Spagna che ha schierato la delegazione nazionale più numerosa."
+ },
+ "a40-byline": {
+  "en": "By Image Media News Staff — Irun, Gipuzkoa, Spain",
+  "pt": "Por Equipa Image Media News — Irun, Guipúscoa, Espanha",
+  "es": "Por el Equipo de Image Media News — Irun, Guipúzcoa, España",
+  "fr": "Par l'équipe d'Image Media News — Irun, Guipuscoa, Espagne",
+  "it": "A cura del team di Image Media News — Irun, Guipúzcoa, Spagna"
+ },
+ "a40-hero-credit": {
+  "en": "Photo: Douglas Santos / Image Media",
+  "pt": "Foto: Douglas Santos / Image Media",
+  "es": "Foto: Douglas Santos / Image Media",
+  "fr": "Photo : Douglas Santos / Image Media",
+  "it": "Foto: Douglas Santos / Image Media"
+ },
+ "a40-p1": {
+  "en": "The OCR European Championships (Campeonato de Europa de OCR) took place from Thursday 28 to Sunday 31 May 2026 in Irun, Gipuzkoa, in Spain's Basque Country, with event coverage by the Image Media team. It was the ninth edition of the European Obstacle Sports Federation's (EOSF) continental championship and the first time it has been held in Spain, staged in partnership with the host national federation, OCRA España.",
+  "pt": "O Campeonato Europeu de OCR (Campeonato de Europa de OCR) decorreu de quinta-feira, dia 28, a domingo, dia 31 de maio de 2026, em Irun, Guipúscoa, no País Basco espanhol, com cobertura do evento pela equipa da Image Media. Foi a nona edição do campeonato continental da European Obstacle Sports Federation (EOSF) e a primeira vez que se realizou em Espanha, organizado em parceria com a federação nacional anfitriã, a OCRA España.",
+  "es": "El Campeonato de Europa de OCR se disputó del jueves 28 al domingo 31 de mayo de 2026 en Irun, Guipúzcoa, en el País Vasco español, con cobertura del evento por parte del equipo de Image Media. Fue la novena edición del campeonato continental de la European Obstacle Sports Federation (EOSF) y la primera vez que se celebró en España, organizado en colaboración con la federación nacional anfitriona, OCRA España.",
+  "fr": "Les Championnats d'Europe d'OCR (Campeonato de Europa de OCR) se sont déroulés du jeudi 28 au dimanche 31 mai 2026 à Irun, en Guipuscoa, dans le Pays basque espagnol, avec une couverture de l'événement par l'équipe d'Image Media. Il s'agissait de la neuvième édition du championnat continental de la European Obstacle Sports Federation (EOSF) et de la première fois qu'il se tenait en Espagne, organisé en partenariat avec la fédération nationale hôte, OCRA España.",
+  "it": "I Campionati Europei di OCR (Campeonato de Europa de OCR) si sono svolti da giovedì 28 a domenica 31 maggio 2026 a Irun, Guipúzcoa, nei Paesi Baschi spagnoli, con la copertura dell'evento a cura del team di Image Media. È stata la nona edizione del campionato continentale della European Obstacle Sports Federation (EOSF) e la prima volta che si è svolto in Spagna, organizzato in collaborazione con la federazione nazionale ospitante, OCRA España."
+ },
+ "a40-inline1-credit": {
+  "en": "Photo: Paulo Nomade / Image Media",
+  "pt": "Foto: Paulo Nomade / Image Media",
+  "es": "Foto: Paulo Nomade / Image Media",
+  "fr": "Photo : Paulo Nomade / Image Media",
+  "it": "Foto: Paulo Nomade / Image Media"
+ },
+ "a40-p2": {
+  "en": "Organisers and the Ayuntamiento de Irun reported 2,573 athletes from 28 countries entered across the championship, with Spain fielding the largest national delegation at 660 athletes, roughly a quarter of the field. Competition was split across several formats: the OCR100, a 100-metre course with 12 obstacles staged at the San José Obrero football field; the Short Course, a 3.5km relay-format race through the city centre with around 900 participants; and the Standard Course, the main championship event over roughly 13km, held on Saturday 30 May.",
+  "pt": "A organização e a Câmara Municipal de Irun (Ayuntamiento de Irun) reportaram 2.573 atletas de 28 países inscritos no campeonato, com a Espanha a apresentar a maior delegação nacional, com 660 atletas, cerca de um quarto do total. A competição dividiu-se em vários formatos: o OCR100, um percurso de 100 metros com 12 obstáculos disputado no campo de futebol de San José Obrero; o Short Course, uma corrida em formato de estafeta de 3,5km pelo centro da cidade com cerca de 900 participantes; e o Standard Course, a prova principal do campeonato, com cerca de 13km, disputada no sábado, dia 30 de maio.",
+  "es": "La organización y el Ayuntamiento de Irun informaron de 2.573 atletas de 28 países inscritos en el campeonato, con España presentando la mayor delegación nacional, con 660 atletas, en torno a una cuarta parte del total. La competición se dividió en varios formatos: el OCR100, un recorrido de 100 metros con 12 obstáculos disputado en el campo de fútbol de San José Obrero; el Short Course, una carrera en formato de relevos de 3,5km por el centro de la ciudad con cerca de 900 participantes; y el Standard Course, la prueba principal del campeonato, de unos 13km, disputada el sábado 30 de mayo.",
+  "fr": "Les organisateurs et la mairie d'Irun (Ayuntamiento de Irun) ont fait état de 2 573 athlètes issus de 28 pays inscrits au championnat, l'Espagne alignant la plus grande délégation nationale avec 660 athlètes, soit environ un quart du total. La compétition s'est répartie en plusieurs formats : l'OCR100, un parcours de 100 mètres avec 12 obstacles disputé sur le terrain de football de San José Obrero ; le Short Course, une course en relais de 3,5km à travers le centre-ville avec environ 900 participants ; et le Standard Course, l'épreuve principale du championnat sur environ 13km, disputée le samedi 30 mai.",
+  "it": "Gli organizzatori e il comune di Irun (Ayuntamiento de Irun) hanno riportato 2.573 atleti da 28 paesi iscritti al campionato, con la Spagna che ha schierato la delegazione nazionale più numerosa, con 660 atleti, circa un quarto del totale. La competizione si è divisa in diversi formati: l'OCR100, un percorso di 100 metri con 12 ostacoli disputato sul campo da calcio di San José Obrero; lo Short Course, una gara in formato staffetta di 3,5km attraverso il centro città con circa 900 partecipanti; e lo Standard Course, la prova principale del campionato di circa 13km, disputata sabato 30 maggio."
+ },
+ "a40-p3": {
+  "en": "The championship arrived at a notable moment for the sport: obstacle course racing is set to make its Olympic debut at the Los Angeles 2028 Games, adding weight to an event already established as OCR's top continental fixture. No overall results or medal standings had been published by the EOSF, OCRA España or the Ayuntamiento de Irun at the time of writing, so none are reported here.",
+  "pt": "O campeonato chegou num momento importante para a modalidade: a corrida de obstáculos (OCR) vai estrear-se como disciplina olímpica nos Jogos de Los Angeles 2028, o que reforça a importância de um evento já estabelecido como a principal prova continental do OCR. Até ao momento da publicação deste artigo, nem a EOSF, nem a OCRA España, nem a Câmara Municipal de Irun tinham divulgado resultados gerais ou o quadro de medalhas, pelo que não são aqui reportados.",
+  "es": "El campeonato llegó en un momento importante para la disciplina: la carrera de obstáculos (OCR) debutará como disciplina olímpica en los Juegos de Los Ángeles 2028, lo que refuerza la importancia de una prueba ya consolidada como la principal cita continental del OCR. Hasta el momento de la publicación de este artículo, ni la EOSF, ni la OCRA España, ni el Ayuntamiento de Irun habían divulgado resultados generales ni el medallero, por lo que no se recogen aquí.",
+  "fr": "Le championnat est arrivé à un moment important pour la discipline : la course d'obstacles (OCR) doit faire ses débuts olympiques aux Jeux de Los Angeles 2028, ce qui renforce l'importance d'un événement déjà établi comme le principal rendez-vous continental de l'OCR. Au moment de la rédaction, ni l'EOSF, ni l'OCRA España, ni la mairie d'Irun n'avaient publié de résultats généraux ni de tableau des médailles ; ils ne sont donc pas rapportés ici.",
+  "it": "Il campionato è arrivato in un momento importante per la disciplina: la corsa a ostacoli (OCR) debutterà come disciplina olimpica ai Giochi di Los Angeles 2028, il che rafforza l'importanza di un evento già affermato come il principale appuntamento continentale dell'OCR. Al momento della pubblicazione di questo articolo, né la EOSF, né la OCRA España, né il comune di Irun avevano diffuso risultati generali o il medagliere, che quindi non vengono riportati qui."
+ },
+ "a40-stat": {
+  "en": "28–31 May 2026 · Irun, Gipuzkoa · OCR European Championships",
+  "pt": "28–31 de maio de 2026 · Irun, Guipúscoa · Campeonato Europeu de OCR",
+  "es": "28–31 de mayo de 2026 · Irun, Guipúzcoa · Campeonato de Europa de OCR",
+  "fr": "28–31 mai 2026 · Irun, Guipuscoa · Championnats d'Europe d'OCR",
+  "it": "28–31 maggio 2026 · Irun, Guipúzcoa · Campionati Europei di OCR"
+ },
+ "a40-inline2-credit": {
+  "en": "Photo: Fran Paulino / Image Media",
+  "pt": "Foto: Fran Paulino / Image Media",
+  "es": "Foto: Fran Paulino / Image Media",
+  "fr": "Photo : Fran Paulino / Image Media",
+  "it": "Foto: Fran Paulino / Image Media"
+ },
+ "a40-p4": {
+  "en": "The Image Media coverage team at the OCR European Championships in Irun comprised Michael Rosa, Paulo Nomade, Sergio Mendes, Fran Paulino, Douglas Santos and Unai Martínez.",
+  "pt": "A equipa de cobertura da Image Media no Campeonato Europeu de OCR em Irun foi composta por Michael Rosa, Paulo Nomade, Sergio Mendes, Fran Paulino, Douglas Santos e Unai Martínez.",
+  "es": "El equipo de cobertura de Image Media en el Campeonato de Europa de OCR en Irun estuvo compuesto por Michael Rosa, Paulo Nomade, Sergio Mendes, Fran Paulino, Douglas Santos y Unai Martínez.",
+  "fr": "L'équipe de couverture d'Image Media aux Championnats d'Europe d'OCR à Irun était composée de Michael Rosa, Paulo Nomade, Sergio Mendes, Fran Paulino, Douglas Santos et Unai Martínez.",
+  "it": "Il team di copertura di Image Media ai Campionati Europei di OCR a Irun era composto da Michael Rosa, Paulo Nomade, Sergio Mendes, Fran Paulino, Douglas Santos e Unai Martínez."
+ },
+ "a40-tagpill1": {
+  "en": "OCR European Championships",
+  "pt": "Campeonato Europeu de OCR",
+  "es": "Campeonato de Europa de OCR",
+  "fr": "Championnats d'Europe d'OCR",
+  "it": "Campionati Europei di OCR"
+ },
+ "a40-tagpill2": {
+  "en": "Irun",
+  "pt": "Irun",
+  "es": "Irun",
+  "fr": "Irun",
+  "it": "Irun"
+ },
+ "a40-tagpill3": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a40-related-title": {
+  "en": "More from Image Media",
+  "pt": "Mais da Image Media",
+  "es": "Más de Image Media",
+  "fr": "Plus d'Image Media",
+  "it": "Altro da Image Media"
+ },
+ "a40-related1-tag": {
+  "en": "Sports",
+  "pt": "Desporto",
+  "es": "Deportes",
+  "fr": "Sport",
+  "it": "Sport"
+ },
+ "a40-related1-title": {
+  "en": "See all Sports coverage",
+  "pt": "Ver toda a cobertura de Desporto",
+  "es": "Ver toda la cobertura de Deportes",
+  "fr": "Voir toute la couverture Sport",
+  "it": "Vedi tutta la copertura Sport"
+ },
+ "a40-related1-link": {
+  "en": "Visit section →",
+  "pt": "Visitar secção →",
+  "es": "Visitar sección →",
+  "fr": "Visiter la section →",
+  "it": "Visita la sezione →"
+ },
+ "a40-related2-tag": {
+  "en": "Image Media",
+  "pt": "Image Media",
+  "es": "Image Media",
+  "fr": "Image Media",
+  "it": "Image Media"
+ },
+ "a40-related2-title": {
+  "en": "How Image Media covers your event",
+  "pt": "Como a Image Media cobre o seu evento",
+  "es": "Cómo Image Media cubre tu evento",
+  "fr": "Comment Image Media couvre votre événement",
+  "it": "Come Image Media copre il tuo evento"
+ },
+ "a40-related2-link": {
+  "en": "Learn more →",
+  "pt": "Saber mais →",
+  "es": "Saber más →",
+  "fr": "En savoir plus →",
+  "it": "Scopri di più →"
+ },
+ "a40-related3-tag": {
+  "en": "Triathlon",
+  "pt": "Triatlo",
+  "es": "Triatlón",
+  "fr": "Triathlon",
+  "it": "Triathlon"
+ },
+ "a40-related3-title": {
+  "en": "Tri100Llanes Debuts As Asturias Championship With 100km Coastal Triathlon Through Llanes",
+  "pt": "Tri100Llanes Estreia-Se Como Campeonato Das Astúrias Com Triatlo Costeiro De 100km Em Llanes",
+  "es": "Tri100Llanes Debuta Como Campeonato De Asturias Con Triatlón Costero De 100km En Llanes",
+  "fr": "Le Tri100Llanes Fait Ses Débuts Comme Championnat Des Asturies Avec Un Triathlon Côtier De 100km À Llanes",
+  "it": "Il Tri100Llanes Debutta Come Campionato Delle Asturie Con Un Triathlon Costiero Di 100km A Llanes"
+ },
+ "a40-related3-link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
+ "card-s35__field__tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "card-s35__field__title": {
+  "en": "OCR European Championships Bring 2,573 Athletes From 28 Countries To Irun For Spain's First Hosting",
+  "pt": "Campeonato Europeu De OCR Traz 2.573 Atletas De 28 Países A Irun Na Primeira Vez Que Espanha É Anfitriã",
+  "es": "El Campeonato de Europa de OCR Reúne A 2.573 Atletas De 28 Países En Irun En La Primera Vez Que España Es Anfitriona",
+  "fr": "Les Championnats D'Europe D'OCR Réunissent 2 573 Athlètes De 28 Pays À Irun, Une Première Pour L'Espagne Comme Pays Hôte",
+  "it": "I Campionati Europei Di OCR Portano 2.573 Atleti Da 28 Paesi A Irun, Prima Volta Della Spagna Come Paese Ospitante"
+ },
+ "card-s35__field__deck": {
+  "en": "The ninth OCR European Championships ran from 28 to 31 May in Irun, Gipuzkoa — the first time Spain has hosted Europe's obstacle course racing championship — with Spain fielding the largest national delegation.",
+  "pt": "A nona edição do Campeonato Europeu de OCR decorreu de 28 a 31 de maio em Irun, Guipúscoa — a primeira vez que Espanha é anfitriã do campeonato europeu de corrida de obstáculos — com a Espanha a apresentar a maior delegação nacional.",
+  "es": "La novena edición del Campeonato de Europa de OCR se disputó del 28 al 31 de mayo en Irun, Guipúzcoa — la primera vez que España es anfitriona del campeonato europeo de carrera de obstáculos — con España presentando la mayor delegación nacional.",
+  "fr": "La neuvième édition des Championnats d'Europe d'OCR s'est déroulée du 28 au 31 mai à Irun, en Guipuscoa — une première pour l'Espagne comme pays hôte du championnat européen de course d'obstacles — l'Espagne alignant la plus grande délégation nationale.",
+  "it": "La nona edizione dei Campionati Europei di OCR si è svolta dal 28 al 31 maggio a Irun, Guipúzcoa — la prima volta che la Spagna ospita il campionato europeo di corsa a ostacoli — con la Spagna che ha schierato la delegazione nazionale più numerosa."
+ },
+ "card-s35__field__meta": {
+  "en": "Image Media coverage",
+  "pt": "Cobertura Image Media",
+  "es": "Cobertura de Image Media",
+  "fr": "Couverture Image Media",
+  "it": "Copertura Image Media"
+ },
+ "card-s35__field__link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
  },
  "chrome": {
   "nav.home": {
