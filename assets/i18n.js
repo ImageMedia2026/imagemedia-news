@@ -484,11 +484,11 @@ window.IM_I18N = {
    "it": "Sport"
   },
   "sports-lead": {
-   "en": "Football, athletics, cycling, combat sports and functional fitness — match reports, race results and event coverage from Image Media's team on the ground.",
-   "pt": "Futebol, atletismo, ciclismo, desportos de combate e fitness funcional — crónicas de jogo, resultados de prova e cobertura de eventos pela equipa da Image Media no terreno.",
-   "es": "Fútbol, atletismo, ciclismo, deportes de combate y fitness funcional — crónicas de partido, resultados de prueba y cobertura de eventos por el equipo de Image Media sobre el terreno.",
-   "fr": "Football, athlétisme, cyclisme, sports de combat et fitness fonctionnel — comptes-rendus, résultats de course et couverture d'événements par l'équipe d'Image Media sur place.",
-   "it": "Calcio, atletica, ciclismo, sport da combattimento e fitness funzionale — cronache, risultati di gara e copertura degli eventi a cura del team di Image Media sul posto."
+   "en": "Football, athletics, cycling, triathlon and functional fitness — match reports, race results and event coverage from Image Media's team on the ground.",
+   "pt": "Futebol, atletismo, ciclismo, triatlo e fitness funcional — crónicas de jogo, resultados de prova e cobertura de eventos pela equipa da Image Media no terreno.",
+   "es": "Fútbol, atletismo, ciclismo, triatlón y fitness funcional — crónicas de partido, resultados de prueba y cobertura de eventos por el equipo de Image Media sobre el terreno.",
+   "fr": "Football, athlétisme, cyclisme, triathlon et fitness fonctionnel — comptes-rendus, résultats de course et couverture d'événements par l'équipe d'Image Media sur place.",
+   "it": "Calcio, atletica, ciclismo, triathlon e fitness funzionale — cronache, risultati di gara e copertura degli eventi a cura del team di Image Media sul posto."
   },
   "card-s1__field__tag": {
    "en": "Football",
@@ -1324,11 +1324,11 @@ window.IM_I18N = {
    "it": "Chi è Image Media News"
   },
   "about-lead": {
-   "en": "Image Media News (IM News) is a sports-first news outlet covering football, athletics, cycling, combat sports and functional fitness — plus the concerts, festivals and cultural events that share the same stadiums and arenas the rest of the year.",
-   "pt": "A Image Media News (IM News) é um órgão de informação centrado sobretudo no desporto, com cobertura de futebol, atletismo, ciclismo, desportos de combate e fitness funcional — além dos concertos, festivais e eventos culturais que partilham os mesmos estádios e recintos ao longo do ano.",
-   "es": "Image Media News (IM News) es un medio informativo centrado principalmente en el deporte, con cobertura de fútbol, atletismo, ciclismo, deportes de combate y fitness funcional — además de los conciertos, festivales y eventos culturales que comparten esos mismos estadios y recintos durante el resto del año.",
-   "fr": "Image Media News (IM News) est un média d'actualité consacré avant tout au sport, couvrant le football, l'athlétisme, le cyclisme, les sports de combat et le fitness fonctionnel — ainsi que les concerts, festivals et événements culturels qui partagent ces mêmes stades et arénas le reste de l'année.",
-   "it": "Image Media News (IM News) è una testata giornalistica dedicata innanzitutto allo sport, con copertura di calcio, atletica, ciclismo, sport da combattimento e fitness funzionale — oltre ai concerti, festival ed eventi culturali che condividono gli stessi stadi e arene nel resto dell'anno."
+   "en": "Image Media News (IM News) is a sports-first news outlet covering football, athletics, cycling, triathlon and functional fitness — plus the concerts, festivals and cultural events that share the same stadiums and arenas the rest of the year.",
+   "pt": "A Image Media News (IM News) é um órgão de informação centrado sobretudo no desporto, com cobertura de futebol, atletismo, ciclismo, triatlo e fitness funcional — além dos concertos, festivais e eventos culturais que partilham os mesmos estádios e recintos ao longo do ano.",
+   "es": "Image Media News (IM News) es un medio informativo centrado principalmente en el deporte, con cobertura de fútbol, atletismo, ciclismo, triatlón y fitness funcional — además de los conciertos, festivales y eventos culturales que comparten esos mismos estadios y recintos durante el resto del año.",
+   "fr": "Image Media News (IM News) est un média d'actualité consacré avant tout au sport, couvrant le football, l'athlétisme, le cyclisme, le triathlon et le fitness fonctionnel — ainsi que les concerts, festivals et événements culturels qui partagent ces mêmes stades et arénas le reste de l'année.",
+   "it": "Image Media News (IM News) è una testata giornalistica dedicata innanzitutto allo sport, con copertura di calcio, atletica, ciclismo, triathlon e fitness funzionale — oltre ai concerti, festival ed eventi culturali che condividono gli stessi stadi e arene nel resto dell'anno."
   },
   "about-focus-title": {
    "en": "Editorial focus",
@@ -1352,11 +1352,11 @@ window.IM_I18N = {
    "it": "Cronache e risultati"
   },
   "about-focus1-text": {
-   "en": "Football, athletics, cycling, combat sports and functional fitness — covered on the ground from build-up to result.",
-   "pt": "Futebol, atletismo, ciclismo, desportos de combate e fitness funcional — cobertura no terreno, da antevisão ao resultado final.",
-   "es": "Fútbol, atletismo, ciclismo, deportes de combate y fitness funcional — cobertura sobre el terreno, desde la previa hasta el resultado final.",
-   "fr": "Football, athlétisme, cyclisme, sports de combat et fitness fonctionnel — couverts sur place, de l'avant-événement au résultat final.",
-   "it": "Calcio, atletica, ciclismo, sport da combattimento e fitness funzionale — seguiti sul posto, dalla vigilia al risultato finale."
+   "en": "Football, athletics, cycling, triathlon and functional fitness — covered on the ground from build-up to result.",
+   "pt": "Futebol, atletismo, ciclismo, triatlo e fitness funcional — cobertura no terreno, da antevisão ao resultado final.",
+   "es": "Fútbol, atletismo, ciclismo, triatlón y fitness funcional — cobertura sobre el terreno, desde la previa hasta el resultado final.",
+   "fr": "Football, athlétisme, cyclisme, triathlon et fitness fonctionnel — couverts sur place, de l'avant-événement au résultat final.",
+   "it": "Calcio, atletica, ciclismo, triathlon e fitness funzionale — seguiti sul posto, dalla vigilia al risultato finale."
   },
   "about-focus2-tag": {
    "en": "Culture",
@@ -8405,12 +8405,12 @@ window.IM_I18N = {
    "fr": "Cyclisme",
    "it": "Ciclismo"
   },
-  "filters.combat": {
-   "en": "Combat Sports",
-   "pt": "Desportos de Combate",
-   "es": "Deportes de Combate",
-   "fr": "Sports de Combat",
-   "it": "Sport da Combattimento"
+  "filters.triathlon": {
+   "en": "Triathlon",
+   "pt": "Triatlo",
+   "es": "Triatlón",
+   "fr": "Triathlon",
+   "it": "Triathlon"
   },
   "filters.functional": {
    "en": "Functional",
