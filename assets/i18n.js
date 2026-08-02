@@ -8760,6 +8760,216 @@ window.IM_I18N = {
   "fr": "Lire plus →",
   "it": "Leggi di più →"
  },
+ "a41-tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a41-title": {
+  "en": "Italian Showdown Returns To Rimini For Three Days Of CrossFit Competition Across Individual And Doubles Divisions",
+  "pt": "Italian Showdown Regressa A Rimini Com Três Dias De Competição De CrossFit Entre Divisões Individual E Duplas",
+  "es": "Italian Showdown Regresa A Rímini Con Tres Días De Competición De CrossFit Entre Divisiones Individual Y Dobles",
+  "fr": "L'Italian Showdown Revient À Rimini Pour Trois Jours De Compétition De CrossFit Entre Divisions Individuelle Et Doubles",
+  "it": "L'Italian Showdown Torna A Rimini Con Tre Giorni Di Competizione CrossFit Tra Divisioni Individuale E Doppio"
+ },
+ "a41-deck": {
+  "en": "Just Better staged the 2026 edition of Italian Showdown from 29 to 31 May as part of RiminiWellness, bringing Beginner, Intermediate and Rx individual divisions and Beginner and Intermediate doubles to Rimini's Fiera exhibition centre.",
+  "pt": "A Just Better organizou a edição de 2026 do Italian Showdown, de 29 a 31 de maio, integrada na RiminiWellness, trazendo as divisões individuais Beginner, Intermediate e Rx, além das duplas Beginner e Intermediate, ao recinto da Fiera di Rimini.",
+  "es": "Just Better organizó la edición 2026 del Italian Showdown, del 29 al 31 de mayo, integrada en RiminiWellness, con las divisiones individuales Beginner, Intermediate y Rx, además de las parejas Beginner e Intermediate, en el recinto de la Fiera di Rimini.",
+  "fr": "Just Better a organisé l'édition 2026 de l'Italian Showdown, du 29 au 31 mai, intégrée à RiminiWellness, réunissant les divisions individuelles Beginner, Intermediate et Rx, ainsi que les doublettes Beginner et Intermediate, au parc des expositions de la Fiera di Rimini.",
+  "it": "Just Better ha organizzato l'edizione 2026 dell'Italian Showdown, dal 29 al 31 maggio, all'interno di RiminiWellness, portando le divisioni individuali Beginner, Intermediate e Rx, oltre ai doppi Beginner e Intermediate, presso il quartiere fieristico della Fiera di Rimini."
+ },
+ "a41-byline": {
+  "en": "By Image Media News Staff — Rimini, Italy",
+  "pt": "Por Equipa Image Media News — Rimini, Itália",
+  "es": "Por el Equipo de Image Media News — Rímini, Italia",
+  "fr": "Par l'équipe d'Image Media News — Rimini, Italie",
+  "it": "A cura del team di Image Media News — Rimini, Italia"
+ },
+ "a41-hero-credit": {
+  "en": "Photo: Eduardo Castro / Image Media",
+  "pt": "Foto: Eduardo Castro / Image Media",
+  "es": "Foto: Eduardo Castro / Image Media",
+  "fr": "Photo : Eduardo Castro / Image Media",
+  "it": "Foto: Eduardo Castro / Image Media"
+ },
+ "a41-p1": {
+  "en": "Italian Showdown held its 2026 edition from Friday 29 to Sunday 31 May in Rimini, with event coverage by the Image Media team. The CrossFit® competition ran as part of RiminiWellness, the fitness and wellness trade fair marking its 20th edition this year at the Fiera di Rimini exhibition centre, and is organised by Just Better di Strati Carlo in collaboration with Italian Exhibition Group and RiminiWellness.",
+  "pt": "O Italian Showdown realizou a sua edição de 2026 de sexta-feira, dia 29, a domingo, dia 31 de maio, em Rimini, com cobertura do evento pela equipa da Image Media. A competição de CrossFit® decorreu integrada na RiminiWellness, a feira de fitness e bem-estar que assinala este ano a sua 20ª edição no recinto da Fiera di Rimini, e é organizada pela Just Better di Strati Carlo em colaboração com a Italian Exhibition Group e a RiminiWellness.",
+  "es": "El Italian Showdown celebró su edición 2026 del viernes 29 al domingo 31 de mayo en Rímini, con cobertura del evento por parte del equipo de Image Media. La competición de CrossFit® se disputó integrada en RiminiWellness, la feria de fitness y bienestar que celebra este año su 20ª edición en el recinto de la Fiera di Rimini, y está organizada por Just Better di Strati Carlo en colaboración con Italian Exhibition Group y RiminiWellness.",
+  "fr": "L'Italian Showdown a tenu son édition 2026 du vendredi 29 au dimanche 31 mai à Rimini, avec une couverture de l'événement par l'équipe d'Image Media. La compétition de CrossFit® s'est déroulée dans le cadre de RiminiWellness, le salon du fitness et du bien-être qui célèbre cette année sa 20e édition au parc des expositions de la Fiera di Rimini, et est organisée par Just Better di Strati Carlo en collaboration avec Italian Exhibition Group et RiminiWellness.",
+  "it": "L'Italian Showdown ha tenuto la sua edizione 2026 da venerdì 29 a domenica 31 maggio a Rimini, con la copertura dell'evento a cura del team di Image Media. La competizione di CrossFit® si è svolta all'interno di RiminiWellness, la fiera del fitness e del benessere che quest'anno festeggia la sua 20ª edizione presso il quartiere fieristico della Fiera di Rimini, ed è organizzata da Just Better di Strati Carlo in collaborazione con Italian Exhibition Group e RiminiWellness."
+ },
+ "a41-inline1-credit": {
+  "en": "Photo: Jéssica Freitas / Image Media",
+  "pt": "Foto: Jéssica Freitas / Image Media",
+  "es": "Foto: Jéssica Freitas / Image Media",
+  "fr": "Photo : Jéssica Freitas / Image Media",
+  "it": "Foto: Jéssica Freitas / Image Media"
+ },
+ "a41-p2": {
+  "en": "The competition split into three individual ability levels — Beginner, Intermediate and Rx — each with six age brackets for Masters athletes from 35 up to over 60, plus Beginner and Intermediate doubles divisions across male-male, male-female and female-female pairings. Beginner and Intermediate individuals competed over two days (Friday-Saturday), Rx individuals over three (Friday-Sunday) and doubles over two (Saturday-Sunday), with every athlete completing the same five workouts in their division on a no-cuts, no-qualification format, rankings decided on cumulative scores across all five.",
+  "pt": "A competição dividiu-se em três níveis individuais — Beginner, Intermediate e Rx — cada um com seis escalões etários para atletas Masters dos 35 aos mais de 60 anos, além das divisões de duplas Beginner e Intermediate, nas combinações masculino-masculino, masculino-feminino e feminino-feminino. Os individuais Beginner e Intermediate competiram ao longo de dois dias (sexta-sábado), os Rx ao longo de três (sexta-domingo) e as duplas ao longo de dois (sábado-domingo), com todos os atletas a realizarem as mesmas cinco provas da sua divisão num formato sem cortes nem qualificação, com a classificação decidida pela soma das pontuações nas cinco provas.",
+  "es": "La competición se dividió en tres niveles individuales — Beginner, Intermediate y Rx — cada uno con seis franjas de edad para atletas Masters de 35 a más de 60 años, además de las divisiones de parejas Beginner e Intermediate, en las combinaciones masculino-masculino, masculino-femenino y femenino-femenino. Los individuales Beginner e Intermediate compitieron durante dos días (viernes-sábado), los Rx durante tres (viernes-domingo) y las parejas durante dos (sábado-domingo), con todos los atletas realizando las mismas cinco pruebas de su división en un formato sin cortes ni clasificación, con la clasificación decidida por la suma de puntuaciones de las cinco pruebas.",
+  "fr": "La compétition s'est répartie en trois niveaux individuels — Beginner, Intermediate et Rx — chacun avec six tranches d'âge pour les athlètes Masters de 35 à plus de 60 ans, ainsi que des divisions de doublettes Beginner et Intermediate, dans les combinaisons homme-homme, homme-femme et femme-femme. Les individuels Beginner et Intermediate ont concouru sur deux jours (vendredi-samedi), les Rx sur trois (vendredi-dimanche) et les doublettes sur deux (samedi-dimanche), chaque athlète réalisant les cinq mêmes épreuves de sa division dans un format sans élimination ni qualification, le classement étant établi sur le cumul des scores des cinq épreuves.",
+  "it": "La competizione si è divisa in tre livelli individuali — Beginner, Intermediate e Rx — ciascuno con sei fasce d'età per gli atleti Masters dai 35 ai oltre 60 anni, oltre alle divisioni a coppie Beginner e Intermediate, nelle combinazioni maschile-maschile, maschile-femminile e femminile-femminile. Gli individuali Beginner e Intermediate hanno gareggiato per due giorni (venerdì-sabato), gli Rx per tre (venerdì-domenica) e le coppie per due (sabato-domenica), con ogni atleta impegnato negli stessi cinque workout della propria divisione in un formato senza eliminazioni né qualificazioni, con la classifica decisa dal punteggio complessivo dei cinque workout."
+ },
+ "a41-p3": {
+  "en": "Italian Showdown published podium results on its own site after the event, but individual placings were not independently accessible for this report at the time of writing, so none are itemised here.",
+  "pt": "O Italian Showdown publicou os resultados do pódio no seu próprio site após o evento, mas as classificações individuais não estavam acessíveis de forma independente no momento da redação deste artigo, pelo que não são aqui discriminadas.",
+  "es": "El Italian Showdown publicó los resultados del podio en su propia web tras el evento, pero las clasificaciones individuales no estaban accesibles de forma independiente en el momento de redactar este artículo, por lo que no se detallan aquí.",
+  "fr": "L'Italian Showdown a publié les résultats du podium sur son propre site après l'événement, mais les classements individuels n'étaient pas accessibles de manière indépendante au moment de la rédaction, ils ne sont donc pas détaillés ici.",
+  "it": "L'Italian Showdown ha pubblicato i risultati del podio sul proprio sito dopo l'evento, ma le classifiche individuali non erano accessibili in modo indipendente al momento della stesura di questo articolo, quindi non vengono elencate qui."
+ },
+ "a41-stat": {
+  "en": "29–31 May 2026 · Rimini · Italian Showdown at RiminiWellness",
+  "pt": "29–31 de maio de 2026 · Rimini · Italian Showdown na RiminiWellness",
+  "es": "29–31 de mayo de 2026 · Rímini · Italian Showdown en RiminiWellness",
+  "fr": "29–31 mai 2026 · Rimini · Italian Showdown à RiminiWellness",
+  "it": "29–31 maggio 2026 · Rimini · Italian Showdown a RiminiWellness"
+ },
+ "a41-inline2-credit": {
+  "en": "Photo: Eduardo Castro / Image Media",
+  "pt": "Foto: Eduardo Castro / Image Media",
+  "es": "Foto: Eduardo Castro / Image Media",
+  "fr": "Photo : Eduardo Castro / Image Media",
+  "it": "Foto: Eduardo Castro / Image Media"
+ },
+ "a41-p4": {
+  "en": "The Image Media coverage team at Italian Showdown comprised Luis Moreira Moreira, Eduardo Castro, Mauricio Diresto, Julia Diresto, Jéssica Freitas, Regis Souza, Claudio Alessandro and Adilia Pinto.",
+  "pt": "A equipa de cobertura da Image Media no Italian Showdown foi composta por Luis Moreira Moreira, Eduardo Castro, Mauricio Diresto, Julia Diresto, Jéssica Freitas, Regis Souza, Claudio Alessandro e Adilia Pinto.",
+  "es": "El equipo de cobertura de Image Media en el Italian Showdown estuvo compuesto por Luis Moreira Moreira, Eduardo Castro, Mauricio Diresto, Julia Diresto, Jéssica Freitas, Regis Souza, Claudio Alessandro y Adilia Pinto.",
+  "fr": "L'équipe de couverture d'Image Media à l'Italian Showdown était composée de Luis Moreira Moreira, Eduardo Castro, Mauricio Diresto, Julia Diresto, Jéssica Freitas, Regis Souza, Claudio Alessandro et Adilia Pinto.",
+  "it": "Il team di copertura di Image Media all'Italian Showdown era composto da Luis Moreira Moreira, Eduardo Castro, Mauricio Diresto, Julia Diresto, Jéssica Freitas, Regis Souza, Claudio Alessandro e Adilia Pinto."
+ },
+ "a41-tagpill1": {
+  "en": "Italian Showdown",
+  "pt": "Italian Showdown",
+  "es": "Italian Showdown",
+  "fr": "Italian Showdown",
+  "it": "Italian Showdown"
+ },
+ "a41-tagpill2": {
+  "en": "Rimini",
+  "pt": "Rimini",
+  "es": "Rímini",
+  "fr": "Rimini",
+  "it": "Rimini"
+ },
+ "a41-tagpill3": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a41-related-title": {
+  "en": "More from Image Media",
+  "pt": "Mais da Image Media",
+  "es": "Más de Image Media",
+  "fr": "Plus d'Image Media",
+  "it": "Altro da Image Media"
+ },
+ "a41-related1-tag": {
+  "en": "Sports",
+  "pt": "Desporto",
+  "es": "Deportes",
+  "fr": "Sport",
+  "it": "Sport"
+ },
+ "a41-related1-title": {
+  "en": "See all Sports coverage",
+  "pt": "Ver toda a cobertura de Desporto",
+  "es": "Ver toda la cobertura de Deportes",
+  "fr": "Voir toute la couverture Sport",
+  "it": "Vedi tutta la copertura Sport"
+ },
+ "a41-related1-link": {
+  "en": "Visit section →",
+  "pt": "Visitar secção →",
+  "es": "Visitar sección →",
+  "fr": "Visiter la section →",
+  "it": "Visita la sezione →"
+ },
+ "a41-related2-tag": {
+  "en": "Image Media",
+  "pt": "Image Media",
+  "es": "Image Media",
+  "fr": "Image Media",
+  "it": "Image Media"
+ },
+ "a41-related2-title": {
+  "en": "How Image Media covers your event",
+  "pt": "Como a Image Media cobre o seu evento",
+  "es": "Cómo Image Media cubre tu evento",
+  "fr": "Comment Image Media couvre votre événement",
+  "it": "Come Image Media copre il tuo evento"
+ },
+ "a41-related2-link": {
+  "en": "Learn more →",
+  "pt": "Saber mais →",
+  "es": "Saber más →",
+  "fr": "En savoir plus →",
+  "it": "Scopri di più →"
+ },
+ "a41-related3-tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a41-related3-title": {
+  "en": "OCR European Championships Bring 2,573 Athletes From 28 Countries To Irun For Spain's First Hosting",
+  "pt": "Campeonato Europeu De OCR Traz 2.573 Atletas De 28 Países A Irun Na Primeira Vez Que Espanha É Anfitriã",
+  "es": "El Campeonato de Europa de OCR Reúne A 2.573 Atletas De 28 Países En Irun En La Primera Vez Que España Es Anfitriona",
+  "fr": "Les Championnats D'Europe D'OCR Réunissent 2 573 Athlètes De 28 Pays À Irun, Une Première Pour L'Espagne Comme Pays Hôte",
+  "it": "I Campionati Europei Di OCR Portano 2.573 Atleti Da 28 Paesi A Irun, Prima Volta Della Spagna Come Paese Ospitante"
+ },
+ "a41-related3-link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
+ "card-s36__field__tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "card-s36__field__title": {
+  "en": "Italian Showdown Returns To Rimini For Three Days Of CrossFit Competition Across Individual And Doubles Divisions",
+  "pt": "Italian Showdown Regressa A Rimini Com Três Dias De Competição De CrossFit Entre Divisões Individual E Duplas",
+  "es": "Italian Showdown Regresa A Rímini Con Tres Días De Competición De CrossFit Entre Divisiones Individual Y Dobles",
+  "fr": "L'Italian Showdown Revient À Rimini Pour Trois Jours De Compétition De CrossFit Entre Divisions Individuelle Et Doubles",
+  "it": "L'Italian Showdown Torna A Rimini Con Tre Giorni Di Competizione CrossFit Tra Divisioni Individuale E Doppio"
+ },
+ "card-s36__field__deck": {
+  "en": "Just Better staged the 2026 edition of Italian Showdown from 29 to 31 May as part of RiminiWellness, bringing Beginner, Intermediate and Rx individual divisions and Beginner and Intermediate doubles to Rimini's Fiera exhibition centre.",
+  "pt": "A Just Better organizou a edição de 2026 do Italian Showdown, de 29 a 31 de maio, integrada na RiminiWellness, trazendo as divisões individuais Beginner, Intermediate e Rx, além das duplas Beginner e Intermediate, ao recinto da Fiera di Rimini.",
+  "es": "Just Better organizó la edición 2026 del Italian Showdown, del 29 al 31 de mayo, integrada en RiminiWellness, con las divisiones individuales Beginner, Intermediate y Rx, además de las parejas Beginner e Intermediate, en el recinto de la Fiera di Rimini.",
+  "fr": "Just Better a organisé l'édition 2026 de l'Italian Showdown, du 29 au 31 mai, intégrée à RiminiWellness, réunissant les divisions individuelles Beginner, Intermediate et Rx, ainsi que les doublettes Beginner et Intermediate, au parc des expositions de la Fiera di Rimini.",
+  "it": "Just Better ha organizzato l'edizione 2026 dell'Italian Showdown, dal 29 al 31 maggio, all'interno di RiminiWellness, portando le divisioni individuali Beginner, Intermediate e Rx, oltre ai doppi Beginner e Intermediate, presso il quartiere fieristico della Fiera di Rimini."
+ },
+ "card-s36__field__meta": {
+  "en": "Image Media coverage",
+  "pt": "Cobertura Image Media",
+  "es": "Cobertura de Image Media",
+  "fr": "Couverture Image Media",
+  "it": "Copertura Image Media"
+ },
+ "card-s36__field__link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
  },
  "chrome": {
   "nav.home": {
