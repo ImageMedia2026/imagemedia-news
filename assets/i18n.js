@@ -9803,6 +9803,216 @@ window.IM_I18N = {
   "fr": "Lire plus →",
   "it": "Leggi di più →"
  },
+ "a46-tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a46-title": {
+  "en": "190 Athletes Compete As Trident Battle Returns To Nettuno For Fourth Edition",
+  "pt": "190 Atletas Competem Enquanto A Trident Battle Regressa A Nettuno Para A Quarta Edição",
+  "es": "190 Atletas Compiten Mientras La Trident Battle Regresa A Nettuno Para Su Cuarta Edición",
+  "fr": "190 Athlètes En Compétition Alors Que La Trident Battle Revient À Nettuno Pour Sa Quatrième Édition",
+  "it": "190 Atleti In Gara Mentre La Trident Battle Torna A Nettuno Per La Quarta Edizione"
+ },
+ "a46-deck": {
+  "en": "Associazione CrossFit 4112, backed by the Comune di Nettuno, staged the fourth Trident Battle on 13 and 14 June 2026, bringing CrossFit competition and open-water beach trials to Piazza Cesare Battisti and the Marina di Nettuno.",
+  "pt": "A Associazione CrossFit 4112, com o apoio do Comune di Nettuno, organizou a quarta edição da Trident Battle a 13 e 14 de junho de 2026, levando competição de CrossFit e provas de águas abertas à Piazza Cesare Battisti e à Marina di Nettuno.",
+  "es": "La Associazione CrossFit 4112, con el respaldo del Comune di Nettuno, organizó la cuarta edición de la Trident Battle los días 13 y 14 de junio de 2026, llevando competición de CrossFit y pruebas en aguas abiertas a la Piazza Cesare Battisti y la Marina di Nettuno.",
+  "fr": "L'Associazione CrossFit 4112, avec le soutien de la Comune di Nettuno, a organisé la quatrième édition de la Trident Battle les 13 et 14 juin 2026, apportant compétition de CrossFit et épreuves en eau libre sur la Piazza Cesare Battisti et à la Marina di Nettuno.",
+  "it": "L'Associazione CrossFit 4112, con il sostegno del Comune di Nettuno, ha organizzato la quarta edizione della Trident Battle il 13 e 14 giugno 2026, portando gare di CrossFit e prove in acque libere in Piazza Cesare Battisti e alla Marina di Nettuno."
+ },
+ "a46-byline": {
+  "en": "By Image Media News Staff — Nettuno, Italy",
+  "pt": "Por Equipa Image Media News — Nettuno, Itália",
+  "es": "Por el Equipo de Image Media News — Nettuno, Italia",
+  "fr": "Par l'équipe d'Image Media News — Nettuno, Italie",
+  "it": "A cura del team di Image Media News — Nettuno, Italia"
+ },
+ "a46-hero-credit": {
+  "en": "Photo: Adilia Pinto / Image Media",
+  "pt": "Foto: Adilia Pinto / Image Media",
+  "es": "Foto: Adilia Pinto / Image Media",
+  "fr": "Photo : Adilia Pinto / Image Media",
+  "it": "Foto: Adilia Pinto / Image Media"
+ },
+ "a46-p1": {
+  "en": "Nettuno's Piazza Cesare Battisti and the town's Marina hosted the fourth edition of Trident Battle on 13 and 14 June 2026, with event coverage by the Image Media team. The weekend was organised by Associazione CrossFit 4112 under president Emanuele Amato, staged with the backing of the Comune di Nettuno and its Assessorato allo Sport, Turismo e Spettacolo, led by Assessore Marco Federici. In total, 190 athletes took part, competing across CrossFit-style workouts in the piazza and open-water trials in the sea off the Marina di Nettuno.",
+  "pt": "A Piazza Cesare Battisti e a Marina de Nettuno receberam, a 13 e 14 de junho de 2026, a quarta edição da Trident Battle, com cobertura do evento pela equipa da Image Media. O fim de semana foi organizado pela Associazione CrossFit 4112, sob a presidência de Emanuele Amato, com o apoio do Comune di Nettuno e do seu Assessorato allo Sport, Turismo e Spettacolo, liderado pelo Assessore Marco Federici. No total, 190 atletas participaram, competindo em provas ao estilo CrossFit na praça e em provas de águas abertas no mar junto à Marina di Nettuno.",
+  "es": "La Piazza Cesare Battisti y la Marina de Nettuno acogieron, los días 13 y 14 de junio de 2026, la cuarta edición de la Trident Battle, con cobertura del evento por parte del equipo de Image Media. El fin de semana fue organizado por la Associazione CrossFit 4112, bajo la presidencia de Emanuele Amato, con el respaldo del Comune di Nettuno y su Assessorato allo Sport, Turismo e Spettacolo, dirigido por el Assessore Marco Federici. En total, 190 atletas participaron, compitiendo en pruebas de estilo CrossFit en la plaza y en pruebas de aguas abiertas en el mar junto a la Marina di Nettuno.",
+  "fr": "La Piazza Cesare Battisti et la Marina de Nettuno ont accueilli, les 13 et 14 juin 2026, la quatrième édition de la Trident Battle, avec une couverture de l'événement par l'équipe d'Image Media. Le week-end a été organisé par l'Associazione CrossFit 4112, sous la présidence d'Emanuele Amato, avec le soutien de la Comune di Nettuno et de son Assessorato allo Sport, Turismo e Spettacolo, dirigé par l'Assessore Marco Federici. Au total, 190 athlètes ont participé, s'affrontant lors d'épreuves de style CrossFit sur la place et d'épreuves en eau libre dans la mer au large de la Marina di Nettuno.",
+  "it": "Piazza Cesare Battisti e la Marina di Nettuno hanno ospitato, il 13 e 14 giugno 2026, la quarta edizione della Trident Battle, con la copertura dell'evento a cura del team di Image Media. Il weekend è stato organizzato dall'Associazione CrossFit 4112, sotto la presidenza di Emanuele Amato, con il sostegno del Comune di Nettuno e del suo Assessorato allo Sport, Turismo e Spettacolo, guidato dall'Assessore Marco Federici. In totale, 190 atleti hanno preso parte, gareggiando in prove in stile CrossFit in piazza e in prove in acque libere nel mare al largo della Marina di Nettuno."
+ },
+ "a46-inline1-credit": {
+  "en": "Photo: Eduardo Castro / Image Media",
+  "pt": "Foto: Eduardo Castro / Image Media",
+  "es": "Foto: Eduardo Castro / Image Media",
+  "fr": "Photo : Eduardo Castro / Image Media",
+  "it": "Foto: Eduardo Castro / Image Media"
+ },
+ "a46-p2": {
+  "en": "Saturday's programme opened in Piazza Cesare Battisti before athletes moved to the Marina di Nettuno for the open-water trial, testing the field with swim-and-run sequences along the shoreline. The format has made Trident Battle a fixture on the Lazio functional-fitness calendar since its debut, growing each year under the CrossFit 4112 banner.",
+  "pt": "O programa de sábado arrancou na Piazza Cesare Battisti, antes de os atletas se deslocarem até à Marina di Nettuno para a prova de águas abertas, testando o pelotão com sequências de natação e corrida ao longo da costa. Este formato tornou a Trident Battle um evento fixo no calendário de fitness funcional do Lácio desde a sua estreia, crescendo a cada ano sob a bandeira da CrossFit 4112.",
+  "es": "El programa del sábado arrancó en la Piazza Cesare Battisti, antes de que los atletas se trasladaran a la Marina di Nettuno para la prueba de aguas abiertas, poniendo a prueba al pelotón con secuencias de natación y carrera a lo largo de la costa. Este formato ha convertido a la Trident Battle en una cita fija del calendario de fitness funcional del Lacio desde su debut, creciendo cada año bajo la bandera de CrossFit 4112.",
+  "fr": "Le programme du samedi a débuté sur la Piazza Cesare Battisti, avant que les athlètes ne rejoignent la Marina di Nettuno pour l'épreuve en eau libre, testant le plateau avec des séquences de natation et de course le long du littoral. Ce format a fait de la Trident Battle un rendez-vous fixe du calendrier de fitness fonctionnel du Latium depuis ses débuts, gagnant en ampleur chaque année sous la bannière de CrossFit 4112.",
+  "it": "Il programma di sabato si è aperto in Piazza Cesare Battisti, prima che gli atleti si spostassero alla Marina di Nettuno per la prova in acque libere, mettendo alla prova il gruppo con sequenze di nuoto e corsa lungo il litorale. Il format ha reso la Trident Battle un appuntamento fisso nel calendario del fitness funzionale del Lazio sin dal suo debutto, crescendo di anno in anno sotto la bandiera di CrossFit 4112."
+ },
+ "a46-stat": {
+  "en": "13-14 June 2026 · Piazza Cesare Battisti & Marina di Nettuno · Trident Battle, 4th Edition",
+  "pt": "13-14 de junho de 2026 · Piazza Cesare Battisti e Marina di Nettuno · Trident Battle, 4.ª Edição",
+  "es": "13-14 de junio de 2026 · Piazza Cesare Battisti y Marina di Nettuno · Trident Battle, 4.ª Edición",
+  "fr": "13-14 juin 2026 · Piazza Cesare Battisti et Marina di Nettuno · Trident Battle, 4e Édition",
+  "it": "13-14 giugno 2026 · Piazza Cesare Battisti e Marina di Nettuno · Trident Battle, 4ª Edizione"
+ },
+ "a46-inline2-credit": {
+  "en": "Photo: Eduardo Castro / Image Media",
+  "pt": "Foto: Eduardo Castro / Image Media",
+  "es": "Foto: Eduardo Castro / Image Media",
+  "fr": "Photo : Eduardo Castro / Image Media",
+  "it": "Foto: Eduardo Castro / Image Media"
+ },
+ "a46-p3": {
+  "en": "Sunday evening's finals and awards ceremony closed out the weekend in Piazza Cesare Battisti, with medals presented by Assessore Marco Federici alongside municipal councillors Roberta Bianchi and Samantha Bernardi. Mayor Nicola Burrini called it \"un evento sportivo straordinario\" — an extraordinary sporting event — as the 190 athletes wrapped up two days of competition in the town square and on the waterfront.",
+  "pt": "As finais e a cerimónia de entrega de prémios, no domingo à noite, encerraram o fim de semana na Piazza Cesare Battisti, com as medalhas entregues pelo Assessore Marco Federici, ao lado dos vereadores municipais Roberta Bianchi e Samantha Bernardi. O presidente da câmara, Nicola Burrini, classificou-o como \"un evento sportivo straordinario\" — um evento desportivo extraordinário — enquanto os 190 atletas concluíam dois dias de competição na praça da cidade e na zona ribeirinha.",
+  "es": "Las finales y la ceremonia de entrega de premios, la noche del domingo, cerraron el fin de semana en la Piazza Cesare Battisti, con las medallas entregadas por el Assessore Marco Federici, junto a los concejales municipales Roberta Bianchi y Samantha Bernardi. El alcalde, Nicola Burrini, lo calificó como \"un evento sportivo straordinario\" — un evento deportivo extraordinario — mientras los 190 atletas cerraban dos días de competición en la plaza del pueblo y en el paseo marítimo.",
+  "fr": "Les finales et la cérémonie de remise des récompenses, dimanche soir, ont clôturé le week-end sur la Piazza Cesare Battisti, avec des médailles remises par l'Assessore Marco Federici, aux côtés des conseillers municipaux Roberta Bianchi et Samantha Bernardi. Le maire, Nicola Burrini, a qualifié l'événement d'« un evento sportivo straordinario » — un événement sportif extraordinaire — alors que les 190 athlètes concluaient deux jours de compétition sur la place et le front de mer.",
+  "it": "Le finali e la cerimonia di premiazione, domenica sera, hanno chiuso il weekend in Piazza Cesare Battisti, con le medaglie consegnate dall'Assessore Marco Federici, insieme alle consigliere comunali Roberta Bianchi e Samantha Bernardi. Il sindaco Nicola Burrini lo ha definito \"un evento sportivo straordinario\", mentre i 190 atleti concludevano due giorni di gare in piazza e sul lungomare."
+ },
+ "a46-p4": {
+  "en": "The Image Media coverage team at Trident Battle comprised Eduardo Castro, Adilia Pinto and Cláudio Alessandro.",
+  "pt": "A equipa de cobertura da Image Media na Trident Battle foi composta por Eduardo Castro, Adilia Pinto e Cláudio Alessandro.",
+  "es": "El equipo de cobertura de Image Media en la Trident Battle estuvo compuesto por Eduardo Castro, Adilia Pinto y Cláudio Alessandro.",
+  "fr": "L'équipe de couverture d'Image Media à la Trident Battle était composée d'Eduardo Castro, Adilia Pinto et Cláudio Alessandro.",
+  "it": "Il team di copertura di Image Media alla Trident Battle era composto da Eduardo Castro, Adilia Pinto e Cláudio Alessandro."
+ },
+ "a46-tagpill1": {
+  "en": "Trident Battle",
+  "pt": "Trident Battle",
+  "es": "Trident Battle",
+  "fr": "Trident Battle",
+  "it": "Trident Battle"
+ },
+ "a46-tagpill2": {
+  "en": "Nettuno",
+  "pt": "Nettuno",
+  "es": "Nettuno",
+  "fr": "Nettuno",
+  "it": "Nettuno"
+ },
+ "a46-tagpill3": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a46-related-title": {
+  "en": "More from Image Media",
+  "pt": "Mais da Image Media",
+  "es": "Más de Image Media",
+  "fr": "Plus d'Image Media",
+  "it": "Altro da Image Media"
+ },
+ "a46-related1-tag": {
+  "en": "Sports",
+  "pt": "Desporto",
+  "es": "Deportes",
+  "fr": "Sport",
+  "it": "Sport"
+ },
+ "a46-related1-title": {
+  "en": "See all Sports coverage",
+  "pt": "Ver toda a cobertura de Desporto",
+  "es": "Ver toda la cobertura de Deportes",
+  "fr": "Voir toute la couverture Sport",
+  "it": "Vedi tutta la copertura Sport"
+ },
+ "a46-related1-link": {
+  "en": "Visit section →",
+  "pt": "Visitar secção →",
+  "es": "Visitar sección →",
+  "fr": "Visiter la section →",
+  "it": "Visita la sezione →"
+ },
+ "a46-related2-tag": {
+  "en": "Image Media",
+  "pt": "Image Media",
+  "es": "Image Media",
+  "fr": "Image Media",
+  "it": "Image Media"
+ },
+ "a46-related2-title": {
+  "en": "How Image Media covers your event",
+  "pt": "Como a Image Media cobre o seu evento",
+  "es": "Cómo Image Media cubre tu evento",
+  "fr": "Comment Image Media couvre votre événement",
+  "it": "Come Image Media copre il tuo evento"
+ },
+ "a46-related2-link": {
+  "en": "Learn more →",
+  "pt": "Saber mais →",
+  "es": "Saber más →",
+  "fr": "En savoir plus →",
+  "it": "Scopri di più →"
+ },
+ "a46-related3-tag": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "a46-related3-title": {
+  "en": "XI Carrera Nocturna Del Alamillo Lights Up Sevilla's Parque Del Alamillo For Torch-Lit 5K Night Race",
+  "pt": "XI Carrera Nocturna Del Alamillo Ilumina O Parque Del Alamillo De Sevilha Com Corrida Noturna De 5K À Luz De Tochas",
+  "es": "La XI Carrera Nocturna Del Alamillo Ilumina El Parque Del Alamillo De Sevilla Con Una Carrera Nocturna De 5K A La Luz De Antorchas",
+  "fr": "La XI Carrera Nocturna Del Alamillo Illumine Le Parque Del Alamillo De Séville Pour Une Course Nocturne De 5 Km Aux Flambeaux",
+  "it": "La XI Carrera Nocturna Del Alamillo Illumina Il Parque Del Alamillo Di Siviglia Con Una Corsa Notturna Di 5K Alla Luce Delle Torce"
+ },
+ "a46-related3-link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
+ "card-s41__field__tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "card-s41__field__title": {
+  "en": "190 Athletes Compete As Trident Battle Returns To Nettuno For Fourth Edition",
+  "pt": "190 Atletas Competem Enquanto A Trident Battle Regressa A Nettuno Para A Quarta Edição",
+  "es": "190 Atletas Compiten Mientras La Trident Battle Regresa A Nettuno Para Su Cuarta Edición",
+  "fr": "190 Athlètes En Compétition Alors Que La Trident Battle Revient À Nettuno Pour Sa Quatrième Édition",
+  "it": "190 Atleti In Gara Mentre La Trident Battle Torna A Nettuno Per La Quarta Edizione"
+ },
+ "card-s41__field__deck": {
+  "en": "Associazione CrossFit 4112 staged the fourth Trident Battle on 13-14 June 2026, bringing CrossFit competition and open-water beach trials to Piazza Cesare Battisti and the Marina di Nettuno.",
+  "pt": "A Associazione CrossFit 4112 organizou a quarta edição da Trident Battle a 13-14 de junho de 2026, levando competição de CrossFit e provas de águas abertas à Piazza Cesare Battisti e à Marina di Nettuno.",
+  "es": "La Associazione CrossFit 4112 organizó la cuarta edición de la Trident Battle los días 13-14 de junio de 2026, llevando competición de CrossFit y pruebas en aguas abiertas a la Piazza Cesare Battisti y la Marina di Nettuno.",
+  "fr": "L'Associazione CrossFit 4112 a organisé la quatrième édition de la Trident Battle les 13-14 juin 2026, apportant compétition de CrossFit et épreuves en eau libre sur la Piazza Cesare Battisti et à la Marina di Nettuno.",
+  "it": "L'Associazione CrossFit 4112 ha organizzato la quarta edizione della Trident Battle il 13-14 giugno 2026, portando gare di CrossFit e prove in acque libere in Piazza Cesare Battisti e alla Marina di Nettuno."
+ },
+ "card-s41__field__meta": {
+  "en": "Image Media coverage",
+  "pt": "Cobertura Image Media",
+  "es": "Cobertura de Image Media",
+  "fr": "Couverture Image Media",
+  "it": "Copertura Image Media"
+ },
+ "card-s41__field__link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
  },
  "chrome": {
   "nav.home": {
