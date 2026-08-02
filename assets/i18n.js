@@ -7808,6 +7808,216 @@ window.IM_I18N = {
   "fr": "Lire plus →",
   "it": "Leggi di più →"
  },
+ "a38-tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a38-title": {
+  "en": "Valencia Throwdown Returns For Three Days Of CrossFit Competition Across Individual, Pairs And Trios",
+  "pt": "Valencia Throwdown Regressa Com Três Dias De Competição De CrossFit Entre Individual, Duplas E Trios",
+  "es": "Valencia Throwdown Regresa Con Tres Días De Competición De CrossFit Entre Individual, Parejas Y Tríos",
+  "fr": "Le Valencia Throwdown Revient Pour Trois Jours De Compétition De CrossFit Entre Individuel, Duos Et Trios",
+  "it": "Il Valencia Throwdown Torna Con Tre Giorni Di Competizione CrossFit Tra Individuale, Coppie E Trii"
+ },
+ "a38-deck": {
+  "en": "BOX 980 staged the 2026 edition of Valencia Throwdown from 22 to 24 May, bringing individual, pairs and trios divisions across Élite, RX, Intermediate and Scaled categories to Valencia.",
+  "pt": "A BOX 980 organizou a edição de 2026 do Valencia Throwdown, de 22 a 24 de maio, reunindo divisões individuais, de duplas e de trios nas categorias Élite, RX, Intermediate e Scaled em Valência.",
+  "es": "BOX 980 organizó la edición 2026 de Valencia Throwdown, del 22 al 24 de mayo, reuniendo divisiones individuales, de parejas y de tríos en las categorías Élite, RX, Intermediate y Scaled en Valencia.",
+  "fr": "BOX 980 a organisé l'édition 2026 du Valencia Throwdown, du 22 au 24 mai, réunissant des divisions individuelles, en duos et en trios dans les catégories Élite, RX, Intermediate et Scaled à Valence.",
+  "it": "BOX 980 ha organizzato l'edizione 2026 del Valencia Throwdown, dal 22 al 24 maggio, riunendo le divisioni individuale, coppie e trii nelle categorie Élite, RX, Intermediate e Scaled a Valencia."
+ },
+ "a38-byline": {
+  "en": "By Image Media News Staff — Valencia, Spain",
+  "pt": "Por Equipa Image Media News — Valência, Espanha",
+  "es": "Por el Equipo de Image Media News — Valencia, España",
+  "fr": "Par l'équipe d'Image Media News — Valence, Espagne",
+  "it": "A cura del team di Image Media News — Valencia, Spagna"
+ },
+ "a38-hero-credit": {
+  "en": "Photo: Lucas Araújo / Image Media",
+  "pt": "Foto: Lucas Araújo / Image Media",
+  "es": "Foto: Lucas Araújo / Image Media",
+  "fr": "Photo : Lucas Araújo / Image Media",
+  "it": "Foto: Lucas Araújo / Image Media"
+ },
+ "a38-p1": {
+  "en": "Valencia Throwdown 2026 ran from Friday 22 to Sunday 24 May in Valencia, Spain, with event coverage by the Image Media team. The three-day crosstraining competition was organised by BOX 980, an established CrossFit affiliate in the city, and is one of the longer-running events of its kind on the Spanish competitive calendar, returning for a new edition in 2026. Registration was handled through the WodBuster Arena platform and closed on 22 May, the day competition began.",
+  "pt": "O Valencia Throwdown 2026 decorreu de sexta-feira, 22, a domingo, 24 de maio, em Valência, Espanha, com cobertura do evento pela equipa da Image Media. A competição de crosstraining de três dias foi organizada pela BOX 980, um box de CrossFit já estabelecido na cidade, e é um dos eventos deste tipo com mais anos de existência no calendário competitivo espanhol, regressando para uma nova edição em 2026. As inscrições foram feitas através da plataforma WodBuster Arena e encerraram a 22 de maio, dia em que a competição começou.",
+  "es": "El Valencia Throwdown 2026 se disputó del viernes 22 al domingo 24 de mayo en Valencia, España, con cobertura del evento por parte del equipo de Image Media. La competición de crosstraining de tres días fue organizada por BOX 980, un box de CrossFit ya consolidado en la ciudad, y es uno de los eventos de este tipo con más trayectoria en el calendario competitivo español, que regresa con una nueva edición en 2026. Las inscripciones se gestionaron a través de la plataforma WodBuster Arena y se cerraron el 22 de mayo, el mismo día en que comenzó la competición.",
+  "fr": "Le Valencia Throwdown 2026 s'est déroulé du vendredi 22 au dimanche 24 mai à Valence, en Espagne, avec une couverture de l'événement par l'équipe d'Image Media. Cette compétition de crosstraining de trois jours était organisée par BOX 980, une box de CrossFit bien établie dans la ville, et figure parmi les événements de ce type ayant le plus d'ancienneté sur le calendrier compétitif espagnol, revenant pour une nouvelle édition en 2026. Les inscriptions se faisaient via la plateforme WodBuster Arena et se sont clôturées le 22 mai, jour du début de la compétition.",
+  "it": "Il Valencia Throwdown 2026 si è svolto da venerdì 22 a domenica 24 maggio a Valencia, in Spagna, con la copertura dell'evento a cura del team di Image Media. La competizione di crosstraining di tre giorni è stata organizzata da BOX 980, un box di CrossFit ormai affermato in città, ed è uno degli eventi di questo tipo con più storia nel calendario agonistico spagnolo, tornando per una nuova edizione nel 2026. Le iscrizioni sono state gestite tramite la piattaforma WodBuster Arena e si sono chiuse il 22 maggio, giorno di inizio della competizione."
+ },
+ "a38-inline1-credit": {
+  "en": "Photo: Luan Rodrigo / Image Media",
+  "pt": "Foto: Luan Rodrigo / Image Media",
+  "es": "Foto: Luan Rodrigo / Image Media",
+  "fr": "Photo : Luan Rodrigo / Image Media",
+  "it": "Foto: Luan Rodrigo / Image Media"
+ },
+ "a38-p2": {
+  "en": "The 2026 edition featured individual, pairs and trios divisions. Individual athletes competed across Élite, RX, Intermediate and Scaled categories, with Masters age-group divisions for men and women from 30 upward in five-year brackets through 55-plus. Pairs competed in mixed Intermediate and Scaled categories, and trios competed in Intermediate and Scaled categories, alongside a dedicated coach-entry division.",
+  "pt": "A edição de 2026 incluiu divisões individuais, de duplas e de trios. Os atletas individuais competiram nas categorias Élite, RX, Intermediate e Scaled, com divisões de escalão etário Masters para homens e mulheres a partir dos 30 anos, em escalões de cinco em cinco anos até aos 55+. As duplas competiram nas categorias mistas Intermediate e Scaled, e os trios competiram nas categorias Intermediate e Scaled, além de uma divisão dedicada a treinadores (coach-entry).",
+  "es": "La edición de 2026 incluyó divisiones individuales, de parejas y de tríos. Los atletas individuales compitieron en las categorías Élite, RX, Intermediate y Scaled, con divisiones de categoría de edad Masters para hombres y mujeres a partir de los 30 años, en franjas de cinco en cinco años hasta 55+. Las parejas compitieron en las categorías mixtas Intermediate y Scaled, y los tríos compitieron en las categorías Intermediate y Scaled, junto a una división dedicada a entrenadores (coach-entry).",
+  "fr": "L'édition 2026 comprenait des divisions individuelles, en duos et en trios. Les athlètes individuels ont concouru dans les catégories Élite, RX, Intermediate et Scaled, avec des divisions d'âge Masters pour les hommes et les femmes à partir de 30 ans, par tranches de cinq ans jusqu'à 55 ans et plus. Les duos ont concouru dans les catégories mixtes Intermediate et Scaled, et les trios dans les catégories Intermediate et Scaled, en plus d'une division dédiée aux coachs (coach-entry).",
+  "it": "L'edizione 2026 ha previsto divisioni individuale, a coppie e a trii. Gli atleti individuali hanno gareggiato nelle categorie Élite, RX, Intermediate e Scaled, con divisioni di età Masters per uomini e donne dai 30 anni in su, in fasce di cinque anni fino a 55+. Le coppie hanno gareggiato nelle categorie miste Intermediate e Scaled, e i trii nelle categorie Intermediate e Scaled, oltre a una divisione dedicata ai coach (coach-entry)."
+ },
+ "a38-p3": {
+  "en": "Workouts spanned rowing, sled work and barbell movements across the weekend's events, tested in front of spectators at the outdoor competition site. No official results or podium placements had been published by any source at the time of writing, so none are reported here.",
+  "pt": "Os WODs do fim de semana combinaram remo, trabalho de trenó e movimentos com barra, testados perante o público no local de competição ao ar livre. Até ao momento da publicação deste artigo, nenhuma fonte tinha divulgado resultados oficiais ou pódios, pelo que não são aqui reportados.",
+  "es": "Los WODs del fin de semana combinaron remo, trabajo de trineo y movimientos con barra, puestos a prueba ante el público en la sede de competición al aire libre. Hasta el momento de la publicación de este artículo, ninguna fuente había difundido resultados oficiales ni podios, por lo que no se recogen aquí.",
+  "fr": "Les WODs du week-end ont combiné rameur, travail au traîneau et mouvements à la barre, testés devant le public sur le site de compétition en plein air. Au moment de la rédaction, aucune source n'avait publié de résultats officiels ni de podiums, ils ne sont donc pas rapportés ici.",
+  "it": "I WOD del weekend hanno combinato vogatore, lavoro con la slitta e movimenti con il bilanciere, messi alla prova davanti al pubblico presso il sito di gara all'aperto. Al momento della pubblicazione di questo articolo, nessuna fonte aveva diffuso risultati ufficiali o podi, che quindi non vengono riportati qui."
+ },
+ "a38-stat": {
+  "en": "22–24 May 2026 · Valencia · Individual / Pairs / Trios",
+  "pt": "22–24 de maio de 2026 · Valência · Individual / Duplas / Trios",
+  "es": "22–24 de mayo de 2026 · Valencia · Individual / Parejas / Tríos",
+  "fr": "22–24 mai 2026 · Valence · Individuel / Duos / Trios",
+  "it": "22–24 maggio 2026 · Valencia · Individuale / Coppie / Trii"
+ },
+ "a38-inline2-credit": {
+  "en": "Photo: Luan Rodrigo / Image Media",
+  "pt": "Foto: Luan Rodrigo / Image Media",
+  "es": "Foto: Luan Rodrigo / Image Media",
+  "fr": "Photo : Luan Rodrigo / Image Media",
+  "it": "Foto: Luan Rodrigo / Image Media"
+ },
+ "a38-p4": {
+  "en": "The Image Media coverage team at Valencia Throwdown comprised Luis Moreira, José Ramón Moreno, Lucas Araújo and Luan Rodrigo.",
+  "pt": "A equipa de cobertura da Image Media no Valencia Throwdown foi composta por Luis Moreira, José Ramón Moreno, Lucas Araújo e Luan Rodrigo.",
+  "es": "El equipo de cobertura de Image Media en Valencia Throwdown estuvo compuesto por Luis Moreira, José Ramón Moreno, Lucas Araújo y Luan Rodrigo.",
+  "fr": "L'équipe de couverture d'Image Media au Valencia Throwdown était composée de Luis Moreira, José Ramón Moreno, Lucas Araújo et Luan Rodrigo.",
+  "it": "Il team di copertura di Image Media al Valencia Throwdown era composto da Luis Moreira, José Ramón Moreno, Lucas Araújo e Luan Rodrigo."
+ },
+ "a38-tagpill1": {
+  "en": "Valencia Throwdown",
+  "pt": "Valencia Throwdown",
+  "es": "Valencia Throwdown",
+  "fr": "Valencia Throwdown",
+  "it": "Valencia Throwdown"
+ },
+ "a38-tagpill2": {
+  "en": "Valencia",
+  "pt": "Valência",
+  "es": "Valencia",
+  "fr": "Valence",
+  "it": "Valencia"
+ },
+ "a38-tagpill3": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a38-related-title": {
+  "en": "More from Image Media",
+  "pt": "Mais da Image Media",
+  "es": "Más de Image Media",
+  "fr": "Plus d'Image Media",
+  "it": "Altro da Image Media"
+ },
+ "a38-related1-tag": {
+  "en": "Sports",
+  "pt": "Desporto",
+  "es": "Deportes",
+  "fr": "Sport",
+  "it": "Sport"
+ },
+ "a38-related1-title": {
+  "en": "See all Sports coverage",
+  "pt": "Ver toda a cobertura de Desporto",
+  "es": "Ver toda la cobertura de Deportes",
+  "fr": "Voir toute la couverture Sport",
+  "it": "Vedi tutta la copertura Sport"
+ },
+ "a38-related1-link": {
+  "en": "Visit section →",
+  "pt": "Visitar secção →",
+  "es": "Visitar sección →",
+  "fr": "Visiter la section →",
+  "it": "Visita la sezione →"
+ },
+ "a38-related2-tag": {
+  "en": "Image Media",
+  "pt": "Image Media",
+  "es": "Image Media",
+  "fr": "Image Media",
+  "it": "Image Media"
+ },
+ "a38-related2-title": {
+  "en": "How Image Media covers your event",
+  "pt": "Como a Image Media cobre o seu evento",
+  "es": "Cómo Image Media cubre tu evento",
+  "fr": "Comment Image Media couvre votre événement",
+  "it": "Come Image Media copre il tuo evento"
+ },
+ "a38-related2-link": {
+  "en": "Learn more →",
+  "pt": "Saber mais →",
+  "es": "Saber más →",
+  "fr": "En savoir plus →",
+  "it": "Scopri di più →"
+ },
+ "a38-related3-tag": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "a38-related3-title": {
+  "en": "Trail Rota Dos Piratas Brings Four Distances To Ribamar's Coastal Trails For Ambulance Fundraiser",
+  "pt": "Trail Rota Dos Piratas Leva Quatro Distâncias Aos Trilhos Costeiros De Ribamar Para Angariação De Fundos Para Ambulância",
+  "es": "Trail Rota Dos Piratas Lleva Cuatro Distancias A Los Senderos Costeros De Ribamar Para Recaudar Fondos Para Una Ambulancia",
+  "fr": "Le Trail Rota Dos Piratas Propose Quatre Distances Sur Les Sentiers Côtiers De Ribamar Pour Financer Une Ambulance",
+  "it": "Il Trail Rota Dos Piratas Porta Quattro Distanze Sui Sentieri Costieri Di Ribamar Per Raccogliere Fondi Per Un'Ambulanza"
+ },
+ "a38-related3-link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
+ "card-s33__field__tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "card-s33__field__title": {
+  "en": "Valencia Throwdown Returns For Three Days Of CrossFit Competition Across Individual, Pairs And Trios",
+  "pt": "Valencia Throwdown Regressa Com Três Dias De Competição De CrossFit Entre Individual, Duplas E Trios",
+  "es": "Valencia Throwdown Regresa Con Tres Días De Competición De CrossFit Entre Individual, Parejas Y Tríos",
+  "fr": "Le Valencia Throwdown Revient Pour Trois Jours De Compétition De CrossFit Entre Individuel, Duos Et Trios",
+  "it": "Il Valencia Throwdown Torna Con Tre Giorni Di Competizione CrossFit Tra Individuale, Coppie E Trii"
+ },
+ "card-s33__field__deck": {
+  "en": "BOX 980 staged the 2026 edition of Valencia Throwdown from 22 to 24 May, bringing individual, pairs and trios divisions across Élite, RX, Intermediate and Scaled categories to Valencia.",
+  "pt": "A BOX 980 organizou a edição de 2026 do Valencia Throwdown, de 22 a 24 de maio, reunindo divisões individuais, de duplas e de trios nas categorias Élite, RX, Intermediate e Scaled em Valência.",
+  "es": "BOX 980 organizó la edición 2026 de Valencia Throwdown, del 22 al 24 de mayo, reuniendo divisiones individuales, de parejas y de tríos en las categorías Élite, RX, Intermediate y Scaled en Valencia.",
+  "fr": "BOX 980 a organisé l'édition 2026 du Valencia Throwdown, du 22 au 24 mai, réunissant des divisions individuelles, en duos et en trios dans les catégories Élite, RX, Intermediate et Scaled à Valence.",
+  "it": "BOX 980 ha organizzato l'edizione 2026 del Valencia Throwdown, dal 22 al 24 maggio, riunendo le divisioni individuale, coppie e trii nelle categorie Élite, RX, Intermediate e Scaled a Valencia."
+ },
+ "card-s33__field__meta": {
+  "en": "Image Media coverage",
+  "pt": "Cobertura Image Media",
+  "es": "Cobertura de Image Media",
+  "fr": "Couverture Image Media",
+  "it": "Copertura Image Media"
+ },
+ "card-s33__field__link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
  "card-s32__field__tag": {
   "en": "Athletics",
   "pt": "Atletismo",
