@@ -7633,6 +7633,216 @@ window.IM_I18N = {
   "fr": "Lire plus →",
   "it": "Leggi di più →"
  },
+ "a37-tag": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "a37-title": {
+  "en": "Trail Rota Dos Piratas Brings Four Distances To Ribamar's Coastal Trails For Ambulance Fundraiser",
+  "pt": "Trail Rota Dos Piratas Leva Quatro Distâncias Aos Trilhos Costeiros De Ribamar Para Angariação De Fundos Para Ambulância",
+  "es": "Trail Rota Dos Piratas Lleva Cuatro Distancias A Los Senderos Costeros De Ribamar Para Recaudar Fondos Para Una Ambulancia",
+  "fr": "Le Trail Rota Dos Piratas Propose Quatre Distances Sur Les Sentiers Côtiers De Ribamar Pour Financer Une Ambulance",
+  "it": "Il Trail Rota Dos Piratas Porta Quattro Distanze Sui Sentieri Costieri Di Ribamar Per Raccogliere Fondi Per Un'Ambulanza"
+ },
+ "a37-deck": {
+  "en": "The Centro Social e Cultural de Ribamar staged the Trail Rota dos Piratas on 17 May 2026, sending runners and walkers along the coastal trails of Porto Dinheiro, Valmitão and Vale d'Arrocha in support of a local ambulance fund.",
+  "pt": "O Centro Social e Cultural de Ribamar organizou o Trail Rota dos Piratas a 17 de maio de 2026, levando corredores e caminhantes pelos trilhos costeiros de Porto Dinheiro, Valmitão e Vale d'Arrocha em apoio a uma angariação de fundos para uma ambulância local.",
+  "es": "El Centro Social e Cultural de Ribamar organizó el Trail Rota dos Piratas el 17 de mayo de 2026, llevando a corredores y caminantes por los senderos costeros de Porto Dinheiro, Valmitão y Vale d'Arrocha en apoyo de una recaudación de fondos para una ambulancia local.",
+  "fr": "Le Centro Social e Cultural de Ribamar a organisé le Trail Rota dos Piratas le 17 mai 2026, envoyant coureurs et marcheurs sur les sentiers côtiers de Porto Dinheiro, Valmitão et Vale d'Arrocha au profit d'une collecte de fonds pour une ambulance locale.",
+  "it": "Il Centro Social e Cultural de Ribamar ha organizzato il Trail Rota dos Piratas il 17 maggio 2026, portando corridori e camminatori lungo i sentieri costieri di Porto Dinheiro, Valmitão e Vale d'Arrocha a sostegno di una raccolta fondi per un'ambulanza locale."
+ },
+ "a37-byline": {
+  "en": "By Image Media News Staff — Ribamar, Portugal",
+  "pt": "Por Equipa Image Media News — Ribamar, Portugal",
+  "es": "Por el Equipo de Image Media News — Ribamar, Portugal",
+  "fr": "Par l'équipe d'Image Media News — Ribamar, Portugal",
+  "it": "A cura del team di Image Media News — Ribamar, Portogallo"
+ },
+ "a37-hero-credit": {
+  "en": "Photo: Lucas Araújo / Image Media",
+  "pt": "Foto: Lucas Araújo / Image Media",
+  "es": "Foto: Lucas Araújo / Image Media",
+  "fr": "Photo : Lucas Araújo / Image Media",
+  "it": "Foto: Lucas Araújo / Image Media"
+ },
+ "a37-p1": {
+  "en": "The Trail Rota dos Piratas took place on Sunday 17 May 2026 in Ribamar, a coastal parish in the municipality of Lourinhã, Portugal, with event coverage by the Image Media team. The event was organised by the Centro Social e Cultural de Ribamar (CSCR), a local social solidarity institution, in partnership with registration platform Trilho Perdido, and received support from the Portuguese Athletics Federation (FPA) for course homologation.",
+  "pt": "O Trail Rota dos Piratas realizou-se no domingo, 17 de maio de 2026, em Ribamar, freguesia costeira do concelho da Lourinhã, Portugal, com cobertura do evento pela equipa da Image Media. O evento foi organizado pelo Centro Social e Cultural de Ribamar (CSCR), uma instituição particular de solidariedade social local, em parceria com a plataforma de inscrições Trilho Perdido, e contou com o apoio da Federação Portuguesa de Atletismo (FPA) para a homologação do percurso.",
+  "es": "El Trail Rota dos Piratas se disputó el domingo 17 de mayo de 2026 en Ribamar, una parroquia costera del municipio de Lourinhã, Portugal, con cobertura del evento por parte del equipo de Image Media. El evento fue organizado por el Centro Social e Cultural de Ribamar (CSCR), una institución local de solidaridad social, en colaboración con la plataforma de inscripciones Trilho Perdido, y contó con el apoyo de la Federación Portuguesa de Atletismo (FPA) para la homologación del recorrido.",
+  "fr": "Le Trail Rota dos Piratas s'est déroulé le dimanche 17 mai 2026 à Ribamar, une paroisse côtière de la municipalité de Lourinhã, au Portugal, avec une couverture de l'événement par l'équipe d'Image Media. L'événement était organisé par le Centro Social e Cultural de Ribamar (CSCR), une institution locale de solidarité sociale, en partenariat avec la plateforme d'inscription Trilho Perdido, et a bénéficié du soutien de la Fédération portugaise d'athlétisme (FPA) pour l'homologation du parcours.",
+  "it": "Il Trail Rota dos Piratas si è svolto domenica 17 maggio 2026 a Ribamar, una parrocchia costiera del comune di Lourinhã, in Portogallo, con la copertura dell'evento a cura del team di Image Media. L'evento è stato organizzato dal Centro Social e Cultural de Ribamar (CSCR), un'istituzione locale di solidarietà sociale, in collaborazione con la piattaforma di iscrizione Trilho Perdido, e ha ricevuto il sostegno della Federazione Portoghese di Atletica (FPA) per l'omologazione del percorso."
+ },
+ "a37-inline1-credit": {
+  "en": "Photo: Sérgio Mendes / Image Media",
+  "pt": "Foto: Sérgio Mendes / Image Media",
+  "es": "Foto: Sérgio Mendes / Image Media",
+  "fr": "Photo : Sérgio Mendes / Image Media",
+  "it": "Foto: Sérgio Mendes / Image Media"
+ },
+ "a37-p2": {
+  "en": "Four distances were on offer: a 30km Trail Longo with 1,500m of elevation gain starting at 8:30am, a 17km Trail Curto with 900m of climbing starting at 9:15am, a Mini Trail of around 13km with 600m of climbing starting at 9:30am, and a non-competitive 10km Caminhada with 400m of elevation gain starting at 9:45am. Routes wound through the coastal terrain of Porto Dinheiro, Valmitão and Vale d'Arrocha, with the competitive distances open to participants aged 16 and over.",
+  "pt": "Foram disponibilizadas quatro distâncias: o Trail Longo de 30 km com 1500 m de desnível positivo, com partida às 8h30; o Trail Curto de 17 km com 900 m de desnível, com partida às 9h15; o Mini Trail de cerca de 13 km com 600 m de desnível, com partida às 9h30; e a Caminhada não competitiva de 10 km com 400 m de desnível, com partida às 9h45. Os percursos atravessaram o terreno costeiro de Porto Dinheiro, Valmitão e Vale d'Arrocha, com as distâncias competitivas abertas a participantes a partir dos 16 anos.",
+  "es": "Se ofrecieron cuatro distancias: el Trail Longo de 30 km con 1500 m de desnivel positivo, con salida a las 8:30; el Trail Curto de 17 km con 900 m de desnivel, con salida a las 9:15; el Mini Trail de unos 13 km con 600 m de desnivel, con salida a las 9:30; y la Caminhada no competitiva de 10 km con 400 m de desnivel, con salida a las 9:45. Los recorridos atravesaron el terreno costero de Porto Dinheiro, Valmitão y Vale d'Arrocha, con las distancias competitivas abiertas a participantes a partir de los 16 años.",
+  "fr": "Quatre distances étaient proposées : un Trail Longo de 30 km avec 1500 m de dénivelé positif, départ à 8h30 ; un Trail Curto de 17 km avec 900 m de dénivelé, départ à 9h15 ; un Mini Trail d'environ 13 km avec 600 m de dénivelé, départ à 9h30 ; et une Caminhada non compétitive de 10 km avec 400 m de dénivelé, départ à 9h45. Les parcours traversaient le terrain côtier de Porto Dinheiro, Valmitão et Vale d'Arrocha, les distances compétitives étant ouvertes aux participants à partir de 16 ans.",
+  "it": "Sono state proposte quattro distanze: il Trail Longo di 30 km con 1500 m di dislivello positivo, partenza alle 8:30; il Trail Curto di 17 km con 900 m di dislivello, partenza alle 9:15; il Mini Trail di circa 13 km con 600 m di dislivello, partenza alle 9:30; e la Caminhada non competitiva di 10 km con 400 m di dislivello, partenza alle 9:45. I percorsi attraversavano il territorio costiero di Porto Dinheiro, Valmitão e Vale d'Arrocha, con le distanze competitive aperte ai partecipanti dai 16 anni in su."
+ },
+ "a37-p3": {
+  "en": "Registration for the four distances, run through the Trilho Perdido platform, reached just over 1,000 entries. Proceeds from the event went toward the Centro Social e Cultural de Ribamar's fundraising campaign to acquire an ambulance for the local community.",
+  "pt": "As inscrições para as quatro distâncias, feitas através da plataforma Trilho Perdido, ultrapassaram as 1000 entradas. As receitas do evento reverteram para a campanha de angariação de fundos do Centro Social e Cultural de Ribamar destinada à aquisição de uma ambulância para a comunidade local.",
+  "es": "Las inscripciones para las cuatro distancias, realizadas a través de la plataforma Trilho Perdido, superaron las 1000 entradas. Los ingresos del evento se destinaron a la campaña de recaudación de fondos del Centro Social e Cultural de Ribamar para adquirir una ambulancia para la comunidad local.",
+  "fr": "Les inscriptions pour les quatre distances, effectuées via la plateforme Trilho Perdido, ont dépassé les 1000 entrées. Les recettes de l'événement ont été reversées à la campagne de collecte de fonds du Centro Social e Cultural de Ribamar visant à acquérir une ambulance pour la communauté locale.",
+  "it": "Le iscrizioni per le quattro distanze, effettuate tramite la piattaforma Trilho Perdido, hanno superato le 1000 unità. Il ricavato dell'evento è andato alla campagna di raccolta fondi del Centro Social e Cultural de Ribamar per l'acquisto di un'ambulanza per la comunità locale."
+ },
+ "a37-stat": {
+  "en": "17 May 2026 · Ribamar, Lourinhã · 10km Walk / 13km / 17km / 30km",
+  "pt": "17 de maio de 2026 · Ribamar, Lourinhã · Caminhada 10 km / 13 km / 17 km / 30 km",
+  "es": "17 de mayo de 2026 · Ribamar, Lourinhã · Caminata 10 km / 13 km / 17 km / 30 km",
+  "fr": "17 mai 2026 · Ribamar, Lourinhã · Marche 10 km / 13 km / 17 km / 30 km",
+  "it": "17 maggio 2026 · Ribamar, Lourinhã · Camminata 10 km / 13 km / 17 km / 30 km"
+ },
+ "a37-inline2-credit": {
+  "en": "Photo: Fran Paulino / Image Media",
+  "pt": "Foto: Fran Paulino / Image Media",
+  "es": "Foto: Fran Paulino / Image Media",
+  "fr": "Photo : Fran Paulino / Image Media",
+  "it": "Foto: Fran Paulino / Image Media"
+ },
+ "a37-p4": {
+  "en": "The Image Media coverage team comprised Fran Paulino, Lucas Araújo, Sérgio Mendes, Eduardo Pereira, Luis Moreira and Luciano Inocêncio.",
+  "pt": "A equipa de cobertura da Image Media foi composta por Fran Paulino, Lucas Araújo, Sérgio Mendes, Eduardo Pereira, Luis Moreira e Luciano Inocêncio.",
+  "es": "El equipo de cobertura de Image Media estuvo compuesto por Fran Paulino, Lucas Araújo, Sérgio Mendes, Eduardo Pereira, Luis Moreira y Luciano Inocêncio.",
+  "fr": "L'équipe de couverture d'Image Media était composée de Fran Paulino, Lucas Araújo, Sérgio Mendes, Eduardo Pereira, Luis Moreira et Luciano Inocêncio.",
+  "it": "Il team di copertura di Image Media era composto da Fran Paulino, Lucas Araújo, Sérgio Mendes, Eduardo Pereira, Luis Moreira e Luciano Inocêncio."
+ },
+ "a37-tagpill1": {
+  "en": "Trail Rota dos Piratas",
+  "pt": "Trail Rota dos Piratas",
+  "es": "Trail Rota dos Piratas",
+  "fr": "Trail Rota dos Piratas",
+  "it": "Trail Rota dos Piratas"
+ },
+ "a37-tagpill2": {
+  "en": "Ribamar",
+  "pt": "Ribamar",
+  "es": "Ribamar",
+  "fr": "Ribamar",
+  "it": "Ribamar"
+ },
+ "a37-tagpill3": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "a37-related-title": {
+  "en": "More from Image Media",
+  "pt": "Mais da Image Media",
+  "es": "Más de Image Media",
+  "fr": "Plus d'Image Media",
+  "it": "Altro da Image Media"
+ },
+ "a37-related1-tag": {
+  "en": "Sports",
+  "pt": "Desporto",
+  "es": "Deportes",
+  "fr": "Sport",
+  "it": "Sport"
+ },
+ "a37-related1-title": {
+  "en": "See all Sports coverage",
+  "pt": "Ver toda a cobertura de Desporto",
+  "es": "Ver toda la cobertura de Deportes",
+  "fr": "Voir toute la couverture Sport",
+  "it": "Vedi tutta la copertura Sport"
+ },
+ "a37-related1-link": {
+  "en": "Visit section →",
+  "pt": "Visitar secção →",
+  "es": "Visitar sección →",
+  "fr": "Visiter la section →",
+  "it": "Visita la sezione →"
+ },
+ "a37-related2-tag": {
+  "en": "Image Media",
+  "pt": "Image Media",
+  "es": "Image Media",
+  "fr": "Image Media",
+  "it": "Image Media"
+ },
+ "a37-related2-title": {
+  "en": "How Image Media covers your event",
+  "pt": "Como a Image Media cobre o seu evento",
+  "es": "Cómo Image Media cubre tu evento",
+  "fr": "Comment Image Media couvre votre événement",
+  "it": "Come Image Media copre il tuo evento"
+ },
+ "a37-related2-link": {
+  "en": "Learn more →",
+  "pt": "Saber mais →",
+  "es": "Saber más →",
+  "fr": "En savoir plus →",
+  "it": "Scopri di più →"
+ },
+ "a37-related3-tag": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "a37-related3-title": {
+  "en": "Cursa Ciutat De Vilanova Adds A Mile Race For 13th Edition Of Its Flat Seafront 10K And 5K",
+  "pt": "Cursa Ciutat De Vilanova Acrescenta Prova De Milha À 13.ª Edição Do Seu 10K E 5K Junto Ao Mar",
+  "es": "La Cursa Ciutat De Vilanova Añade Una Prueba De Milla En Su 13.ª Edición De 10K Y 5K Junto Al Mar",
+  "fr": "La Cursa Ciutat De Vilanova Ajoute Une Course Du Mile Pour La 13e Édition De Son 10 Km Et 5 Km En Bord De Mer",
+  "it": "La Cursa Ciutat De Vilanova Aggiunge Una Gara Sul Miglio Per La 13ª Edizione Della Sua 10K E 5K Sul Lungomare"
+ },
+ "a37-related3-link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
+ "card-s32__field__tag": {
+  "en": "Athletics",
+  "pt": "Atletismo",
+  "es": "Atletismo",
+  "fr": "Athlétisme",
+  "it": "Atletica"
+ },
+ "card-s32__field__title": {
+  "en": "Trail Rota Dos Piratas Brings Four Distances To Ribamar's Coastal Trails For Ambulance Fundraiser",
+  "pt": "Trail Rota Dos Piratas Leva Quatro Distâncias Aos Trilhos Costeiros De Ribamar Para Angariação De Fundos Para Ambulância",
+  "es": "Trail Rota Dos Piratas Lleva Cuatro Distancias A Los Senderos Costeros De Ribamar Para Recaudar Fondos Para Una Ambulancia",
+  "fr": "Le Trail Rota Dos Piratas Propose Quatre Distances Sur Les Sentiers Côtiers De Ribamar Pour Financer Une Ambulance",
+  "it": "Il Trail Rota Dos Piratas Porta Quattro Distanze Sui Sentieri Costieri Di Ribamar Per Raccogliere Fondi Per Un'Ambulanza"
+ },
+ "card-s32__field__deck": {
+  "en": "Ribamar hosted the Trail Rota dos Piratas on 17 May 2026, with a 30km, 17km, 13km and non-competitive 10km walk raising funds for a local ambulance.",
+  "pt": "Ribamar recebeu o Trail Rota dos Piratas a 17 de maio de 2026, com um percurso de 30 km, 17 km, 13 km e uma caminhada não competitiva de 10 km a angariar fundos para uma ambulância local.",
+  "es": "Ribamar acogió el Trail Rota dos Piratas el 17 de mayo de 2026, con un recorrido de 30 km, 17 km, 13 km y una caminata no competitiva de 10 km que recaudó fondos para una ambulancia local.",
+  "fr": "Ribamar a accueilli le Trail Rota dos Piratas le 17 mai 2026, avec un parcours de 30 km, 17 km, 13 km et une marche non compétitive de 10 km au profit d'une ambulance locale.",
+  "it": "Ribamar ha ospitato il Trail Rota dos Piratas il 17 maggio 2026, con un percorso di 30 km, 17 km, 13 km e una camminata non competitiva di 10 km per raccogliere fondi per un'ambulanza locale."
+ },
+ "card-s32__field__meta": {
+  "en": "Image Media coverage",
+  "pt": "Cobertura Image Media",
+  "es": "Cobertura de Image Media",
+  "fr": "Couverture Image Media",
+  "it": "Copertura Image Media"
+ },
+ "card-s32__field__link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
  "card-s31__field__tag": {
   "en": "Athletics",
   "pt": "Atletismo",
