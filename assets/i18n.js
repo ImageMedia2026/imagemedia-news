@@ -9832,11 +9832,11 @@ window.IM_I18N = {
   "it": "A cura del team di Image Media News — Nettuno, Italia"
  },
  "a46-hero-credit": {
-  "en": "Photo: Adilia Pinto / Image Media",
-  "pt": "Foto: Adilia Pinto / Image Media",
-  "es": "Foto: Adilia Pinto / Image Media",
-  "fr": "Photo : Adilia Pinto / Image Media",
-  "it": "Foto: Adilia Pinto / Image Media"
+  "en": "Photo: Eduardo Castro / Image Media",
+  "pt": "Foto: Eduardo Castro / Image Media",
+  "es": "Foto: Eduardo Castro / Image Media",
+  "fr": "Photo : Eduardo Castro / Image Media",
+  "it": "Foto: Eduardo Castro / Image Media"
  },
  "a46-p1": {
   "en": "Nettuno's Piazza Cesare Battisti and the town's Marina hosted the fourth edition of Trident Battle on 13 and 14 June 2026, with event coverage by the Image Media team. The weekend was organised by Associazione CrossFit 4112 under president Emanuele Amato, staged with the backing of the Comune di Nettuno and its Assessorato allo Sport, Turismo e Spettacolo, led by Assessore Marco Federici. In total, 190 athletes took part, competing across CrossFit-style workouts in the piazza and open-water trials in the sea off the Marina di Nettuno.",
