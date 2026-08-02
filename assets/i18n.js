@@ -71,18 +71,18 @@ window.IM_I18N = {
    "it": "Funzionale"
   },
   "card-h1__field__title": {
-   "en": "Hurbax Valladolid Draws Over 600 Athletes In Race Marking 475th Anniversary Of The Valladolid Controversy",
-   "pt": "Hurbax Valladolid Reúne Mais de 600 Atletas Em Prova Que Assinala o 475.º Aniversário da Controvérsia de Valladolid",
-   "es": "Hurbax Valladolid Reúne a Más de 600 Atletas En Una Prueba Que Conmemora el 475.º Aniversario de la Controversia de Valladolid",
-   "fr": "Hurbax Valladolid Réunit Plus de 600 Athlètes Pour Une Course Marquant le 475e Anniversaire de la Controverse de Valladolid",
-   "it": "Hurbax Valladolid Riunisce Oltre 600 Atleti In Una Gara Che Celebra il 475° Anniversario Della Controversia di Valladolid"
+   "en": "AVYNT Hybrid Arena Hosts III Avynt Hyrox Simulation With Full Registration In Vila Nova De Gaia",
+   "pt": "AVYNT Hybrid Arena Recebe III Avynt Hyrox Simulation Com Inscrições Esgotadas Em Vila Nova De Gaia",
+   "es": "AVYNT Hybrid Arena Acoge La III Avynt Hyrox Simulation Con Inscripciones Agotadas En Vila Nova De Gaia",
+   "fr": "AVYNT Hybrid Arena Accueille La III Avynt Hyrox Simulation À Guichets Fermés À Vila Nova De Gaia",
+   "it": "AVYNT Hybrid Arena Ospita La III Avynt Hyrox Simulation Con Iscrizioni Esaurite A Vila Nova De Gaia"
   },
   "card-h1__field__deck": {
-   "en": "The Club Deportivo Básico Hurbax brought its hybrid running-and-functional-fitness circuit to Acera de Recoletos on 25 April 2026, with more than 600 athletes registered and organisers highlighting record female participation.",
-   "pt": "O Club Deportivo Básico Hurbax levou o seu circuito híbrido de corrida e fitness funcional à Acera de Recoletos, em 25 de abril de 2026, com mais de 600 atletas inscritos e os organizadores a destacarem uma elevada participação feminina.",
-   "es": "El Club Deportivo Básico Hurbax llevó su circuito híbrido de carrera y fitness funcional a la Acera de Recoletos el 25 de abril de 2026, con más de 600 atletas inscritos y los organizadores destacando una elevada participación femenina.",
-   "fr": "Le Club Deportivo Básico Hurbax a organisé son circuit hybride de course et de fitness fonctionnel à Acera de Recoletos le 25 avril 2026, avec plus de 600 athlètes inscrits et une participation féminine record soulignée par les organisateurs.",
-   "it": "Il Club Deportivo Básico Hurbax ha portato il suo circuito ibrido di corsa e fitness funzionale ad Acera de Recoletos il 25 aprile 2026, con oltre 600 atleti iscritti e gli organizzatori che hanno sottolineato una partecipazione femminile record."
+   "en": "AVYNT Hybrid Arena staged the III Avynt Hyrox Simulation on 1 August 2026, the third AVYNT League stage of the year, with a sold-out field working through an 8km run and eight strength stations in Vila Nova de Gaia.",
+   "pt": "A AVYNT Hybrid Arena organizou a III Avynt Hyrox Simulation a 1 de agosto de 2026, a terceira etapa da AVYNT League do ano, com inscrições esgotadas a percorrerem 8 km de corrida e oito estações de força em Vila Nova de Gaia.",
+   "es": "AVYNT Hybrid Arena organizó la III Avynt Hyrox Simulation el 1 de agosto de 2026, la tercera etapa de la AVYNT League del año, con inscripciones agotadas superando 8 km de carrera y ocho estaciones de fuerza en Vila Nova de Gaia.",
+   "fr": "AVYNT Hybrid Arena a organisé la III Avynt Hyrox Simulation le 1er août 2026, la troisième étape de l'AVYNT League de l'année, avec un plateau complet enchaînant 8 km de course et huit ateliers de force à Vila Nova de Gaia.",
+   "it": "AVYNT Hybrid Arena ha organizzato la III Avynt Hyrox Simulation il 1° agosto 2026, la terza tappa dell'AVYNT League dell'anno, con iscrizioni esaurite impegnate in 8 km di corsa e otto stazioni di forza a Vila Nova de Gaia."
   },
   "card-h1__field__meta": {
    "en": "Image Media coverage",
@@ -99,25 +99,25 @@ window.IM_I18N = {
    "it": "Leggi tutto →"
   },
   "card-h2__field__tag": {
-   "en": "Athletics",
-   "pt": "Atletismo",
-   "es": "Atletismo",
-   "fr": "Athlétisme",
-   "it": "Atletica"
+   "en": "Football",
+   "pt": "Futebol",
+   "es": "Fútbol",
+   "fr": "Football",
+   "it": "Calcio"
   },
   "card-h2__field__title": {
-   "en": "González Rivera And Tisalema Win III Viamed Media Maratón Ciudad De Chiclana",
-   "pt": "González Rivera E Tisalema Vencem A III Viamed Media Maratón Ciudad De Chiclana",
-   "es": "González Rivera Y Tisalema Ganan La III Viamed Media Maratón Ciudad De Chiclana",
-   "fr": "González Rivera Et Tisalema Remportent La III Viamed Media Maratón Ciudad De Chiclana",
-   "it": "González Rivera E Tisalema Vincono La III Viamed Media Maratón Ciudad De Chiclana"
+   "en": "Leixões and Benjamin Kanuric Agree to Contract Termination",
+   "pt": "Leixões E Benjamin Kanuric Chegam A Acordo Para Rescisão De Contrato",
+   "es": "Leixões Y Benjamin Kanuric Acuerdan La Rescisión Del Contrato",
+   "fr": "Leixões Et Benjamin Kanuric S'Accordent Sur La Résiliation Du Contrat",
+   "it": "Leixões E Benjamin Kanuric Trovano L'Accordo Per La Risoluzione Del Contratto"
   },
   "card-h2__field__deck": {
-   "en": "Jorge González Rivera set a new course record and Katherine Tisalema Puruncaja won the women's race, as a record 2,800 runners from 33 countries took part in Chiclana's first officially homologated half marathon on 19 April 2026.",
-   "pt": "Jorge González Rivera bateu o recorde do percurso e Katherine Tisalema Puruncaja venceu a corrida feminina, numa prova que reuniu um recorde de 2.800 corredores de 33 países na primeira meia maratona oficialmente homologada de Chiclana, a 19 de abril de 2026.",
-   "es": "Jorge González Rivera batió el récord del recorrido y Katherine Tisalema Puruncaja ganó la carrera femenina, en una prueba que reunió a un récord de 2.800 corredores de 33 países en la primera media maratón oficialmente homologada de Chiclana, el 19 de abril de 2026.",
-   "fr": "Jorge González Rivera a battu le record du parcours et Katherine Tisalema Puruncaja a remporté la course féminine, alors qu'un nombre record de 2 800 coureurs venus de 33 pays ont pris part au premier semi-marathon officiellement homologué de Chiclana, le 19 avril 2026.",
-   "it": "Jorge González Rivera ha battuto il record del percorso e Katherine Tisalema Puruncaja ha vinto la gara femminile, in una prova che ha visto un record di 2.800 corridori provenienti da 33 paesi prendere parte alla prima mezza maratona ufficialmente omologata di Chiclana, il 19 aprile 2026."
+   "en": "The Austrian midfielder leaves Estádio do Mar by mutual agreement after 16 appearances, three goals and two assists.",
+   "pt": "O médio austríaco deixa o Estádio do Mar por mútuo acordo após 16 jogos, três golos e duas assistências.",
+   "es": "El centrocampista austríaco deja el Estádio do Mar de mutuo acuerdo tras 16 partidos, tres goles y dos asistencias.",
+   "fr": "Le milieu de terrain autrichien quitte l'Estádio do Mar d'un commun accord après 16 matches, trois buts et deux passes décisives.",
+   "it": "Il centrocampista austriaco lascia l'Estádio do Mar di comune accordo dopo 16 presenze, tre gol e due assist."
   },
   "card-h2__field__meta": {
    "en": "Image Media coverage",
@@ -134,25 +134,25 @@ window.IM_I18N = {
    "it": "Leggi tutto →"
   },
   "card-h3__field__tag": {
-   "en": "Cycling",
-   "pt": "Ciclismo",
-   "es": "Ciclismo",
-   "fr": "Cyclisme",
-   "it": "Ciclismo"
+   "en": "Football",
+   "pt": "Futebol",
+   "es": "Fútbol",
+   "fr": "Football",
+   "it": "Calcio"
   },
   "card-h3__field__title": {
-   "en": "Fischer And Benedito Win Preeuropeo Templarios MTB Race In Jerez De Los Caballeros",
-   "pt": "Fischer E Benedito Vencem A Preeuropeo Templarios MTB Race Em Jerez De Los Caballeros",
-   "es": "Fischer Y Benedito Ganan La Preeuropeo Templarios MTB Race En Jerez De Los Caballeros",
-   "fr": "Fischer Et Benedito Remportent La Preeuropeo Templarios MTB Race À Jerez De Los Caballeros",
-   "it": "Fischer E Benedito Vincono La Preeuropeo Templarios MTB Race A Jerez De Los Caballeros"
+   "en": "Slough Town Build Momentum Ahead Of National League South Opener",
+   "pt": "Slough Town Ganha Confiança Antes Da Estreia Na National League South",
+   "es": "Slough Town Gana Confianza Antes Del Estreno En La National League South",
+   "fr": "Le Slough Town Prend De L'Élan Avant Son Entrée En National League South",
+   "it": "Lo Slough Town Guadagna Fiducia Prima Dell'Esordio In National League South"
   },
   "card-h3__field__deck": {
-   "en": "The UCI-sanctioned marathon served as an official test event for the 2027 European MTB Marathon Championship, drawing riders to the Templar stronghold of Jerez de los Caballeros on 12 April 2026.",
-   "pt": "A maratona reconhecida pela UCI serviu como evento-teste oficial para o Campeonato Europeu de Maratona BTT de 2027, atraindo ciclistas à fortaleza templária de Jerez de los Caballeros a 12 de abril de 2026.",
-   "es": "La maratón reconocida por la UCI sirvió como evento de test oficial para el Campeonato de Europa de Maratón BTT 2027, atrayendo a corredores a la fortaleza templaria de Jerez de los Caballeros el 12 de abril de 2026.",
-   "fr": "Ce marathon homologué par l'UCI a servi d'épreuve test officielle pour le Championnat d'Europe de Marathon VTT 2027, attirant les coureurs vers la forteresse templière de Jerez de los Caballeros le 12 avril 2026.",
-   "it": "La maratona riconosciuta dall'UCI è stata l'evento test ufficiale per il Campionato Europeo di Maratona MTB 2027, richiamando i corridori nella fortezza templare di Jerez de los Caballeros il 12 aprile 2026."
+   "en": "A pre-season win over Oxford City, nine summer signings and Alan Julian's first campaign in charge set the tone before the Rebels host Ebbsfleet United.",
+   "pt": "Uma vitória de pré-época sobre o Oxford City, nove reforços de verão e a primeira época de Alan Julian no comando dão o tom antes de os Rebels receberem o Ebbsfleet United.",
+   "es": "Una victoria de pretemporada ante el Oxford City, nueve fichajes de verano y la primera temporada de Alan Julian al mando marcan la pauta antes de que los Rebels reciban al Ebbsfleet United.",
+   "fr": "Une victoire de pré-saison face à Oxford City, neuf recrues estivales et la première saison d'Alan Julian aux commandes donnent le ton avant que les Rebels ne reçoivent Ebbsfleet United.",
+   "it": "Una vittoria in amichevole precampionato contro l'Oxford City, nove acquisti estivi e la prima stagione di Alan Julian alla guida danno il tono prima che i Rebels ospitino l'Ebbsfleet United."
   },
   "card-h3__field__meta": {
    "en": "Image Media coverage",
@@ -183,11 +183,11 @@ window.IM_I18N = {
    "it": "Funzionale"
   },
   "home-latest1-title": {
-   "en": "The Battle Games Marks Tenth Edition With Over 800 Athletes In Castellón",
-   "pt": "The Battle Games Assinala a Décima Edição Com Mais de 800 Atletas Em Castellón",
-   "es": "The Battle Games Celebra Su Décima Edición Con Más de 800 Atletas En Castellón",
-   "fr": "The Battle Games Marque Sa Dixième Édition Avec Plus de 800 Athlètes À Castellón",
-   "it": "The Battle Games Celebra La Decima Edizione Con Oltre 800 Atleti A Castellón"
+   "en": "190 Athletes Compete As Trident Battle Returns To Nettuno For Fourth Edition",
+   "pt": "190 Atletas Competem Enquanto A Trident Battle Regressa A Nettuno Para A Quarta Edição",
+   "es": "190 Atletas Compiten Mientras La Trident Battle Regresa A Nettuno Para Su Cuarta Edición",
+   "fr": "190 Athlètes En Compétition Alors Que La Trident Battle Revient À Nettuno Pour Sa Quatrième Édition",
+   "it": "190 Atleti In Gara Mentre La Trident Battle Torna A Nettuno Per La Quarta Edizione"
   },
   "home-latest1-meta": {
    "en": "Image Media coverage",
@@ -204,11 +204,11 @@ window.IM_I18N = {
    "it": "Atletica"
   },
   "home-latest2-title": {
-   "en": "Aferdi And Ouhaddou Crowned Spanish Half Marathon Champions At XX Media Maratón De Mérida",
-   "pt": "Aferdi E Ouhaddou Sagram-Se Campeões De Espanha De Meia Maratona Na XX Media Maratón De Mérida",
-   "es": "Aferdi Y Ouhaddou Se Proclaman Campeones De España De Media Maratón En La XX Media Maratón De Mérida",
-   "fr": "Aferdi Et Ouhaddou Sacrés Champions D'Espagne Du Semi-Marathon À La XXe Media Maratón De Mérida",
-   "it": "Aferdi E Ouhaddou Campioni Di Spagna Di Mezza Maratona Alla XX Media Maratón De Mérida"
+   "en": "XI Carrera Nocturna Del Alamillo Lights Up Sevilla's Parque Del Alamillo For Torch-Lit 5K Night Race",
+   "pt": "XI Carrera Nocturna Del Alamillo Ilumina O Parque Del Alamillo De Sevilha Com Corrida Noturna De 5K À Luz De Tochas",
+   "es": "La XI Carrera Nocturna Del Alamillo Ilumina El Parque Del Alamillo De Sevilla Con Una Carrera Nocturna De 5K A La Luz De Antorchas",
+   "fr": "La XI Carrera Nocturna Del Alamillo Illumine Le Parque Del Alamillo De Séville Pour Une Course Nocturne De 5 Km Aux Flambeaux",
+   "it": "La XI Carrera Nocturna Del Alamillo Illumina Il Parque Del Alamillo Di Siviglia Con Una Corsa Notturna Di 5K Alla Luce Delle Torce"
   },
   "home-latest2-meta": {
    "en": "Image Media coverage",
@@ -225,11 +225,11 @@ window.IM_I18N = {
    "it": "Ciclismo"
   },
   "home-latest3-title": {
-   "en": "Cingles Gravel Alcover Brings Cycling And Solidarity Together In Alt Camp",
-   "pt": "Cingles Gravel Alcover Une Ciclismo E Solidariedade No Alt Camp",
-   "es": "Cingles Gravel Alcover Une Ciclismo Y Solidaridad En El Alt Camp",
-   "fr": "Cingles Gravel Alcover Réunit Cyclisme Et Solidarité Dans L'Alt Camp",
-   "it": "Cingles Gravel Alcover Unisce Ciclismo E Solidarietà Nell'Alt Camp"
+   "en": "Sergio Samitier Heads Third Edition Of La Magia Del Grial As Nearly 700 Cyclists Take On Huesca's Sierra De Guara",
+   "pt": "Sergio Samitier Lidera Terceira Edição De La Magia Del Grial Com Quase 700 Ciclistas A Enfrentar A Sierra De Guara Em Huesca",
+   "es": "Sergio Samitier Encabeza La Tercera Edición De La Magia Del Grial Con Casi 700 Ciclistas Ante La Sierra De Guara En Huesca",
+   "fr": "Sergio Samitier En Tête De La Troisième Édition De La Magia Del Grial Avec Près De 700 Cyclistes Affrontant La Sierra De Guara À Huesca",
+   "it": "Sergio Samitier Guida La Terza Edizione Di La Magia Del Grial Con Quasi 700 Ciclisti Alla Sierra De Guara Di Huesca"
   },
   "home-latest3-meta": {
    "en": "Image Media coverage",
@@ -239,18 +239,18 @@ window.IM_I18N = {
    "it": "Copertura Image Media"
   },
   "home-latest4-tag": {
-   "en": "Cycling",
-   "pt": "Ciclismo",
-   "es": "Ciclismo",
-   "fr": "Cyclisme",
-   "it": "Ciclismo"
+   "en": "Functional",
+   "pt": "Funcional",
+   "es": "Funcional",
+   "fr": "Fonctionnel",
+   "it": "Funzionale"
   },
   "home-latest4-title": {
-   "en": "Blas Rivero And Michela Santini Win Two-Day Desafío La Titánica In Gran Canaria",
-   "pt": "Blas Rivero E Michela Santini Vencem O Desafío La Titánica De Dois Dias Na Gran Canaria",
-   "es": "Blas Rivero Y Michela Santini Ganan El Desafío La Titánica De Dos Días En Gran Canaria",
-   "fr": "Blas Rivero Et Michela Santini Remportent Le Desafío La Titánica Sur Deux Jours À Grande Canarie",
-   "it": "Blas Rivero E Michela Santini Vincono Il Desafío La Titánica Di Due Giorni A Gran Canaria"
+   "en": "AVYNT Hybrid Arena Hosts II Avynt Hyrox Simulation With 190 Registered In Vila Nova De Gaia",
+   "pt": "AVYNT Hybrid Arena Recebe II Avynt Hyrox Simulation Com 190 Inscritos Em Vila Nova De Gaia",
+   "es": "AVYNT Hybrid Arena Acoge La II Avynt Hyrox Simulation Con 190 Inscritos En Vila Nova De Gaia",
+   "fr": "AVYNT Hybrid Arena Accueille La II Avynt Hyrox Simulation Avec 190 Inscrits À Vila Nova De Gaia",
+   "it": "AVYNT Hybrid Arena Ospita La II Avynt Hyrox Simulation Con 190 Iscritti A Vila Nova De Gaia"
   },
   "home-latest4-meta": {
    "en": "Image Media coverage",
@@ -267,11 +267,11 @@ window.IM_I18N = {
    "it": "Atletica"
   },
   "home-latest5-title": {
-   "en": "Ángel Mier And María Alles Win Fourth Trail Peña Cabarga In Solares",
-   "pt": "Ángel Mier E María Alles Vencem A Quarta Edição Do Trail Peña Cabarga Em Solares",
-   "es": "Ángel Mier Y María Alles Ganan La Cuarta Edición Del Trail Peña Cabarga En Solares",
-   "fr": "Ángel Mier Et María Alles Remportent La Quatrième Édition Du Trail Peña Cabarga À Solares",
-   "it": "Ángel Mier E María Alles Vincono La Quarta Edizione Del Trail Peña Cabarga A Solares"
+   "en": "Workneh Fikire Serbessa And Eva Piñel Lorenzo Win Tenth SantYaGo10K Night Race Through Santiago De Compostela",
+   "pt": "Workneh Fikire Serbessa E Eva Piñel Lorenzo Vencem Décima SantYaGo10K, Corrida Noturna Por Santiago De Compostela",
+   "es": "Workneh Fikire Serbessa Y Eva Piñel Lorenzo Ganan La Décima SantYaGo10K, Carrera Nocturna Por Santiago De Compostela",
+   "fr": "Workneh Fikire Serbessa Et Eva Piñel Lorenzo Remportent La Dixième SantYaGo10K, Course Nocturne À Santiago De Compostela",
+   "it": "Workneh Fikire Serbessa Ed Eva Piñel Lorenzo Vincono La Decima SantYaGo10K, Corsa Notturna A Santiago De Compostela"
   },
   "home-latest5-meta": {
    "en": "Image Media coverage",
