@@ -8970,6 +8970,216 @@ window.IM_I18N = {
   "fr": "Lire plus →",
   "it": "Leggi di più →"
  },
+ "a42-tag": {
+  "en": "Cycling",
+  "pt": "Ciclismo",
+  "es": "Ciclismo",
+  "fr": "Cyclisme",
+  "it": "Ciclismo"
+ },
+ "a42-title": {
+  "en": "Sergio Samitier Heads Third Edition Of La Magia Del Grial As Nearly 700 Cyclists Take On Huesca's Sierra De Guara",
+  "pt": "Sergio Samitier Lidera Terceira Edição De La Magia Del Grial Com Quase 700 Ciclistas A Enfrentar A Sierra De Guara Em Huesca",
+  "es": "Sergio Samitier Encabeza La Tercera Edición De La Magia Del Grial Con Casi 700 Ciclistas Ante La Sierra De Guara En Huesca",
+  "fr": "Sergio Samitier En Tête De La Troisième Édition De La Magia Del Grial Avec Près De 700 Cyclistes Affrontant La Sierra De Guara À Huesca",
+  "it": "Sergio Samitier Guida La Terza Edizione Di La Magia Del Grial Con Quasi 700 Ciclisti Alla Sierra De Guara Di Huesca"
+ },
+ "a42-deck": {
+  "en": "Club Ciclista Oscense and the Diputación Provincial de Huesca staged the third Marcha Cicloturista La Magia del Grial on 30 May 2026, sending riders out from the Palacio de Congresos onto Gran Fondo and Medio Fondo routes through the Hoya de Huesca and Sierra de Guara.",
+  "pt": "O Club Ciclista Oscense e a Diputación Provincial de Huesca organizaram a terceira Marcha Cicloturista La Magia del Grial em 30 de maio de 2026, com partida do Palacio de Congresos para os percursos Gran Fondo e Medio Fondo pela Hoya de Huesca e pela Sierra de Guara.",
+  "es": "El Club Ciclista Oscense y la Diputación Provincial de Huesca organizaron la tercera Marcha Cicloturista La Magia del Grial el 30 de mayo de 2026, con salida desde el Palacio de Congresos hacia los recorridos Gran Fondo y Medio Fondo por la Hoya de Huesca y la Sierra de Guara.",
+  "fr": "Le Club Ciclista Oscense et la Diputación Provincial de Huesca ont organisé la troisième Marcha Cicloturista La Magia del Grial le 30 mai 2026, avec un départ du Palacio de Congresos pour les parcours Gran Fondo et Medio Fondo à travers la Hoya de Huesca et la Sierra de Guara.",
+  "it": "Il Club Ciclista Oscense e la Diputación Provincial de Huesca hanno organizzato la terza Marcha Cicloturista La Magia del Grial il 30 maggio 2026, con partenza dal Palacio de Congresos per i percorsi Gran Fondo e Medio Fondo attraverso la Hoya de Huesca e la Sierra de Guara."
+ },
+ "a42-byline": {
+  "en": "By Image Media News Staff — Huesca, Spain",
+  "pt": "Por Equipa Image Media News — Huesca, Espanha",
+  "es": "Por el Equipo de Image Media News — Huesca, España",
+  "fr": "Par l'équipe d'Image Media News — Huesca, Espagne",
+  "it": "A cura del team di Image Media News — Huesca, Spagna"
+ },
+ "a42-hero-credit": {
+  "en": "Photo: Leandro Rocha / Image Media",
+  "pt": "Foto: Leandro Rocha / Image Media",
+  "es": "Foto: Leandro Rocha / Image Media",
+  "fr": "Photo : Leandro Rocha / Image Media",
+  "it": "Foto: Leandro Rocha / Image Media"
+ },
+ "a42-p1": {
+  "en": "La Magia del Grial returned to Huesca on Saturday 30 May 2026 for its third edition, with event coverage by the Image Media team. Organised by Club Ciclista Oscense and the Diputación Provincial de Huesca, the cicloturista sent around 700 riders away from the Palacio de Congresos at 7:30am on closed roads, choosing between a 185km Gran Fondo with roughly 2,300m of accumulated climbing and a 117km Medio Fondo with around 1,200m of climbing, both routes sharing early sections through Piracés — noted for rock fortifications dating to the 10th century — before the Gran Fondo continued deeper into the Sierra de Guara toward the Salto de Bierge waterfall and the Somontano wine region, and the Medio Fondo branched off near Angüés on its way toward the foothills of the same range.",
+  "pt": "La Magia del Grial regressou a Huesca no sábado, 30 de maio de 2026, para a sua terceira edição, com cobertura do evento pela equipa da Image Media. Organizada pelo Club Ciclista Oscense e pela Diputación Provincial de Huesca, a cicloturista fez partir cerca de 700 ciclistas do Palacio de Congresos às 7h30, em estradas cortadas ao trânsito, entre um Gran Fondo de 185 km com cerca de 2.300 m de desnível acumulado e um Medio Fondo de 117 km com cerca de 1.200 m de desnível, ambos os percursos partilhando os troços iniciais por Piracés — conhecida pelas fortificações rochosas que remontam ao século X — antes de o Gran Fondo avançar mais fundo pela Sierra de Guara em direção à cascata do Salto de Bierge e à região vinícola do Somontano, enquanto o Medio Fondo se separava perto de Angüés rumo ao sopé da mesma serra.",
+  "es": "La Magia del Grial regresó a Huesca el sábado 30 de mayo de 2026 para su tercera edición, con cobertura del evento por parte del equipo de Image Media. Organizada por el Club Ciclista Oscense y la Diputación Provincial de Huesca, la cicloturista hizo salir a cerca de 700 ciclistas desde el Palacio de Congresos a las 7:30h, por carreteras cortadas al tráfico, entre un Gran Fondo de 185 km con unos 2.300 m de desnivel acumulado y un Medio Fondo de 117 km con unos 1.200 m de desnivel, ambos recorridos compartiendo los primeros tramos por Piracés — conocida por sus fortificaciones rocosas que datan del siglo X — antes de que el Gran Fondo se adentrara más en la Sierra de Guara hacia el Salto de Bierge y la comarca vinícola del Somontano, mientras el Medio Fondo se desviaba cerca de Angüés hacia las faldas de la misma sierra.",
+  "fr": "La Magia del Grial est revenue à Huesca le samedi 30 mai 2026 pour sa troisième édition, avec une couverture de l'événement par l'équipe d'Image Media. Organisée par le Club Ciclista Oscense et la Diputación Provincial de Huesca, la cicloturista a fait partir environ 700 cyclistes du Palacio de Congresos à 7h30, sur routes fermées à la circulation, avec le choix entre un Gran Fondo de 185 km et environ 2 300 m de dénivelé cumulé et un Medio Fondo de 117 km avec environ 1 200 m de dénivelé, les deux parcours partageant les premiers tronçons par Piracés — connue pour ses fortifications rocheuses datant du Xe siècle — avant que le Gran Fondo ne s'enfonce plus loin dans la Sierra de Guara vers la cascade du Salto de Bierge et la région viticole du Somontano, tandis que le Medio Fondo bifurquait près d'Angüés vers les contreforts du même massif.",
+  "it": "La Magia del Grial è tornata a Huesca sabato 30 maggio 2026 per la sua terza edizione, con la copertura dell'evento a cura del team di Image Media. Organizzata dal Club Ciclista Oscense e dalla Diputación Provincial de Huesca, la cicloturista ha fatto partire circa 700 ciclisti dal Palacio de Congresos alle 7:30, su strade chiuse al traffico, tra un Gran Fondo di 185 km con circa 2.300 m di dislivello accumulato e un Medio Fondo di 117 km con circa 1.200 m di dislivello, entrambi i percorsi condividendo i primi tratti attraverso Piracés — nota per le fortificazioni rocciose risalenti al X secolo — prima che il Gran Fondo proseguisse più a fondo nella Sierra de Guara verso la cascata del Salto de Bierge e la regione vinicola del Somontano, mentre il Medio Fondo si separava vicino ad Angüés verso le pendici della stessa catena montuosa."
+ },
+ "a42-inline1-credit": {
+  "en": "Photo: Leandro Rocha / Image Media",
+  "pt": "Foto: Leandro Rocha / Image Media",
+  "es": "Foto: Leandro Rocha / Image Media",
+  "fr": "Photo : Leandro Rocha / Image Media",
+  "it": "Foto: Leandro Rocha / Image Media"
+ },
+ "a42-p2": {
+  "en": "Cofidis professional Sergio Samitier, riding as guest of honour with bib number 1, won the Gran Fondo in 4:27:00, finishing nine minutes clear of Daniel López Fontana of Club Ciclista Edelweiss, who also took the Master +40 category, with France's Danies Camille third and the leading amateur finisher. Chus Til, of Huesca, won the women's Gran Fondo. On the Medio Fondo, Luis Aranda of Agrupación Deportiva Huecha took the men's win in 2:46:21 ahead of Antonio Marín and Iñaki Echeverría, while France's Sylvie Marco led the women's field ahead of Ana Zabala and Jennay Cervantes. Organisers classified close to 400 finishers on the Gran Fondo and 298 on the Medio Fondo. Route changes tied to roadworks on the A-132 diverted this year's course away from the Monasterio de San Juan de la Peña, previously a fixture of the marcha, and into the Sierra de Guara instead.",
+  "pt": "O profissional da Cofidis Sergio Samitier, a competir como convidado de honra com o dorsal número 1, venceu o Gran Fondo em 4:27:00, terminando nove minutos à frente de Daniel López Fontana, do Club Ciclista Edelweiss, que também venceu a categoria Master +40, com o francês Danies Camille em terceiro e como melhor cicloturista amador. Chus Til, de Huesca, venceu o Gran Fondo feminino. No Medio Fondo, Luis Aranda, da Agrupación Deportiva Huecha, venceu a categoria masculina em 2:46:21, à frente de Antonio Marín e Iñaki Echeverría, enquanto a francesa Sylvie Marco liderou o pelotão feminino à frente de Ana Zabala e Jennay Cervantes. Os organizadores classificaram cerca de 400 concluintes no Gran Fondo e 298 no Medio Fondo. Alterações no percurso, devido a obras na estrada A-132, desviaram este ano o traçado do Monasterio de San Juan de la Peña, habitual na marcha, passando antes pela Sierra de Guara.",
+  "es": "El profesional de Cofidis Sergio Samitier, participando como invitado de honor con el dorsal número 1, ganó el Gran Fondo en 4:27:00, terminando nueve minutos por delante de Daniel López Fontana, del Club Ciclista Edelweiss, que además se impuso en la categoría Master +40, con el francés Danies Camille tercero y como mejor cicloturista amateur. Chus Til, de Huesca, ganó el Gran Fondo femenino. En el Medio Fondo, Luis Aranda, de la Agrupación Deportiva Huecha, se impuso en categoría masculina con 2:46:21, por delante de Antonio Marín e Iñaki Echeverría, mientras que la francesa Sylvie Marco lideró la clasificación femenina por delante de Ana Zabala y Jennay Cervantes. Los organizadores clasificaron a cerca de 400 finishers en el Gran Fondo y 298 en el Medio Fondo. Cambios de recorrido por obras en la A-132 desviaron este año el trazado, alejándolo del Monasterio de San Juan de la Peña, habitual en la marcha, y llevándolo por la Sierra de Guara.",
+  "fr": "Le professionnel de Cofidis Sergio Samitier, invité d'honneur portant le dossard numéro 1, a remporté le Gran Fondo en 4h27'00, terminant neuf minutes devant Daniel López Fontana, du Club Ciclista Edelweiss, également vainqueur de la catégorie Master +40, le Français Danies Camille prenant la troisième place et meilleur cyclosportif amateur. Chus Til, de Huesca, a remporté le Gran Fondo féminin. Sur le Medio Fondo, Luis Aranda, de l'Agrupación Deportiva Huecha, s'est imposé chez les hommes en 2h46'21, devant Antonio Marín et Iñaki Echeverría, tandis que la Française Sylvie Marco a dominé le classement féminin devant Ana Zabala et Jennay Cervantes. Les organisateurs ont classé près de 400 arrivants sur le Gran Fondo et 298 sur le Medio Fondo. Des modifications de parcours liées à des travaux sur l'A-132 ont écarté cette année le tracé du Monasterio de San Juan de la Peña, habituellement emprunté par la marcha, au profit de la Sierra de Guara.",
+  "it": "Il professionista Cofidis Sergio Samitier, in gara come ospite d'onore con il numero 1, ha vinto il Gran Fondo in 4:27:00, concludendo con nove minuti di vantaggio su Daniel López Fontana del Club Ciclista Edelweiss, vincitore anche della categoria Master +40, con il francese Danies Camille terzo e miglior cicloamatore. Chus Til, di Huesca, ha vinto il Gran Fondo femminile. Nel Medio Fondo, Luis Aranda dell'Agrupación Deportiva Huecha ha vinto la categoria maschile in 2:46:21, davanti ad Antonio Marín e Iñaki Echeverría, mentre la francese Sylvie Marco ha guidato la classifica femminile davanti ad Ana Zabala e Jennay Cervantes. Gli organizzatori hanno classificato quasi 400 arrivati nel Gran Fondo e 298 nel Medio Fondo. Modifiche al percorso legate ai lavori sulla A-132 hanno quest'anno deviato il tracciato dal Monasterio de San Juan de la Peña, tradizionalmente parte della marcha, portandolo invece nella Sierra de Guara."
+ },
+ "a42-stat": {
+  "en": "30 May 2026 · Huesca · La Magia del Grial, III edición",
+  "pt": "30 de maio de 2026 · Huesca · La Magia del Grial, III edición",
+  "es": "30 de mayo de 2026 · Huesca · La Magia del Grial, III edición",
+  "fr": "30 mai 2026 · Huesca · La Magia del Grial, III edición",
+  "it": "30 maggio 2026 · Huesca · La Magia del Grial, III edición"
+ },
+ "a42-p3": {
+  "en": "As in previous editions, a share of every entry fee went to Fundación Valentia under the marcha's solidarity partnership, with a dedicated \"Fila Cero\" category letting riders register in support without taking a start-line place.",
+  "pt": "Tal como em edições anteriores, parte de cada inscrição reverteu para a Fundación Valentia, no âmbito da parceria solidária da marcha, com uma categoria dedicada \"Fila Cero\" que permite inscrever-se em apoio sem ocupar um lugar na partida.",
+  "es": "Como en ediciones anteriores, parte de cada inscripción se destinó a la Fundación Valentia, dentro de la colaboración solidaria de la marcha, con una categoría específica \"Fila Cero\" que permite inscribirse en apoyo sin ocupar plaza en la salida.",
+  "fr": "Comme lors des éditions précédentes, une partie de chaque inscription a été reversée à la Fundación Valentia, dans le cadre du partenariat solidaire de la marcha, avec une catégorie dédiée « Fila Cero » permettant de s'inscrire en soutien sans occuper de place au départ.",
+  "it": "Come nelle edizioni precedenti, una parte di ogni iscrizione è andata alla Fundación Valentia, nell'ambito della partnership solidale della marcha, con una categoria dedicata \"Fila Cero\" che permette di iscriversi a sostegno senza occupare un posto alla partenza."
+ },
+ "a42-inline2-credit": {
+  "en": "Photo: Leandro Rocha / Image Media",
+  "pt": "Foto: Leandro Rocha / Image Media",
+  "es": "Foto: Leandro Rocha / Image Media",
+  "fr": "Photo : Leandro Rocha / Image Media",
+  "it": "Foto: Leandro Rocha / Image Media"
+ },
+ "a42-p4": {
+  "en": "The Image Media coverage team at La Magia del Grial comprised José Ramón Moreno, Casian Nicorescu and Leandro Rocha.",
+  "pt": "A equipa de cobertura da Image Media em La Magia del Grial foi composta por José Ramón Moreno, Casian Nicorescu e Leandro Rocha.",
+  "es": "El equipo de cobertura de Image Media en La Magia del Grial estuvo compuesto por José Ramón Moreno, Casian Nicorescu y Leandro Rocha.",
+  "fr": "L'équipe de couverture d'Image Media à La Magia del Grial était composée de José Ramón Moreno, Casian Nicorescu et Leandro Rocha.",
+  "it": "Il team di copertura di Image Media a La Magia del Grial era composto da José Ramón Moreno, Casian Nicorescu e Leandro Rocha."
+ },
+ "a42-tagpill1": {
+  "en": "La Magia del Grial",
+  "pt": "La Magia del Grial",
+  "es": "La Magia del Grial",
+  "fr": "La Magia del Grial",
+  "it": "La Magia del Grial"
+ },
+ "a42-tagpill2": {
+  "en": "Huesca",
+  "pt": "Huesca",
+  "es": "Huesca",
+  "fr": "Huesca",
+  "it": "Huesca"
+ },
+ "a42-tagpill3": {
+  "en": "Cycling",
+  "pt": "Ciclismo",
+  "es": "Ciclismo",
+  "fr": "Cyclisme",
+  "it": "Ciclismo"
+ },
+ "a42-related-title": {
+  "en": "More from Image Media",
+  "pt": "Mais da Image Media",
+  "es": "Más de Image Media",
+  "fr": "Plus d'Image Media",
+  "it": "Altro da Image Media"
+ },
+ "a42-related1-tag": {
+  "en": "Sports",
+  "pt": "Desporto",
+  "es": "Deportes",
+  "fr": "Sport",
+  "it": "Sport"
+ },
+ "a42-related1-title": {
+  "en": "See all Sports coverage",
+  "pt": "Ver toda a cobertura de Desporto",
+  "es": "Ver toda la cobertura de Deportes",
+  "fr": "Voir toute la couverture Sport",
+  "it": "Vedi tutta la copertura Sport"
+ },
+ "a42-related1-link": {
+  "en": "Visit section →",
+  "pt": "Visitar secção →",
+  "es": "Visitar sección →",
+  "fr": "Visiter la section →",
+  "it": "Visita la sezione →"
+ },
+ "a42-related2-tag": {
+  "en": "Image Media",
+  "pt": "Image Media",
+  "es": "Image Media",
+  "fr": "Image Media",
+  "it": "Image Media"
+ },
+ "a42-related2-title": {
+  "en": "How Image Media covers your event",
+  "pt": "Como a Image Media cobre o seu evento",
+  "es": "Cómo Image Media cubre tu evento",
+  "fr": "Comment Image Media couvre votre événement",
+  "it": "Come Image Media copre il tuo evento"
+ },
+ "a42-related2-link": {
+  "en": "Learn more →",
+  "pt": "Saber mais →",
+  "es": "Saber más →",
+  "fr": "En savoir plus →",
+  "it": "Scopri di più →"
+ },
+ "a42-related3-tag": {
+  "en": "Functional",
+  "pt": "Funcional",
+  "es": "Funcional",
+  "fr": "Fonctionnel",
+  "it": "Funzionale"
+ },
+ "a42-related3-title": {
+  "en": "Italian Showdown Returns To Rimini For Three Days Of CrossFit Competition Across Individual And Doubles Divisions",
+  "pt": "Italian Showdown Regressa A Rimini Com Três Dias De Competição De CrossFit Entre Divisões Individual E Duplas",
+  "es": "Italian Showdown Regresa A Rímini Con Tres Días De Competición De CrossFit Entre Divisiones Individual Y Dobles",
+  "fr": "L'Italian Showdown Revient À Rimini Pour Trois Jours De Compétition De CrossFit Entre Divisions Individuelle Et Doubles",
+  "it": "L'Italian Showdown Torna A Rimini Con Tre Giorni Di Competizione CrossFit Tra Divisioni Individuale E Doppio"
+ },
+ "a42-related3-link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
+ "card-s37__field__tag": {
+  "en": "Cycling",
+  "pt": "Ciclismo",
+  "es": "Ciclismo",
+  "fr": "Cyclisme",
+  "it": "Ciclismo"
+ },
+ "card-s37__field__title": {
+  "en": "Sergio Samitier Heads Third Edition Of La Magia Del Grial As Nearly 700 Cyclists Take On Huesca's Sierra De Guara",
+  "pt": "Sergio Samitier Lidera Terceira Edição De La Magia Del Grial Com Quase 700 Ciclistas A Enfrentar A Sierra De Guara Em Huesca",
+  "es": "Sergio Samitier Encabeza La Tercera Edición De La Magia Del Grial Con Casi 700 Ciclistas Ante La Sierra De Guara En Huesca",
+  "fr": "Sergio Samitier En Tête De La Troisième Édition De La Magia Del Grial Avec Près De 700 Cyclistes Affrontant La Sierra De Guara À Huesca",
+  "it": "Sergio Samitier Guida La Terza Edizione Di La Magia Del Grial Con Quasi 700 Ciclisti Alla Sierra De Guara Di Huesca"
+ },
+ "card-s37__field__deck": {
+  "en": "Club Ciclista Oscense and the Diputación Provincial de Huesca staged the third Marcha Cicloturista La Magia del Grial on 30 May 2026, sending riders out from the Palacio de Congresos onto Gran Fondo and Medio Fondo routes through the Hoya de Huesca and Sierra de Guara.",
+  "pt": "O Club Ciclista Oscense e a Diputación Provincial de Huesca organizaram a terceira Marcha Cicloturista La Magia del Grial em 30 de maio de 2026, com partida do Palacio de Congresos para os percursos Gran Fondo e Medio Fondo pela Hoya de Huesca e pela Sierra de Guara.",
+  "es": "El Club Ciclista Oscense y la Diputación Provincial de Huesca organizaron la tercera Marcha Cicloturista La Magia del Grial el 30 de mayo de 2026, con salida desde el Palacio de Congresos hacia los recorridos Gran Fondo y Medio Fondo por la Hoya de Huesca y la Sierra de Guara.",
+  "fr": "Le Club Ciclista Oscense et la Diputación Provincial de Huesca ont organisé la troisième Marcha Cicloturista La Magia del Grial le 30 mai 2026, avec un départ du Palacio de Congresos pour les parcours Gran Fondo et Medio Fondo à travers la Hoya de Huesca et la Sierra de Guara.",
+  "it": "Il Club Ciclista Oscense e la Diputación Provincial de Huesca hanno organizzato la terza Marcha Cicloturista La Magia del Grial il 30 maggio 2026, con partenza dal Palacio de Congresos per i percorsi Gran Fondo e Medio Fondo attraverso la Hoya de Huesca e la Sierra de Guara."
+ },
+ "card-s37__field__meta": {
+  "en": "Image Media coverage",
+  "pt": "Cobertura Image Media",
+  "es": "Cobertura de Image Media",
+  "fr": "Couverture Image Media",
+  "it": "Copertura Image Media"
+ },
+ "card-s37__field__link": {
+  "en": "Read more →",
+  "pt": "Ler mais →",
+  "es": "Leer más →",
+  "fr": "Lire plus →",
+  "it": "Leggi di più →"
+ },
  },
  "chrome": {
   "nav.home": {
