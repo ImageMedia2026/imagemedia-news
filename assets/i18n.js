@@ -11326,6 +11326,209 @@ window.IM_I18N = {
    "es": "Leer más →",
    "fr": "Lire plus →",
    "it": "Leggi di più →"
+  },
+  "a51-tag": {
+   "en": "Functional",
+   "pt": "Funcional",
+   "es": "Funcional",
+   "fr": "Fonctionnel",
+   "it": "Funzionale"
+  },
+  "a51-title": {
+   "en": "OVX Games Stages Non-Stop Hybrid Fitness Race At Oeiras' Estádio Municipal Mário Wilson",
+   "pt": "OVX Games Realiza Corrida Híbrida Sem Paragens No Estádio Municipal Mário Wilson, Em Oeiras",
+   "es": "OVX Games Celebra Carrera Híbrida Sin Pausas En El Estádio Municipal Mário Wilson De Oeiras",
+   "fr": "OVX Games Organise Une Course Hybride Sans Interruption À L'Estádio Municipal Mário Wilson D'Oeiras",
+   "it": "OVX Games Organizza Una Gara Ibrida Senza Soste Allo Estádio Municipal Mário Wilson Di Oeiras"
+  },
+  "a51-deck": {
+   "en": "Singles and doubles athletes tackled OVX Games' continuous run-and-station format on 20 June 2026, with OzonGym and Off Limits Oeiras named as partner gyms and event coverage by the Image Media team.",
+   "pt": "Atletas a solo e em duplas enfrentaram o formato contínuo de corrida e estações da OVX Games, a 20 de junho de 2026, com a OzonGym e a Off Limits Oeiras como ginásios parceiros e cobertura do evento pela equipa da Image Media.",
+   "es": "Atletas individuales y en parejas afrontaron el formato continuo de carrera y estaciones de OVX Games el 20 de junio de 2026, con OzonGym y Off Limits Oeiras como gimnasios asociados y cobertura del evento por parte del equipo de Image Media.",
+   "fr": "Des athlètes en individuel et en binômes ont affronté le format continu course-et-stations d'OVX Games le 20 juin 2026, avec OzonGym et Off Limits Oeiras comme salles partenaires et une couverture de l'événement par l'équipe d'Image Media.",
+   "it": "Atleti singoli e in coppia hanno affrontato il formato continuo di corsa e stazioni di OVX Games il 20 giugno 2026, con OzonGym e Off Limits Oeiras come palestre partner e la copertura dell'evento a cura del team di Image Media."
+  },
+  "a51-byline": {
+   "en": "By Image Media News Staff — Oeiras, Portugal",
+   "pt": "Por Image Media News Staff — Oeiras, Portugal",
+   "es": "Por Image Media News Staff — Oeiras, Portugal",
+   "fr": "Par Image Media News Staff — Oeiras, Portugal",
+   "it": "Di Image Media News Staff — Oeiras, Portogallo"
+  },
+  "a51-hero-credit": {
+   "en": "Photo: Lucas Araújo / Image Media",
+   "pt": "Foto: Lucas Araújo / Image Media",
+   "es": "Foto: Lucas Araújo / Image Media",
+   "fr": "Photo : Lucas Araújo / Image Media",
+   "it": "Foto: Lucas Araújo / Image Media"
+  },
+  "a51-p1": {
+   "en": "OVX Games staged its Hybrid Performance event at Estádio Municipal Mário Wilson in Oeiras, Portugal, on Saturday 20 June 2026, with event coverage by the Image Media team. The competition began at 8:00am and followed a continuous run-and-station format: a kilometre of running alternated with a station of two strength exercises, repeated through the course of the event and finishing with a 100-metre sprint. Organisers said the event was staged at the invitation of the Oeiras Municipal Council, which challenged them to bring the format to the city.",
+   "pt": "A OVX Games realizou o seu evento Hybrid Performance no Estádio Municipal Mário Wilson, em Oeiras, Portugal, no sábado, 20 de junho de 2026, com cobertura do evento pela equipa da Image Media. A competição começou às 8h00 e seguiu um formato contínuo de corrida e estações: um quilómetro de corrida alternado com uma estação de dois exercícios de força, repetido ao longo da prova e terminando com um sprint de 100 metros. Os organizadores afirmaram que o evento foi realizado a convite da Câmara Municipal de Oeiras, que os desafiou a trazer o formato para a cidade.",
+   "es": "OVX Games celebró su evento Hybrid Performance en el Estádio Municipal Mário Wilson, en Oeiras, Portugal, el sábado 20 de junio de 2026, con cobertura del evento por parte del equipo de Image Media. La competición comenzó a las 8:00h y siguió un formato continuo de carrera y estaciones: un kilómetro de carrera alternado con una estación de dos ejercicios de fuerza, repetido a lo largo de la prueba y terminando con un esprint de 100 metros. Los organizadores afirmaron que el evento se celebró por invitación del Ayuntamiento de Oeiras, que les desafió a traer el formato a la ciudad.",
+   "fr": "OVX Games a organisé son événement Hybrid Performance à l'Estádio Municipal Mário Wilson d'Oeiras, au Portugal, le samedi 20 juin 2026, avec une couverture de l'événement par l'équipe d'Image Media. La compétition a débuté à 8h00 et a suivi un format continu course-et-stations : un kilomètre de course alterné avec une station de deux exercices de force, répété tout au long de l'épreuve et se terminant par un sprint de 100 mètres. Les organisateurs ont indiqué que l'événement avait été organisé à l'invitation de la mairie d'Oeiras, qui les avait mis au défi d'apporter ce format à la ville.",
+   "it": "OVX Games ha organizzato il suo evento Hybrid Performance allo Estádio Municipal Mário Wilson di Oeiras, in Portogallo, sabato 20 giugno 2026, con la copertura dell'evento a cura del team di Image Media. La competizione è iniziata alle 8:00 e ha seguito un formato continuo di corsa e stazioni: un chilometro di corsa alternato a una stazione con due esercizi di forza, ripetuto per tutta la gara e concluso con uno sprint di 100 metri. Gli organizzatori hanno dichiarato che l'evento si è svolto su invito del Comune di Oeiras, che li ha sfidati a portare il formato in città."
+  },
+  "a51-inline1-credit": {
+   "en": "Photo: Regis Souza / Image Media",
+   "pt": "Foto: Regis Souza / Image Media",
+   "es": "Foto: Regis Souza / Image Media",
+   "fr": "Photo : Regis Souza / Image Media",
+   "it": "Foto: Regis Souza / Image Media"
+  },
+  "a51-p2": {
+   "en": "Athletes competed across Singles and Doubles divisions, each split into PRO and OPEN levels, with doubles run as men's, women's and mixed pairs. OzonGym, whose owner Marco Lapa helped organise the event, and Off Limits Oeiras were both named as partner gyms for the competition.",
+   "pt": "Os atletas competiram nas divisões Singles e Doubles, cada uma dividida em níveis PRO e OPEN, com a categoria Doubles disputada em duplas masculinas, femininas e mistas. A OzonGym, cujo proprietário, Marco Lapa, ajudou a organizar o evento, e a Off Limits Oeiras foram ambas indicadas como ginásios parceiros da competição.",
+   "es": "Los atletas compitieron en las divisiones Singles y Doubles, cada una dividida en niveles PRO y OPEN, con la categoría Doubles disputada en parejas masculinas, femeninas y mixtas. OzonGym, cuyo propietario, Marco Lapa, ayudó a organizar el evento, y Off Limits Oeiras fueron nombrados gimnasios asociados de la competición.",
+   "fr": "Les athlètes ont concouru dans les divisions Singles et Doubles, chacune divisée en niveaux PRO et OPEN, la catégorie Doubles se disputant en binômes masculins, féminins et mixtes. OzonGym, dont le propriétaire Marco Lapa a aidé à organiser l'événement, et Off Limits Oeiras ont tous deux été désignés salles partenaires de la compétition.",
+   "it": "Gli atleti hanno gareggiato nelle divisioni Singles e Doubles, ciascuna suddivisa nei livelli PRO e OPEN, con la categoria Doubles disputata in coppie maschili, femminili e miste. OzonGym, il cui proprietario Marco Lapa ha contribuito a organizzare l'evento, e Off Limits Oeiras sono state entrambe indicate come palestre partner della competizione."
+  },
+  "a51-stat": {
+   "en": "20 June 2026 · Estádio Municipal Mário Wilson, Oeiras · OVX Games · Singles & Doubles, PRO & OPEN divisions",
+   "pt": "20 de junho de 2026 · Estádio Municipal Mário Wilson, Oeiras · OVX Games · Divisões Singles & Doubles, PRO & OPEN",
+   "es": "20 de junio de 2026 · Estádio Municipal Mário Wilson, Oeiras · OVX Games · Divisiones Singles & Doubles, PRO & OPEN",
+   "fr": "20 juin 2026 · Estádio Municipal Mário Wilson, Oeiras · OVX Games · Divisions Singles & Doubles, PRO & OPEN",
+   "it": "20 giugno 2026 · Estádio Municipal Mário Wilson, Oeiras · OVX Games · Divisioni Singles & Doubles, PRO & OPEN"
+  },
+  "a51-inline2-credit": {
+   "en": "Photo: Jéssica Freitas / Image Media",
+   "pt": "Foto: Jéssica Freitas / Image Media",
+   "es": "Foto: Jéssica Freitas / Image Media",
+   "fr": "Photo : Jéssica Freitas / Image Media",
+   "it": "Foto: Jéssica Freitas / Image Media"
+  },
+  "a51-p3": {
+   "en": "The Image Media coverage team at OVX Games comprised Luis Moreira, Lucas Araújo, Jéssica Freitas and Regis Souza.",
+   "pt": "A equipa de cobertura da Image Media na OVX Games foi composta por Luis Moreira, Lucas Araújo, Jéssica Freitas e Regis Souza.",
+   "es": "El equipo de cobertura de Image Media en OVX Games estuvo compuesto por Luis Moreira, Lucas Araújo, Jéssica Freitas y Regis Souza.",
+   "fr": "L'équipe de couverture d'Image Media à OVX Games était composée de Luis Moreira, Lucas Araújo, Jéssica Freitas et Regis Souza.",
+   "it": "Il team di copertura di Image Media a OVX Games era composto da Luis Moreira, Lucas Araújo, Jéssica Freitas e Regis Souza."
+  },
+  "a51-tagpill1": {
+   "en": "OVX Games",
+   "pt": "OVX Games",
+   "es": "OVX Games",
+   "fr": "OVX Games",
+   "it": "OVX Games"
+  },
+  "a51-tagpill2": {
+   "en": "Oeiras",
+   "pt": "Oeiras",
+   "es": "Oeiras",
+   "fr": "Oeiras",
+   "it": "Oeiras"
+  },
+  "a51-tagpill3": {
+   "en": "Functional",
+   "pt": "Funcional",
+   "es": "Funcional",
+   "fr": "Fonctionnel",
+   "it": "Funzionale"
+  },
+  "a51-related-title": {
+   "en": "More from Image Media",
+   "pt": "Mais da Image Media",
+   "es": "Más de Image Media",
+   "fr": "Plus d'Image Media",
+   "it": "Altro da Image Media"
+  },
+  "a51-related1-tag": {
+   "en": "Sports",
+   "pt": "Desporto",
+   "es": "Deportes",
+   "fr": "Sport",
+   "it": "Sport"
+  },
+  "a51-related1-title": {
+   "en": "See all Sports coverage",
+   "pt": "Ver toda a cobertura de Desporto",
+   "es": "Ver toda la cobertura de Deportes",
+   "fr": "Voir toute la couverture Sport",
+   "it": "Vedi tutta la copertura Sport"
+  },
+  "a51-related1-link": {
+   "en": "Visit section →",
+   "pt": "Visitar secção →",
+   "es": "Visitar sección →",
+   "fr": "Visiter la section →",
+   "it": "Visita la sezione →"
+  },
+  "a51-related2-tag": {
+   "en": "Image Media",
+   "pt": "Image Media",
+   "es": "Image Media",
+   "fr": "Image Media",
+   "it": "Image Media"
+  },
+  "a51-related2-title": {
+   "en": "How Image Media covers your event",
+   "pt": "Como a Image Media cobre o seu evento",
+   "es": "Cómo Image Media cubre tu evento",
+   "fr": "Comment Image Media couvre votre événement",
+   "it": "Come Image Media copre il tuo evento"
+  },
+  "a51-related2-link": {
+   "en": "Learn more →",
+   "pt": "Saber mais →",
+   "es": "Saber más →",
+   "fr": "En savoir plus →",
+   "it": "Scopri di più →"
+  },
+  "a51-related3-tag": {
+   "en": "Athletics",
+   "pt": "Atletismo",
+   "es": "Atletismo",
+   "fr": "Athlétisme",
+   "it": "Atletica"
+  },
+  "a51-related3-title": {
+   "en": "Yago González And Beatriz Fernández Win V Carmiña Carreira In Marín",
+   "pt": "Yago González E Beatriz Fernández Vencem A V Carmiña Carreira Em Marín",
+   "es": "Yago González Y Beatriz Fernández Ganan La V Carmiña Carreira En Marín",
+   "fr": "Yago González Et Beatriz Fernández Remportent La V Carmiña Carreira À Marín",
+   "it": "Yago González E Beatriz Fernández Vincono La V Carmiña Carreira A Marín"
+  },
+  "a51-related3-link": {
+   "en": "Read more →",
+   "pt": "Ler mais →",
+   "es": "Leer más →",
+   "fr": "Lire plus →",
+   "it": "Leggi di più →"
+  },
+  "card-s45__field__tag": {
+   "en": "Functional",
+   "pt": "Funcional",
+   "es": "Funcional",
+   "fr": "Fonctionnel",
+   "it": "Funzionale"
+  },
+  "card-s45__field__title": {
+   "en": "OVX Games Stages Non-Stop Hybrid Fitness Race At Oeiras' Estádio Municipal Mário Wilson",
+   "pt": "OVX Games Realiza Corrida Híbrida Sem Paragens No Estádio Municipal Mário Wilson, Em Oeiras",
+   "es": "OVX Games Celebra Carrera Híbrida Sin Pausas En El Estádio Municipal Mário Wilson De Oeiras",
+   "fr": "OVX Games Organise Une Course Hybride Sans Interruption À L'Estádio Municipal Mário Wilson D'Oeiras",
+   "it": "OVX Games Organizza Una Gara Ibrida Senza Soste Allo Estádio Municipal Mário Wilson Di Oeiras"
+  },
+  "card-s45__field__deck": {
+   "en": "Singles and doubles athletes tackled OVX Games' continuous run-and-station format on 20 June 2026, with OzonGym and Off Limits Oeiras named as partner gyms.",
+   "pt": "Atletas a solo e em duplas enfrentaram o formato contínuo de corrida e estações da OVX Games, a 20 de junho de 2026, com a OzonGym e a Off Limits Oeiras como ginásios parceiros.",
+   "es": "Atletas individuales y en parejas afrontaron el formato continuo de carrera y estaciones de OVX Games el 20 de junio de 2026, con OzonGym y Off Limits Oeiras como gimnasios asociados.",
+   "fr": "Des athlètes en individuel et en binômes ont affronté le format continu course-et-stations d'OVX Games le 20 juin 2026, avec OzonGym et Off Limits Oeiras comme salles partenaires.",
+   "it": "Atleti singoli e in coppia hanno affrontato il formato continuo di corsa e stazioni di OVX Games il 20 giugno 2026, con OzonGym e Off Limits Oeiras come palestre partner."
+  },
+  "card-s45__field__meta": {
+   "en": "Image Media coverage",
+   "pt": "Cobertura Image Media",
+   "es": "Cobertura de Image Media",
+   "fr": "Couverture Image Media",
+   "it": "Copertura Image Media"
+  },
+  "card-s45__field__link": {
+   "en": "Read more →",
+   "pt": "Ler mais →",
+   "es": "Leer más →",
+   "fr": "Lire plus →",
+   "it": "Leggi di più →"
   }
  },
  "chrome": {
