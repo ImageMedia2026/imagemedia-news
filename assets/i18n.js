@@ -394,18 +394,18 @@ window.IM_I18N = {
    "it": "Cultura"
   },
   "home-culture1-title": {
-   "en": "OSOS 1000 Draws Nearly 900 Riders To Oviedo For Sixth Edition Of Asturias Motorcycle Challenge",
-   "pt": "OSOS 1000 Reúne Quase 900 Motociclistas Em Oviedo Na Sexta Edição Do Desafio Das Astúrias",
-   "es": "OSOS 1000 Reúne A Casi 900 Motoristas En Oviedo En La Sexta Edición Del Desafío Asturiano",
-   "fr": "OSOS 1000 Rassemble Près De 900 Motards À Oviedo Pour La Sixième Édition Du Défi Des Asturies",
-   "it": "OSOS 1000 Riunisce Quasi 900 Motociclisti A Oviedo Per La Sesta Edizione Della Sfida Delle Asturie"
+   "en": "Porto Prepares For São João, One Of Europe's Biggest Street Festivals",
+   "pt": "Porto Prepara-se Para O São João, Uma Das Maiores Festas De Rua Da Europa",
+   "es": "Oporto Se Prepara Para El São João, Una De Las Mayores Fiestas Callejeras De Europa",
+   "fr": "Porto Se Prépare Pour La São João, L'une Des Plus Grandes Fêtes De Rue D'Europe",
+   "it": "Porto Si Prepara Per La Festa Di São João, Una Delle Più Grandi Feste Di Strada D'Europa"
   },
   "home-culture1-deck": {
-   "en": "Ducati served as official ambassador brand as riders gathered at Plaza de la Catedral for the non-competitive 1,000km, 500km and 300km challenge across Asturias.",
-   "pt": "A Ducati foi a marca embaixadora oficial enquanto os motociclistas se reuniam na Plaza de la Catedral para o desafio não competitivo de 1.000, 500 e 300 km pelas Astúrias.",
-   "es": "Ducati fue la marca embajadora oficial mientras los motoristas se reunían en la Plaza de la Catedral para el desafío no competitivo de 1.000, 500 y 300 km por Asturias.",
-   "fr": "Ducati était la marque ambassadrice officielle tandis que les motards se rassemblaient sur la Plaza de la Catedral pour le défi non compétitif de 1 000, 500 et 300 km à travers les Asturies.",
-   "it": "Ducati è stata il marchio ambasciatore ufficiale mentre i motociclisti si radunavano in Plaza de la Catedral per la sfida non competitiva di 1.000, 500 e 300 km attraverso le Asturie."
+   "en": "The night of June 23 will bring plastic hammers, grilled sardines and a fireworks show stretched across a wider stretch of the Douro than ever before.",
+   "pt": "A noite de 23 de junho trará martelinhos de plástico, sardinhas grelhadas e um espetáculo de fogo-de-artifício ao longo de um trecho do Douro mais extenso do que nunca.",
+   "es": "La noche del 23 de junio traerá martillos de plástico, sardinas a la parrilla y un espectáculo de fuegos artificiales a lo largo de un tramo del Duero más extenso que nunca.",
+   "fr": "La nuit du 23 juin apportera marteaux en plastique, sardines grillées et un feu d'artifice déployé sur une portion du Douro plus large que jamais.",
+   "it": "La notte del 23 giugno porterà martelletti di plastica, sardine alla griglia e uno spettacolo pirotecnico lungo un tratto del Douro più esteso che mai."
   },
   "home-culture1-link": {
    "en": "Read more →",
@@ -422,18 +422,18 @@ window.IM_I18N = {
    "it": "Cultura"
   },
   "home-culture2-title": {
-   "en": "Porto Prepares For São João, One Of Europe's Biggest Street Festivals",
-   "pt": "Porto Prepara-se Para O São João, Uma Das Maiores Festas De Rua Da Europa",
-   "es": "Oporto Se Prepara Para El São João, Una De Las Mayores Fiestas Callejeras De Europa",
-   "fr": "Porto Se Prépare Pour La São João, L'une Des Plus Grandes Fêtes De Rue D'Europe",
-   "it": "Porto Si Prepara Per La Festa Di São João, Una Delle Più Grandi Feste Di Strada D'Europa"
+   "en": "OSOS 1000 Draws Nearly 900 Riders To Oviedo For Sixth Edition Of Asturias Motorcycle Challenge",
+   "pt": "OSOS 1000 Reúne Quase 900 Motociclistas Em Oviedo Na Sexta Edição Do Desafio Das Astúrias",
+   "es": "OSOS 1000 Reúne A Casi 900 Motoristas En Oviedo En La Sexta Edición Del Desafío Asturiano",
+   "fr": "OSOS 1000 Rassemble Près De 900 Motards À Oviedo Pour La Sixième Édition Du Défi Des Asturies",
+   "it": "OSOS 1000 Riunisce Quasi 900 Motociclisti A Oviedo Per La Sesta Edizione Della Sfida Delle Asturie"
   },
   "home-culture2-deck": {
-   "en": "The night of June 23 will bring plastic hammers, grilled sardines and a fireworks show stretched across a wider stretch of the Douro than ever before.",
-   "pt": "A noite de 23 de junho trará martelinhos de plástico, sardinhas grelhadas e um espetáculo de fogo-de-artifício ao longo de um trecho do Douro mais extenso do que nunca.",
-   "es": "La noche del 23 de junio traerá martillos de plástico, sardinas a la parrilla y un espectáculo de fuegos artificiales a lo largo de un tramo del Duero más extenso que nunca.",
-   "fr": "La nuit du 23 juin apportera marteaux en plastique, sardines grillées et un feu d'artifice déployé sur une portion du Douro plus large que jamais.",
-   "it": "La notte del 23 giugno porterà martelletti di plastica, sardine alla griglia e uno spettacolo pirotecnico lungo un tratto del Douro più esteso che mai."
+   "en": "Ducati served as official ambassador brand as riders gathered at Plaza de la Catedral for the non-competitive 1,000km, 500km and 300km challenge across Asturias.",
+   "pt": "A Ducati foi a marca embaixadora oficial enquanto os motociclistas se reuniam na Plaza de la Catedral para o desafio não competitivo de 1.000, 500 e 300 km pelas Astúrias.",
+   "es": "Ducati fue la marca embajadora oficial mientras los motoristas se reunían en la Plaza de la Catedral para el desafío no competitivo de 1.000, 500 y 300 km por Asturias.",
+   "fr": "Ducati était la marque ambassadrice officielle tandis que les motards se rassemblaient sur la Plaza de la Catedral pour le défi non compétitif de 1 000, 500 et 300 km à travers les Asturies.",
+   "it": "Ducati è stata il marchio ambasciatore ufficiale mentre i motociclisti si radunavano in Plaza de la Catedral per la sfida non competitiva di 1.000, 500 e 300 km attraverso le Asturie."
   },
   "home-culture2-link": {
    "en": "Read more →",
