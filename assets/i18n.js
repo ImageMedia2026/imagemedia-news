@@ -11818,6 +11818,216 @@ window.IM_I18N = {
    "es": "Todos los derechos reservados.",
    "fr": "Tous droits réservés.",
    "it": "Tutti i diritti riservati."
+  },
+  "a52-tag": {
+   "en": "Athletics",
+   "pt": "Atletismo",
+   "es": "Atletismo",
+   "fr": "Athlétisme",
+   "it": "Atletica"
+  },
+  "a52-title": {
+   "en": "Adrián Rodríguez And Antía Goberna Win Chandrexa Trail As Heat Forces Course Cut From 35 To 23 Kilometres",
+   "pt": "Adrián Rodríguez E Antía Goberna Vencem A Chandrexa Trail Após Calor Obrigar A Reduzir Percurso De 35 Para 23 Quilómetros",
+   "es": "Adrián Rodríguez Y Antía Goberna Ganan La Chandrexa Trail Tras Obligar El Calor A Recortar El Recorrido De 35 A 23 Kilómetros",
+   "fr": "Adrián Rodríguez Et Antía Goberna Remportent La Chandrexa Trail Après Que La Chaleur A Réduit Le Parcours De 35 À 23 Kilomètres",
+   "it": "Adrián Rodríguez E Antía Goberna Vincono La Chandrexa Trail Dopo Che Il Caldo Ha Costretto A Ridurre Il Percorso Da 35 A 23 Chilometri"
+  },
+  "a52-deck": {
+   "en": "Club Running Sport Trail staged the 14th Chandrexa Trail in Chandrexa de Queixa on 21 June 2026, moving the start forward and shortening the long race after a Xunta de Galicia heat alert, with event coverage by the Image Media team.",
+   "pt": "O Club Running Sport Trail organizou a 14.ª edição da Chandrexa Trail em Chandrexa de Queixa a 21 de junho de 2026, antecipando a partida e encurtando a prova longa após um alerta de calor da Xunta de Galicia, com cobertura do evento pela equipa da Image Media.",
+   "es": "El Club Running Sport Trail organizó la 14.ª edición de la Chandrexa Trail en Chandrexa de Queixa el 21 de junio de 2026, adelantando la salida y acortando la prueba larga tras una alerta por calor de la Xunta de Galicia, con cobertura del evento por parte del equipo de Image Media.",
+   "fr": "Le Club Running Sport Trail a organisé la 14e édition de la Chandrexa Trail à Chandrexa de Queixa le 21 juin 2026, avançant le départ et raccourcissant la course longue après une alerte canicule de la Xunta de Galicia, avec une couverture de l'événement par l'équipe d'Image Media.",
+   "it": "Il Club Running Sport Trail ha organizzato la 14ª edizione della Chandrexa Trail a Chandrexa de Queixa il 21 giugno 2026, anticipando la partenza e accorciando la gara lunga dopo un'allerta caldo della Xunta de Galicia, con copertura dell'evento a cura del team di Image Media."
+  },
+  "a52-byline": {
+   "en": "By Image Media News Staff — Chandrexa de Queixa, Spain",
+   "pt": "Por Equipa Image Media News — Chandrexa de Queixa, Espanha",
+   "es": "Por el Equipo de Image Media News — Chandrexa de Queixa, España",
+   "fr": "Par l'équipe d'Image Media News — Chandrexa de Queixa, Espagne",
+   "it": "A cura del team di Image Media News — Chandrexa de Queixa, Spagna"
+  },
+  "a52-hero-credit": {
+   "en": "Photo: Eduardo Castro / Image Media",
+   "pt": "Foto: Eduardo Castro / Image Media",
+   "es": "Foto: Eduardo Castro / Image Media",
+   "fr": "Photo : Eduardo Castro / Image Media",
+   "it": "Foto: Eduardo Castro / Image Media"
+  },
+  "a52-p1": {
+   "en": "Club Running Sport Trail staged the 14th edition of the Chandrexa Trail in Chandrexa de Queixa, in Galicia's Ourense province, on Sunday 21 June 2026, with event coverage by the Image Media team. The race counts toward the Copa Gallega por Montaña (Galician Mountain Running Cup) and is organised with the support of the Diputación de Ourense and the Concello de Chandrexa de Queixa.",
+   "pt": "O Club Running Sport Trail organizou a 14.ª edição da Chandrexa Trail em Chandrexa de Queixa, na província de Ourense, na Galiza, no domingo, 21 de junho de 2026, com cobertura do evento pela equipa da Image Media. A prova conta para a Copa Gallega por Montaña (Taça Galega de Corridas de Montanha) e é organizada com o apoio da Diputación de Ourense e da Câmara Municipal de Chandrexa de Queixa.",
+   "es": "El Club Running Sport Trail organizó la 14.ª edición de la Chandrexa Trail en Chandrexa de Queixa, en la provincia de Ourense, Galicia, el domingo 21 de junio de 2026, con cobertura del evento por parte del equipo de Image Media. La prueba puntúa para la Copa Gallega por Montaña y está organizada con el apoyo de la Diputación de Ourense y el Concello de Chandrexa de Queixa.",
+   "fr": "Le Club Running Sport Trail a organisé la 14e édition de la Chandrexa Trail à Chandrexa de Queixa, dans la province d'Ourense, en Galice, le dimanche 21 juin 2026, avec une couverture de l'événement par l'équipe d'Image Media. La course compte pour la Copa Gallega por Montaña (Coupe galicienne de course en montagne) et est organisée avec le soutien de la Diputación de Ourense et de la municipalité de Chandrexa de Queixa.",
+   "it": "Il Club Running Sport Trail ha organizzato la 14ª edizione della Chandrexa Trail a Chandrexa de Queixa, nella provincia di Ourense, in Galizia, domenica 21 giugno 2026, con copertura dell'evento a cura del team di Image Media. La gara è valida per la Copa Gallega por Montaña (Coppa Galiziana di corsa in montagna) ed è organizzata con il sostegno della Diputación de Ourense e del Comune di Chandrexa de Queixa."
+  },
+  "a52-inline1-credit": {
+   "en": "Photo: Sergio Mendes / Image Media",
+   "pt": "Foto: Sergio Mendes / Image Media",
+   "es": "Foto: Sergio Mendes / Image Media",
+   "fr": "Photo : Sergio Mendes / Image Media",
+   "it": "Foto: Sergio Mendes / Image Media"
+  },
+  "a52-p2": {
+   "en": "A heat alert issued by the Xunta de Galicia forced organisers to adapt the long race on the day, moving the start forward by an hour and cutting the distance from 35 to 23 kilometres, with a 12:00 cut-off for any runner still on course. An 18-kilometre short race went ahead as planned. More than 250 athletes took part across both distances, with organisers crediting more than 85 volunteers and staff for the smooth running of the 14th edition.",
+   "pt": "Um alerta de calor emitido pela Xunta de Galicia obrigou os organizadores a adaptar a prova longa no próprio dia, antecipando a partida em uma hora e reduzindo a distância de 35 para 23 quilómetros, com um limite às 12h00 para quem ainda estivesse em prova. A prova curta de 18 quilómetros decorreu como previsto. Mais de 250 atletas participaram nas duas distâncias, com os organizadores a agradecerem a mais de 85 voluntários e colaboradores pelo bom funcionamento da 14.ª edição.",
+   "es": "Una alerta por calor emitida por la Xunta de Galicia obligó a los organizadores a adaptar la prueba larga sobre la marcha, adelantando la salida una hora y recortando la distancia de 35 a 23 kilómetros, con un corte a las 12:00 para quien no hubiese llegado a meta. La prueba corta de 18 kilómetros se disputó según lo previsto. Más de 250 atletas tomaron parte entre ambas distancias, y los organizadores agradecieron a más de 85 voluntarios y colaboradores el buen desarrollo de la 14.ª edición.",
+   "fr": "Une alerte canicule émise par la Xunta de Galicia a contraint les organisateurs à adapter la course longue le jour même, en avançant le départ d'une heure et en réduisant la distance de 35 à 23 kilomètres, avec une limite fixée à 12h00 pour les coureurs encore sur le parcours. La course courte de 18 kilomètres s'est déroulée comme prévu. Plus de 250 athlètes ont pris part aux deux distances, les organisateurs saluant plus de 85 bénévoles et membres du staff pour le bon déroulement de cette 14e édition.",
+   "it": "Un'allerta caldo emessa dalla Xunta de Galicia ha costretto gli organizzatori ad adattare la gara lunga in giornata, anticipando la partenza di un'ora e riducendo la distanza da 35 a 23 chilometri, con un limite fissato alle ore 12:00 per chi fosse ancora in gara. La gara corta di 18 chilometri si è svolta come previsto. Più di 250 atleti hanno preso parte alle due distanze, con gli organizzatori che hanno ringraziato oltre 85 volontari e collaboratori per la buona riuscita della 14ª edizione."
+  },
+  "a52-stat": {
+   "en": "21 June 2026 · Chandrexa de Queixa, Ourense · Chandrexa Trail · 23km & 18km · Copa Gallega por Montaña",
+   "pt": "21 de junho de 2026 · Chandrexa de Queixa, Ourense · Chandrexa Trail · 23km e 18km · Copa Gallega por Montaña",
+   "es": "21 de junio de 2026 · Chandrexa de Queixa, Ourense · Chandrexa Trail · 23km y 18km · Copa Gallega por Montaña",
+   "fr": "21 juin 2026 · Chandrexa de Queixa, Ourense · Chandrexa Trail · 23 km et 18 km · Copa Gallega por Montaña",
+   "it": "21 giugno 2026 · Chandrexa de Queixa, Ourense · Chandrexa Trail · 23km e 18km · Copa Gallega por Montaña"
+  },
+  "a52-inline2-credit": {
+   "en": "Photo: Eduardo Castro / Image Media",
+   "pt": "Foto: Eduardo Castro / Image Media",
+   "es": "Foto: Eduardo Castro / Image Media",
+   "fr": "Photo : Eduardo Castro / Image Media",
+   "it": "Foto: Eduardo Castro / Image Media"
+  },
+  "a52-p3": {
+   "en": "In the 23-kilometre long race, Ourense locals Adrián Rodríguez (Running Sport) and Antía Goberna (Asesou) were the fastest men's and women's finishers, in 2:21:06 and 3:04:55 respectively. Daniel Domínguez (Castelos Trail) and Marcos Antonio Pascual (Castro Trail) completed the men's podium, while Paula María Cobelo (Pulpeiros Mugardos) and Patricia Kaiser (RunManiak) rounded out the women's podium. In the 18-kilometre short race, Abel Franco (Running Sport) and Nuria Novoa (Traileros Toxos e Birras) took the wins, ahead of Édgar Castelo (Vértice) and Francisco Pascual (Castro Trail) for the men, and Marta Rivera and Cristina Vázquez (Cabo de Penas) for the women.",
+   "pt": "Na prova longa de 23 quilómetros, os ourensanos Adrián Rodríguez (Running Sport) e Antía Goberna (Asesou) foram os mais rápidos em masculinos e femininos, com 2:21:06 e 3:04:55, respetivamente. Daniel Domínguez (Castelos Trail) e Marcos Antonio Pascual (Castro Trail) completaram o pódio masculino, enquanto Paula María Cobelo (Pulpeiros Mugardos) e Patricia Kaiser (RunManiak) fecharam o pódio feminino. Na prova curta de 18 quilómetros, Abel Franco (Running Sport) e Nuria Novoa (Traileros Toxos e Birras) venceram, à frente de Édgar Castelo (Vértice) e Francisco Pascual (Castro Trail) em masculinos, e de Marta Rivera e Cristina Vázquez (Cabo de Penas) em femininos.",
+   "es": "En la prueba larga de 23 kilómetros, los ourensanos Adrián Rodríguez (Running Sport) y Antía Goberna (Asesou) fueron los más rápidos en categoría masculina y femenina, con 2:21:06 y 3:04:55, respectivamente. Daniel Domínguez (Castelos Trail) y Marcos Antonio Pascual (Castro Trail) completaron el podio masculino, mientras que Paula María Cobelo (Pulpeiros Mugardos) y Patricia Kaiser (RunManiak) cerraron el podio femenino. En la prueba corta de 18 kilómetros, se impusieron Abel Franco (Running Sport) y Nuria Novoa (Traileros Toxos e Birras), por delante de Édgar Castelo (Vértice) y Francisco Pascual (Castro Trail) en masculina, y de Marta Rivera y Cristina Vázquez (Cabo de Penas) en femenina.",
+   "fr": "Sur la course longue de 23 kilomètres, les Ourensans Adrián Rodríguez (Running Sport) et Antía Goberna (Asesou) ont été les plus rapides chez les hommes et chez les femmes, en 2:21:06 et 3:04:55 respectivement. Daniel Domínguez (Castelos Trail) et Marcos Antonio Pascual (Castro Trail) ont complété le podium masculin, tandis que Paula María Cobelo (Pulpeiros Mugardos) et Patricia Kaiser (RunManiak) ont complété le podium féminin. Sur la course courte de 18 kilomètres, Abel Franco (Running Sport) et Nuria Novoa (Traileros Toxos e Birras) l'ont emporté, devant Édgar Castelo (Vértice) et Francisco Pascual (Castro Trail) chez les hommes, et devant Marta Rivera et Cristina Vázquez (Cabo de Penas) chez les femmes.",
+   "it": "Nella gara lunga di 23 chilometri, gli ourensani Adrián Rodríguez (Running Sport) e Antía Goberna (Asesou) sono stati i più veloci tra uomini e donne, rispettivamente in 2:21:06 e 3:04:55. Daniel Domínguez (Castelos Trail) e Marcos Antonio Pascual (Castro Trail) hanno completato il podio maschile, mentre Paula María Cobelo (Pulpeiros Mugardos) e Patricia Kaiser (RunManiak) hanno chiuso il podio femminile. Nella gara corta di 18 chilometri, Abel Franco (Running Sport) e Nuria Novoa (Traileros Toxos e Birras) si sono imposti, davanti a Édgar Castelo (Vértice) e Francisco Pascual (Castro Trail) tra gli uomini, e a Marta Rivera e Cristina Vázquez (Cabo de Penas) tra le donne."
+  },
+  "a52-p4": {
+   "en": "Event coverage at Chandrexa Trail was provided by the Image Media team, comprised of Eduardo Castro and Sergio Mendes.",
+   "pt": "A cobertura do evento na Chandrexa Trail foi assegurada pela equipa da Image Media, composta por Eduardo Castro e Sergio Mendes.",
+   "es": "La cobertura del evento en la Chandrexa Trail estuvo a cargo del equipo de Image Media, formado por Eduardo Castro y Sergio Mendes.",
+   "fr": "La couverture de l'événement à la Chandrexa Trail a été assurée par l'équipe d'Image Media, composée d'Eduardo Castro et Sergio Mendes.",
+   "it": "La copertura dell'evento alla Chandrexa Trail è stata garantita dal team di Image Media, composto da Eduardo Castro e Sergio Mendes."
+  },
+  "a52-tagpill1": {
+   "en": "Chandrexa Trail",
+   "pt": "Chandrexa Trail",
+   "es": "Chandrexa Trail",
+   "fr": "Chandrexa Trail",
+   "it": "Chandrexa Trail"
+  },
+  "a52-tagpill2": {
+   "en": "Ourense",
+   "pt": "Ourense",
+   "es": "Ourense",
+   "fr": "Ourense",
+   "it": "Ourense"
+  },
+  "a52-tagpill3": {
+   "en": "Athletics",
+   "pt": "Atletismo",
+   "es": "Atletismo",
+   "fr": "Athlétisme",
+   "it": "Atletica"
+  },
+  "a52-related-title": {
+   "en": "More from Image Media",
+   "pt": "Mais da Image Media",
+   "es": "Más de Image Media",
+   "fr": "Plus d'Image Media",
+   "it": "Altro da Image Media"
+  },
+  "a52-related1-tag": {
+   "en": "Sports",
+   "pt": "Desporto",
+   "es": "Deportes",
+   "fr": "Sport",
+   "it": "Sport"
+  },
+  "a52-related1-title": {
+   "en": "See all Sports coverage",
+   "pt": "Ver toda a cobertura de Desporto",
+   "es": "Ver toda la cobertura de Deportes",
+   "fr": "Voir toute la couverture Sport",
+   "it": "Vedi tutta la copertura Sport"
+  },
+  "a52-related1-link": {
+   "en": "Visit section →",
+   "pt": "Visitar secção →",
+   "es": "Visitar sección →",
+   "fr": "Voir la section →",
+   "it": "Vai alla sezione →"
+  },
+  "a52-related2-tag": {
+   "en": "Image Media",
+   "pt": "Image Media",
+   "es": "Image Media",
+   "fr": "Image Media",
+   "it": "Image Media"
+  },
+  "a52-related2-title": {
+   "en": "How Image Media covers your event",
+   "pt": "Como a Image Media cobre o seu evento",
+   "es": "Cómo Image Media cubre tu evento",
+   "fr": "Comment Image Media couvre votre événement",
+   "it": "Come Image Media copre il tuo evento"
+  },
+  "a52-related2-link": {
+   "en": "Learn more →",
+   "pt": "Saber mais →",
+   "es": "Saber más →",
+   "fr": "En savoir plus →",
+   "it": "Scopri di più →"
+  },
+  "a52-related3-tag": {
+   "en": "Functional",
+   "pt": "Funcional",
+   "es": "Funcional",
+   "fr": "Fonctionnel",
+   "it": "Funzionale"
+  },
+  "a52-related3-title": {
+   "en": "OVX Games Stages Non-Stop Hybrid Fitness Race At Oeiras' Estádio Municipal Mário Wilson",
+   "pt": "OVX Games Disputa Corrida De Fitness Híbrido Non-Stop No Estádio Municipal Mário Wilson, Em Oeiras",
+   "es": "OVX Games Disputa Una Carrera De Fitness Híbrido Sin Pausas En El Estádio Municipal Mário Wilson De Oeiras",
+   "fr": "OVX Games Organise Une Course De Fitness Hybride Sans Interruption Au Estádio Municipal Mário Wilson D'Oeiras",
+   "it": "OVX Games Disputa Una Gara Di Fitness Ibrido No-Stop Allo Estádio Municipal Mário Wilson Di Oeiras"
+  },
+  "a52-related3-link": {
+   "en": "Read more →",
+   "pt": "Ler mais →",
+   "es": "Leer más →",
+   "fr": "Lire la suite →",
+   "it": "Leggi di più →"
+  },
+  "card-s46__field__tag": {
+   "en": "Athletics",
+   "pt": "Atletismo",
+   "es": "Atletismo",
+   "fr": "Athlétisme",
+   "it": "Atletica"
+  },
+  "card-s46__field__title": {
+   "en": "Adrián Rodríguez And Antía Goberna Win Chandrexa Trail As Heat Forces Course Cut From 35 To 23 Kilometres",
+   "pt": "Adrián Rodríguez E Antía Goberna Vencem A Chandrexa Trail Após Calor Obrigar A Reduzir Percurso De 35 Para 23 Quilómetros",
+   "es": "Adrián Rodríguez Y Antía Goberna Ganan La Chandrexa Trail Tras Obligar El Calor A Recortar El Recorrido De 35 A 23 Kilómetros",
+   "fr": "Adrián Rodríguez Et Antía Goberna Remportent La Chandrexa Trail Après Que La Chaleur A Réduit Le Parcours De 35 À 23 Kilomètres",
+   "it": "Adrián Rodríguez E Antía Goberna Vincono La Chandrexa Trail Dopo Che Il Caldo Ha Costretto A Ridurre Il Percorso Da 35 A 23 Chilometri"
+  },
+  "card-s46__field__deck": {
+   "en": "Club Running Sport Trail staged the 14th Chandrexa Trail in Chandrexa de Queixa on 21 June 2026, with more than 250 athletes competing after heat forced a shorter course.",
+   "pt": "O Club Running Sport Trail organizou a 14.ª Chandrexa Trail em Chandrexa de Queixa a 21 de junho de 2026, com mais de 250 atletas em prova depois de o calor obrigar a um percurso mais curto.",
+   "es": "El Club Running Sport Trail organizó la 14.ª Chandrexa Trail en Chandrexa de Queixa el 21 de junio de 2026, con más de 250 atletas compitiendo tras obligar el calor a recortar el recorrido.",
+   "fr": "Le Club Running Sport Trail a organisé la 14e Chandrexa Trail à Chandrexa de Queixa le 21 juin 2026, avec plus de 250 athlètes en course après que la chaleur a imposé un parcours raccourci.",
+   "it": "Il Club Running Sport Trail ha organizzato la 14ª Chandrexa Trail a Chandrexa de Queixa il 21 giugno 2026, con oltre 250 atleti in gara dopo che il caldo ha imposto un percorso più corto."
+  },
+  "card-s46__field__meta": {
+   "en": "Image Media coverage",
+   "pt": "Cobertura Image Media",
+   "es": "Cobertura de Image Media",
+   "fr": "Couverture Image Media",
+   "it": "Copertura Image Media"
+  },
+  "card-s46__field__link": {
+   "en": "Read more →",
+   "pt": "Ler mais →",
+   "es": "Leer más →",
+   "fr": "Lire la suite →",
+   "it": "Leggi di più →"
   }
  }
 };
