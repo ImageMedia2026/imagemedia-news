@@ -64,25 +64,25 @@ window.IM_I18N = {
    "it": "Altro sport →"
   },
   "card-h1__field__tag": {
-   "en": "Functional",
-   "pt": "Funcional",
-   "es": "Funcional",
-   "fr": "Fonctionnel",
-   "it": "Funzionale"
+   "en": "Football",
+   "pt": "Futebol",
+   "es": "Fútbol",
+   "fr": "Football",
+   "it": "Calcio"
   },
   "card-h1__field__title": {
-   "en": "AVYNT Hybrid Arena Hosts III Avynt Hyrox Simulation With Full Registration In Vila Nova De Gaia",
-   "pt": "AVYNT Hybrid Arena Recebe III Avynt Hyrox Simulation Com Inscrições Esgotadas Em Vila Nova De Gaia",
-   "es": "AVYNT Hybrid Arena Acoge La III Avynt Hyrox Simulation Con Inscripciones Agotadas En Vila Nova De Gaia",
-   "fr": "AVYNT Hybrid Arena Accueille La III Avynt Hyrox Simulation À Guichets Fermés À Vila Nova De Gaia",
-   "it": "AVYNT Hybrid Arena Ospita La III Avynt Hyrox Simulation Con Iscrizioni Esaurite A Vila Nova De Gaia"
+   "en": "Leixões and Benjamin Kanuric Agree to Contract Termination",
+   "pt": "Leixões E Benjamin Kanuric Chegam A Acordo Para Rescisão De Contrato",
+   "es": "Leixões Y Benjamin Kanuric Acuerdan La Rescisión Del Contrato",
+   "fr": "Leixões Et Benjamin Kanuric S'Accordent Sur La Résiliation Du Contrat",
+   "it": "Leixões E Benjamin Kanuric Trovano L'Accordo Per La Risoluzione Del Contratto"
   },
   "card-h1__field__deck": {
-   "en": "AVYNT Hybrid Arena staged the III Avynt Hyrox Simulation on 1 August 2026, the third AVYNT League stage of the year, with a sold-out field working through an 8km run and eight strength stations in Vila Nova de Gaia.",
-   "pt": "A AVYNT Hybrid Arena organizou a III Avynt Hyrox Simulation a 1 de agosto de 2026, a terceira etapa da AVYNT League do ano, com inscrições esgotadas a percorrerem 8 km de corrida e oito estações de força em Vila Nova de Gaia.",
-   "es": "AVYNT Hybrid Arena organizó la III Avynt Hyrox Simulation el 1 de agosto de 2026, la tercera etapa de la AVYNT League del año, con inscripciones agotadas superando 8 km de carrera y ocho estaciones de fuerza en Vila Nova de Gaia.",
-   "fr": "AVYNT Hybrid Arena a organisé la III Avynt Hyrox Simulation le 1er août 2026, la troisième étape de l'AVYNT League de l'année, avec un plateau complet enchaînant 8 km de course et huit ateliers de force à Vila Nova de Gaia.",
-   "it": "AVYNT Hybrid Arena ha organizzato la III Avynt Hyrox Simulation il 1° agosto 2026, la terza tappa dell'AVYNT League dell'anno, con iscrizioni esaurite impegnate in 8 km di corsa e otto stazioni di forza a Vila Nova de Gaia."
+   "en": "The Austrian midfielder leaves Estádio do Mar by mutual agreement after 16 appearances, three goals and two assists.",
+   "pt": "O médio austríaco deixa o Estádio do Mar por mútuo acordo após 16 jogos, três golos e duas assistências.",
+   "es": "El centrocampista austríaco deja el Estádio do Mar de mutuo acuerdo tras 16 partidos, tres goles y dos asistencias.",
+   "fr": "Le milieu de terrain autrichien quitte l'Estádio do Mar d'un commun accord après 16 matches, trois buts et deux passes décisives.",
+   "it": "Il centrocampista austriaco lascia l'Estádio do Mar di comune accordo dopo 16 presenze, tre gol e due assist."
   },
   "card-h1__field__meta": {
    "en": "Image Media coverage",
@@ -106,18 +106,18 @@ window.IM_I18N = {
    "it": "Calcio"
   },
   "card-h2__field__title": {
-   "en": "Leixões and Benjamin Kanuric Agree to Contract Termination",
-   "pt": "Leixões E Benjamin Kanuric Chegam A Acordo Para Rescisão De Contrato",
-   "es": "Leixões Y Benjamin Kanuric Acuerdan La Rescisión Del Contrato",
-   "fr": "Leixões Et Benjamin Kanuric S'Accordent Sur La Résiliation Du Contrat",
-   "it": "Leixões E Benjamin Kanuric Trovano L'Accordo Per La Risoluzione Del Contratto"
+   "en": "Slough Town Build Momentum Ahead Of National League South Opener",
+   "pt": "Slough Town Ganha Confiança Antes Da Estreia Na National League South",
+   "es": "Slough Town Gana Confianza Antes Del Estreno En La National League South",
+   "fr": "Le Slough Town Prend De L'Élan Avant Son Entrée En National League South",
+   "it": "Lo Slough Town Guadagna Fiducia Prima Dell'Esordio In National League South"
   },
   "card-h2__field__deck": {
-   "en": "The Austrian midfielder leaves Estádio do Mar by mutual agreement after 16 appearances, three goals and two assists.",
-   "pt": "O médio austríaco deixa o Estádio do Mar por mútuo acordo após 16 jogos, três golos e duas assistências.",
-   "es": "El centrocampista austríaco deja el Estádio do Mar de mutuo acuerdo tras 16 partidos, tres goles y dos asistencias.",
-   "fr": "Le milieu de terrain autrichien quitte l'Estádio do Mar d'un commun accord après 16 matches, trois buts et deux passes décisives.",
-   "it": "Il centrocampista austriaco lascia l'Estádio do Mar di comune accordo dopo 16 presenze, tre gol e due assist."
+   "en": "A pre-season win over Oxford City, nine summer signings and Alan Julian's first campaign in charge set the tone before the Rebels host Ebbsfleet United.",
+   "pt": "Uma vitória de pré-época sobre o Oxford City, nove reforços de verão e a primeira época de Alan Julian no comando dão o tom antes de os Rebels receberem o Ebbsfleet United.",
+   "es": "Una victoria de pretemporada ante el Oxford City, nueve fichajes de verano y la primera temporada de Alan Julian al mando marcan la pauta antes de que los Rebels reciban al Ebbsfleet United.",
+   "fr": "Une victoire de pré-saison face à Oxford City, neuf recrues estivales et la première saison d'Alan Julian aux commandes donnent le ton avant que les Rebels ne reçoivent Ebbsfleet United.",
+   "it": "Una vittoria in amichevole precampionato contro l'Oxford City, nove acquisti estivi e la prima stagione di Alan Julian alla guida danno il tono prima che i Rebels ospitino l'Ebbsfleet United."
   },
   "card-h2__field__meta": {
    "en": "Image Media coverage",
@@ -134,25 +134,25 @@ window.IM_I18N = {
    "it": "Leggi tutto →"
   },
   "card-h3__field__tag": {
-   "en": "Football",
-   "pt": "Futebol",
-   "es": "Fútbol",
-   "fr": "Football",
-   "it": "Calcio"
+   "en": "Functional",
+   "pt": "Funcional",
+   "es": "Funcional",
+   "fr": "Fonctionnel",
+   "it": "Funzionale"
   },
   "card-h3__field__title": {
-   "en": "Slough Town Build Momentum Ahead Of National League South Opener",
-   "pt": "Slough Town Ganha Confiança Antes Da Estreia Na National League South",
-   "es": "Slough Town Gana Confianza Antes Del Estreno En La National League South",
-   "fr": "Le Slough Town Prend De L'Élan Avant Son Entrée En National League South",
-   "it": "Lo Slough Town Guadagna Fiducia Prima Dell'Esordio In National League South"
+   "en": "190 Athletes Compete As Trident Battle Returns To Nettuno For Fourth Edition",
+   "pt": "190 Atletas Competem Enquanto A Trident Battle Regressa A Nettuno Para A Quarta Edição",
+   "es": "190 Atletas Compiten Mientras La Trident Battle Regresa A Nettuno Para Su Cuarta Edición",
+   "fr": "190 Athlètes En Compétition Alors Que La Trident Battle Revient À Nettuno Pour Sa Quatrième Édition",
+   "it": "190 Atleti In Gara Mentre La Trident Battle Torna A Nettuno Per La Quarta Edizione"
   },
   "card-h3__field__deck": {
-   "en": "A pre-season win over Oxford City, nine summer signings and Alan Julian's first campaign in charge set the tone before the Rebels host Ebbsfleet United.",
-   "pt": "Uma vitória de pré-época sobre o Oxford City, nove reforços de verão e a primeira época de Alan Julian no comando dão o tom antes de os Rebels receberem o Ebbsfleet United.",
-   "es": "Una victoria de pretemporada ante el Oxford City, nueve fichajes de verano y la primera temporada de Alan Julian al mando marcan la pauta antes de que los Rebels reciban al Ebbsfleet United.",
-   "fr": "Une victoire de pré-saison face à Oxford City, neuf recrues estivales et la première saison d'Alan Julian aux commandes donnent le ton avant que les Rebels ne reçoivent Ebbsfleet United.",
-   "it": "Una vittoria in amichevole precampionato contro l'Oxford City, nove acquisti estivi e la prima stagione di Alan Julian alla guida danno il tono prima che i Rebels ospitino l'Ebbsfleet United."
+   "en": "Associazione CrossFit 4112 staged the fourth Trident Battle on 13-14 June 2026, bringing CrossFit competition and open-water beach trials to Piazza Cesare Battisti and the Marina di Nettuno.",
+   "pt": "A Associazione CrossFit 4112 organizou a quarta edição da Trident Battle a 13 e 14 de junho de 2026, levando competição de CrossFit e provas de águas abertas à Piazza Cesare Battisti e à Marina di Nettuno.",
+   "es": "La Associazione CrossFit 4112 organizó la cuarta edición de la Trident Battle el 13 y 14 de junio de 2026, llevando competición de CrossFit y pruebas de aguas abiertas a la Piazza Cesare Battisti y a la Marina di Nettuno.",
+   "fr": "L'Associazione CrossFit 4112 a organisé la quatrième édition de la Trident Battle les 13 et 14 juin 2026, apportant compétition de CrossFit et épreuves en eau libre à la Piazza Cesare Battisti et à la Marina di Nettuno.",
+   "it": "L'Associazione CrossFit 4112 ha organizzato la quarta edizione della Trident Battle il 13 e 14 giugno 2026, portando competizione di CrossFit e prove di acque libere in Piazza Cesare Battisti e alla Marina di Nettuno."
   },
   "card-h3__field__meta": {
    "en": "Image Media coverage",
@@ -176,18 +176,18 @@ window.IM_I18N = {
    "it": "Ultime Notizie"
   },
   "home-latest1-tag": {
-   "en": "Functional",
-   "pt": "Funcional",
-   "es": "Funcional",
-   "fr": "Fonctionnel",
-   "it": "Funzionale"
+   "en": "Athletics",
+   "pt": "Atletismo",
+   "es": "Atletismo",
+   "fr": "Athlétisme",
+   "it": "Atletica"
   },
   "home-latest1-title": {
-   "en": "190 Athletes Compete As Trident Battle Returns To Nettuno For Fourth Edition",
-   "pt": "190 Atletas Competem Enquanto A Trident Battle Regressa A Nettuno Para A Quarta Edição",
-   "es": "190 Atletas Compiten Mientras La Trident Battle Regresa A Nettuno Para Su Cuarta Edición",
-   "fr": "190 Athlètes En Compétition Alors Que La Trident Battle Revient À Nettuno Pour Sa Quatrième Édition",
-   "it": "190 Atleti In Gara Mentre La Trident Battle Torna A Nettuno Per La Quarta Edizione"
+   "en": "XI Carrera Nocturna Del Alamillo Lights Up Sevilla's Parque Del Alamillo For Torch-Lit 5K Night Race",
+   "pt": "XI Carrera Nocturna Del Alamillo Ilumina O Parque Del Alamillo De Sevilha Com Corrida Noturna De 5K À Luz De Tochas",
+   "es": "La XI Carrera Nocturna Del Alamillo Ilumina El Parque Del Alamillo De Sevilla Con Una Carrera Nocturna De 5K A La Luz De Antorchas",
+   "fr": "La XI Carrera Nocturna Del Alamillo Illumine Le Parque Del Alamillo De Séville Pour Une Course Nocturne De 5 Km Aux Flambeaux",
+   "it": "La XI Carrera Nocturna Del Alamillo Illumina Il Parque Del Alamillo Di Siviglia Con Una Corsa Notturna Di 5K Alla Luce Delle Torce"
   },
   "home-latest1-meta": {
    "en": "Image Media coverage",
@@ -197,18 +197,18 @@ window.IM_I18N = {
    "it": "Copertura Image Media"
   },
   "home-latest2-tag": {
-   "en": "Athletics",
-   "pt": "Atletismo",
-   "es": "Atletismo",
-   "fr": "Athlétisme",
-   "it": "Atletica"
+   "en": "Cycling",
+   "pt": "Ciclismo",
+   "es": "Ciclismo",
+   "fr": "Cyclisme",
+   "it": "Ciclismo"
   },
   "home-latest2-title": {
-   "en": "XI Carrera Nocturna Del Alamillo Lights Up Sevilla's Parque Del Alamillo For Torch-Lit 5K Night Race",
-   "pt": "XI Carrera Nocturna Del Alamillo Ilumina O Parque Del Alamillo De Sevilha Com Corrida Noturna De 5K À Luz De Tochas",
-   "es": "La XI Carrera Nocturna Del Alamillo Ilumina El Parque Del Alamillo De Sevilla Con Una Carrera Nocturna De 5K A La Luz De Antorchas",
-   "fr": "La XI Carrera Nocturna Del Alamillo Illumine Le Parque Del Alamillo De Séville Pour Une Course Nocturne De 5 Km Aux Flambeaux",
-   "it": "La XI Carrera Nocturna Del Alamillo Illumina Il Parque Del Alamillo Di Siviglia Con Una Corsa Notturna Di 5K Alla Luce Delle Torce"
+   "en": "Sergio Samitier Heads Third Edition Of La Magia Del Grial As Nearly 700 Cyclists Take On Huesca's Sierra De Guara",
+   "pt": "Sergio Samitier Lidera Terceira Edição De La Magia Del Grial Com Quase 700 Ciclistas A Enfrentar A Sierra De Guara Em Huesca",
+   "es": "Sergio Samitier Encabeza La Tercera Edición De La Magia Del Grial Con Casi 700 Ciclistas Ante La Sierra De Guara En Huesca",
+   "fr": "Sergio Samitier En Tête De La Troisième Édition De La Magia Del Grial Avec Près De 700 Cyclistes Affrontant La Sierra De Guara À Huesca",
+   "it": "Sergio Samitier Guida La Terza Edizione Di La Magia Del Grial Con Quasi 700 Ciclisti Alla Sierra De Guara Di Huesca"
   },
   "home-latest2-meta": {
    "en": "Image Media coverage",
@@ -218,18 +218,18 @@ window.IM_I18N = {
    "it": "Copertura Image Media"
   },
   "home-latest3-tag": {
-   "en": "Cycling",
-   "pt": "Ciclismo",
-   "es": "Ciclismo",
-   "fr": "Cyclisme",
-   "it": "Ciclismo"
+   "en": "Functional",
+   "pt": "Funcional",
+   "es": "Funcional",
+   "fr": "Fonctionnel",
+   "it": "Funzionale"
   },
   "home-latest3-title": {
-   "en": "Sergio Samitier Heads Third Edition Of La Magia Del Grial As Nearly 700 Cyclists Take On Huesca's Sierra De Guara",
-   "pt": "Sergio Samitier Lidera Terceira Edição De La Magia Del Grial Com Quase 700 Ciclistas A Enfrentar A Sierra De Guara Em Huesca",
-   "es": "Sergio Samitier Encabeza La Tercera Edición De La Magia Del Grial Con Casi 700 Ciclistas Ante La Sierra De Guara En Huesca",
-   "fr": "Sergio Samitier En Tête De La Troisième Édition De La Magia Del Grial Avec Près De 700 Cyclistes Affrontant La Sierra De Guara À Huesca",
-   "it": "Sergio Samitier Guida La Terza Edizione Di La Magia Del Grial Con Quasi 700 Ciclisti Alla Sierra De Guara Di Huesca"
+   "en": "AVYNT Hybrid Arena Hosts II Avynt Hyrox Simulation With 190 Registered In Vila Nova De Gaia",
+   "pt": "AVYNT Hybrid Arena Recebe II Avynt Hyrox Simulation Com 190 Inscritos Em Vila Nova De Gaia",
+   "es": "AVYNT Hybrid Arena Acoge La II Avynt Hyrox Simulation Con 190 Inscritos En Vila Nova De Gaia",
+   "fr": "AVYNT Hybrid Arena Accueille La II Avynt Hyrox Simulation Avec 190 Inscrits À Vila Nova De Gaia",
+   "it": "AVYNT Hybrid Arena Ospita La II Avynt Hyrox Simulation Con 190 Iscritti A Vila Nova De Gaia"
   },
   "home-latest3-meta": {
    "en": "Image Media coverage",
@@ -239,18 +239,18 @@ window.IM_I18N = {
    "it": "Copertura Image Media"
   },
   "home-latest4-tag": {
-   "en": "Functional",
-   "pt": "Funcional",
-   "es": "Funcional",
-   "fr": "Fonctionnel",
-   "it": "Funzionale"
+   "en": "Athletics",
+   "pt": "Atletismo",
+   "es": "Atletismo",
+   "fr": "Athlétisme",
+   "it": "Atletica"
   },
   "home-latest4-title": {
-   "en": "AVYNT Hybrid Arena Hosts II Avynt Hyrox Simulation With 190 Registered In Vila Nova De Gaia",
-   "pt": "AVYNT Hybrid Arena Recebe II Avynt Hyrox Simulation Com 190 Inscritos Em Vila Nova De Gaia",
-   "es": "AVYNT Hybrid Arena Acoge La II Avynt Hyrox Simulation Con 190 Inscritos En Vila Nova De Gaia",
-   "fr": "AVYNT Hybrid Arena Accueille La II Avynt Hyrox Simulation Avec 190 Inscrits À Vila Nova De Gaia",
-   "it": "AVYNT Hybrid Arena Ospita La II Avynt Hyrox Simulation Con 190 Iscritti A Vila Nova De Gaia"
+   "en": "Workneh Fikire Serbessa And Eva Piñel Lorenzo Win Tenth SantYaGo10K Night Race Through Santiago De Compostela",
+   "pt": "Workneh Fikire Serbessa E Eva Piñel Lorenzo Vencem Décima SantYaGo10K, Corrida Noturna Por Santiago De Compostela",
+   "es": "Workneh Fikire Serbessa Y Eva Piñel Lorenzo Ganan La Décima SantYaGo10K, Carrera Nocturna Por Santiago De Compostela",
+   "fr": "Workneh Fikire Serbessa Et Eva Piñel Lorenzo Remportent La Dixième SantYaGo10K, Course Nocturne À Santiago De Compostela",
+   "it": "Workneh Fikire Serbessa Ed Eva Piñel Lorenzo Vincono La Decima SantYaGo10K, Corsa Notturna A Santiago De Compostela"
   },
   "home-latest4-meta": {
    "en": "Image Media coverage",
@@ -260,18 +260,18 @@ window.IM_I18N = {
    "it": "Copertura Image Media"
   },
   "home-latest5-tag": {
-   "en": "Athletics",
-   "pt": "Atletismo",
-   "es": "Atletismo",
-   "fr": "Athlétisme",
-   "it": "Atletica"
+   "en": "Functional",
+   "pt": "Funcional",
+   "es": "Funcional",
+   "fr": "Fonctionnel",
+   "it": "Funzionale"
   },
   "home-latest5-title": {
-   "en": "Workneh Fikire Serbessa And Eva Piñel Lorenzo Win Tenth SantYaGo10K Night Race Through Santiago De Compostela",
-   "pt": "Workneh Fikire Serbessa E Eva Piñel Lorenzo Vencem Décima SantYaGo10K, Corrida Noturna Por Santiago De Compostela",
-   "es": "Workneh Fikire Serbessa Y Eva Piñel Lorenzo Ganan La Décima SantYaGo10K, Carrera Nocturna Por Santiago De Compostela",
-   "fr": "Workneh Fikire Serbessa Et Eva Piñel Lorenzo Remportent La Dixième SantYaGo10K, Course Nocturne À Santiago De Compostela",
-   "it": "Workneh Fikire Serbessa Ed Eva Piñel Lorenzo Vincono La Decima SantYaGo10K, Corsa Notturna A Santiago De Compostela"
+   "en": "Italian Showdown Returns To Rimini For Three Days Of CrossFit Competition Across Individual And Doubles Divisions",
+   "pt": "Italian Showdown Regressa A Rimini Com Três Dias De Competição De CrossFit Entre Divisões Individual E Duplas",
+   "es": "Italian Showdown Regresa A Rímini Con Tres Días De Competición De CrossFit Entre Divisiones Individual Y Dobles",
+   "fr": "L'Italian Showdown Revient À Rimini Pour Trois Jours De Compétition De CrossFit Entre Divisions Individuelle Et Doubles",
+   "it": "L'Italian Showdown Torna A Rimini Con Tre Giorni Di Competizione CrossFit Tra Divisioni Individuale E Doppio"
   },
   "home-latest5-meta": {
    "en": "Image Media coverage",
