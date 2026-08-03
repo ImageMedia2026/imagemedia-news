@@ -394,18 +394,18 @@ window.IM_I18N = {
    "it": "Cultura"
   },
   "home-culture1-title": {
-   "en": "Porto Prepares For São João, One Of Europe's Biggest Street Festivals",
-   "pt": "Porto Prepara-se Para O São João, Uma Das Maiores Festas De Rua Da Europa",
-   "es": "Oporto Se Prepara Para El São João, Una De Las Mayores Fiestas Callejeras De Europa",
-   "fr": "Porto Se Prépare Pour La São João, L'une Des Plus Grandes Fêtes De Rue D'Europe",
-   "it": "Porto Si Prepara Per La Festa Di São João, Una Delle Più Grandi Feste Di Strada D'Europa"
+   "en": "OSOS 1000 Draws Nearly 900 Riders To Oviedo For Sixth Edition Of Asturias Motorcycle Challenge",
+   "pt": "OSOS 1000 Reúne Quase 900 Motociclistas Em Oviedo Na Sexta Edição Do Desafio Das Astúrias",
+   "es": "OSOS 1000 Reúne A Casi 900 Motoristas En Oviedo En La Sexta Edición Del Desafío Asturiano",
+   "fr": "OSOS 1000 Rassemble Près De 900 Motards À Oviedo Pour La Sixième Édition Du Défi Des Asturies",
+   "it": "OSOS 1000 Riunisce Quasi 900 Motociclisti A Oviedo Per La Sesta Edizione Della Sfida Delle Asturie"
   },
   "home-culture1-deck": {
-   "en": "The night of June 23 will bring plastic hammers, grilled sardines and a fireworks show stretched across a wider stretch of the Douro than ever before.",
-   "pt": "A noite de 23 de junho trará martelinhos de plástico, sardinhas grelhadas e um espetáculo de fogo-de-artifício ao longo de um trecho do Douro mais extenso do que nunca.",
-   "es": "La noche del 23 de junio traerá martillos de plástico, sardinas a la parrilla y un espectáculo de fuegos artificiales a lo largo de un tramo del Duero más extenso que nunca.",
-   "fr": "La nuit du 23 juin apportera marteaux en plastique, sardines grillées et un feu d'artifice déployé sur une portion du Douro plus large que jamais.",
-   "it": "La notte del 23 giugno porterà martelletti di plastica, sardine alla griglia e uno spettacolo pirotecnico lungo un tratto del Douro più esteso che mai."
+   "en": "Ducati served as official ambassador brand as riders gathered at Plaza de la Catedral for the non-competitive 1,000km, 500km and 300km challenge across Asturias.",
+   "pt": "A Ducati foi a marca embaixadora oficial enquanto os motociclistas se reuniam na Plaza de la Catedral para o desafio não competitivo de 1.000, 500 e 300 km pelas Astúrias.",
+   "es": "Ducati fue la marca embajadora oficial mientras los motoristas se reunían en la Plaza de la Catedral para el desafío no competitivo de 1.000, 500 y 300 km por Asturias.",
+   "fr": "Ducati était la marque ambassadrice officielle tandis que les motards se rassemblaient sur la Plaza de la Catedral pour le défi non compétitif de 1 000, 500 et 300 km à travers les Asturies.",
+   "it": "Ducati è stata il marchio ambasciatore ufficiale mentre i motociclisti si radunavano in Plaza de la Catedral per la sfida non competitiva di 1.000, 500 e 300 km attraverso le Asturie."
   },
   "home-culture1-link": {
    "en": "Read more →",
@@ -422,18 +422,18 @@ window.IM_I18N = {
    "it": "Cultura"
   },
   "home-culture2-title": {
-   "en": "Madrid Spring Festival Closes Chinese New Year With Culture, Music And Sport",
-   "pt": "Madrid Spring Festival Encerra Ano Novo Chinês Com Cultura, Música E Desporto",
-   "es": "Madrid Spring Festival Cierra El Año Nuevo Chino Con Cultura, Música Y Deporte",
-   "fr": "Le Madrid Spring Festival Clôture Le Nouvel An Chinois Avec Culture, Musique Et Sport",
-   "it": "Il Madrid Spring Festival Chiude Il Capodanno Cinese Con Cultura, Musica E Sport"
+   "en": "Porto Prepares For São João, One Of Europe's Biggest Street Festivals",
+   "pt": "Porto Prepara-se Para O São João, Uma Das Maiores Festas De Rua Da Europa",
+   "es": "Oporto Se Prepara Para El São João, Una De Las Mayores Fiestas Callejeras De Europa",
+   "fr": "Porto Se Prépare Pour La São João, L'une Des Plus Grandes Fêtes De Rue D'Europe",
+   "it": "Porto Si Prepara Per La Festa Di São João, Una Delle Più Grandi Feste Di Strada D'Europa"
   },
   "home-culture2-deck": {
-   "en": "Three days at Madrid Río brought qipao workshops, live guzheng and flamenco guitar, and free concerts under the banner \"Dos culturas, un solo latido\" — two cultures, one heartbeat.",
-   "pt": "Três dias no Madrid Río trouxeram workshops de qipao, guzheng ao vivo e guitarra flamenca, e concertos gratuitos sob o lema \"Dos culturas, un solo latido\" — duas culturas, um só batimento.",
-   "es": "Tres días en Madrid Río trajeron talleres de qipao, guzheng en directo y guitarra flamenca, y conciertos gratuitos bajo el lema \"Dos culturas, un solo latido\".",
-   "fr": "Trois jours à Madrid Río ont réuni des ateliers de qipao, du guzheng en direct et de la guitare flamenco, ainsi que des concerts gratuits sous la devise « Dos culturas, un solo latido » — deux cultures, un seul battement de cœur.",
-   "it": "Tre giorni a Madrid Río hanno portato laboratori di qipao, guzheng dal vivo e chitarra flamenca, e concerti gratuiti sotto il motto \"Dos culturas, un solo latido\" — due culture, un solo battito."
+   "en": "The night of June 23 will bring plastic hammers, grilled sardines and a fireworks show stretched across a wider stretch of the Douro than ever before.",
+   "pt": "A noite de 23 de junho trará martelinhos de plástico, sardinhas grelhadas e um espetáculo de fogo-de-artifício ao longo de um trecho do Douro mais extenso do que nunca.",
+   "es": "La noche del 23 de junio traerá martillos de plástico, sardinas a la parrilla y un espectáculo de fuegos artificiales a lo largo de un tramo del Duero más extenso que nunca.",
+   "fr": "La nuit du 23 juin apportera marteaux en plastique, sardines grillées et un feu d'artifice déployé sur une portion du Douro plus large que jamais.",
+   "it": "La notte del 23 giugno porterà martelletti di plastica, sardine alla griglia e uno spettacolo pirotecnico lungo un tratto del Douro più esteso che mai."
   },
   "home-culture2-link": {
    "en": "Read more →",
@@ -11111,6 +11111,216 @@ window.IM_I18N = {
    "it": "Copertura Image Media"
   },
   "card-s44__field__link": {
+   "en": "Read more →",
+   "pt": "Ler mais →",
+   "es": "Leer más →",
+   "fr": "Lire plus →",
+   "it": "Leggi di più →"
+  },
+  "a50-tag": {
+   "en": "Culture",
+   "pt": "Cultura",
+   "es": "Cultura",
+   "fr": "Culture",
+   "it": "Cultura"
+  },
+  "a50-title": {
+   "en": "OSOS 1000 Draws Nearly 900 Riders To Oviedo For Sixth Edition Of Asturias Motorcycle Challenge",
+   "pt": "OSOS 1000 Reúne Quase 900 Motociclistas Em Oviedo Na Sexta Edição Do Desafio Das Astúrias",
+   "es": "OSOS 1000 Reúne A Casi 900 Motoristas En Oviedo En La Sexta Edición Del Desafío Asturiano",
+   "fr": "OSOS 1000 Rassemble Près De 900 Motards À Oviedo Pour La Sixième Édition Du Défi Des Asturies",
+   "it": "OSOS 1000 Riunisce Quasi 900 Motociclisti A Oviedo Per La Sesta Edizione Della Sfida Delle Asturie"
+  },
+  "a50-deck": {
+   "en": "Ducati served as official ambassador brand as riders gathered at Oviedo's Plaza de la Catedral for bib collection and a Friday-night briefing before Saturday's self-guided 1,000km, 500km and 300km routes across Asturias, with event coverage by the Image Media team.",
+   "pt": "A Ducati foi a marca embaixadora oficial enquanto os motociclistas se reuniam na Plaza de la Catedral de Oviedo para o levantamento de dorsais e um briefing na sexta-feira à noite, antes dos percursos autoguiados de 1.000, 500 e 300 km pelas Astúrias no sábado, com cobertura da equipa Image Media.",
+   "es": "Ducati fue la marca embajadora oficial mientras los motoristas se reunían en la Plaza de la Catedral de Oviedo para la recogida de dorsales y un briefing el viernes por la noche, antes de los recorridos autoguiados de 1.000, 500 y 300 km por Asturias del sábado, con cobertura del equipo de Image Media.",
+   "fr": "Ducati était la marque ambassadrice officielle tandis que les motards se rassemblaient sur la Plaza de la Catedral d'Oviedo pour le retrait des dossards et un briefing le vendredi soir, avant les parcours autoguidés de 1 000, 500 et 300 km à travers les Asturies le samedi, avec une couverture assurée par l'équipe Image Media.",
+   "it": "Ducati è stata il marchio ambasciatore ufficiale mentre i motociclisti si radunavano in Plaza de la Catedral a Oviedo per il ritiro dei pettorali e un briefing venerdì sera, prima dei percorsi autoguidati di 1.000, 500 e 300 km attraverso le Asturie di sabato, con copertura a cura del team Image Media."
+  },
+  "a50-byline": {
+   "en": "By Image Media News Staff — Oviedo, Spain",
+   "pt": "Por Equipa Image Media News — Oviedo, Espanha",
+   "es": "Por el Equipo de Image Media News — Oviedo, España",
+   "fr": "Par l'équipe d'Image Media News — Oviedo, Espagne",
+   "it": "A cura del team di Image Media News — Oviedo, Spagna"
+  },
+  "a50-hero-credit": {
+   "en": "Photo: Diego / Image Media",
+   "pt": "Foto: Diego / Image Media",
+   "es": "Foto: Diego / Image Media",
+   "fr": "Photo : Diego / Image Media",
+   "it": "Foto: Diego / Image Media"
+  },
+  "a50-p1": {
+   "en": "OSOS 1000, the non-competitive motorcycle touring challenge organised by Club Deportivo Básico Osos 1000, returned to Oviedo for its sixth edition on 19-20 June 2026, with event coverage by the Image Media team. Ducati España y Portugal served as the event's official ambassador brand for 2026, with riders gathering at Plaza de la Catedral, the challenge's traditional start and finish point, beneath a branded arch. Organisers reported nearly 900 registered riders for this edition.",
+   "pt": "A OSOS 1000, o desafio motociclista de turismo não competitivo organizado pelo Club Deportivo Básico Osos 1000, regressou a Oviedo para a sua sexta edição em 19-20 de junho de 2026, com cobertura da equipa Image Media. A Ducati España y Portugal foi a marca embaixadora oficial do evento em 2026, com os motociclistas a reunirem-se na Plaza de la Catedral, o tradicional ponto de partida e chegada do desafio, sob um arco de marca. Os organizadores registaram quase 900 motociclistas inscritos nesta edição.",
+   "es": "OSOS 1000, el desafío motociclista de turismo no competitivo organizado por el Club Deportivo Básico Osos 1000, regresó a Oviedo para su sexta edición el 19-20 de junio de 2026, con cobertura del equipo de Image Media. Ducati España y Portugal fue la marca embajadora oficial del evento en 2026, con los motoristas reuniéndose en la Plaza de la Catedral, el punto tradicional de salida y llegada del desafío, bajo un arco de la marca. Los organizadores registraron cerca de 900 motoristas inscritos en esta edición.",
+   "fr": "OSOS 1000, le défi motocycliste de tourisme non compétitif organisé par le Club Deportivo Básico Osos 1000, est revenu à Oviedo pour sa sixième édition les 19 et 20 juin 2026, avec une couverture assurée par l'équipe Image Media. Ducati España y Portugal était la marque ambassadrice officielle de l'événement pour 2026, les motards se rassemblant sur la Plaza de la Catedral, point de départ et d'arrivée traditionnel du défi, sous une arche à son effigie. Les organisateurs ont annoncé près de 900 motards inscrits pour cette édition.",
+   "it": "OSOS 1000, la sfida motociclistica di turismo non competitivo organizzata dal Club Deportivo Básico Osos 1000, è tornata a Oviedo per la sua sesta edizione il 19-20 giugno 2026, con copertura a cura del team Image Media. Ducati España y Portugal è stata il marchio ambasciatore ufficiale dell'evento per il 2026, con i motociclisti radunati in Plaza de la Catedral, il tradizionale punto di partenza e arrivo della sfida, sotto un arco a marchio. Gli organizzatori hanno registrato quasi 900 motociclisti iscritti per questa edizione."
+  },
+  "a50-inline1-credit": {
+   "en": "Drone photo: Eduardo Castro / Image Media",
+   "pt": "Foto aérea: Eduardo Castro / Image Media",
+   "es": "Foto aérea: Eduardo Castro / Image Media",
+   "fr": "Photo aérienne : Eduardo Castro / Image Media",
+   "it": "Foto aerea: Eduardo Castro / Image Media"
+  },
+  "a50-p2": {
+   "en": "Riders chose between three self-guided distances — 1,000km, 500km and 300km — each following a GPS track kept secret until the Monday before the event. Departures from Plaza de la Catedral were staggered by distance on the Saturday morning, with the 1,000km riders setting off first at 6:00, followed by the 500km group at 8:00 and the 300km group at 10:00. Along each route, riders stopped at checkpoints to have an event passport stamped, with some checkpoints kept secret until shortly before the event; the 1,000km route carried a maximum time limit of 20 hours.",
+   "pt": "Os motociclistas escolheram entre três distâncias autoguiadas — 1.000 km, 500 km e 300 km — cada uma seguindo um percurso GPS mantido em segredo até à segunda-feira anterior ao evento. As partidas da Plaza de la Catedral foram escalonadas por distância na manhã de sábado, com os motociclistas dos 1.000 km a partir primeiro às 6:00, seguidos pelo grupo dos 500 km às 8:00 e pelo grupo dos 300 km às 10:00. Ao longo de cada percurso, os motociclistas pararam em postos de controlo para carimbar um passaporte do evento, com alguns postos mantidos em segredo até pouco antes do evento; o percurso de 1.000 km tinha um limite de tempo máximo de 20 horas.",
+   "es": "Los motoristas eligieron entre tres distancias autoguiadas — 1.000 km, 500 km y 300 km —, cada una siguiendo un track GPS mantenido en secreto hasta el lunes anterior al evento. Las salidas desde la Plaza de la Catedral se escalonaron por distancia la mañana del sábado, con los motoristas de 1.000 km saliendo primero a las 6:00, seguidos por el grupo de 500 km a las 8:00 y el grupo de 300 km a las 10:00. A lo largo de cada recorrido, los motoristas se detuvieron en controles para sellar un pasaporte del evento, con algunos controles mantenidos en secreto hasta poco antes del evento; el recorrido de 1.000 km tenía un límite de tiempo máximo de 20 horas.",
+   "fr": "Les motards ont choisi parmi trois distances autoguidées — 1 000 km, 500 km et 300 km —, chacune suivant une trace GPS gardée secrète jusqu'au lundi précédant l'événement. Les départs depuis la Plaza de la Catedral ont été échelonnés par distance le samedi matin, les motards du parcours de 1 000 km partant les premiers à 6h00, suivis du groupe des 500 km à 8h00 et du groupe des 300 km à 10h00. Sur chaque parcours, les motards se sont arrêtés à des points de contrôle pour faire tamponner un passeport de l'événement, certains contrôles restant secrets jusqu'à peu avant l'événement ; le parcours de 1 000 km avait un temps limite maximal de 20 heures.",
+   "it": "I motociclisti hanno scelto tra tre distanze autoguidate — 1.000 km, 500 km e 300 km —, ciascuna seguendo un tracciato GPS tenuto segreto fino al lunedì precedente l'evento. Le partenze dalla Plaza de la Catedral sono state scaglionate per distanza sabato mattina, con i motociclisti dei 1.000 km partiti per primi alle 6:00, seguiti dal gruppo dei 500 km alle 8:00 e dal gruppo dei 300 km alle 10:00. Lungo ogni percorso, i motociclisti si sono fermati ai posti di controllo per timbrare un passaporto dell'evento, con alcuni controlli tenuti segreti fino a poco prima dell'evento; il percorso di 1.000 km aveva un limite di tempo massimo di 20 ore."
+  },
+  "a50-stat": {
+   "en": "19-20 June 2026 · Plaza de la Catedral, Oviedo · OSOS 1000, 6th edition · 1,000 / 500 / 300 km · Nearly 900 riders",
+   "pt": "19-20 de junho de 2026 · Plaza de la Catedral, Oviedo · OSOS 1000, 6ª edição · 1.000 / 500 / 300 km · Quase 900 motociclistas",
+   "es": "19-20 de junio de 2026 · Plaza de la Catedral, Oviedo · OSOS 1000, 6ª edición · 1.000 / 500 / 300 km · Casi 900 motoristas",
+   "fr": "19-20 juin 2026 · Plaza de la Catedral, Oviedo · OSOS 1000, 6e édition · 1 000 / 500 / 300 km · Près de 900 motards",
+   "it": "19-20 giugno 2026 · Plaza de la Catedral, Oviedo · OSOS 1000, 6ª edizione · 1.000 / 500 / 300 km · Quasi 900 motociclisti"
+  },
+  "a50-inline2-credit": {
+   "en": "Photo: Diego / Image Media",
+   "pt": "Foto: Diego / Image Media",
+   "es": "Foto: Diego / Image Media",
+   "fr": "Photo : Diego / Image Media",
+   "it": "Foto: Diego / Image Media"
+  },
+  "a50-p3": {
+   "en": "The Friday before the ride brought bib collection, a rider briefing and the traditional \"Cena Oso\" dinner at the Palacio RuaQuince in central Oviedo, where Ducati set up an exhibition space showing its Multistrada V2 S, Multistrada V4 S, Multistrada V4 Rally and DesertX models. Unlike a race, OSOS 1000 carries no results or finishing times — riders navigate their chosen route at their own pace, with the passport stamps serving as proof of passage rather than a timed classification.",
+   "pt": "A sexta-feira antes do percurso trouxe o levantamento de dorsais, um briefing para os motociclistas e o tradicional jantar \"Cena Oso\" no Palacio RuaQuince, no centro de Oviedo, onde a Ducati montou um espaço de exposição com os modelos Multistrada V2 S, Multistrada V4 S, Multistrada V4 Rally e DesertX. Ao contrário de uma corrida, a OSOS 1000 não tem resultados nem tempos de chegada — os motociclistas percorrem o percurso escolhido ao seu próprio ritmo, com os carimbos do passaporte a servir de prova de passagem em vez de uma classificação cronometrada.",
+   "es": "El viernes previo al recorrido trajo la recogida de dorsales, un briefing para los motoristas y la tradicional cena \"Cena Oso\" en el Palacio RuaQuince, en el centro de Oviedo, donde Ducati montó un espacio expositivo con sus modelos Multistrada V2 S, Multistrada V4 S, Multistrada V4 Rally y DesertX. A diferencia de una carrera, OSOS 1000 no tiene resultados ni tiempos de llegada: los motoristas recorren su ruta elegida a su propio ritmo, y los sellos del pasaporte sirven como prueba de paso en lugar de una clasificación cronometrada.",
+   "fr": "Le vendredi précédant le parcours a été marqué par le retrait des dossards, un briefing pour les motards et le traditionnel dîner « Cena Oso » au Palacio RuaQuince, dans le centre d'Oviedo, où Ducati a installé un espace d'exposition présentant ses modèles Multistrada V2 S, Multistrada V4 S, Multistrada V4 Rally et DesertX. Contrairement à une course, OSOS 1000 ne comporte ni résultats ni temps d'arrivée — les motards parcourent l'itinéraire choisi à leur propre rythme, les tampons du passeport servant de preuve de passage plutôt que de classement chronométré.",
+   "it": "Il venerdì prima del percorso ha portato il ritiro dei pettorali, un briefing per i motociclisti e la tradizionale cena \"Cena Oso\" al Palacio RuaQuince, nel centro di Oviedo, dove Ducati ha allestito uno spazio espositivo con i modelli Multistrada V2 S, Multistrada V4 S, Multistrada V4 Rally e DesertX. A differenza di una gara, OSOS 1000 non prevede risultati né tempi di arrivo: i motociclisti percorrono l'itinerario scelto al proprio ritmo, con i timbri del passaporto che fungono da prova di passaggio anziché da classifica cronometrata."
+  },
+  "a50-p4": {
+   "en": "The Image Media coverage team at OSOS 1000 comprised Sergio Mendes, Eduardo Castro, Diego and Unai Martínez.",
+   "pt": "A equipa de cobertura da Image Media na OSOS 1000 foi composta por Sergio Mendes, Eduardo Castro, Diego e Unai Martínez.",
+   "es": "El equipo de cobertura de Image Media en OSOS 1000 estuvo formado por Sergio Mendes, Eduardo Castro, Diego y Unai Martínez.",
+   "fr": "L'équipe de couverture d'Image Media à OSOS 1000 était composée de Sergio Mendes, Eduardo Castro, Diego et Unai Martínez.",
+   "it": "Il team di copertura di Image Media a OSOS 1000 era composto da Sergio Mendes, Eduardo Castro, Diego e Unai Martínez."
+  },
+  "a50-tagpill1": {
+   "en": "OSOS 1000",
+   "pt": "OSOS 1000",
+   "es": "OSOS 1000",
+   "fr": "OSOS 1000",
+   "it": "OSOS 1000"
+  },
+  "a50-tagpill2": {
+   "en": "Oviedo",
+   "pt": "Oviedo",
+   "es": "Oviedo",
+   "fr": "Oviedo",
+   "it": "Oviedo"
+  },
+  "a50-tagpill3": {
+   "en": "Motorcycling",
+   "pt": "Motociclismo",
+   "es": "Motociclismo",
+   "fr": "Moto",
+   "it": "Motociclismo"
+  },
+  "a50-related-title": {
+   "en": "More from Image Media",
+   "pt": "Mais da Image Media",
+   "es": "Más de Image Media",
+   "fr": "Plus d'Image Media",
+   "it": "Altro da Image Media"
+  },
+  "a50-related1-tag": {
+   "en": "Culture",
+   "pt": "Cultura",
+   "es": "Cultura",
+   "fr": "Culture",
+   "it": "Cultura"
+  },
+  "a50-related1-title": {
+   "en": "See all Culture &amp; Concerts coverage",
+   "pt": "Ver toda a cobertura de Cultura e Concertos",
+   "es": "Ver toda la cobertura de Cultura y Conciertos",
+   "fr": "Voir toute la couverture Culture et Concerts",
+   "it": "Vedi tutta la copertura Cultura e Concerti"
+  },
+  "a50-related1-link": {
+   "en": "Visit section →",
+   "pt": "Visitar secção →",
+   "es": "Visitar sección →",
+   "fr": "Voir la rubrique →",
+   "it": "Vai alla sezione →"
+  },
+  "a50-related2-tag": {
+   "en": "Image Media",
+   "pt": "Image Media",
+   "es": "Image Media",
+   "fr": "Image Media",
+   "it": "Image Media"
+  },
+  "a50-related2-title": {
+   "en": "How Image Media covers your event",
+   "pt": "Como a Image Media cobre o seu evento",
+   "es": "Cómo Image Media cubre tu evento",
+   "fr": "Comment Image Media couvre votre événement",
+   "it": "Come Image Media copre il tuo evento"
+  },
+  "a50-related2-link": {
+   "en": "Learn more →",
+   "pt": "Saber mais →",
+   "es": "Saber más →",
+   "fr": "En savoir plus →",
+   "it": "Scopri di più →"
+  },
+  "a50-related3-tag": {
+   "en": "Athletics",
+   "pt": "Atletismo",
+   "es": "Atletismo",
+   "fr": "Athlétisme",
+   "it": "Atletica"
+  },
+  "a50-related3-title": {
+   "en": "Yago González And Beatriz Fernández Win V Carmiña Carreira In Marín",
+   "pt": "Yago González E Beatriz Fernández Vencem A V Carmiña Carreira Em Marín",
+   "es": "Yago González Y Beatriz Fernández Ganan La V Carmiña Carreira En Marín",
+   "fr": "Yago González Et Beatriz Fernández Remportent La V Carmiña Carreira À Marín",
+   "it": "Yago González E Beatriz Fernández Vincono La V Carmiña Carreira A Marín"
+  },
+  "a50-related3-link": {
+   "en": "Read more →",
+   "pt": "Ler mais →",
+   "es": "Leer más →",
+   "fr": "Lire plus →",
+   "it": "Leggi di più →"
+  },
+  "card-c9__field__tag": {
+   "en": "Culture",
+   "pt": "Cultura",
+   "es": "Cultura",
+   "fr": "Culture",
+   "it": "Cultura"
+  },
+  "card-c9__field__title": {
+   "en": "OSOS 1000 Draws Nearly 900 Riders To Oviedo For Sixth Edition Of Asturias Motorcycle Challenge",
+   "pt": "OSOS 1000 Reúne Quase 900 Motociclistas Em Oviedo Na Sexta Edição Do Desafio Das Astúrias",
+   "es": "OSOS 1000 Reúne A Casi 900 Motoristas En Oviedo En La Sexta Edición Del Desafío Asturiano",
+   "fr": "OSOS 1000 Rassemble Près De 900 Motards À Oviedo Pour La Sixième Édition Du Défi Des Asturies",
+   "it": "OSOS 1000 Riunisce Quasi 900 Motociclisti A Oviedo Per La Sesta Edizione Della Sfida Delle Asturie"
+  },
+  "card-c9__field__deck": {
+   "en": "Ducati served as official ambassador brand as riders gathered at Plaza de la Catedral for the non-competitive 1,000km, 500km and 300km challenge across Asturias.",
+   "pt": "A Ducati foi a marca embaixadora oficial enquanto os motociclistas se reuniam na Plaza de la Catedral para o desafio não competitivo de 1.000, 500 e 300 km pelas Astúrias.",
+   "es": "Ducati fue la marca embajadora oficial mientras los motoristas se reunían en la Plaza de la Catedral para el desafío no competitivo de 1.000, 500 y 300 km por Asturias.",
+   "fr": "Ducati était la marque ambassadrice officielle tandis que les motards se rassemblaient sur la Plaza de la Catedral pour le défi non compétitif de 1 000, 500 et 300 km à travers les Asturies.",
+   "it": "Ducati è stata il marchio ambasciatore ufficiale mentre i motociclisti si radunavano in Plaza de la Catedral per la sfida non competitiva di 1.000, 500 e 300 km attraverso le Asturie."
+  },
+  "card-c9__field__meta": {
+   "en": "Image Media coverage",
+   "pt": "Cobertura Image Media",
+   "es": "Cobertura de Image Media",
+   "fr": "Couverture Image Media",
+   "it": "Copertura Image Media"
+  },
+  "card-c9__field__link": {
    "en": "Read more →",
    "pt": "Ler mais →",
    "es": "Leer más →",
