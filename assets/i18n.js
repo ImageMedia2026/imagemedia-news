@@ -10906,6 +10906,216 @@ window.IM_I18N = {
    "es": "Leer más →",
    "fr": "Lire plus →",
    "it": "Leggi di più →"
+  },
+  "a49-tag": {
+   "en": "Athletics",
+   "pt": "Atletismo",
+   "es": "Atletismo",
+   "fr": "Athlétisme",
+   "it": "Atletica"
+  },
+  "a49-title": {
+   "en": "Yago González And Beatriz Fernández Win V Carmiña Carreira In Marín",
+   "pt": "Yago González E Beatriz Fernández Vencem A V Carmiña Carreira Em Marín",
+   "es": "Yago González Y Beatriz Fernández Ganan La V Carmiña Carreira En Marín",
+   "fr": "Yago González Et Beatriz Fernández Remportent La V Carmiña Carreira À Marín",
+   "it": "Yago González E Beatriz Fernández Vincono La V Carmiña Carreira A Marín"
+  },
+  "a49-deck": {
+   "en": "Marín Carreiras staged the fifth V Carmiña Carreira on 14 June 2026, drawing more than 900 participants across the main and Mini Carmiña races along the Marín coastline, with event coverage by the Image Media team.",
+   "pt": "A Marín Carreiras organizou a quinta V Carmiña Carreira a 14 de junho de 2026, reunindo mais de 900 participantes entre a prova principal e a Mini Carmiña ao longo da costa de Marín, com cobertura do evento pela equipa da Image Media.",
+   "es": "Marín Carreiras organizó la quinta V Carmiña Carreira el 14 de junio de 2026, reuniendo a más de 900 participantes entre la carrera principal y la Mini Carmiña a lo largo de la costa de Marín, con cobertura del evento por parte del equipo de Image Media.",
+   "fr": "Marín Carreiras a organisé la cinquième V Carmiña Carreira le 14 juin 2026, réunissant plus de 900 participants entre la course principale et la Mini Carmiña le long du littoral de Marín, avec une couverture de l'événement par l'équipe d'Image Media.",
+   "it": "Marín Carreiras ha organizzato la quinta V Carmiña Carreira il 14 giugno 2026, riunendo oltre 900 partecipanti tra la gara principale e la Mini Carmiña lungo la costa di Marín, con la copertura dell'evento a cura del team di Image Media."
+  },
+  "a49-byline": {
+   "en": "By Image Media News Staff — Marín, Spain",
+   "pt": "Por Equipa Image Media News — Marín, Espanha",
+   "es": "Por el Equipo de Image Media News — Marín, España",
+   "fr": "Par l'équipe d'Image Media News — Marín, Espagne",
+   "it": "A cura del team di Image Media News — Marín, Spagna"
+  },
+  "a49-hero-credit": {
+   "en": "Photo: Paulo Nomade / Image Media",
+   "pt": "Foto: Paulo Nomade / Image Media",
+   "es": "Foto: Paulo Nomade / Image Media",
+   "fr": "Photo : Paulo Nomade / Image Media",
+   "it": "Foto: Paulo Nomade / Image Media"
+  },
+  "a49-p1": {
+   "en": "Marín Carreiras staged the fifth edition of the V Carmiña Carreira in Marín, Pontevedra, on Sunday 14 June 2026, with event coverage by the Image Media team. The main race started from Praia de Lapamán at 10:00h and finished on the Paseo Alcalde Antonio Blanco, covering a route of just over 10 kilometres along the town's coastline. A shorter Mini Carmiña race of 5.4km started separately at 10:30 from the Náutico de Aguete. More than 900 people took part across both races, with 354 runners finishing the main Carmiña Carreira distance.",
+   "pt": "A Marín Carreiras organizou a quinta edição da Carmiña Carreira em Marín, Pontevedra, no domingo, 14 de junho de 2026, com cobertura do evento pela equipa da Image Media. A prova principal partiu da Praia de Lapamán às 10:00h e terminou no Paseo Alcalde Antonio Blanco, percorrendo um trajeto de pouco mais de 10 quilómetros ao longo da costa da vila. Uma prova mais curta, a Mini Carmiña, de 5,4 km, arrancou separadamente às 10:30 a partir do Náutico de Aguete. Mais de 900 pessoas participaram nas duas provas, com 354 corredores a terminarem o percurso principal da Carmiña Carreira.",
+   "es": "Marín Carreiras organizó la quinta edición de la Carmiña Carreira en Marín, Pontevedra, el domingo 14 de junio de 2026, con cobertura del evento por parte del equipo de Image Media. La carrera principal salió de la Praia de Lapamán a las 10:00h y terminó en el Paseo Alcalde Antonio Blanco, recorriendo un trazado de poco más de 10 kilómetros a lo largo de la costa de la localidad. Una prueba más corta, la Mini Carmiña, de 5,4 km, salió por separado a las 10:30 desde el Náutico de Aguete. Más de 900 personas participaron en ambas pruebas, con 354 corredores terminando el trazado principal de la Carmiña Carreira.",
+   "fr": "Marín Carreiras a organisé la cinquième édition de la Carmiña Carreira à Marín, Pontevedra, le dimanche 14 juin 2026, avec une couverture de l'événement par l'équipe d'Image Media. La course principale est partie de la Praia de Lapamán à 10h00 et s'est terminée sur le Paseo Alcalde Antonio Blanco, sur un parcours d'un peu plus de 10 kilomètres le long du littoral de la ville. Une course plus courte, la Mini Carmiña, de 5,4 km, est partie séparément à 10h30 depuis le Náutico de Aguete. Plus de 900 personnes ont participé aux deux courses, 354 coureurs terminant le parcours principal de la Carmiña Carreira.",
+   "it": "Marín Carreiras ha organizzato la quinta edizione della Carmiña Carreira a Marín, Pontevedra, domenica 14 giugno 2026, con la copertura dell'evento a cura del team di Image Media. La gara principale è partita da Praia de Lapamán alle 10:00 ed è terminata sul Paseo Alcalde Antonio Blanco, lungo un percorso di poco più di 10 chilometri sul lungomare della città. Una gara più breve, la Mini Carmiña, di 5,4 km, è partita separatamente alle 10:30 dal Náutico de Aguete. Oltre 900 persone hanno preso parte alle due gare, con 354 corridori che hanno completato il percorso principale della Carmiña Carreira."
+  },
+  "a49-inline1-credit": {
+   "en": "Photo: Michael Rosa / Image Media",
+   "pt": "Foto: Michael Rosa / Image Media",
+   "es": "Foto: Michael Rosa / Image Media",
+   "fr": "Photo : Michael Rosa / Image Media",
+   "it": "Foto: Michael Rosa / Image Media"
+  },
+  "a49-p2": {
+   "en": "Yago González (Miler Running Club) won the men's race in 40:27, ahead of Jorge Puig (CD Pinarium) in 43:49 and Francisco López (La Cerezal Team) in 43:50. Beatriz Fernández (CD Pinarium) won the women's race in 49:43, ahead of Merchi Paz (Ponte a Correr) in 55:18 and Susanne Ewering in 55:44. In the separate Mini Carmiña race, Bedilu Mendoza won the men's category in 18:31 and Lara Santaclara won the women's category in 24:07.",
+   "pt": "Yago González (Miler Running Club) venceu a prova masculina em 40:27, à frente de Jorge Puig (CD Pinarium) em 43:49 e Francisco López (La Cerezal Team) em 43:50. Beatriz Fernández (CD Pinarium) venceu a prova feminina em 49:43, à frente de Merchi Paz (Ponte a Correr) em 55:18 e Susanne Ewering em 55:44. Na Mini Carmiña, disputada em separado, Bedilu Mendoza venceu a categoria masculina em 18:31 e Lara Santaclara venceu a categoria feminina em 24:07.",
+   "es": "Yago González (Miler Running Club) ganó la carrera masculina en 40:27, por delante de Jorge Puig (CD Pinarium) con 43:49 y Francisco López (La Cerezal Team) con 43:50. Beatriz Fernández (CD Pinarium) ganó la carrera femenina en 49:43, por delante de Merchi Paz (Ponte a Correr) con 55:18 y Susanne Ewering con 55:44. En la Mini Carmiña, disputada por separado, Bedilu Mendoza ganó la categoría masculina en 18:31 y Lara Santaclara ganó la categoría femenina en 24:07.",
+   "fr": "Yago González (Miler Running Club) a remporté la course masculine en 40:27, devant Jorge Puig (CD Pinarium) en 43:49 et Francisco López (La Cerezal Team) en 43:50. Beatriz Fernández (CD Pinarium) a remporté la course féminine en 49:43, devant Merchi Paz (Ponte a Correr) en 55:18 et Susanne Ewering en 55:44. Lors de la Mini Carmiña, disputée séparément, Bedilu Mendoza a remporté la catégorie masculine en 18:31 et Lara Santaclara la catégorie féminine en 24:07.",
+   "it": "Yago González (Miler Running Club) ha vinto la gara maschile in 40:27, davanti a Jorge Puig (CD Pinarium) in 43:49 e Francisco López (La Cerezal Team) in 43:50. Beatriz Fernández (CD Pinarium) ha vinto la gara femminile in 49:43, davanti a Merchi Paz (Ponte a Correr) in 55:18 e Susanne Ewering in 55:44. Nella Mini Carmiña, disputata separatamente, Bedilu Mendoza ha vinto la categoria maschile in 18:31 e Lara Santaclara la categoria femminile in 24:07."
+  },
+  "a49-stat": {
+   "en": "14 June 2026 · Praia de Lapamán to Paseo Alcalde Antonio Blanco, Marín · V Carmiña Carreira · More than 900 participants",
+   "pt": "14 de junho de 2026 · Praia de Lapamán ao Paseo Alcalde Antonio Blanco, Marín · V Carmiña Carreira · Mais de 900 participantes",
+   "es": "14 de junio de 2026 · Praia de Lapamán al Paseo Alcalde Antonio Blanco, Marín · V Carmiña Carreira · Más de 900 participantes",
+   "fr": "14 juin 2026 · Praia de Lapamán au Paseo Alcalde Antonio Blanco, Marín · V Carmiña Carreira · Plus de 900 participants",
+   "it": "14 giugno 2026 · Praia de Lapamán al Paseo Alcalde Antonio Blanco, Marín · V Carmiña Carreira · Oltre 900 partecipanti"
+  },
+  "a49-inline2-credit": {
+   "en": "Photo: Luan Rodrigo / Image Media",
+   "pt": "Foto: Luan Rodrigo / Image Media",
+   "es": "Foto: Luan Rodrigo / Image Media",
+   "fr": "Photo : Luan Rodrigo / Image Media",
+   "it": "Foto: Luan Rodrigo / Image Media"
+  },
+  "a49-p3": {
+   "en": "The Carmiña Carreira is organised by Marín Carreiras, which also stages the separate +10K Marín Manuel Rosales, a night race set for its thirteenth edition on 25 July 2026 at a different date and starting point in the town. Both events are run independently of one another under the same organiser.",
+   "pt": "A Carmiña Carreira é organizada pela Marín Carreiras, que também organiza a +10K Marín Manuel Rosales, uma corrida noturna que chega à sua décima terceira edição a 25 de julho de 2026, numa data e ponto de partida diferentes na vila. Os dois eventos decorrem de forma independente sob o mesmo organizador.",
+   "es": "La Carmiña Carreira está organizada por Marín Carreiras, que también organiza la +10K Marín Manuel Rosales, una carrera nocturna que llega a su decimotercera edición el 25 de julio de 2026, en una fecha y punto de salida diferentes en la localidad. Ambos eventos se celebran de forma independiente bajo el mismo organizador.",
+   "fr": "La Carmiña Carreira est organisée par Marín Carreiras, qui organise également la +10K Marín Manuel Rosales, une course nocturne qui en sera à sa treizième édition le 25 juillet 2026, à une date et un point de départ différents dans la ville. Les deux événements se déroulent indépendamment l'un de l'autre sous le même organisateur.",
+   "it": "La Carmiña Carreira è organizzata da Marín Carreiras, che organizza anche la +10K Marín Manuel Rosales, una gara notturna giunta alla tredicesima edizione il 25 luglio 2026, con data e punto di partenza diversi in città. I due eventi si svolgono in modo indipendente sotto lo stesso organizzatore."
+  },
+  "a49-p4": {
+   "en": "The Image Media coverage team at V Carmiña Carreira comprised Michael Rosa, Paulo Nomade, Luan Rodrigo and Luis Moreira.",
+   "pt": "A equipa de cobertura da Image Media na V Carmiña Carreira foi composta por Michael Rosa, Paulo Nomade, Luan Rodrigo e Luis Moreira.",
+   "es": "El equipo de cobertura de Image Media en la V Carmiña Carreira estuvo compuesto por Michael Rosa, Paulo Nomade, Luan Rodrigo y Luis Moreira.",
+   "fr": "L'équipe de couverture d'Image Media à la V Carmiña Carreira était composée de Michael Rosa, Paulo Nomade, Luan Rodrigo et Luis Moreira.",
+   "it": "Il team di copertura di Image Media alla V Carmiña Carreira era composto da Michael Rosa, Paulo Nomade, Luan Rodrigo e Luis Moreira."
+  },
+  "a49-tagpill1": {
+   "en": "V Carmiña Carreira",
+   "pt": "V Carmiña Carreira",
+   "es": "V Carmiña Carreira",
+   "fr": "V Carmiña Carreira",
+   "it": "V Carmiña Carreira"
+  },
+  "a49-tagpill2": {
+   "en": "Marín",
+   "pt": "Marín",
+   "es": "Marín",
+   "fr": "Marín",
+   "it": "Marín"
+  },
+  "a49-tagpill3": {
+   "en": "Athletics",
+   "pt": "Atletismo",
+   "es": "Atletismo",
+   "fr": "Athlétisme",
+   "it": "Atletica"
+  },
+  "a49-related-title": {
+   "en": "More from Image Media",
+   "pt": "Mais da Image Media",
+   "es": "Más de Image Media",
+   "fr": "Plus d'Image Media",
+   "it": "Altro da Image Media"
+  },
+  "a49-related1-tag": {
+   "en": "Sports",
+   "pt": "Desporto",
+   "es": "Deportes",
+   "fr": "Sport",
+   "it": "Sport"
+  },
+  "a49-related1-title": {
+   "en": "See all Sports coverage",
+   "pt": "Ver toda a cobertura de Desporto",
+   "es": "Ver toda la cobertura de Deportes",
+   "fr": "Voir toute la couverture Sport",
+   "it": "Vedi tutta la copertura Sport"
+  },
+  "a49-related1-link": {
+   "en": "Visit section →",
+   "pt": "Visitar secção →",
+   "es": "Visitar sección →",
+   "fr": "Visiter la section →",
+   "it": "Visita la sezione →"
+  },
+  "a49-related2-tag": {
+   "en": "Image Media",
+   "pt": "Image Media",
+   "es": "Image Media",
+   "fr": "Image Media",
+   "it": "Image Media"
+  },
+  "a49-related2-title": {
+   "en": "How Image Media covers your event",
+   "pt": "Como a Image Media cobre o seu evento",
+   "es": "Cómo Image Media cubre tu evento",
+   "fr": "Comment Image Media couvre votre événement",
+   "it": "Come Image Media copre il tuo evento"
+  },
+  "a49-related2-link": {
+   "en": "Learn more →",
+   "pt": "Saber mais →",
+   "es": "Saber más →",
+   "fr": "En savoir plus →",
+   "it": "Scopri di più →"
+  },
+  "a49-related3-tag": {
+   "en": "Functional",
+   "pt": "Funcional",
+   "es": "Funcional",
+   "fr": "Fonctionnel",
+   "it": "Funzionale"
+  },
+  "a49-related3-title": {
+   "en": "José Ángel Hidalgo Izquierdo And Patricie Viadel Turjanicová Win Hurbax Oviedo Championship Stage",
+   "pt": "José Ángel Hidalgo Izquierdo E Patricie Viadel Turjanicová Vencem Etapa De Oviedo Da Hurbax",
+   "es": "José Ángel Hidalgo Izquierdo Y Patricie Viadel Turjanicová Ganan La Etapa De Oviedo De Hurbax",
+   "fr": "José Ángel Hidalgo Izquierdo Et Patricie Viadel Turjanicová Remportent L'Étape D'Oviedo De La Hurbax",
+   "it": "José Ángel Hidalgo Izquierdo E Patricie Viadel Turjanicová Vincono La Tappa Di Oviedo Della Hurbax"
+  },
+  "a49-related3-link": {
+   "en": "Read more →",
+   "pt": "Ler mais →",
+   "es": "Leer más →",
+   "fr": "Lire plus →",
+   "it": "Leggi di più →"
+  },
+  "card-s44__field__tag": {
+   "en": "Athletics",
+   "pt": "Atletismo",
+   "es": "Atletismo",
+   "fr": "Athlétisme",
+   "it": "Atletica"
+  },
+  "card-s44__field__title": {
+   "en": "Yago González And Beatriz Fernández Win V Carmiña Carreira In Marín",
+   "pt": "Yago González E Beatriz Fernández Vencem A V Carmiña Carreira Em Marín",
+   "es": "Yago González Y Beatriz Fernández Ganan La V Carmiña Carreira En Marín",
+   "fr": "Yago González Et Beatriz Fernández Remportent La V Carmiña Carreira À Marín",
+   "it": "Yago González E Beatriz Fernández Vincono La V Carmiña Carreira A Marín"
+  },
+  "card-s44__field__deck": {
+   "en": "Marín Carreiras staged the fifth V Carmiña Carreira on 14 June 2026, drawing more than 900 participants across the main and Mini Carmiña races along the Marín coastline.",
+   "pt": "A Marín Carreiras organizou a quinta V Carmiña Carreira a 14 de junho de 2026, reunindo mais de 900 participantes entre a prova principal e a Mini Carmiña ao longo da costa de Marín.",
+   "es": "Marín Carreiras organizó la quinta V Carmiña Carreira el 14 de junio de 2026, reuniendo a más de 900 participantes entre la carrera principal y la Mini Carmiña a lo largo de la costa de Marín.",
+   "fr": "Marín Carreiras a organisé la cinquième V Carmiña Carreira le 14 juin 2026, réunissant plus de 900 participants entre la course principale et la Mini Carmiña le long du littoral de Marín.",
+   "it": "Marín Carreiras ha organizzato la quinta V Carmiña Carreira il 14 giugno 2026, riunendo oltre 900 partecipanti tra la gara principale e la Mini Carmiña lungo la costa di Marín."
+  },
+  "card-s44__field__meta": {
+   "en": "Image Media coverage",
+   "pt": "Cobertura Image Media",
+   "es": "Cobertura de Image Media",
+   "fr": "Couverture Image Media",
+   "it": "Copertura Image Media"
+  },
+  "card-s44__field__link": {
+   "en": "Read more →",
+   "pt": "Ler mais →",
+   "es": "Leer más →",
+   "fr": "Lire plus →",
+   "it": "Leggi di più →"
   }
  },
  "chrome": {
