@@ -103,7 +103,7 @@ nav.menu a.cta:hover{background:var(--brand);text-decoration:none;}
 .tag-athletics{background:var(--orange);}
 .tag-cycling{background:var(--teal);}
 .tag-triathlon{background:var(--purple);}
-.tag-culture{background:var(--gold);color:var(--ink-900);}.tag-concert{background:#c1275e;}
+.tag-culture{background:var(--gold);color:var(--ink-900);}.tag-concert{background:#c1275e;}.tag-festival{background:#3d5afe;}
 .tag-general{background:var(--ink-700);}
 .tag-functional{background:var(--green);}
 
