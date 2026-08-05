@@ -105,7 +105,7 @@ nav.menu a.cta:hover{background:var(--brand);text-decoration:none;}
 .tag-triathlon{background:var(--purple);}
 .tag-culture{background:var(--gold);color:var(--ink-900);}.tag-concert{background:#c1275e;}.tag-festival{background:#3d5afe;}
 .tag-general{background:var(--ink-700);}
-.tag-functional{background:var(--green);}
+.tag-functional{background:var(--green);}.tag-motocross{background:#7fb800;color:#14161a;}
 
 /* ---------- Hero (lead story) ---------- */
 .hero-story{position:relative;border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow-lg);}
