@@ -125,6 +125,12 @@
   content["card-s56__field__meta"] = {"en":"Image Media coverage","pt":"Cobertura Image Media","es":"Cobertura de Image Media","fr":"Couverture Image Media","it":"Copertura Image Media"};
   content["card-s56__field__link"] = {"en":"Read more →","pt":"Ler mais →","es":"Leer más →","fr":"Lire la suite →","it":"Leggi di più →"};
 
+  ["tag", "title", "deck", "meta", "link"].forEach(function (field) {
+    content["card-h1__field__" + field] = content["card-s42__field__" + field];
+    content["card-h2__field__" + field] = content["card-s10__field__" + field];
+    content["card-h3__field__" + field] = content["card-s11__field__" + field];
+  });
+
   content["a63-related-title"] = content["a62-related-title"];
   content["a63-related1-tag"] = content["a62-related1-tag"];
   content["a63-related1-title"] = content["a62-related1-title"];
