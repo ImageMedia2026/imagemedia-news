@@ -118,6 +118,13 @@
   content["home-hero-title"] = content["a63-title"];
   content["home-hero-deck"] = content["a63-deck"];
   content["home-hero-byline"] = content["a63-byline"];
+  content["home-breaking-text"] = {
+    "en": "Shanley and Holmes win the Athy Half Marathon as 955 runners finish across three distances — full story inside.",
+    "pt": "Shanley e Holmes vencem a Meia Maratona de Athy, com 955 atletas a concluírem três distâncias — reportagem completa.",
+    "es": "Shanley y Holmes ganan la Media Maratón de Athy, con 955 corredores en tres distancias — historia completa.",
+    "fr": "Shanley et Holmes remportent le semi-marathon d’Athy, avec 955 arrivants sur trois distances — article complet.",
+    "it": "Shanley e Holmes vincono la Mezza Maratona di Athy, con 955 arrivati su tre distanze — storia completa."
+  };
 
   content["card-s56__field__tag"] = content["a63-tag"];
   content["card-s56__field__title"] = content["a63-title"];
