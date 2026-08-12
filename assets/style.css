@@ -225,6 +225,48 @@ body.edit-mode .remove-card-btn{display:block;}
 .article-tags{display:flex;gap:8px;flex-wrap:wrap;margin-top:24px;}
 .article-tags span{background:var(--paper);border:1px solid var(--line);color:var(--ink-500);font-size:.78rem;font-weight:700;padding:5px 11px;border-radius:999px;}
 
+/* Photo essay: asymmetric, print-inspired layout for image-led features. */
+.article-body.photo-essay{max-width:1120px;padding-top:46px;}
+.photo-essay-intro{max-width:720px;margin:0 auto 72px;font-size:1.16rem;line-height:1.75;color:var(--ink-700);}
+.photo-essay-intro::first-letter{float:left;font-size:4.15rem;line-height:.82;font-weight:900;color:var(--brand);padding:8px 10px 0 0;}
+.photo-essay-split{display:grid;gap:clamp(36px,6vw,84px);align-items:center;margin:0 0 92px;}
+.photo-essay-split-left{grid-template-columns:minmax(300px,5fr) minmax(320px,6fr);}
+.photo-essay-split-right{grid-template-columns:minmax(320px,6fr) minmax(300px,5fr);}
+.photo-essay-copy{font-size:1.08rem;line-height:1.75;}
+.photo-essay-copy p:last-child{margin-bottom:0;}
+.photo-essay-figure{margin:0;}
+.photo-essay-figure .editable-img-wrap{overflow:hidden;border-radius:var(--radius);box-shadow:var(--shadow-lg);background:var(--paper-2);}
+.photo-essay-figure img{display:block;width:100%;height:auto;}
+.photo-essay-figure .img-credit{max-width:none;margin:9px 2px 0;text-align:left;}
+.photo-essay-portrait{max-width:480px;}
+.photo-essay-split-right .photo-essay-portrait{justify-self:end;}
+.photo-essay-facts{margin-top:34px;font-size:1.18rem;line-height:1.45;}
+.photo-essay-wide{width:min(960px,calc(100% - 48px));margin:4px auto 64px;}
+.photo-essay-wide .editable-img-wrap{border-radius:2px;}
+.photo-essay-closing{max-width:760px;margin:0 auto;}
+.photo-essay-credits{margin-top:38px;padding:24px 26px;border-top:3px solid var(--ink-900);background:var(--paper-2);}
+.photo-essay-credits p{margin-bottom:0;}
+.photo-essay-credits .article-tags{margin-top:18px;}
+
+@media (max-width:820px){
+  .article-body.photo-essay{padding-top:34px;}
+  .photo-essay-intro{margin-bottom:46px;font-size:1.08rem;}
+  .photo-essay-intro::first-letter{font-size:3.55rem;}
+  .photo-essay-split,.photo-essay-split-left,.photo-essay-split-right{grid-template-columns:1fr;gap:26px;margin-bottom:56px;}
+  .photo-essay-portrait,.photo-essay-split-right .photo-essay-portrait{width:min(100%,520px);max-width:none;justify-self:center;}
+  .photo-essay-wide{width:100%;margin-bottom:46px;}
+  .photo-essay-split-right .photo-essay-copy{order:1;}
+  .photo-essay-split-right .photo-essay-figure{order:2;}
+}
+
+@media (max-width:520px){
+  .photo-essay-intro{line-height:1.65;}
+  .photo-essay-split{gap:22px;margin-bottom:46px;}
+  .photo-essay-copy{font-size:1rem;line-height:1.68;}
+  .photo-essay-figure .editable-img-wrap{border-radius:6px;}
+  .photo-essay-credits{padding:20px;}
+}
+
 /* ---------- Masthead / About ---------- */
 .masthead-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;}
 @media (max-width:820px){.masthead-grid{grid-template-columns:1fr;}}
