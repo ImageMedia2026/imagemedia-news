@@ -7,7 +7,7 @@ $registered = @{}
 
 foreach ($article in $manifest.articles) {
   $registered[$article.file] = $true
-  foreach ($field in @('file','headline','description','image','imageCredit','published','modified','section','location')) {
+  foreach ($field in @('file','headline','description','image','imageCredit','published','modified','eventDate','section','location')) {
     if ([string]::IsNullOrWhiteSpace([string]$article.$field)) {
       $errors.Add("$($article.file): missing required publishing field '$field'.")
     }
@@ -15,6 +15,8 @@ foreach ($article in $manifest.articles) {
   if (@($article.sourceUrls).Count -eq 0) {
     $errors.Add("$($article.file): at least one verification source URL is required.")
   }
+  try { [void][DateTimeOffset]::Parse($article.eventDate, [Globalization.CultureInfo]::InvariantCulture) }
+  catch { $errors.Add("$($article.file): eventDate is not a valid date.") }
 
   $articlePath = Join-Path $Root $article.file
   $imagePath = Join-Path $Root $article.image
@@ -45,6 +47,26 @@ foreach ($article in $manifest.articles) {
     if (-not $content.Contains($name)) {
       $errors.Add("$($article.file): credit name '$name' is not visible in the article.")
     }
+  }
+
+  $sectionFile = if ($article.section -eq 'Sports') { 'sports.html' } elseif ($article.section -eq 'Culture') { 'culture.html' } else { $null }
+  if ($sectionFile) {
+    $sectionContent = Get-Content -LiteralPath (Join-Path $Root $sectionFile) -Raw -Encoding utf8
+    $articleFilePattern = [regex]::Escape($article.file)
+    $cardPattern = '(?is)<div\s+class="story-card"(?<attrs>[^>]*)>(?:(?!<div\s+class="story-card").)*?href="' + $articleFilePattern + '(?:[?#][^"]*)?"'
+    $cardMatch = [regex]::Match($sectionContent, $cardPattern)
+    if (-not $cardMatch.Success) {
+      $errors.Add("$($article.file): no matching card was found in $sectionFile.")
+    } elseif ($cardMatch.Groups['attrs'].Value -notmatch ('data-event-date="' + [regex]::Escape($article.eventDate) + '"')) {
+      $errors.Add("$($article.file): $sectionFile grid date must match eventDate $($article.eventDate).")
+    }
+  }
+
+  $homeContent = Get-Content -LiteralPath (Join-Path $Root 'index.html') -Raw -Encoding utf8
+  $homeCardPattern = '(?is)<div\s+class="story-card"(?<attrs>[^>]*)>(?:(?!<div\s+class="story-card").)*?href="' + [regex]::Escape($article.file) + '(?:[?#][^"]*)?"'
+  $homeCardMatch = [regex]::Match($homeContent, $homeCardPattern)
+  if ($homeCardMatch.Success -and $homeCardMatch.Groups['attrs'].Value -notmatch ('data-event-date="' + [regex]::Escape($article.eventDate) + '"')) {
+    $errors.Add("$($article.file): homepage grid date must match eventDate $($article.eventDate).")
   }
 }
 

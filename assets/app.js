@@ -75,6 +75,24 @@
     });
   }
 
+  /* Section chronology follows the event, not the publication day.
+     Late-arriving coverage therefore keeps its correct editorial position. */
+  function sortEventGrids(){
+    Array.prototype.forEach.call(document.querySelectorAll("[data-cards-grid]"), function(grid){
+      var cards = Array.prototype.map.call(grid.children, function(card, index){
+        return { card: card, index: index, date: card.getAttribute("data-event-date") || "" };
+      }).filter(function(item){ return item.card.classList.contains("story-card"); });
+
+      cards.sort(function(a, b){
+        if(a.date === b.date) return a.index - b.index;
+        if(!a.date) return 1;
+        if(!b.date) return -1;
+        return b.date.localeCompare(a.date);
+      });
+      cards.forEach(function(item){ grid.appendChild(item.card); });
+    });
+  }
+
   /* ---------------- breaking-bar ticker ---------------- */
 
   var tickerControls = null;
@@ -155,6 +173,7 @@
   document.addEventListener("DOMContentLoaded", function(){
     restoreFields();
     applyChromeI18n();
+    sortEventGrids();
     wireMobileNav();
     wireFilters();
     wireTicker();

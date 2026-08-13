@@ -81,7 +81,7 @@ article, search metadata, social previews, and sitemaps.
 For each new article:
 1. Create the article HTML and its images in the normal way.
 2. Add one entry to data/publishing.json with the headline, summary, image,
-   real publication/update dates, section, location, correspondent(s),
+   real publication/update dates, event date, section, location, correspondent(s),
    photographer(s), and verification source URL(s).
 3. Run: powershell -ExecutionPolicy Bypass -File scripts/publish-site.ps1
 4. Publish only after the script reports that validation passed.
@@ -90,6 +90,9 @@ The publishing command automatically:
 - inserts canonical, Open Graph, Twitter, NewsArticle, author, contributor,
   photography, date, and citation information;
 - shows the real publication date and IM News Editorial Desk byline;
+- keeps publication chronology separate from event chronology: publication
+  dates describe the article, while event dates control Sports/Culture grid
+  position (including coverage of events that already happened);
 - rebuilds the general sitemap without inventing dates for historical pages;
 - includes only articles from the previous two days in the news sitemap;
 - blocks a new article if required information, sources, credits, or images

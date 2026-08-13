@@ -126,4 +126,30 @@ foreach ($article in $manifest.articles) {
 
   [IO.File]::WriteAllText($articlePath, $content, $utf8NoBom)
   Write-Output "Applied publishing metadata to $($article.file)"
+
+  $sectionFile = if ($article.section -eq 'Sports') { 'sports.html' } elseif ($article.section -eq 'Culture') { 'culture.html' } else { $null }
+  $cardWasFoundInSection = $false
+  foreach ($surfaceFile in @('index.html', $sectionFile) | Where-Object { $_ } | Select-Object -Unique) {
+    $surfacePath = Join-Path $Root $surfaceFile
+    $surfaceContent = Get-Content -LiteralPath $surfacePath -Raw -Encoding utf8
+    $articleFilePattern = [regex]::Escape($article.file)
+    $cardPattern = '(?is)(<div\s+class="story-card"(?<attrs>[^>]*)>)(?:(?!<div\s+class="story-card").)*?href="' + $articleFilePattern + '(?:[?#][^"]*)?"'
+    $cardMatch = [regex]::Match($surfaceContent, $cardPattern)
+    if (-not $cardMatch.Success) { continue }
+    if ($surfaceFile -eq $sectionFile) { $cardWasFoundInSection = $true }
+    $opening = $cardMatch.Groups[1].Value
+    $attrs = $cardMatch.Groups['attrs'].Value
+    if ($attrs -match '\sdata-event-date="[^"]*"') {
+      $newOpening = [regex]::Replace($opening, '\sdata-event-date="[^"]*"', " data-event-date=`"$($article.eventDate)`"")
+    } else {
+      $newOpening = $opening.TrimEnd('>') + " data-event-date=`"$($article.eventDate)`">"
+    }
+    $replacement = $newOpening + $cardMatch.Value.Substring($opening.Length)
+    $surfaceContent = $surfaceContent.Substring(0, $cardMatch.Index) + $replacement + $surfaceContent.Substring($cardMatch.Index + $cardMatch.Length)
+    [IO.File]::WriteAllText($surfacePath, $surfaceContent, $utf8NoBom)
+    Write-Output "Set $surfaceFile grid date for $($article.file) to $($article.eventDate)"
+  }
+  if ($sectionFile -and -not $cardWasFoundInSection) {
+    throw "$($article.file) has no story card in $sectionFile."
+  }
 }
