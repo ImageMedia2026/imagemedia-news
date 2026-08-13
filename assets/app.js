@@ -162,6 +162,118 @@
   });
 })();
 
+/* ---------------- privacy-first audience measurement ----------------
+   Google Analytics belongs to the Image Media account. The tag is not loaded
+   until the visitor accepts analytics, and the choice can be changed later. */
+(function () {
+  "use strict";
+
+  var MEASUREMENT_ID = "G-K43LKDTWW3";
+  var CONSENT_KEY = "im_analytics_consent";
+  var analyticsLoaded = false;
+
+  function savedChoice() {
+    try { return window.localStorage.getItem(CONSENT_KEY); }
+    catch (error) { return null; }
+  }
+
+  function saveChoice(choice) {
+    try { window.localStorage.setItem(CONSENT_KEY, choice); }
+    catch (error) {}
+  }
+
+  function loadAnalytics() {
+    if (analyticsLoaded) return;
+    analyticsLoaded = true;
+    globalThis.dataLayer = globalThis.dataLayer || [];
+    globalThis.gtag = globalThis.gtag || function () {
+      globalThis.dataLayer.push(Array.prototype.slice.call(arguments));
+    };
+    globalThis.gtag("consent", "default", {
+      ad_storage: "denied",
+      ad_user_data: "denied",
+      ad_personalization: "denied",
+      analytics_storage: "granted"
+    });
+    globalThis.gtag("js", new Date());
+    globalThis.gtag("config", MEASUREMENT_ID, {
+      allow_google_signals: false,
+      allow_ad_personalization_signals: false
+    });
+
+    var script = document.createElement("script");
+    script.async = true;
+    script.src = "https://www.googletagmanager.com/gtag/js?id=" + MEASUREMENT_ID;
+    script.setAttribute("data-im-news-analytics", MEASUREMENT_ID);
+    document.head.appendChild(script);
+  }
+
+  document.documentElement.setAttribute("data-analytics-ready", MEASUREMENT_ID);
+  globalThis.imTrack = globalThis.imTrack || function (eventName, parameters) {
+    if (!analyticsLoaded || typeof globalThis.gtag !== "function") return;
+    globalThis.gtag("event", eventName, parameters || {});
+  };
+
+  function removeBanner() {
+    var banner = document.getElementById("privacy-consent");
+    if (banner) banner.remove();
+  }
+
+  function showBanner() {
+    if (document.getElementById("privacy-consent")) return;
+    var banner = document.createElement("section");
+    banner.id = "privacy-consent";
+    banner.className = "privacy-consent";
+    banner.setAttribute("role", "dialog");
+    banner.setAttribute("aria-label", "Analytics privacy choice");
+    banner.innerHTML =
+      '<div class="privacy-consent-copy"><strong>Help us improve IM News</strong>' +
+      '<p>With your permission, we use Google Analytics to understand which stories and formats readers value. Advertising storage and personalisation remain off.</p>' +
+      '<a href="privacy.html">Privacy information</a></div>' +
+      '<div class="privacy-consent-actions">' +
+      '<button type="button" class="btn privacy-decline">Decline analytics</button>' +
+      '<button type="button" class="btn btn-primary privacy-accept">Accept analytics</button>' +
+      '</div>';
+    document.body.appendChild(banner);
+
+    banner.querySelector(".privacy-accept").addEventListener("click", function () {
+      saveChoice("accepted");
+      loadAnalytics();
+      removeBanner();
+    });
+    banner.querySelector(".privacy-decline").addEventListener("click", function () {
+      saveChoice("declined");
+      removeBanner();
+    });
+  }
+
+  function addPrivacySettings() {
+    if (document.getElementById("privacy-settings")) return;
+    var button = document.createElement("button");
+    button.id = "privacy-settings";
+    button.className = "privacy-settings";
+    button.type = "button";
+    button.textContent = "Privacy settings";
+    button.addEventListener("click", function () {
+      try { window.localStorage.removeItem(CONSENT_KEY); } catch (error) {}
+      showBanner();
+    });
+    document.body.appendChild(button);
+  }
+
+  function startPrivacyMeasurement() {
+    if (savedChoice() === "accepted") loadAnalytics();
+    else if (savedChoice() !== "declined") showBanner();
+    addPrivacySettings();
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", startPrivacyMeasurement);
+  } else {
+    startPrivacyMeasurement();
+  }
+})();
+
 /* ---------------- audience engagement ----------------
    Adds useful sharing controls to every article and handles the newsletter
    confirmation state. The controls are generated here so old and new stories
@@ -233,6 +345,14 @@
 
     share.querySelector(".share-copy").addEventListener("click", function () {
       copyLink(this);
+      globalThis.imTrack("share", { method: "copy_link", content_type: "article", item_id: pageUrl() });
+    });
+
+    share.querySelector(".share-whatsapp").addEventListener("click", function () {
+      globalThis.imTrack("share", { method: "whatsapp", content_type: "article", item_id: pageUrl() });
+    });
+    share.querySelector(".share-facebook").addEventListener("click", function () {
+      globalThis.imTrack("share", { method: "facebook", content_type: "article", item_id: pageUrl() });
     });
 
     if (navigator.share) {
@@ -241,6 +361,7 @@
       nativeButton.className = "share-button share-native";
       nativeButton.textContent = "More";
       nativeButton.addEventListener("click", function () {
+        globalThis.imTrack("share", { method: "native", content_type: "article", item_id: pageUrl() });
         navigator.share({ title: title, text: title, url: url }).catch(function () {});
       });
       share.querySelector(".article-share-actions").appendChild(nativeButton);
@@ -272,6 +393,7 @@
     if (responseFrame) responseFrame.addEventListener("load", finishSubscription);
     form.addEventListener("submit", function () {
       submitted = true;
+      globalThis.imTrack("newsletter_signup", { form_name: "homepage_newsletter" });
       if (status) status.classList.remove("show");
       if (button) {
         button.disabled = true;
