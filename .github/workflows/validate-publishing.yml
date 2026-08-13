@@ -15,7 +15,12 @@ jobs:
       - name: Confirm generated files were committed
         shell: powershell
         run: |
-          if (git status --porcelain) {
-            git status --short
+          git diff --exit-code --ignore-space-at-eol
+          if ($LASTEXITCODE -ne 0) {
             throw "Run scripts/publish-site.ps1 and commit the generated files before publishing."
+          }
+          $untracked = git ls-files --others --exclude-standard
+          if ($untracked) {
+            $untracked
+            throw "Publishing created untracked files that must be committed."
           }
