@@ -162,6 +162,136 @@
   });
 })();
 
+/* ---------------- audience engagement ----------------
+   Adds useful sharing controls to every article and handles the newsletter
+   confirmation state. The controls are generated here so old and new stories
+   receive the same behaviour without maintaining duplicated article markup. */
+(function () {
+  "use strict";
+
+  function pageUrl() {
+    var canonical = document.querySelector('link[rel="canonical"]');
+    return canonical ? canonical.href : window.location.href.split("#")[0];
+  }
+
+  function shareText() {
+    var headline = document.querySelector(".article-head h1");
+    return headline ? headline.textContent.trim() : document.title;
+  }
+
+  function showCopyResult(button, success) {
+    var original = button.getAttribute("data-label") || button.textContent;
+    button.textContent = success ? "Link copied" : "Copy failed";
+    window.setTimeout(function () { button.textContent = original; }, 1800);
+  }
+
+  function copyLink(button) {
+    var url = pageUrl();
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(function () {
+        showCopyResult(button, true);
+      }).catch(function () {
+        showCopyResult(button, false);
+      });
+      return;
+    }
+    var field = document.createElement("textarea");
+    field.value = url;
+    field.setAttribute("readonly", "");
+    field.style.position = "fixed";
+    field.style.opacity = "0";
+    document.body.appendChild(field);
+    field.select();
+    var copied = false;
+    try { copied = document.execCommand("copy"); } catch (error) { copied = false; }
+    document.body.removeChild(field);
+    showCopyResult(button, copied);
+  }
+
+  function wireArticleSharing() {
+    var body = document.querySelector(".article-body");
+    if (!body || document.querySelector(".article-share")) return;
+
+    var url = pageUrl();
+    var title = shareText();
+    var encodedUrl = encodeURIComponent(url);
+    var encodedTitle = encodeURIComponent(title);
+    var share = document.createElement("aside");
+    share.className = "article-share";
+    share.setAttribute("aria-label", "Share this article");
+    share.innerHTML =
+      '<strong>Share this story</strong>' +
+      '<div class="article-share-actions">' +
+      '<a class="share-button share-whatsapp" target="_blank" rel="noopener" href="https://wa.me/?text=' + encodedTitle + '%20' + encodedUrl + '">WhatsApp</a>' +
+      '<a class="share-button share-facebook" target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u=' + encodedUrl + '">Facebook</a>' +
+      '<button class="share-button share-copy" type="button" data-label="Copy link">Copy link</button>' +
+      '</div>';
+
+    var tags = body.querySelector(".article-tags");
+    if (tags) body.insertBefore(share, tags);
+    else body.appendChild(share);
+
+    share.querySelector(".share-copy").addEventListener("click", function () {
+      copyLink(this);
+    });
+
+    if (navigator.share) {
+      var nativeButton = document.createElement("button");
+      nativeButton.type = "button";
+      nativeButton.className = "share-button share-native";
+      nativeButton.textContent = "More";
+      nativeButton.addEventListener("click", function () {
+        navigator.share({ title: title, text: title, url: url }).catch(function () {});
+      });
+      share.querySelector(".article-share-actions").appendChild(nativeButton);
+    }
+  }
+
+  function wireNewsletter() {
+    var form = document.querySelector("[data-newsletter-form]");
+    if (!form) return;
+    var status = form.parentNode.querySelector("[data-newsletter-status]");
+    var responseFrame = form.parentNode.querySelector("iframe[name='newsletter-submit']");
+    var submitted = false;
+    var button = form.querySelector("button[type='submit']");
+
+    function finishSubscription() {
+      if (!submitted) return;
+      submitted = false;
+      form.reset();
+      if (button) {
+        button.disabled = false;
+        button.textContent = "Subscribe";
+      }
+      if (status) {
+        status.textContent = "Thank you — your subscription has been received.";
+        status.classList.add("show");
+      }
+    }
+
+    if (responseFrame) responseFrame.addEventListener("load", finishSubscription);
+    form.addEventListener("submit", function () {
+      submitted = true;
+      if (status) status.classList.remove("show");
+      if (button) {
+        button.disabled = true;
+        button.textContent = "Subscribing…";
+      }
+      window.setTimeout(finishSubscription, 8000);
+    });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", function () {
+      wireArticleSharing();
+      wireNewsletter();
+    });
+  } else {
+    wireArticleSharing();
+    wireNewsletter();
+  }
+})();
+
 
 // --- Adaptive image fit: landscape photos fill the frame, portrait photos show in full ---
 (function () {

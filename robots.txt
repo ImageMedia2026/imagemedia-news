@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://imnews.one/sitemap.xml
+Sitemap: https://imnews.one/news-sitemap.xml
