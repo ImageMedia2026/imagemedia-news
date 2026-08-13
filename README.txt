@@ -66,6 +66,34 @@ article-1.html     Sample article — sports feature
 article-2.html     Sample article — sports news (shorter)
 article-3.html     Sample article — culture/concert feature
 about.html         Masthead / editorial focus / newsroom contact
+editorial-standards.html  How IM News verifies, credits, and corrects coverage
 assets/style.css   All styling (light, modern-tabloid theme)
 assets/i18n.js     English/Portuguese/Spanish/French/Italian translations
 assets/app.js      Edit-mode + language engine (no external dependencies)
+
+PUBLISHING STANDARD (ARTICLE 64 ONWARDS)
+=========================================
+The visual HTML pages remain flexible: normal reports, photo essays, and
+special magazine layouts can all be used. Publishing information is managed
+centrally in data/publishing.json so it cannot drift between the visible
+article, search metadata, social previews, and sitemaps.
+
+For each new article:
+1. Create the article HTML and its images in the normal way.
+2. Add one entry to data/publishing.json with the headline, summary, image,
+   real publication/update dates, section, location, correspondent(s),
+   photographer(s), and verification source URL(s).
+3. Run: powershell -ExecutionPolicy Bypass -File scripts/publish-site.ps1
+4. Publish only after the script reports that validation passed.
+
+The publishing command automatically:
+- inserts canonical, Open Graph, Twitter, NewsArticle, author, contributor,
+  photography, date, and citation information;
+- shows the real publication date and IM News Editorial Desk byline;
+- rebuilds the general sitemap without inventing dates for historical pages;
+- includes only articles from the previous two days in the news sitemap;
+- blocks a new article if required information, sources, credits, or images
+  are missing.
+
+Do not manually edit content between IMNEWS:PUBLISHING markers. It is rebuilt
+from data/publishing.json every time the publishing command runs.

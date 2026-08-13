@@ -1,0 +1,52 @@
+{
+  "site": {
+    "baseUrl": "https://imnews.one/",
+    "publicationName": "IM News",
+    "publisherName": "Image Media News",
+    "editorialAuthor": "IM News Editorial Desk",
+    "editorialAuthorUrl": "https://imnews.one/editorial-standards.html",
+    "logo": "images/im-news-logo.png",
+    "language": "en"
+  },
+  "managedFromArticle": 64,
+  "articles": [
+    {
+      "file": "article-64.html",
+      "headline": "Fest’In Folk Corredoura Brings Eight Days Of World Dance To Guimarães",
+      "description": "Fest’In Folk Corredoura brought eight days of folk dance, music and traditional culture to Guimarães from 3 to 10 August 2026, documented for Image Media by Paulo Nomade.",
+      "image": "images/festin-folk-corredoura-guimaraes-dancers.jpg",
+      "imageCredit": "Paulo Nomade / Image Media",
+      "published": "2026-08-12",
+      "modified": "2026-08-12",
+      "section": "Culture",
+      "location": "Guimarães, Portugal",
+      "correspondents": [
+        "Paulo Nomade"
+      ],
+      "photographers": [
+        "Paulo Nomade"
+      ],
+      "sourceUrls": [
+        "https://www.facebook.com/festinfolkcorredoura/?locale=pt_PT"
+      ]
+    },
+    {
+      "file": "article-65.html",
+      "headline": "Prime Hybrid Espinho Passes 600 Registrations With €3,500 Prize Pool Announced",
+      "description": "Portugal's first fully urban hybrid fitness race is targeting 800 athletes for its inaugural edition on 26 September.",
+      "image": "images/prime-hybrid-espinho-organisers-luis-moreira.jpg",
+      "imageCredit": "Luis Moreira / Image Media",
+      "published": "2026-08-13T11:00:00+01:00",
+      "modified": "2026-08-13T11:00:00+01:00",
+      "section": "Sports",
+      "location": "Espinho, Portugal",
+      "correspondents": [],
+      "photographers": [
+        "Luis Moreira"
+      ],
+      "sourceUrls": [
+        "https://primehybrid.pt/"
+      ]
+    }
+  ]
+}

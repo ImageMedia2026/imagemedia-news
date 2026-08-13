@@ -1,0 +1,129 @@
+param([string]$Root = (Split-Path -Parent $PSScriptRoot))
+
+$ErrorActionPreference = 'Stop'
+$manifestPath = Join-Path $Root 'data\publishing.json'
+$manifest = Get-Content -LiteralPath $manifestPath -Raw -Encoding utf8 | ConvertFrom-Json
+$site = $manifest.site
+$utf8NoBom = [System.Text.UTF8Encoding]::new($false)
+
+function HtmlAttribute([string]$value) {
+  return [System.Net.WebUtility]::HtmlEncode($value)
+}
+
+function AbsoluteUrl([string]$path) {
+  if ($path -match '^https?://') { return $path }
+  return "$($site.baseUrl)$($path.TrimStart('/'))"
+}
+
+function DisplayDate([string]$value) {
+  $date = [DateTimeOffset]::Parse($value, [Globalization.CultureInfo]::InvariantCulture)
+  return $date.ToString('d MMMM yyyy', [Globalization.CultureInfo]::GetCultureInfo('en-GB'))
+}
+
+foreach ($article in $manifest.articles) {
+  $articlePath = Join-Path $Root $article.file
+  if (-not (Test-Path -LiteralPath $articlePath)) {
+    throw "Publishing metadata points to a missing article: $($article.file)"
+  }
+
+  $content = Get-Content -LiteralPath $articlePath -Raw -Encoding utf8
+  $articleUrl = AbsoluteUrl $article.file
+  $imageUrl = AbsoluteUrl $article.image
+  $canonicalTitle = "$($article.headline) | IM News"
+
+  $imageObject = [ordered]@{
+    '@type' = 'ImageObject'
+    url = $imageUrl
+    creditText = $article.imageCredit
+  }
+  if (@($article.photographers).Count -gt 0) {
+    $imageObject.creator = @($article.photographers | ForEach-Object {
+      [ordered]@{ '@type' = 'Person'; name = $_ }
+    })
+  }
+
+  $schema = [ordered]@{
+    '@context' = 'https://schema.org'
+    '@type' = 'NewsArticle'
+    headline = $article.headline
+    description = $article.description
+    image = @($imageObject)
+    datePublished = $article.published
+    dateModified = $article.modified
+    articleSection = $article.section
+    author = [ordered]@{
+      '@type' = 'Organization'
+      name = $site.editorialAuthor
+      url = $site.editorialAuthorUrl
+    }
+    publisher = [ordered]@{
+      '@type' = 'NewsMediaOrganization'
+      name = $site.publisherName
+      url = $site.baseUrl
+      logo = [ordered]@{
+        '@type' = 'ImageObject'
+        url = AbsoluteUrl $site.logo
+      }
+    }
+    mainEntityOfPage = [ordered]@{
+      '@type' = 'WebPage'
+      '@id' = $articleUrl
+    }
+    isAccessibleForFree = $true
+  }
+
+  if (@($article.correspondents).Count -gt 0) {
+    $schema.contributor = @($article.correspondents | ForEach-Object {
+      [ordered]@{ '@type' = 'Person'; name = $_ }
+    })
+  }
+  if (@($article.sourceUrls).Count -gt 0) {
+    $schema.citation = @($article.sourceUrls)
+  }
+
+  $schemaJson = $schema | ConvertTo-Json -Depth 12 -Compress
+  $metaBlock = @"
+<!-- IMNEWS:PUBLISHING:START -->
+<meta name="description" content="$(HtmlAttribute $article.description)">
+<meta name="author" content="$(HtmlAttribute $site.editorialAuthor)">
+<link rel="canonical" href="$(HtmlAttribute $articleUrl)">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="$(HtmlAttribute $site.publicationName)">
+<meta property="og:title" content="$(HtmlAttribute $article.headline)">
+<meta property="og:description" content="$(HtmlAttribute $article.description)">
+<meta property="og:url" content="$(HtmlAttribute $articleUrl)">
+<meta property="og:image" content="$(HtmlAttribute $imageUrl)">
+<meta property="article:published_time" content="$(HtmlAttribute $article.published)">
+<meta property="article:modified_time" content="$(HtmlAttribute $article.modified)">
+<meta property="article:section" content="$(HtmlAttribute $article.section)">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="$(HtmlAttribute $article.headline)">
+<meta name="twitter:description" content="$(HtmlAttribute $article.description)">
+<meta name="twitter:image" content="$(HtmlAttribute $imageUrl)">
+<script type="application/ld+json" id="imnews-newsarticle">$schemaJson</script>
+<!-- IMNEWS:PUBLISHING:END -->
+"@
+
+  $content = [regex]::Replace(
+    $content,
+    '(?s)\r?\n?<!-- IMNEWS:PUBLISHING:START -->.*?<!-- IMNEWS:PUBLISHING:END -->\r?\n?',
+    "`r`n"
+  )
+  $content = [regex]::Replace($content, '(?im)^\s*<meta\s+name="(?:description|author)"[^>]*>\s*\r?\n?', '')
+  $content = [regex]::Replace($content, '(?im)^\s*<link\s+rel="canonical"[^>]*>\s*\r?\n?', '')
+  $content = [regex]::Replace($content, '(?im)^\s*<meta\s+property="(?:og:[^"]+|article:[^"]+)"[^>]*>\s*\r?\n?', '')
+  $content = [regex]::Replace($content, '(?im)^\s*<meta\s+name="twitter:[^"]+"[^>]*>\s*\r?\n?', '')
+  $content = [regex]::Replace($content, '(?is)\s*<script\s+type="application/ld\+json"[^>]*>.*?</script>\s*', "`r`n")
+  $content = [regex]::Replace($content, '(?is)<title>.*?</title>', "<title>$(HtmlAttribute $canonicalTitle)</title>`r`n$metaBlock", 1)
+
+  $visibleByline = "By <a href=`"editorial-standards.html`">$(HtmlAttribute $site.editorialAuthor)</a> <span aria-hidden=`"true`">&middot;</span> <time datetime=`"$(HtmlAttribute $article.published)`">$(DisplayDate $article.published)</time> <span aria-hidden=`"true`">&middot;</span> $(HtmlAttribute $article.location)"
+  $content = [regex]::Replace(
+    $content,
+    '(?is)<div\s+class="article-byline"[^>]*>.*?</div>',
+    "<div class=`"article-byline`">$visibleByline</div>",
+    1
+  )
+
+  [IO.File]::WriteAllText($articlePath, $content, $utf8NoBom)
+  Write-Output "Applied publishing metadata to $($article.file)"
+}

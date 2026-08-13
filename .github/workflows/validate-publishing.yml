@@ -1,0 +1,21 @@
+name: Validate IM News publishing
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  publishing-checks:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rebuild publishing metadata and sitemaps
+        shell: pwsh
+        run: ./scripts/publish-site.ps1
+      - name: Confirm generated files were committed
+        shell: pwsh
+        run: |
+          if (git status --porcelain) {
+            git status --short
+            throw "Run scripts/publish-site.ps1 and commit the generated files before publishing."
+          }
