@@ -8,12 +8,12 @@ jobs:
   publishing-checks:
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Rebuild publishing metadata and sitemaps
-        shell: pwsh
+        shell: powershell
         run: ./scripts/publish-site.ps1
       - name: Confirm generated files were committed
-        shell: pwsh
+        shell: powershell
         run: |
           if (git status --porcelain) {
             git status --short
