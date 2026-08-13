@@ -15,10 +15,14 @@ jobs:
       - name: Confirm generated files were committed
         shell: powershell
         run: |
-          git diff --exit-code --ignore-space-at-eol
-          if ($LASTEXITCODE -ne 0) {
+          $changed = git diff --name-only --ignore-space-at-eol -- . ':!sitemap.xml' ':!news-sitemap.xml'
+          if ($changed) {
+            $changed
             throw "Run scripts/publish-site.ps1 and commit the generated files before publishing."
           }
+          # Sitemap contents are date-sensitive and may be regenerated at a
+          # different hour from the editorial commit. They are validated by
+          # publish-site.ps1 and are therefore excluded from the clean-tree test.
           $untracked = git ls-files --others --exclude-standard
           if ($untracked) {
             $untracked
