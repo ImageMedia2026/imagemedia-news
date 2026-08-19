@@ -90,9 +90,9 @@ The publishing command automatically:
 - inserts canonical, Open Graph, Twitter, NewsArticle, author, contributor,
   photography, date, and citation information;
 - shows the real publication date and IM News Editorial Desk byline;
-- keeps publication chronology separate from event chronology: publication
-  dates describe the article, while event dates control Sports/Culture grid
-  position (including coverage of events that already happened);
+- keeps publication chronology separate from event chronology: completed-event
+  coverage is positioned by the event date, including reports published later;
+  future-event news is positioned by its publication date and remains there;
 - rebuilds the general sitemap without inventing dates for historical pages;
 - includes only articles from the previous two days in the news sitemap;
 - blocks a new article if required information, sources, credits, or images
@@ -100,3 +100,12 @@ The publishing command automatically:
 
 Do not manually edit content between IMNEWS:PUBLISHING markers. It is rebuilt
 from data/publishing.json every time the publishing command runs.
+
+GRID ORDERING RULE
+==================
+- Completed-event coverage: use data-event-date (the default grid behaviour).
+- Future-event news or previews: set gridMode to "publication" in
+  data/publishing.json. The publishing command keeps the real event date but
+  automatically positions the story by its publication date.
+- After the event, publish a new coverage report using event-date ordering.
+  The original preview remains in its publication-date position.

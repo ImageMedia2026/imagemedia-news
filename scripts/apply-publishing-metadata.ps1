@@ -128,6 +128,8 @@ foreach ($article in $manifest.articles) {
   Write-Output "Applied publishing metadata to $($article.file)"
 
   $sectionFile = if ($article.section -eq 'Sports') { 'sports.html' } elseif ($article.section -eq 'Culture') { 'culture.html' } else { $null }
+  $gridMode = if ([string]::IsNullOrWhiteSpace([string]$article.gridMode)) { 'event' } else { [string]$article.gridMode }
+  $publishedGridDate = [DateTimeOffset]::Parse($article.published, [Globalization.CultureInfo]::InvariantCulture).ToString('yyyy-MM-dd')
   $cardWasFoundInSection = $false
   foreach ($surfaceFile in @('index.html', $sectionFile) | Where-Object { $_ } | Select-Object -Unique) {
     $surfacePath = Join-Path $Root $surfaceFile
@@ -144,10 +146,16 @@ foreach ($article in $manifest.articles) {
     } else {
       $newOpening = $opening.TrimEnd('>') + " data-event-date=`"$($article.eventDate)`">"
     }
+    $newOpening = [regex]::Replace($newOpening, '\sdata-published-date="[^"]*"', '')
+    $newOpening = [regex]::Replace($newOpening, '\sdata-grid-mode="[^"]*"', '')
+    if ($gridMode -eq 'publication') {
+      $newOpening = $newOpening.TrimEnd('>') + " data-published-date=`"$publishedGridDate`" data-grid-mode=`"publication`">"
+    }
     $replacement = $newOpening + $cardMatch.Value.Substring($opening.Length)
     $surfaceContent = $surfaceContent.Substring(0, $cardMatch.Index) + $replacement + $surfaceContent.Substring($cardMatch.Index + $cardMatch.Length)
     [IO.File]::WriteAllText($surfacePath, $surfaceContent, $utf8NoBom)
-    Write-Output "Set $surfaceFile grid date for $($article.file) to $($article.eventDate)"
+    $effectiveGridDate = if ($gridMode -eq 'publication') { $publishedGridDate } else { $article.eventDate }
+    Write-Output "Set $surfaceFile grid order for $($article.file) to $gridMode date $effectiveGridDate"
   }
   if ($sectionFile -and -not $cardWasFoundInSection) {
     throw "$($article.file) has no story card in $sectionFile."

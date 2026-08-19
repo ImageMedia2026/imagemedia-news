@@ -17,6 +17,16 @@ foreach ($article in $manifest.articles) {
   }
   try { [void][DateTimeOffset]::Parse($article.eventDate, [Globalization.CultureInfo]::InvariantCulture) }
   catch { $errors.Add("$($article.file): eventDate is not a valid date.") }
+  $gridMode = if ([string]::IsNullOrWhiteSpace([string]$article.gridMode)) { 'event' } else { [string]$article.gridMode }
+  if ($gridMode -notin @('event','publication')) {
+    $errors.Add("$($article.file): gridMode must be 'event' or 'publication'.")
+  }
+  $publishedGridDate = try {
+    [DateTimeOffset]::Parse($article.published, [Globalization.CultureInfo]::InvariantCulture).ToString('yyyy-MM-dd')
+  } catch {
+    $errors.Add("$($article.file): published is not a valid date.")
+    ''
+  }
 
   $articlePath = Join-Path $Root $article.file
   $imagePath = Join-Path $Root $article.image
@@ -58,7 +68,9 @@ foreach ($article in $manifest.articles) {
     if (-not $cardMatch.Success) {
       $errors.Add("$($article.file): no matching card was found in $sectionFile.")
     } elseif ($cardMatch.Groups['attrs'].Value -notmatch ('data-event-date="' + [regex]::Escape($article.eventDate) + '"')) {
-      $errors.Add("$($article.file): $sectionFile grid date must match eventDate $($article.eventDate).")
+      $errors.Add("$($article.file): $sectionFile event date must match eventDate $($article.eventDate).")
+    } elseif ($gridMode -eq 'publication' -and $cardMatch.Groups['attrs'].Value -notmatch ('data-published-date="' + [regex]::Escape($publishedGridDate) + '"[^>]*data-grid-mode="publication"')) {
+      $errors.Add("$($article.file): $sectionFile must use publication-date grid ordering for $publishedGridDate.")
     }
   }
 
@@ -66,7 +78,9 @@ foreach ($article in $manifest.articles) {
   $homeCardPattern = '(?is)<div\s+class="story-card"(?<attrs>[^>]*)>(?:(?!<div\s+class="story-card").)*?href="' + [regex]::Escape($article.file) + '(?:[?#][^"]*)?"'
   $homeCardMatch = [regex]::Match($homeContent, $homeCardPattern)
   if ($homeCardMatch.Success -and $homeCardMatch.Groups['attrs'].Value -notmatch ('data-event-date="' + [regex]::Escape($article.eventDate) + '"')) {
-    $errors.Add("$($article.file): homepage grid date must match eventDate $($article.eventDate).")
+    $errors.Add("$($article.file): homepage event date must match eventDate $($article.eventDate).")
+  } elseif ($homeCardMatch.Success -and $gridMode -eq 'publication' -and $homeCardMatch.Groups['attrs'].Value -notmatch ('data-published-date="' + [regex]::Escape($publishedGridDate) + '"[^>]*data-grid-mode="publication"')) {
+    $errors.Add("$($article.file): homepage must use publication-date grid ordering for $publishedGridDate.")
   }
 }
 

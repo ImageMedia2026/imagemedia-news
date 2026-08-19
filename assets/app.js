@@ -75,12 +75,17 @@
     });
   }
 
-  /* Section chronology follows the event, not the publication day.
-     Late-arriving coverage therefore keeps its correct editorial position. */
+  /* Completed-event coverage follows the event date, so late-arriving reports
+     keep their correct editorial position. Future-event news can opt into
+     publication chronology and remains where the news was published. */
   function sortEventGrids(){
     Array.prototype.forEach.call(document.querySelectorAll("[data-cards-grid]"), function(grid){
       var cards = Array.prototype.map.call(grid.children, function(card, index){
-        return { card: card, index: index, date: card.getAttribute("data-event-date") || "" };
+        var eventDate = card.getAttribute("data-event-date") || "";
+        var publishedDate = card.getAttribute("data-published-date") || "";
+        var gridMode = card.getAttribute("data-grid-mode") || "event";
+        var gridDate = gridMode === "publication" ? (publishedDate || eventDate) : eventDate;
+        return { card: card, index: index, date: gridDate };
       }).filter(function(item){ return item.card.classList.contains("story-card"); });
 
       cards.sort(function(a, b){
