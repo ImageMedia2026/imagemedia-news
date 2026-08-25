@@ -177,7 +177,7 @@ if ($latestArticle) {
   $leadTagClass = if ([string]::IsNullOrWhiteSpace([string]$latestArticle.homepageTagClass)) { 'tag-general' } else { [string]$latestArticle.homepageTagClass }
   $leadAlt = if ([string]::IsNullOrWhiteSpace([string]$latestArticle.homepageAlt)) { $latestArticle.headline } else { [string]$latestArticle.homepageAlt }
   $breakingText = if ([string]::IsNullOrWhiteSpace([string]$latestArticle.breakingText)) { $latestArticle.description } else { [string]$latestArticle.breakingText }
-  $leadByline = "By $($site.editorialAuthor) &mdash; $($latestArticle.location)"
+  $leadByline = "By $($site.editorialAuthor) $([char]0x2014) $($latestArticle.location)"
 
   $homeLeadContent = [regex]::Replace($homeLeadContent, '(?is)(<a\s+href=")[^"]+("\s+style="text-decoration:none;">\s*<div\s+class="hero-story">)', "`${1}$($latestArticle.file)`${2}", 1)
   $homeLeadContent = [regex]::Replace($homeLeadContent, '(?is)<img\s+[^>]*data-edit-id="home-hero-image"[^>]*>', {
