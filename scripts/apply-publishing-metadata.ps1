@@ -161,3 +161,37 @@ foreach ($article in $manifest.articles) {
     throw "$($article.file) has no story card in $sectionFile."
   }
 }
+
+# The most recently published managed article is always the homepage lead and
+# supplies the breaking-news ticker. Article-specific i18n files may translate
+# these fields at runtime, while these canonical English values remain the
+# source-of-truth fallback in index.html.
+$latestArticle = $manifest.articles |
+  Sort-Object { [DateTimeOffset]::Parse($_.published, [Globalization.CultureInfo]::InvariantCulture) } -Descending |
+  Select-Object -First 1
+
+if ($latestArticle) {
+  $homePath = Join-Path $Root 'index.html'
+  $homeLeadContent = Get-Content -LiteralPath $homePath -Raw -Encoding utf8
+  $leadTag = if ([string]::IsNullOrWhiteSpace([string]$latestArticle.homepageTag)) { $latestArticle.section } else { [string]$latestArticle.homepageTag }
+  $leadTagClass = if ([string]::IsNullOrWhiteSpace([string]$latestArticle.homepageTagClass)) { 'tag-general' } else { [string]$latestArticle.homepageTagClass }
+  $leadAlt = if ([string]::IsNullOrWhiteSpace([string]$latestArticle.homepageAlt)) { $latestArticle.headline } else { [string]$latestArticle.homepageAlt }
+  $breakingText = if ([string]::IsNullOrWhiteSpace([string]$latestArticle.breakingText)) { $latestArticle.description } else { [string]$latestArticle.breakingText }
+  $leadByline = "By $($site.editorialAuthor) &mdash; $($latestArticle.location)"
+
+  $homeLeadContent = [regex]::Replace($homeLeadContent, '(?is)(<a\s+href=")[^"]+("\s+style="text-decoration:none;">\s*<div\s+class="hero-story">)', "`${1}$($latestArticle.file)`${2}", 1)
+  $homeLeadContent = [regex]::Replace($homeLeadContent, '(?is)<img\s+[^>]*data-edit-id="home-hero-image"[^>]*>', {
+    param($match)
+    $tag = [regex]::Replace($match.Value, '\ssrc="[^"]*"', " src=`"$(HtmlAttribute $latestArticle.image)`"", 1)
+    $tag = [regex]::Replace($tag, '\salt="[^"]*"', " alt=`"$(HtmlAttribute $leadAlt)`"", 1)
+    return $tag
+  }, 1)
+  $homeLeadContent = [regex]::Replace($homeLeadContent, '(?is)<span\s+class="tag\s+[^"]*"\s+data-edit-id="home-hero-tag"[^>]*>.*?</span>', "<span class=`"tag $(HtmlAttribute $leadTagClass)`" data-edit-id=`"home-hero-tag`" data-edit-type=`"text`">$(HtmlAttribute $leadTag)</span>", 1)
+  $homeLeadContent = [regex]::Replace($homeLeadContent, '(?is)(<h1\s+data-edit-id="home-hero-title"[^>]*>).*?(</h1>)', "`${1}$(HtmlAttribute $latestArticle.headline)`${2}", 1)
+  $homeLeadContent = [regex]::Replace($homeLeadContent, '(?is)(<p\s+data-edit-id="home-hero-deck"[^>]*>).*?(</p>)', "`${1}$(HtmlAttribute $latestArticle.description)`${2}", 1)
+  $homeLeadContent = [regex]::Replace($homeLeadContent, '(?is)(<span\s+class="byline"\s+data-edit-id="home-hero-byline"[^>]*>).*?(</span>)', "`${1}$(HtmlAttribute $leadByline)`${2}", 1)
+  $homeLeadContent = [regex]::Replace($homeLeadContent, '(?is)(<span\s+class="ticker-track"\s+data-edit-id="home-breaking-text"[^>]*>).*?(</span>)', "`${1}$(HtmlAttribute $breakingText)`${2}", 1)
+
+  [IO.File]::WriteAllText($homePath, $homeLeadContent, $utf8NoBom)
+  Write-Output "Set homepage lead and breaking ticker to $($latestArticle.file)"
+}

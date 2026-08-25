@@ -97,6 +97,9 @@ The publishing command automatically:
 - includes only articles from the previous two days in the news sitemap;
 - blocks a new article if required information, sources, credits, or images
   are missing.
+- promotes the most recently published managed article to the large homepage
+  lead and uses that article for the breaking-news bar. The previous lead must
+  move into the normal story stack when the new article is prepared.
 
 Do not manually edit content between IMNEWS:PUBLISHING markers. It is rebuilt
 from data/publishing.json every time the publishing command runs.

@@ -128,13 +128,30 @@
   var coverageMeta = t("Image Media coverage", "Cobertura Image Media", "Cobertura de Image Media", "Couverture Image Media", "Copertura Image Media");
   var readMore = t("Read more →", "Ler mais →", "Leer más →", "Lire la suite →", "Leggi di più →");
 
-  ["card-h1", "card-s59"].forEach(function (card) {
+  ["card-s59"].forEach(function (card) {
     content[card + "__field__tag"] = content["a67-tag"];
     content[card + "__field__title"] = content["a67-title"];
     content[card + "__field__deck"] = content["a67-deck"];
     content[card + "__field__meta"] = coverageMeta;
     content[card + "__field__link"] = readMore;
   });
+
+  content["card-h1__field__tag"] = content["a63-tag"];
+  content["card-h1__field__title"] = content["a63-title"];
+  content["card-h1__field__deck"] = content["a63-deck"];
+  content["card-h1__field__meta"] = coverageMeta;
+  content["card-h1__field__link"] = readMore;
+
+  content["home-hero-tag"] = content["a67-tag"];
+  content["home-hero-title"] = content["a67-title"];
+  content["home-hero-deck"] = content["a67-deck"];
+  content["home-hero-byline"] = t(
+    "By IM News Editorial Desk — Ivrea, Italy",
+    "Por Redação IM News — Ivrea, Itália",
+    "Por la Redacción de IM News — Ivrea, Italia",
+    "Par la rédaction d’IM News — Ivrea, Italie",
+    "A cura della Redazione IM News — Ivrea, Italia"
+  );
 
   content["home-latest1-tag"] = content["a67-tag"];
   content["home-latest1-title"] = content["a67-title"];

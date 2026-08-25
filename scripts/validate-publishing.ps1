@@ -84,6 +84,24 @@ foreach ($article in $manifest.articles) {
   }
 }
 
+$latestArticle = $manifest.articles |
+  Sort-Object { [DateTimeOffset]::Parse($_.published, [Globalization.CultureInfo]::InvariantCulture) } -Descending |
+  Select-Object -First 1
+if ($latestArticle) {
+  $homeContent = Get-Content -LiteralPath (Join-Path $Root 'index.html') -Raw -Encoding utf8
+  $heroPattern = '(?is)<a\s+href="' + [regex]::Escape($latestArticle.file) + '"\s+style="text-decoration:none;">\s*<div\s+class="hero-story">'
+  if ($homeContent -notmatch $heroPattern) {
+    $errors.Add("Homepage lead must be the latest published article: $($latestArticle.file).")
+  }
+  if ($homeContent -notmatch ('(?is)<img\s+src="' + [regex]::Escape($latestArticle.image) + '"[^>]*data-edit-id="home-hero-image"')) {
+    $errors.Add("Homepage lead image must match the latest article image: $($latestArticle.image).")
+  }
+  $breakingText = if ([string]::IsNullOrWhiteSpace([string]$latestArticle.breakingText)) { $latestArticle.description } else { [string]$latestArticle.breakingText }
+  if (-not $homeContent.Contains("data-edit-id=`"home-breaking-text`" data-edit-type=`"text`">$breakingText</span>")) {
+    $errors.Add("Homepage breaking ticker must describe the latest published article: $($latestArticle.file).")
+  }
+}
+
 Get-ChildItem -LiteralPath $Root -File -Filter 'article-*.html' | ForEach-Object {
   if ($_.BaseName -match '^article-(\d+)$') {
     $number = [int]$Matches[1]
