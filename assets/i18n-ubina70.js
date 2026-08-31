@@ -5,7 +5,7 @@
   function t(en, pt, es, fr, it) { return {en:en, pt:pt, es:es, fr:fr, it:it}; }
 
   Object.assign(content, {
-    "a70-tag": t("Trail Running", "Trail Running", "Trail Running", "Trail", "Trail Running"),
+    "a70-tag": t("Athletics", "Atletismo", "Atletismo", "Athlétisme", "Atletica"),
     "a70-title": t(
       "Raúl Cámara and Claudia Gutiérrez Win Trail de Ubiña in Asturias",
       "Raúl Cámara e Claudia Gutiérrez Vencem o Trail de Ubiña nas Astúrias",
@@ -100,7 +100,7 @@
       "<strong>Copertura Image Media</strong><br>Testo: Redazione IM News<br>Fotografi dell’evento: Adília Pinto, Claudio João, Diego Ferreira ed Eduardo Almeida / Image Media<br>Fotografie in questo articolo: Adília Pinto, Claudio João e Diego Ferreira / Image Media<br>Risultati verificati nelle classifiche ufficiali Empa-t."
     ),
     "a70-tagpill1": t("Trail de Ubiña", "Trail de Ubiña", "Trail de Ubiña", "Trail de Ubiña", "Trail de Ubiña"),
-    "a70-tagpill2": t("Trail Running", "Trail Running", "Trail Running", "Trail", "Trail Running"),
+    "a70-tagpill2": t("Athletics", "Atletismo", "Atletismo", "Athlétisme", "Atletica"),
     "a70-tagpill3": t("Asturias", "Astúrias", "Asturias", "Asturies", "Asturie")
   });
 
