@@ -2,7 +2,7 @@ param([string]$Root = (Split-Path -Parent $PSScriptRoot))
 
 $ErrorActionPreference = 'Stop'
 $manifestPath = Join-Path $Root 'data\publishing.json'
-$manifest = Get-Content -LiteralPath $manifestPath -Raw -Encoding utf8 | ConvertFrom-Json
+$manifest = Get-Content -LiteralPath $manifestPath -Raw -Encoding utf8 | ConvertFrom-Json -DateKind String
 $site = $manifest.site
 $utf8NoBom = [System.Text.UTF8Encoding]::new($false)
 
@@ -36,8 +36,9 @@ foreach ($article in $manifest.articles) {
     url = $imageUrl
     creditText = $article.imageCredit
   }
-  if (@($article.photographers).Count -gt 0) {
-    $imageObject.creator = @($article.photographers | ForEach-Object {
+  $imageCreators = if (@($article.imagePhotographers).Count -gt 0) { @($article.imagePhotographers) } else { @($article.photographers) }
+  if ($imageCreators.Count -gt 0) {
+    $imageObject.creator = @($imageCreators | ForEach-Object {
       [ordered]@{ '@type' = 'Person'; name = $_ }
     })
   }

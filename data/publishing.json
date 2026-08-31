@@ -120,10 +120,40 @@
         "Jéssica Freitas",
         "Regis Souza"
       ],
+      "imagePhotographers": [
+        "Jéssica Freitas"
+      ],
       "sourceUrls": [
         "https://www.monstertiming.ie/race-results/",
         "https://my.raceresult.com/408017/",
         "https://www.haroldelite.com/home-1"
+      ]
+    },
+    {
+      "file": "article-69.html",
+      "headline": "Eames and Prim Win Portmarnock Beach 5K as 446 Finishers Race the Sand",
+      "description": "Anthony Eames and Rebekka Prim won the 2026 Portmarnock AC Beach 5K as 446 finishers raced across the Velvet Strand in Dublin.",
+      "image": "images/portmarnock-beach-5k-2026-pack-jessica-freitas.jpg",
+      "imageCredit": "Jéssica Freitas / Image Media",
+      "published": "2026-08-31T23:15:00+01:00",
+      "modified": "2026-08-31T23:15:00+01:00",
+      "eventDate": "2026-08-28",
+      "gridMode": "publication",
+      "section": "Sports",
+      "location": "Portmarnock, Ireland",
+      "homepageTag": "Athletics",
+      "homepageTagClass": "tag-athletics",
+      "homepageAlt": "A large field of runners races across Portmarnock Beach during the 2026 Beach 5K",
+      "breakingText": "Anthony Eames and Rebekka Prim won the Portmarnock Beach 5K as 446 finishers raced across the Velvet Strand.",
+      "correspondents": [],
+      "photographers": [
+        "Jéssica Freitas",
+        "Regis Souza"
+      ],
+      "sourceUrls": [
+        "https://myrunresults.com/events/portmarnock_ac_beach_5k_2026/6251/results",
+        "https://www.myrunresults.com/events/portmarnock_ac_beach_5k_2026/6251/details",
+        "https://www.portmarnockathleticclub.ie/"
       ]
     }
   ]

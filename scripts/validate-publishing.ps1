@@ -1,7 +1,7 @@
 param([string]$Root = (Split-Path -Parent $PSScriptRoot))
 
 $ErrorActionPreference = 'Stop'
-$manifest = Get-Content -LiteralPath (Join-Path $Root 'data\publishing.json') -Raw -Encoding utf8 | ConvertFrom-Json
+$manifest = Get-Content -LiteralPath (Join-Path $Root 'data\publishing.json') -Raw -Encoding utf8 | ConvertFrom-Json -DateKind String
 $errors = [Collections.Generic.List[string]]::new()
 $registered = @{}
 
@@ -45,9 +45,21 @@ foreach ($article in $manifest.articles) {
   }
 
   $content = Get-Content -LiteralPath $articlePath -Raw -Encoding utf8
-  foreach ($needle in @('id="imnews-newsarticle"','"@type":"NewsArticle"',"datePublished`":`"$($article.published)",'<time datetime="','IM News Editorial Desk')) {
+  foreach ($needle in @('id="imnews-newsarticle"','"@type":"NewsArticle"','"datePublished":"','<time datetime="','IM News Editorial Desk')) {
     if (-not $content.Contains($needle)) {
       $errors.Add("$($article.file): generated publishing output is incomplete ($needle).")
+    }
+  }
+  $publishedMatch = [regex]::Match($content, '"datePublished":"([^"]+)"')
+  if ($publishedMatch.Success) {
+    try {
+      $manifestPublished = [DateTimeOffset]::Parse([string]$article.published, [Globalization.CultureInfo]::CurrentCulture)
+      $articlePublished = [DateTimeOffset]::Parse($publishedMatch.Groups[1].Value, [Globalization.CultureInfo]::InvariantCulture)
+      if ($manifestPublished -ne $articlePublished) {
+        $errors.Add("$($article.file): generated datePublished does not match the publishing manifest.")
+      }
+    } catch {
+      $errors.Add("$($article.file): generated datePublished is not a valid date.")
     }
   }
   if ($content -match '<div\s+class="article-byline"[^>]*data-edit-id=') {

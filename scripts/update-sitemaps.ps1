@@ -2,7 +2,7 @@ param([string]$Root = (Split-Path -Parent $PSScriptRoot))
 
 $ErrorActionPreference = 'Stop'
 $base = 'https://imnews.one/'
-$manifest = Get-Content -LiteralPath (Join-Path $Root 'data\publishing.json') -Raw -Encoding utf8 | ConvertFrom-Json
+$manifest = Get-Content -LiteralPath (Join-Path $Root 'data\publishing.json') -Raw -Encoding utf8 | ConvertFrom-Json -DateKind String
 $metadataByFile = @{}
 foreach ($article in $manifest.articles) { $metadataByFile[$article.file] = $article }
 $utf8NoBom = [System.Text.UTF8Encoding]::new($false)
