@@ -37,6 +37,12 @@ foreach ($article in $manifest.articles) {
   if (-not (Test-Path -LiteralPath $imagePath)) {
     $errors.Add("$($article.file): representative image does not exist: $($article.image)")
   }
+  if (-not [string]::IsNullOrWhiteSpace([string]$article.homepageImage)) {
+    $homepageImagePath = Join-Path $Root $article.homepageImage
+    if (-not (Test-Path -LiteralPath $homepageImagePath)) {
+      $errors.Add("$($article.file): homepage image does not exist: $($article.homepageImage)")
+    }
+  }
 
   $content = Get-Content -LiteralPath $articlePath -Raw -Encoding utf8
   foreach ($needle in @('id="imnews-newsarticle"','"@type":"NewsArticle"',"datePublished`":`"$($article.published)",'<time datetime="','IM News Editorial Desk')) {
@@ -93,8 +99,9 @@ if ($latestArticle) {
   if ($homeContent -notmatch $heroPattern) {
     $errors.Add("Homepage lead must be the latest published article: $($latestArticle.file).")
   }
-  if ($homeContent -notmatch ('(?is)<img\s+src="' + [regex]::Escape($latestArticle.image) + '"[^>]*data-edit-id="home-hero-image"')) {
-    $errors.Add("Homepage lead image must match the latest article image: $($latestArticle.image).")
+  $leadImage = if ([string]::IsNullOrWhiteSpace([string]$latestArticle.homepageImage)) { [string]$latestArticle.image } else { [string]$latestArticle.homepageImage }
+  if ($homeContent -notmatch ('(?is)<img\s+src="' + [regex]::Escape($leadImage) + '"[^>]*data-edit-id="home-hero-image"')) {
+    $errors.Add("Homepage lead image must match the configured homepage image: $leadImage.")
   }
   $breakingText = if ([string]::IsNullOrWhiteSpace([string]$latestArticle.breakingText)) { $latestArticle.description } else { [string]$latestArticle.breakingText }
   if (-not $homeContent.Contains("data-edit-id=`"home-breaking-text`" data-edit-type=`"text`">$breakingText</span>")) {

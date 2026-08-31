@@ -5,7 +5,7 @@
   function t(en, pt, es, fr, it) { return {en:en, pt:pt, es:es, fr:fr, it:it}; }
 
   Object.assign(content, {
-    "a68-tag": t("Functional Fitness", "Fitness Funcional", "Fitness Funcional", "Fitness Fonctionnel", "Fitness Funzionale"),
+    "a68-tag": t("Functional", "Funcional", "Funcional", "Fonctionnel", "Funzionale"),
     "a68-title": t(
       "KIDSROX Brings Youth Fitness Racing to Dublin",
       "KIDSROX Leva A Competição De Fitness Juvenil A Dublin",

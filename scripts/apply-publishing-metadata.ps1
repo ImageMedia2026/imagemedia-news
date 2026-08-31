@@ -175,6 +175,7 @@ if ($latestArticle) {
   $homeLeadContent = Get-Content -LiteralPath $homePath -Raw -Encoding utf8
   $leadTag = if ([string]::IsNullOrWhiteSpace([string]$latestArticle.homepageTag)) { $latestArticle.section } else { [string]$latestArticle.homepageTag }
   $leadTagClass = if ([string]::IsNullOrWhiteSpace([string]$latestArticle.homepageTagClass)) { 'tag-general' } else { [string]$latestArticle.homepageTagClass }
+  $leadImage = if ([string]::IsNullOrWhiteSpace([string]$latestArticle.homepageImage)) { [string]$latestArticle.image } else { [string]$latestArticle.homepageImage }
   $leadAlt = if ([string]::IsNullOrWhiteSpace([string]$latestArticle.homepageAlt)) { $latestArticle.headline } else { [string]$latestArticle.homepageAlt }
   $breakingText = if ([string]::IsNullOrWhiteSpace([string]$latestArticle.breakingText)) { $latestArticle.description } else { [string]$latestArticle.breakingText }
   $leadByline = "By $($site.editorialAuthor) $([char]0x2014) $($latestArticle.location)"
@@ -182,7 +183,7 @@ if ($latestArticle) {
   $homeLeadContent = [regex]::Replace($homeLeadContent, '(?is)(<a\s+href=")[^"]+("\s+style="text-decoration:none;">\s*<div\s+class="hero-story">)', "`${1}$($latestArticle.file)`${2}", 1)
   $homeLeadContent = [regex]::Replace($homeLeadContent, '(?is)<img\s+[^>]*data-edit-id="home-hero-image"[^>]*>', {
     param($match)
-    $tag = [regex]::Replace($match.Value, '\ssrc="[^"]*"', " src=`"$(HtmlAttribute $latestArticle.image)`"", 1)
+    $tag = [regex]::Replace($match.Value, '\ssrc="[^"]*"', " src=`"$(HtmlAttribute $leadImage)`"", 1)
     $tag = [regex]::Replace($tag, '\salt="[^"]*"', " alt=`"$(HtmlAttribute $leadAlt)`"", 1)
     return $tag
   }, 1)
