@@ -116,7 +116,8 @@ if ($latestArticle) {
     $errors.Add("Homepage lead image must match the configured homepage image: $leadImage.")
   }
   $breakingText = if ([string]::IsNullOrWhiteSpace([string]$latestArticle.breakingText)) { $latestArticle.description } else { [string]$latestArticle.breakingText }
-  if (-not $homeContent.Contains("data-edit-id=`"home-breaking-text`" data-edit-type=`"text`">$breakingText</span>")) {
+  $encodedBreakingText = [System.Net.WebUtility]::HtmlEncode($breakingText)
+  if (-not $homeContent.Contains("data-edit-id=`"home-breaking-text`" data-edit-type=`"text`">$encodedBreakingText</span>")) {
     $errors.Add("Homepage breaking ticker must describe the latest published article: $($latestArticle.file).")
   }
 }

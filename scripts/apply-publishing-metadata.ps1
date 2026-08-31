@@ -36,7 +36,12 @@ foreach ($article in $manifest.articles) {
     url = $imageUrl
     creditText = $article.imageCredit
   }
-  $imageCreators = if (@($article.imagePhotographers).Count -gt 0) { @($article.imagePhotographers) } else { @($article.photographers) }
+  $explicitImageCreators = @($article.imagePhotographers | Where-Object { -not [string]::IsNullOrWhiteSpace([string]$_) })
+  $imageCreators = if ($explicitImageCreators.Count -gt 0) {
+    $explicitImageCreators
+  } else {
+    @($article.photographers | Where-Object { -not [string]::IsNullOrWhiteSpace([string]$_) })
+  }
   if ($imageCreators.Count -gt 0) {
     $imageObject.creator = @($imageCreators | ForEach-Object {
       [ordered]@{ '@type' = 'Person'; name = $_ }
@@ -82,7 +87,7 @@ foreach ($article in $manifest.articles) {
     $schema.citation = @($article.sourceUrls)
   }
 
-  $schemaJson = $schema | ConvertTo-Json -Depth 12 -Compress
+  $schemaJson = ($schema | ConvertTo-Json -Depth 12 -Compress).Replace("'", '\u0027')
   $metaBlock = @"
 <!-- IMNEWS:PUBLISHING:START -->
 <meta name="description" content="$(HtmlAttribute $article.description)">

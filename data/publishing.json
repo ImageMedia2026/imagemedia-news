@@ -150,10 +150,46 @@
         "Jéssica Freitas",
         "Regis Souza"
       ],
+      "imagePhotographers": [
+        "Jéssica Freitas"
+      ],
       "sourceUrls": [
         "https://myrunresults.com/events/portmarnock_ac_beach_5k_2026/6251/results",
         "https://www.myrunresults.com/events/portmarnock_ac_beach_5k_2026/6251/details",
         "https://www.portmarnockathleticclub.ie/"
+      ]
+    },
+    {
+      "file": "article-70.html",
+      "headline": "Raúl Cámara and Claudia Gutiérrez Win Trail de Ubiña in Asturias",
+      "description": "Raúl Cámara Pérez and Claudia Gutiérrez Lueje won the 21 km Trail de Ubiña as 273 classified finishers raced across two mountain courses in Asturias.",
+      "image": "images/trail-ubina-2026-mountain-diego-ferreira.jpg",
+      "imageCredit": "Diego Ferreira / Image Media",
+      "published": "2026-08-31T23:43:00+01:00",
+      "modified": "2026-08-31T23:43:00+01:00",
+      "eventDate": "2026-08-29",
+      "gridMode": "publication",
+      "section": "Sports",
+      "location": "Tuiza de Arriba, Spain",
+      "homepageTag": "Trail Running",
+      "homepageTagClass": "tag-athletics",
+      "homepageAlt": "Trail runners climb through the Macizo de Ubiña mountains during the 2026 race",
+      "breakingText": "Raúl Cámara and Claudia Gutiérrez won the Trail de Ubiña as 273 classified finishers raced through the Asturian mountains.",
+      "correspondents": [],
+      "photographers": [
+        "Adília Pinto",
+        "Claudio João",
+        "Diego Ferreira",
+        "Eduardo Almeida"
+      ],
+      "imagePhotographers": [
+        "Diego Ferreira"
+      ],
+      "sourceUrls": [
+        "https://inscripciones.empa-t.com/inscripcion/carreras-del-macizo-de-ubina-1/clasificaciones/?lang=es",
+        "https://inscripciones.empa-t.com/inscripcion/carreras-del-macizo-de-ubina-1/resultados/clasificacion-trail",
+        "https://inscripciones.empa-t.com/inscripcion/carreras-del-macizo-de-ubina-1/resultados/clasificacion-carrerina",
+        "https://web.rockthesport.com/es/event/trail-de-ubina-2026"
       ]
     }
   ]
