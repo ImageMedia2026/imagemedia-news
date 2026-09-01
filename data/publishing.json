@@ -191,6 +191,42 @@
         "https://inscripciones.empa-t.com/inscripcion/carreras-del-macizo-de-ubina-1/resultados/clasificacion-carrerina",
         "https://web.rockthesport.com/es/event/trail-de-ubina-2026"
       ]
+    },
+    {
+      "file": "article-71.html",
+      "headline": "Fabio Lanzone and Annalisa Prato Win Haute Route Alps 2026",
+      "description": "Seven stages carried riders from Nice to Thonon-les-Bains across 808 km and 19,255 metres of climbing, with Fabio Lanzone and Annalisa Prato taking the overall titles.",
+      "image": "images/haute-route-alps-2026-savoie-climb-michael-rosa.jpg",
+      "imageCredit": "Michael Rosa / Correspondent",
+      "published": "2026-09-01T02:37:00+01:00",
+      "modified": "2026-09-01T02:37:00+01:00",
+      "eventDate": "2026-08-23",
+      "section": "Sports",
+      "location": "French Alps, France",
+      "homepageTag": "Cycling",
+      "homepageTagClass": "tag-general",
+      "homepageAlt": "Cyclists climb through Savoie beneath dark Alpine clouds during Haute Route Alps 2026",
+      "breakingText": "Fabio Lanzone and Annalisa Prato won Haute Route Alps 2026 after seven stages, 808 km and 19,255 metres of climbing.",
+      "correspondents": [
+        "Eduardo Castro",
+        "Luis Moreira",
+        "Michael Rosa",
+        "Paulo Nomade"
+      ],
+      "photographers": [
+        "Eduardo Castro",
+        "Luis Moreira",
+        "Michael Rosa",
+        "Paulo Nomade"
+      ],
+      "imagePhotographers": [
+        "Michael Rosa"
+      ],
+      "sourceUrls": [
+        "https://hauteroute.fr/gb-haute-route-alpes-2026-race-route-2/",
+        "https://www.strava.com/clubs/haute-route",
+        "https://fotop.com/fotos/eventos/index/evento/240563"
+      ]
     }
   ]
 }
