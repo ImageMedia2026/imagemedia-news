@@ -99,11 +99,13 @@
 
   var coverageMeta = t("Image Media coverage", "Cobertura Image Media", "Cobertura de Image Media", "Couverture Image Media", "Copertura Image Media");
   var readMore = t("Read more →", "Ler mais →", "Leer más →", "Lire la suite →", "Leggi di più →");
-  content["card-s61__field__tag"] = content["a69-tag"];
-  content["card-s61__field__title"] = content["a69-title"];
-  content["card-s61__field__deck"] = content["a69-deck"];
-  content["card-s61__field__meta"] = coverageMeta;
-  content["card-s61__field__link"] = readMore;
+  ["card-s61", "card-h1"].forEach(function (card) {
+    content[card + "__field__tag"] = content["a69-tag"];
+    content[card + "__field__title"] = content["a69-title"];
+    content[card + "__field__deck"] = content["a69-deck"];
+    content[card + "__field__meta"] = coverageMeta;
+    content[card + "__field__link"] = readMore;
+  });
 
   content["home-hero-tag"] = content["a69-tag"];
   content["home-hero-title"] = content["a69-title"];

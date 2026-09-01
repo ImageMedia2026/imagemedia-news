@@ -136,11 +136,11 @@
     content[card + "__field__link"] = readMore;
   });
 
-  content["card-h1__field__tag"] = content["a63-tag"];
-  content["card-h1__field__title"] = content["a63-title"];
-  content["card-h1__field__deck"] = content["a63-deck"];
-  content["card-h1__field__meta"] = coverageMeta;
-  content["card-h1__field__link"] = readMore;
+  content["card-h3__field__tag"] = content["a67-tag"];
+  content["card-h3__field__title"] = content["a67-title"];
+  content["card-h3__field__deck"] = content["a67-deck"];
+  content["card-h3__field__meta"] = coverageMeta;
+  content["card-h3__field__link"] = readMore;
 
   content["home-hero-tag"] = content["a67-tag"];
   content["home-hero-title"] = content["a67-title"];

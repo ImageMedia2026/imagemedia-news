@@ -106,7 +106,7 @@
   var coverageMeta = t("Image Media coverage", "Cobertura Image Media", "Cobertura de Image Media", "Couverture Image Media", "Copertura Image Media");
   var readMore = t("Read more →", "Ler mais →", "Leer más →", "Lire la suite →", "Leggi di più →");
 
-  ["card-s60"].forEach(function (card) {
+  ["card-s60", "card-h2"].forEach(function (card) {
     content[card + "__field__tag"] = content["a68-tag"];
     content[card + "__field__title"] = content["a68-title"];
     content[card + "__field__deck"] = content["a68-deck"];
