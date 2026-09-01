@@ -112,6 +112,29 @@
   content["card-s62__field__meta"] = coverageMeta;
   content["card-s62__field__link"] = readMore;
 
+  [
+    ["home-latest1", "a70"],
+    ["home-latest2", "a69"],
+    ["home-latest3", "a68"],
+    ["home-latest4", "a67"],
+    ["home-latest5", "a66"]
+  ].forEach(function (item) {
+    content[item[0] + "-tag"] = content[item[1] + "-tag"];
+    content[item[0] + "-title"] = content[item[1] + "-title"];
+    content[item[0] + "-meta"] = coverageMeta;
+  });
+
+  [
+    ["home-sports1", "a66"],
+    ["home-sports2", "a65"],
+    ["home-sports3", "a63"]
+  ].forEach(function (item) {
+    content[item[0] + "-tag"] = content[item[1] + "-tag"];
+    content[item[0] + "-title"] = content[item[1] + "-title"];
+    content[item[0] + "-deck"] = content[item[1] + "-deck"];
+    content[item[0] + "-link"] = readMore;
+  });
+
   content["home-hero-tag"] = content["a70-tag"];
   content["home-hero-title"] = content["a70-title"];
   content["home-hero-deck"] = content["a70-deck"];
