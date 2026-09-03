@@ -227,6 +227,32 @@
         "https://www.strava.com/clubs/haute-route",
         "https://fotop.com/fotos/eventos/index/evento/240563"
       ]
+    },
+    {
+      "file": "article-72.html",
+      "headline": "World Surf League Makes Leça da Palmeira Debut at QS 6000",
+      "description": "The World Surf League has arrived in Leça da Palmeira for a new QS 6000 International, bringing 224 surfers to Matosinhos from 1–6 September.",
+      "image": "images/wsl-leca-2026-surfer-cutback-sergio-mendes.jpeg",
+      "imageCredit": "Sérgio Mendes / IM News",
+      "published": "2026-09-03T03:55:00+01:00",
+      "modified": "2026-09-03T03:55:00+01:00",
+      "eventDate": "2026-09-01",
+      "gridMode": "publication",
+      "section": "Sports",
+      "location": "Leça da Palmeira, Portugal",
+      "homepageTag": "Surf",
+      "homepageTagClass": "tag-general",
+      "homepageAlt": "Surfer drives through a cutback as spray arcs above a green wave in Leça da Palmeira",
+      "breakingText": "The World Surf League has arrived in Leça da Palmeira for a new QS 6,000 International.",
+      "correspondents": ["Sérgio Mendes"],
+      "photographers": ["Sérgio Mendes"],
+      "imagePhotographers": ["Sérgio Mendes"],
+      "sourceUrls": [
+        "https://www.worldsurfleague.com/events/2026/qs/540/xacobeo-norte-surf-fest/main",
+        "https://www.worldsurfleague.com/posts/559648/short-day-of-competition-at-xacobeo-norte-surf-fest",
+        "https://nortesurfest.pt/",
+        "https://www.visitportugal.com/en/node/520693"
+      ]
     }
   ]
 }
