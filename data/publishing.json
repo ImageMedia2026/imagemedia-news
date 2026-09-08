@@ -274,6 +274,34 @@
       "photographers": ["Julia Diresto"],
       "imagePhotographers": ["Julia Diresto"],
       "sourceUrls": ["https://norway.opentrack.run/en-gb/x/2026/GBR/mksprintseries3/"]
+    },
+    {
+      "file": "article-74.html",
+      "headline": "Marko Emeršič and Laura Šimenc Kramar Win L’Étape Slovenia 2026",
+      "description": "A record 1,600 riders from 31 countries took on L’Étape Slovenia’s 80 km and 130 km routes, with Marko Emeršič and Laura Šimenc Kramar winning the long race.",
+      "image": "images/letape-slovenia-2026-mountain-claudio-joao.jpg",
+      "imageCredit": "Claudio João / Image Media",
+      "published": "2026-09-08T20:13:27+01:00",
+      "modified": "2026-09-08T20:13:27+01:00",
+      "eventDate": "2026-09-06",
+      "gridMode": "publication",
+      "section": "Sports",
+      "location": "Kranj, Slovenia",
+      "homepageTag": "Cycling",
+      "homepageTagClass": "tag-cycling",
+      "homepageAlt": "A cyclist races through the Kranj countryside with the Slovenian mountains behind him during L’Étape Slovenia 2026",
+      "breakingText": "Emeršič and Šimenc Kramar won L’Étape Slovenia as a record 1,600 riders from 31 countries raced around Kranj.",
+      "correspondents": ["Eduardo Castro", "Paulo Nomade", "Michael Rosa", "Lucas Menezes", "Adília Pinto", "Claudio João"],
+      "photographers": ["Eduardo Castro", "Paulo Nomade", "Michael Rosa", "Lucas Menezes", "Adília Pinto", "Claudio João"],
+      "imagePhotographers": ["Claudio João", "Eduardo Castro", "Paulo Nomade", "Adília Pinto"],
+      "sourceUrls": [
+        "https://slovenia.letapeseries.com/blog/race/vrhunci-kolesarskega-festivala-l-etape-slovenia-2026",
+        "https://timingljubljana.si/rezultati.aspx?disc=1M&idTekme=7043&tip=B",
+        "https://timingljubljana.si/rezultati.aspx?disc=1Z&idTekme=7043&tip=B",
+        "https://timingljubljana.si/rezultati.aspx?disc=2M&idTekme=7043&tip=B",
+        "https://timingljubljana.si/rezultati.aspx?disc=2Z&idTekme=7043&tip=B",
+        "https://slovenia.letapeseries.com/stages"
+      ]
     }
   ]
 }
