@@ -253,6 +253,27 @@
         "https://nortesurfest.pt/",
         "https://www.visitportugal.com/en/node/520693"
       ]
+    },
+    {
+      "file": "article-73.html",
+      "headline": "MK Sprint Series Finale Brings 164 Athletes to Stantonbury",
+      "description": "MK Sprint Series 3 closed the 2026 season at Stantonbury with 164 competitors, seven relay teams and 295 results across sprints and throws.",
+      "image": "images/mk-sprint-series-3-2026-race-julia-diresto.jpg",
+      "imageCredit": "Julia Diresto / Image Media",
+      "published": "2026-09-08T19:36:12+01:00",
+      "modified": "2026-09-08T19:36:12+01:00",
+      "eventDate": "2026-09-05",
+      "gridMode": "publication",
+      "section": "Sports",
+      "location": "Milton Keynes, UK",
+      "homepageTag": "Athletics",
+      "homepageTagClass": "tag-athletics",
+      "homepageAlt": "Sprinters race down the track at the MK Sprint Series 3 season finale in Milton Keynes",
+      "breakingText": "MK Sprint Series 3 closed the 2026 season at Stantonbury with 164 competitors, seven relay teams and 295 recorded results.",
+      "correspondents": [],
+      "photographers": ["Julia Diresto"],
+      "imagePhotographers": ["Julia Diresto"],
+      "sourceUrls": ["https://norway.opentrack.run/en-gb/x/2026/GBR/mksprintseries3/"]
     }
   ]
 }
