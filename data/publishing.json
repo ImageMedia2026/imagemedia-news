@@ -302,6 +302,32 @@
         "https://timingljubljana.si/rezultati.aspx?disc=2Z&idTekme=7043&tip=B",
         "https://slovenia.letapeseries.com/stages"
       ]
+    },
+    {
+      "file": "article-75.html",
+      "headline": "Valdicorteno Bike Experience Returns to Corteno Golgi",
+      "description": "The second Valdicorteno Bike Experience brought MTB and e-MTB riders to two non-competitive Alpine routes through Corteno Golgi and the Val di Corteno.",
+      "image": "images/valdicorteno-bike-experience-2026-giorgia-donato.jpeg",
+      "imageCredit": "Giorgia Donato / Image Media",
+      "published": "2026-09-14T12:00:00+01:00",
+      "modified": "2026-09-14T12:00:00+01:00",
+      "eventDate": "2026-09-12",
+      "gridMode": "publication",
+      "section": "Sports",
+      "location": "Corteno Golgi, Italy",
+      "homepageTag": "Cycling",
+      "homepageTagClass": "tag-cycling",
+      "homepageAlt": "Two mountain bikers pause together above the Val di Corteno during the 2026 Valdicorteno Bike Experience",
+      "breakingText": "Valdicorteno Bike Experience brought MTB and e-MTB riders together across two Alpine routes in Corteno Golgi.",
+      "correspondents": ["Giorgia Donato", "Eduardo Castro", "Leandro Rocha"],
+      "photographers": ["Giorgia Donato", "Eduardo Castro", "Leandro Rocha"],
+      "imagePhotographers": ["Giorgia Donato", "Leandro Rocha", "Eduardo Castro"],
+      "sourceUrls": [
+        "https://www.valdicortenobikexperience.it/",
+        "https://www.valdicortenobikexperience.it/regolamento/",
+        "https://www.valdicortenobikexperience.it/chi-siamo/",
+        "https://www.valdicortenobikexperience.it/mini-vbe/"
+      ]
     }
   ]
 }
