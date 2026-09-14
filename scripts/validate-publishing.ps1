@@ -107,7 +107,7 @@ $latestArticle = $manifest.articles |
   Select-Object -First 1
 if ($latestArticle) {
   $homeContent = Get-Content -LiteralPath (Join-Path $Root 'index.html') -Raw -Encoding utf8
-  $heroPattern = '(?is)<a\s+href="' + [regex]::Escape($latestArticle.file) + '"\s+style="text-decoration:none;">\s*<div\s+class="hero-story">'
+  $heroPattern = '(?is)<a\s+href="' + [regex]::Escape($latestArticle.file) + '"\s+style="text-decoration:none;">\s*<div\s+class="hero-story(?: hero-natural)?">'
   if ($homeContent -notmatch $heroPattern) {
     $errors.Add("Homepage lead must be the latest published article: $($latestArticle.file).")
   }

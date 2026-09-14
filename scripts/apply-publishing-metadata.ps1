@@ -186,7 +186,7 @@ if ($latestArticle) {
   $breakingText = if ([string]::IsNullOrWhiteSpace([string]$latestArticle.breakingText)) { $latestArticle.description } else { [string]$latestArticle.breakingText }
   $leadByline = "By $($site.editorialAuthor) $([char]0x2014) $($latestArticle.location)"
 
-  $homeLeadContent = [regex]::Replace($homeLeadContent, '(?is)(<a\s+href=")[^"]+("\s+style="text-decoration:none;">\s*<div\s+class="hero-story">)', "`${1}$($latestArticle.file)`${2}", 1)
+  $homeLeadContent = [regex]::Replace($homeLeadContent, '(?is)(<a\s+href=")[^"]+("\s+style="text-decoration:none;">\s*<div\s+class="hero-story(?: hero-natural)?">)', "`${1}$($latestArticle.file)`${2}", 1)
   $homeLeadContent = [regex]::Replace($homeLeadContent, '(?is)<img\s+[^>]*data-edit-id="home-hero-image"[^>]*>', {
     param($match)
     $tag = [regex]::Replace($match.Value, '\ssrc="[^"]*"', " src=`"$(HtmlAttribute $leadImage)`"", 1)

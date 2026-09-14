@@ -244,9 +244,15 @@
       "homepageTagClass": "tag-general",
       "homepageAlt": "Surfer drives through a cutback as spray arcs above a green wave in Leça da Palmeira",
       "breakingText": "The World Surf League has arrived in Leça da Palmeira for a new QS 6,000 International.",
-      "correspondents": ["Sérgio Mendes"],
-      "photographers": ["Sérgio Mendes"],
-      "imagePhotographers": ["Sérgio Mendes"],
+      "correspondents": [
+        "Sérgio Mendes"
+      ],
+      "photographers": [
+        "Sérgio Mendes"
+      ],
+      "imagePhotographers": [
+        "Sérgio Mendes"
+      ],
       "sourceUrls": [
         "https://www.worldsurfleague.com/events/2026/qs/540/xacobeo-norte-surf-fest/main",
         "https://www.worldsurfleague.com/posts/559648/short-day-of-competition-at-xacobeo-norte-surf-fest",
@@ -271,9 +277,15 @@
       "homepageAlt": "Sprinters race down the track at the MK Sprint Series 3 season finale in Milton Keynes",
       "breakingText": "MK Sprint Series 3 closed the 2026 season at Stantonbury with 164 competitors, seven relay teams and 295 recorded results.",
       "correspondents": [],
-      "photographers": ["Julia Diresto"],
-      "imagePhotographers": ["Julia Diresto"],
-      "sourceUrls": ["https://norway.opentrack.run/en-gb/x/2026/GBR/mksprintseries3/"]
+      "photographers": [
+        "Julia Diresto"
+      ],
+      "imagePhotographers": [
+        "Julia Diresto"
+      ],
+      "sourceUrls": [
+        "https://norway.opentrack.run/en-gb/x/2026/GBR/mksprintseries3/"
+      ]
     },
     {
       "file": "article-74.html",
@@ -291,9 +303,28 @@
       "homepageTagClass": "tag-cycling",
       "homepageAlt": "A cyclist races through the Kranj countryside with the Slovenian mountains behind him during L’Étape Slovenia 2026",
       "breakingText": "Emeršič and Šimenc Kramar won L’Étape Slovenia as a record 1,600 riders from 31 countries raced around Kranj.",
-      "correspondents": ["Eduardo Castro", "Paulo Nomade", "Michael Rosa", "Lucas Menezes", "Adília Pinto", "Claudio João"],
-      "photographers": ["Eduardo Castro", "Paulo Nomade", "Michael Rosa", "Lucas Menezes", "Adília Pinto", "Claudio João"],
-      "imagePhotographers": ["Claudio João", "Eduardo Castro", "Paulo Nomade", "Adília Pinto"],
+      "correspondents": [
+        "Eduardo Castro",
+        "Paulo Nomade",
+        "Michael Rosa",
+        "Lucas Menezes",
+        "Adília Pinto",
+        "Claudio João"
+      ],
+      "photographers": [
+        "Eduardo Castro",
+        "Paulo Nomade",
+        "Michael Rosa",
+        "Lucas Menezes",
+        "Adília Pinto",
+        "Claudio João"
+      ],
+      "imagePhotographers": [
+        "Claudio João",
+        "Eduardo Castro",
+        "Paulo Nomade",
+        "Adília Pinto"
+      ],
       "sourceUrls": [
         "https://slovenia.letapeseries.com/blog/race/vrhunci-kolesarskega-festivala-l-etape-slovenia-2026",
         "https://timingljubljana.si/rezultati.aspx?disc=1M&idTekme=7043&tip=B",
@@ -319,14 +350,60 @@
       "homepageTagClass": "tag-cycling",
       "homepageAlt": "Two mountain bikers pause together above the Val di Corteno during the 2026 Valdicorteno Bike Experience",
       "breakingText": "Valdicorteno Bike Experience brought MTB and e-MTB riders together across two Alpine routes in Corteno Golgi.",
-      "correspondents": ["Giorgia Donato", "Eduardo Castro", "Leandro Rocha"],
-      "photographers": ["Giorgia Donato", "Eduardo Castro", "Leandro Rocha"],
-      "imagePhotographers": ["Giorgia Donato", "Leandro Rocha", "Eduardo Castro"],
+      "correspondents": [
+        "Giorgia Donato",
+        "Eduardo Castro",
+        "Leandro Rocha"
+      ],
+      "photographers": [
+        "Giorgia Donato",
+        "Eduardo Castro",
+        "Leandro Rocha"
+      ],
+      "imagePhotographers": [
+        "Giorgia Donato",
+        "Leandro Rocha",
+        "Eduardo Castro"
+      ],
       "sourceUrls": [
         "https://www.valdicortenobikexperience.it/",
         "https://www.valdicortenobikexperience.it/regolamento/",
         "https://www.valdicortenobikexperience.it/chi-siamo/",
         "https://www.valdicortenobikexperience.it/mini-vbe/"
+      ]
+    },
+    {
+      "file": "article-76.html",
+      "headline": "Cádiz Throwdown Brings Team Fitness Competition to San Felipe Neri",
+      "description": "The 12–13 September event combined team workouts and outdoor competition in Cádiz, with Image Media documenting the action.",
+      "image": "images/cadiz-throwdown-2026-team-paulo-nomade.jpeg",
+      "imageCredit": "Paulo Nomade / Image Media",
+      "published": "2026-09-14T22:45:00+01:00",
+      "modified": "2026-09-14T22:45:00+01:00",
+      "eventDate": "2026-09-12",
+      "gridMode": "publication",
+      "section": "Sports",
+      "location": "Cádiz, Spain",
+      "homepageTag": "Functional",
+      "homepageTagClass": "tag-functional",
+      "homepageAlt": "Teams lift weighted bags overhead during Cádiz Throwdown 2026",
+      "breakingText": "The 12–13 September event combined team workouts and outdoor competition in Cádiz, with Image Media documenting the action.",
+      "correspondents": [],
+      "photographers": [
+        "Luis Moreira",
+        "Paulo Nomade",
+        "Michael Rosa",
+        "Andres Escassi",
+        "Fran Paulino"
+      ],
+      "imagePhotographers": [
+        "Paulo Nomade",
+        "Fran Paulino"
+      ],
+      "sourceUrls": [
+        "https://arena.wodbuster.com/competition.aspx?id=4095",
+        "https://cadiznoticias.es/cadiz-throwdown-2026-reunira-a-900-deportistas-este-fin-de-semana-en-san-felipe-neri/",
+        "https://theboxinthebox.com/2026/04/15/cadiz-throwdown-2026-competicion-mar-y-pura-historia/"
       ]
     }
   ]
