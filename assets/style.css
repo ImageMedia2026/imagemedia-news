@@ -120,6 +120,13 @@ nav.menu a.cta:hover{background:var(--brand);text-decoration:none;}
 .hero-overlay h1, .hero-overlay h2{color:#fff;font-size:2rem;max-width:22ch;}
 .hero-overlay p{color:#e7e9ec;max-width:60ch;font-size:1.02rem;}
 .hero-overlay .byline{color:#c7ccd4;font-size:.82rem;font-weight:700;}
+/* Keep editorial cover photographs unobscured; place copy beneath them. */
+.hero-natural .hero-img-wrap{aspect-ratio:auto;background:#fff;}
+.hero-natural img{position:static;height:auto;object-fit:contain;}
+.hero-natural .hero-overlay{position:static;background:none;text-shadow:none;padding:24px 28px;}
+.hero-natural .hero-overlay h1{color:var(--ink-900);max-width:40ch;}
+.hero-natural .hero-overlay p{color:var(--ink-700);width:100%;max-width:75ch;}
+.hero-natural .hero-overlay .byline{color:var(--ink-500);}
 @media (max-width:640px){.hero-overlay h1, .hero-overlay h2{font-size:1.5rem;}}
 
 .editable-img-wrap{position:relative;}
