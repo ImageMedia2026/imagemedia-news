@@ -70,11 +70,11 @@
     "it": "Copertura Image Media"
   },
   "a76-p5": {
-    "en": "Image Media covered the event with Luis Moreira, Paulo Nomade, Michael Rosa, Andres Escassi and Fran Paulino. The photographs accompanying this report are by Paulo Nomade and Fran Paulino.",
-    "pt": "A Image Media cobriu o evento com Luis Moreira, Paulo Nomade, Michael Rosa, Andres Escassi e Fran Paulino. As fotografias desta reportagem são de Paulo Nomade e Fran Paulino.",
-    "es": "Image Media cubrió el evento con Luis Moreira, Paulo Nomade, Michael Rosa, Andres Escassi y Fran Paulino. Las fotografías de este reportaje son de Paulo Nomade y Fran Paulino.",
-    "fr": "Image Media a couvert l’événement avec Luis Moreira, Paulo Nomade, Michael Rosa, Andres Escassi et Fran Paulino. Les photographies de ce reportage sont signées Paulo Nomade et Fran Paulino.",
-    "it": "Image Media ha seguito l’evento con Luis Moreira, Paulo Nomade, Michael Rosa, Andres Escassi e Fran Paulino. Le fotografie di questo servizio sono di Paulo Nomade e Fran Paulino."
+    "en": "Image Media covered the event with Luis Moreira, Paulo Nomade, Michael Rosa, Andres Escassi, Fran Paulino and Pedro Oliveira. The photographs accompanying this report are by Paulo Nomade and Fran Paulino.",
+    "pt": "A Image Media cobriu o evento com Luis Moreira, Paulo Nomade, Michael Rosa, Andres Escassi, Fran Paulino e Pedro Oliveira. As fotografias desta reportagem são de Paulo Nomade e Fran Paulino.",
+    "es": "Image Media cubrió el evento con Luis Moreira, Paulo Nomade, Michael Rosa, Andres Escassi, Fran Paulino y Pedro Oliveira. Las fotografías de este reportaje son de Paulo Nomade y Fran Paulino.",
+    "fr": "Image Media a couvert l’événement avec Luis Moreira, Paulo Nomade, Michael Rosa, Andres Escassi, Fran Paulino et Pedro Oliveira. Les photographies de ce reportage sont signées Paulo Nomade et Fran Paulino.",
+    "it": "Image Media ha seguito l’evento con Luis Moreira, Paulo Nomade, Michael Rosa, Andres Escassi, Fran Paulino e Pedro Oliveira. Le fotografie di questo servizio sono di Paulo Nomade e Fran Paulino."
   },
   "a76-hero-credit": {
     "en": "Teams lift weighted bags during Cádiz Throwdown. Photo: Paulo Nomade / Image Media.",
