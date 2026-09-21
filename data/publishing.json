@@ -496,6 +496,37 @@
         "https://soccaportugal.mygol.es/tournaments/291?tab=calendar&stage=0",
         "https://soccaportugal.pt/competicoes/"
       ]
+    },
+    {
+      "file": "article-80.html",
+      "headline": "Bayonne’s heritage race brings running and history together",
+      "description": "Florian Molteni led the official standings and Eugenie Ponleve was the first woman at the second Course du Patrimoine, held on 20 September.",
+      "image": "images/patrimoine-bayonne-2026-runners-jhonny.png",
+      "imageCredit": "Jhonny / Image Media",
+      "imagePhotographers": [
+        "Jhonny"
+      ],
+      "published": "2026-09-21T23:30:45.567Z",
+      "modified": "2026-09-21T23:30:45.567Z",
+      "eventDate": "2026-09-20",
+      "section": "Sports",
+      "location": "Bayonne, France",
+      "homepageTag": "Athletics",
+      "homepageTagClass": "tag-athletics",
+      "homepageAlt": "Runners beside a stone balustrade during the Course du Patrimoine in Bayonne",
+      "breakingText": "Florian Molteni led the official standings and Eugenie Ponleve was the first woman at the second Course du Patrimoine, held on 20 September.",
+      "correspondents": [],
+      "photographers": [
+        "Eduardo Castro",
+        "Johnny",
+        "Barbara Milavec",
+        "José Ramón Moreno"
+      ],
+      "sourceUrls": [
+        "https://coursedupatrimoine.avironbayonnais.net/",
+        "https://www.visitbayonne.com/votre-sejour/agenda/animation/bayonne/FMAAQU064V5CDA78-course-du-patrimoine/",
+        "https://pyreneeschrono.wiclax-results.com/resultats-course-du-patrimoine-2026/"
+      ]
     }
   ]
 }
