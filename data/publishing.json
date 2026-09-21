@@ -435,6 +435,36 @@
         "https://www.chiplevante.com/es/prueba/hrx-alicante-test-hyrox-1150-2027",
         "https://arena.wodbuster.com/competition.aspx?id=4012"
       ]
+    },
+    {
+      "file": "article-78.html",
+      "headline": "Lawrence and Olsen win world 100 km titles in Ames",
+      "description": "The American pair took individual gold in Galicia, while Gemma Arenas earned bronze and Spain secured women’s team silver.",
+      "image": "images/100km-ames-2026-woodland-michael-rosa.png",
+      "imageCredit": "Michael Rosa / Image Media",
+      "imagePhotographers": [
+        "Michael Rosa"
+      ],
+      "published": "2026-09-21T22:19:10.227Z",
+      "modified": "2026-09-21T22:19:10.227Z",
+      "eventDate": "2026-09-20",
+      "section": "Sports",
+      "location": "Bertamiráns, Ames, Spain",
+      "homepageTag": "Athletics",
+      "homepageTagClass": "tag-athletics",
+      "homepageAlt": "Runner on a tree-lined road during the 100 km World Championships in Ames",
+      "breakingText": "The American pair took individual gold in Galicia, while Gemma Arenas earned bronze and Spain secured women’s team silver.",
+      "correspondents": [],
+      "photographers": [
+        "Thainá Duete",
+        "Michael Rosa"
+      ],
+      "sourceUrls": [
+        "https://iau-ultramarathon.org/2026-iau-and-wma-100-km-world-championships-final-results.html",
+        "https://www.atletismorfea.es/federacion/communication-hub/noticias/gemma-arenas-bronce-mundial-y-plata-femenina-por-equipos",
+        "https://www.wc100k-ames.com/",
+        "https://atletismorfea.es/federacion/communication-hub/noticias/diez-medallas-para-los-master-en-ames"
+      ]
     }
   ]
 }
