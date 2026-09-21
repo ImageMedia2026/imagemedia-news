@@ -42,11 +42,11 @@
     "it": "Una giornata inaugurale in tre fotografie"
   },
   "a79-p3": {
-    "en": "Nick Meines’s opening image captures a group of players in blue, yellow and white gathered beside the pitch. The scene places the collective side of seven-a-side football at the centre of the report: a team listening, talking and preparing together.",
-    "pt": "A imagem de abertura de Nick Meines regista um grupo de jogadores de azul, amarelo e branco reunido junto ao campo. A cena coloca a dimensão coletiva do futebol de sete no centro da reportagem: uma equipa que escuta, conversa e se prepara em conjunto.",
-    "es": "La imagen de apertura de Nick Meines muestra a un grupo de jugadores de azul, amarillo y blanco reunidos junto al campo. La escena sitúa la dimensión colectiva del fútbol siete en el centro del reportaje: un equipo que escucha, conversa y se prepara en conjunto.",
-    "fr": "La photographie d’ouverture de Nick Meines montre un groupe de joueurs en bleu, jaune et blanc réunis au bord du terrain. Elle place la dimension collective du football à sept au cœur du reportage : une équipe qui écoute, échange et se prépare ensemble.",
-    "it": "La fotografia di apertura di Nick Meines ritrae un gruppo di giocatori in blu, giallo e bianco riuniti a bordo campo. La scena mette al centro del reportage la dimensione collettiva del calcio a sette: una squadra che ascolta, dialoga e si prepara insieme."
+    "en": "Nick Meines’s photograph captures a group of players in blue, yellow and white gathered beside the pitch. The scene places the collective side of seven-a-side football at the centre of the report: a team listening, talking and preparing together.",
+    "pt": "A fotografia de Nick Meines regista um grupo de jogadores de azul, amarelo e branco reunido junto ao campo. A cena coloca a dimensão coletiva do futebol de sete no centro da reportagem: uma equipa que escuta, conversa e se prepara em conjunto.",
+    "es": "La fotografía de Nick Meines muestra a un grupo de jugadores de azul, amarillo y blanco reunidos junto al campo. La escena sitúa la dimensión colectiva del fútbol siete en el centro del reportaje: un equipo que escucha, conversa y se prepara en conjunto.",
+    "fr": "La photographie de Nick Meines montre un groupe de joueurs en bleu, jaune et blanc réunis au bord du terrain. Elle place la dimension collective du football à sept au cœur du reportage : une équipe qui écoute, échange et se prépare ensemble.",
+    "it": "La fotografia di Nick Meines ritrae un gruppo di giocatori in blu, giallo e bianco riuniti a bordo campo. La scena mette al centro del reportage la dimensione collettiva del calcio a sette: una squadra che ascolta, dialoga e si prepara insieme."
   },
   "a79-p4": {
     "en": "Lucas Menezes turns the focus to a player wearing a captain’s armband, reaching towards another player in the afternoon light. Paulo Noleto’s photograph returns to the ball, with a player in white and green looking across the pitch. Together, the three images record the communication and concentration around the opening round.",
@@ -56,11 +56,11 @@
     "it": "Lucas Menezes concentra lo sguardo su un giocatore con la fascia da capitano che tende la mano verso un altro giocatore nella luce del pomeriggio. La fotografia di Paulo Noleto torna al pallone, con un giocatore in bianco e verde che osserva il campo. Insieme, le tre immagini raccontano la comunicazione e la concentrazione della prima giornata."
   },
   "a79-hero-credit": {
-    "en": "Players gather beside the pitch during the SOCCA opening round. Photo: Nick Meines / Image Media.",
-    "pt": "Jogadores reunidos junto ao campo durante a jornada inaugural da SOCCA. Fotografia: Nick Meines / Image Media.",
-    "es": "Jugadores reunidos junto al campo durante la jornada inaugural de SOCCA. Foto: Nick Meines / Image Media.",
-    "fr": "Des joueurs réunis au bord du terrain lors de la première journée SOCCA. Photo : Nick Meines / Image Media.",
-    "it": "Giocatori riuniti a bordo campo durante la giornata inaugurale SOCCA. Foto: Nick Meines / Image Media."
+    "en": "A player in white and green surveys the pitch with the ball at his feet. Photo: Paulo Noleto / Image Media.",
+    "pt": "Um jogador de branco e verde observa o campo com a bola junto aos pés. Fotografia: Paulo Noleto / Image Media.",
+    "es": "Un jugador de blanco y verde observa el campo con el balón a sus pies. Foto: Paulo Noleto / Image Media.",
+    "fr": "Un joueur en blanc et vert observe le terrain, le ballon à ses pieds. Photo : Paulo Noleto / Image Media.",
+    "it": "Un giocatore in bianco e verde osserva il campo con il pallone ai piedi. Foto: Paulo Noleto / Image Media."
   },
   "a79-inline1-credit": {
     "en": "A player wearing a captain’s armband reaches towards another player. Photo: Lucas Menezes / Image Media.",
@@ -70,11 +70,11 @@
     "it": "Un giocatore con la fascia da capitano tende la mano verso un altro giocatore. Foto: Lucas Menezes / Image Media."
   },
   "a79-inline2-credit": {
-    "en": "A player in white and green surveys the pitch with the ball at his feet. Photo: Paulo Noleto / Image Media.",
-    "pt": "Um jogador de branco e verde observa o campo com a bola junto aos pés. Fotografia: Paulo Noleto / Image Media.",
-    "es": "Un jugador de blanco y verde observa el campo con el balón a sus pies. Foto: Paulo Noleto / Image Media.",
-    "fr": "Un joueur en blanc et vert observe le terrain, le ballon à ses pieds. Photo : Paulo Noleto / Image Media.",
-    "it": "Un giocatore in bianco e verde osserva il campo con il pallone ai piedi. Foto: Paulo Noleto / Image Media."
+    "en": "Players gather beside the pitch during the SOCCA opening round. Photo: Nick Meines / Image Media.",
+    "pt": "Jogadores reunidos junto ao campo durante a jornada inaugural da SOCCA. Fotografia: Nick Meines / Image Media.",
+    "es": "Jugadores reunidos junto al campo durante la jornada inaugural de SOCCA. Foto: Nick Meines / Image Media.",
+    "fr": "Des joueurs réunis au bord du terrain lors de la première journée SOCCA. Photo : Nick Meines / Image Media.",
+    "it": "Giocatori riuniti a bordo campo durante la giornata inaugurale SOCCA. Foto: Nick Meines / Image Media."
   },
   "a79-coverage": {
     "en": "Image Media coverage",
