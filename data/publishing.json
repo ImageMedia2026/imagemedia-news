@@ -465,6 +465,37 @@
         "https://www.wc100k-ames.com/",
         "https://atletismorfea.es/federacion/communication-hub/noticias/diez-medallas-para-los-master-en-ames"
       ]
+    },
+    {
+      "file": "article-79.html",
+      "headline": "SOCCA opens Porto campaign with goals and touchline stories",
+      "description": "Image Media covers matchday one as Al Narsa, Kultime FC and French Connection record Liga 1 Porto victories at Academia da Bola.",
+      "image": "images/socca-porto-2026-team-nick-meines.png",
+      "imageCredit": "Nick Meines / Image Media",
+      "imagePhotographers": [
+        "Nick Meines"
+      ],
+      "published": "2026-09-21T22:41:59.810Z",
+      "modified": "2026-09-21T22:41:59.810Z",
+      "eventDate": "2026-09-20",
+      "section": "Sports",
+      "location": "Porto, Portugal",
+      "homepageTag": "Football",
+      "homepageTagClass": "tag-football",
+      "homepageAlt": "Players in blue, yellow and white gather beside the pitch at SOCCA Porto",
+      "breakingText": "Image Media covers matchday one as Al Narsa, Kultime FC and French Connection record Liga 1 Porto victories at Academia da Bola.",
+      "correspondents": [],
+      "photographers": [
+        "Liane Ferreira",
+        "Nick Meines",
+        "Lucas Menezes",
+        "Fran Paulino",
+        "Paulo Nômade"
+      ],
+      "sourceUrls": [
+        "https://soccaportugal.mygol.es/tournaments/291?tab=calendar&stage=0",
+        "https://soccaportugal.pt/competicoes/"
+      ]
     }
   ]
 }
