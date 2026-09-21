@@ -62,13 +62,6 @@
     "fr": "La couverture d’Image Media",
     "it": "La copertura di Image Media"
   },
-  "a77-p4": {
-    "en": "The coverage team comprised Luan Chepernate, Luis Moreira and Leandro Rocha. The three photographs featured in this report are by Leandro Rocha and Luan Chepernate. The full event gallery is available on Image Media’s Fotop page.",
-    "pt": "A equipa de cobertura foi composta por Luan Chepernate, Luis Moreira e Leandro Rocha. As três fotografias deste artigo são de Leandro Rocha e Luan Chepernate. A galeria completa do evento está disponível na página da Image Media no Fotop.",
-    "es": "El equipo de cobertura estuvo formado por Luan Chepernate, Luis Moreira y Leandro Rocha. Las tres fotografías de este reportaje son de Leandro Rocha y Luan Chepernate. La galería completa del evento está disponible en la página de Image Media en Fotop.",
-    "fr": "L’équipe de couverture réunissait Luan Chepernate, Luis Moreira et Leandro Rocha. Les trois photographies de ce reportage sont signées Leandro Rocha et Luan Chepernate. La galerie complète de l’événement est disponible sur la page Fotop d’Image Media.",
-    "it": "Il team di copertura era composto da Luan Chepernate, Luis Moreira e Leandro Rocha. Le tre fotografie di questo reportage sono di Leandro Rocha e Luan Chepernate. La galleria completa dell’evento è disponibile sulla pagina Fotop di Image Media."
-  },
   "a77-hero-credit": {
     "en": "Athletes push loaded sleds in the outdoor lanes. Photo: Leandro Rocha / Image Media.",
     "pt": "Atletas empurram trenós carregados nas pistas ao ar livre. Fotografia: Leandro Rocha / Image Media.",
@@ -89,41 +82,6 @@
     "es": "Un atleta se esfuerza en el ergómetro de esquí. Foto: Luan Chepernate / Image Media.",
     "fr": "Un athlète à l’effort sur l’ergomètre de ski. Photo : Luan Chepernate / Image Media.",
     "it": "Un atleta impegnato all’ergometro da sci. Foto: Luan Chepernate / Image Media."
-  },
-  "a77-gallery": {
-    "en": "Find your event photos →",
-    "pt": "Encontre as suas fotografias →",
-    "es": "Encuentra tus fotos del evento →",
-    "fr": "Retrouvez vos photos de l’événement →",
-    "it": "Trova le tue foto dell’evento →"
-  },
-  "a77-sources": {
-    "en": "Sources",
-    "pt": "Fontes",
-    "es": "Fuentes",
-    "fr": "Sources",
-    "it": "Fonti"
-  },
-  "a77-timing": {
-    "en": "Chiplevante — event information and results",
-    "pt": "Chiplevante — informações e resultados",
-    "es": "Chiplevante — información y resultados",
-    "fr": "Chiplevante — informations et résultats",
-    "it": "Chiplevante — informazioni e risultati"
-  },
-  "a77-listing": {
-    "en": "WodBuster Arena — competition listing",
-    "pt": "WodBuster Arena — ficha da competição",
-    "es": "WodBuster Arena — ficha de la competición",
-    "fr": "WodBuster Arena — fiche de la compétition",
-    "it": "WodBuster Arena — scheda della competizione"
-  },
-  "a77-more": {
-    "en": "More sports coverage →",
-    "pt": "Mais notícias de desporto →",
-    "es": "Más noticias deportivas →",
-    "fr": "Toute l’actualité sportive →",
-    "it": "Altre notizie sportive →"
   },
   "card-s69__field__tag": {
     "en": "Hybrid Fitness",
@@ -229,5 +187,26 @@
     "es": "Leer más →",
     "fr": "Lire la suite →",
     "it": "Leggi di più →"
+  },
+  "a77-reporting": {
+    "en": "Reporting: IM News Editorial Desk",
+    "pt": "Redação: IM News Editorial Desk",
+    "es": "Redacción: IM News Editorial Desk",
+    "fr": "Rédaction : IM News Editorial Desk",
+    "it": "Redazione: IM News Editorial Desk"
+  },
+  "a77-photography": {
+    "en": "Photography: Luan Chepernate, Luis Moreira and Leandro Rocha / Image Media",
+    "pt": "Fotografia: Luan Chepernate, Luis Moreira e Leandro Rocha / Image Media",
+    "es": "Fotografía: Luan Chepernate, Luis Moreira y Leandro Rocha / Image Media",
+    "fr": "Photographie : Luan Chepernate, Luis Moreira et Leandro Rocha / Image Media",
+    "it": "Fotografia: Luan Chepernate, Luis Moreira e Leandro Rocha / Image Media"
+  },
+  "a77-verification": {
+    "en": "Event date and formats checked against the Chiplevante and WodBuster Arena event records.",
+    "pt": "Data e formatos do evento verificados nas fichas da Chiplevante e da WodBuster Arena.",
+    "es": "Fecha y formatos del evento contrastados con las fichas de Chiplevante y WodBuster Arena.",
+    "fr": "Date et formats de l’événement vérifiés dans les fiches de Chiplevante et de WodBuster Arena.",
+    "it": "Data e formati dell’evento verificati nelle schede di Chiplevante e WodBuster Arena."
   }
 });})();
