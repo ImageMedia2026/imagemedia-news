@@ -10,10 +10,10 @@ jobs:
     steps:
       - uses: actions/checkout@v5
       - name: Rebuild publishing metadata and sitemaps
-        shell: powershell
+        shell: pwsh
         run: ./scripts/publish-site.ps1
       - name: Confirm generated files were committed
-        shell: powershell
+        shell: pwsh
         run: |
           $changed = git diff --name-only --ignore-space-at-eol -- . ':!sitemap.xml' ':!news-sitemap.xml'
           if ($changed) {
