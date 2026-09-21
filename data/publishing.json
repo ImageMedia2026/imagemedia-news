@@ -406,6 +406,36 @@
         "https://cadiznoticias.es/cadiz-throwdown-2026-reunira-a-900-deportistas-este-fin-de-semana-en-san-felipe-neri/",
         "https://theboxinthebox.com/2026/04/15/cadiz-throwdown-2026-competicion-mar-y-pura-historia/"
       ]
+    },
+    {
+      "file": "article-77.html",
+      "headline": "HRX Alicante brings running and strength to the Costa Blanca",
+      "description": "Image Media documents the 19 September event in Alicante, from outdoor sled pushes to running and ski-ergometer efforts.",
+      "image": "images/hrx-alicante-2026-sled-push-leandro-rocha.png",
+      "imageCredit": "Leandro Rocha / Image Media",
+      "imagePhotographers": [
+        "Leandro Rocha"
+      ],
+      "published": "2026-09-21T21:52:06.844Z",
+      "modified": "2026-09-21T21:52:06.844Z",
+      "eventDate": "2026-09-19",
+      "section": "Sports",
+      "location": "Alicante, Spain",
+      "homepageTag": "Hybrid Fitness",
+      "homepageTagClass": "tag-functional",
+      "homepageAlt": "Athletes push loaded sleds in outdoor lanes at HRX Alicante on 19 September 2026",
+      "breakingText": "Image Media documents the 19 September event in Alicante, from outdoor sled pushes to running and ski-ergometer efforts.",
+      "correspondents": [],
+      "photographers": [
+        "Luan Chepernate",
+        "Luis Moreira",
+        "Leandro Rocha"
+      ],
+      "sourceUrls": [
+        "https://www.chiplevante.com/es/prueba/hrx-alicante-test-hyrox-1150-2027",
+        "https://arena.wodbuster.com/competition.aspx?id=4012",
+        "https://imagemedia.fotop.com/fotos/eventos/index/evento/327654"
+      ]
     }
   ]
 }
