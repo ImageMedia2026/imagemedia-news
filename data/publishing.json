@@ -11,6 +11,39 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-83.html",
+      "headline": "France tops medal table after European slalom showdown in Ivrea",
+      "description": "Twelve European titles were decided over three days at the Ivrea Canoe Stadium, with France leading the final standings and host Italy collecting nine medals.",
+      "image": "images/paddle-europe-ivrea-2026-01-eduardo-castro.jpeg",
+      "imageCredit": "Eduardo Castro / Image Media",
+      "imagePhotographers": [
+        "Eduardo Castro",
+        "Giorgia Donato"
+      ],
+      "published": "2026-09-29T16:09:19+01:00",
+      "modified": "2026-09-29T16:09:19+01:00",
+      "eventDate": "2026-09-24",
+      "gridMode": "publication",
+      "section": "Sports",
+      "location": "Ivrea, Piedmont, Italy",
+      "homepageTag": "Canoe Slalom",
+      "homepageTagClass": "tag-canoe",
+      "homepageAlt": "Two canoe slalom athletes charge through whitewater at the 2026 European Championships in Ivrea",
+      "breakingText": "France topped the medal table after 12 European slalom titles were decided in Ivrea.",
+      "correspondents": [],
+      "photographers": [
+        "Eduardo Castro",
+        "Giorgia Donato"
+      ],
+      "sourceUrls": [
+        "https://imagemedia.fotop.com/fotos/eventos/index/evento/331169",
+        "https://paddle-europe.eu/calendar/2026-eca-canoe-slalom-european-championships-587",
+        "https://www.paddle-europe.eu/news/france-tops-final-medal-table-as-ivrea-2026-delivers-three-days-of-memorable-european-championship-racing-3456",
+        "https://www.paddle-europe.eu/news/france-leads-medal-table-as-ivrea-turns-towards-individual-title-day-3439",
+        "https://www.paddle-europe.eu/news/senechault-takes-european-c1-crown-as-maiutto-delivers-another-home-medal-in-ivrea-3448"
+      ]
+    },
+    {
       "file": "article-82.html",
       "headline": "Vázquez and Real win record-breaking 21 Leguas Narón",
       "description": "A record 1,150 participants took on 101 kilometres through Galicia as Ismael Vázquez and Marta Real led the foot race.",
