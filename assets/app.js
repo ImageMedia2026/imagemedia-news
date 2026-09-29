@@ -445,6 +445,10 @@
 
   function classify(img) {
     if (!img.naturalWidth || !img.naturalHeight) return;
+    if (img.dataset.forceCover === 'true' || img.closest('.hero-story.hero-natural')) {
+      img.classList.remove('fit-contain');
+      return;
+    }
     if (img.naturalHeight > img.naturalWidth) {
       img.classList.add('fit-contain');
     } else {

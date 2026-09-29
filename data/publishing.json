@@ -11,6 +11,39 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-82.html",
+      "headline": "Vázquez and Real win record-breaking 21 Leguas Narón",
+      "description": "A record 1,150 participants took on 101 kilometres through Galicia as Ismael Vázquez and Marta Real led the foot race.",
+      "image": "images/21-leguas-naron-2026-01-adilia-pinto.jpg",
+      "imageCredit": "Adília Pinto / Image Media",
+      "imagePhotographers": [
+        "Adília Pinto",
+        "Claudio João"
+      ],
+      "published": "2026-09-29T15:27:36+01:00",
+      "modified": "2026-09-29T15:27:36+01:00",
+      "eventDate": "2026-09-26",
+      "gridMode": "publication",
+      "section": "Sports",
+      "location": "Narón, A Coruña, Spain",
+      "homepageTag": "Trail Running",
+      "homepageTagClass": "tag-trail",
+      "homepageAlt": "Mountain biker pushes her bicycle on the 21 Leguas Narón route",
+      "breakingText": "Vázquez and Real led a record 1,150 participants through 101 kilometres at 21 Leguas Narón.",
+      "correspondents": [],
+      "photographers": [
+        "Adília Pinto",
+        "Claudio João"
+      ],
+      "sourceUrls": [
+        "https://imagemedia.fotop.com/fotos/eventos/index/evento/310079",
+        "https://21leguas.es/home-gl/",
+        "https://eventos.emesports.es/inscripcion/21-leguas-26/ficheros/?filetype=reglamento&lang=es",
+        "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/26/ismael-vazquez-entrene-cabron-ano-preparandolo/00031790444540600610704.htm",
+        "https://diariodeferrol.elidealgallego.com/deportes/2026-09-28/ismael-vazquez-y-marta-real-firman-unas-21-leguas-para-el-recuerdo-881826.html"
+      ]
+    },
+    {
       "file": "article-64.html",
       "headline": "Fest’In Folk Corredoura Brings Eight Days Of World Dance To Guimarães",
       "description": "Fest’In Folk Corredoura brought eight days of folk dance, music and traditional culture to Guimarães from 3 to 10 August 2026, documented for Image Media by Paulo Nomade.",

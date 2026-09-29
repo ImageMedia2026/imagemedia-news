@@ -101,6 +101,7 @@ nav.menu a.cta:hover{background:var(--brand);text-decoration:none;}
 }
 .tag-football{background:var(--navy);}
 .tag-athletics{background:var(--orange);}
+.tag-trail{background:#2f6f4e;}
 .tag-cycling{background:var(--teal);}
 .tag-triathlon{background:var(--purple);}
 .tag-culture{background:var(--gold);color:var(--ink-900);}.tag-concert{background:#c1275e;}.tag-festival{background:#3d5afe;}
@@ -121,8 +122,8 @@ nav.menu a.cta:hover{background:var(--brand);text-decoration:none;}
 .hero-overlay p{color:#e7e9ec;max-width:60ch;font-size:1.02rem;}
 .hero-overlay .byline{color:#c7ccd4;font-size:.82rem;font-weight:700;}
 /* Keep editorial cover photographs unobscured; place copy beneath them. */
-.hero-natural .hero-img-wrap{aspect-ratio:auto;background:#fff;}
-.hero-natural img{position:static;height:auto;object-fit:contain;}
+.hero-natural .hero-img-wrap{aspect-ratio:auto;overflow:visible;background:#fff;}
+.hero-natural img{position:relative;inset:auto;display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;object-position:center 35%;}
 .hero-natural .hero-overlay{position:static;background:none;text-shadow:none;padding:24px 28px;}
 .hero-natural .hero-overlay h1{color:var(--ink-900);max-width:40ch;}
 .hero-natural .hero-overlay p{color:var(--ink-700);width:100%;max-width:75ch;}
