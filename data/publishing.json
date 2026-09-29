@@ -11,6 +11,47 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-86.html",
+      "headline": "Prime Hybrid turns Espinho into Portugal’s first urban fitness racing arena",
+      "description": "Eight kilometres of city running and eight functional stations brought singles, doubles and local teams to Praça Progresso.",
+      "image": "images/prime-hybrid-espinho-nemi.jpg",
+      "imageCredit": "Nemi / Image Media",
+      "imagePhotographers": [
+        "Nemi",
+        "Michael Rosa",
+        "Luanne Oliveira"
+      ],
+      "published": "2026-09-29T20:52:05+01:00",
+      "modified": "2026-09-29T20:52:05+01:00",
+      "eventDate": "2026-09-26",
+      "gridMode": "publication",
+      "section": "Sports",
+      "location": "Espinho, Portugal",
+      "homepageTag": "Hybrid Fitness",
+      "homepageTagClass": "tag-functional",
+      "homepageAlt": "Two athletes cross the finish line together beneath the Prime Hybrid arch in Espinho",
+      "breakingText": "Prime Hybrid brought eight kilometres of urban running and eight functional stations to central Espinho.",
+      "correspondents": [],
+      "photographers": [
+        "Michael Rosa",
+        "Nemi",
+        "Luanne Oliveira",
+        "Lucas Araújo",
+        "Luan Chepernate",
+        "Luis Moreira",
+        "André Bastos",
+        "Leandro Rocha",
+        "Gabriel Galote"
+      ],
+      "sourceUrls": [
+        "https://imagemedia.fotop.com/fotos/eventos/index/evento/280509",
+        "https://www.primehybrid.pt/",
+        "https://www.primehybrid.pt/programa.php",
+        "https://primehybrid.pt/local.php",
+        "https://primehybrid.pt/termos.php"
+      ]
+    },
+    {
       "file": "article-85.html",
       "headline": "HURBAX brings hybrid fitness spectacle to Gijón’s seafront",
       "description": "More than 1,000 athletes combined five kilometres of running with five functional stations at Jardines del Náutico in Gijón.",
