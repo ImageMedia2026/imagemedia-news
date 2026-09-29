@@ -11,6 +11,41 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-85.html",
+      "headline": "HURBAX brings hybrid fitness spectacle to Gijón’s seafront",
+      "description": "More than 1,000 athletes combined five kilometres of running with five functional stations at Jardines del Náutico in Gijón.",
+      "image": "images/hurbax-gijon-2026-rowers-sergio-mendes.jpg",
+      "imageCredit": "Sergio Mendes / Image Media",
+      "imagePhotographers": [
+        "Sergio Mendes",
+        "Eduardo Almeida"
+      ],
+      "published": "2026-09-29T17:23:14+01:00",
+      "modified": "2026-09-29T17:23:14+01:00",
+      "eventDate": "2026-09-26",
+      "gridMode": "publication",
+      "section": "Sports",
+      "location": "Gijón, Asturias, Spain",
+      "homepageTag": "Hybrid Fitness",
+      "homepageTagClass": "tag-functional",
+      "homepageAlt": "Athletes work side by side on rowing machines during HURBAX Gijón",
+      "breakingText": "More than 1,000 athletes combined five kilometres of running with five functional stations in Gijón.",
+      "correspondents": [],
+      "photographers": [
+        "Mateus Pereira",
+        "Fran Paulino",
+        "Sergio Mendes",
+        "Eduardo Almeida",
+        "Felipe Albano"
+      ],
+      "sourceUrls": [
+        "https://imagemedia.fotop.com/fotos/eventos/index/evento/241390",
+        "https://www.hurbax.com/",
+        "https://hurbax.com/resultados?sede=gijon&vista=prueba",
+        "https://www.gijon.es/hurbax-presenta-en-gijon-una-nueva-cita-con-mas-de-1000-atletas"
+      ]
+    },
+    {
       "file": "article-84.html",
       "headline": "Costa Blanca Games tests strength, teamwork and nerve in Alicante",
       "description": "Pairs tackled tyre flips, kettlebells and a pool station in a one-day functional fitness competition organised by CrossFit Costa Blanca.",
