@@ -11,6 +11,40 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-84.html",
+      "headline": "Costa Blanca Games tests strength, teamwork and nerve in Alicante",
+      "description": "Pairs tackled tyre flips, kettlebells and a pool station in a one-day functional fitness competition organised by CrossFit Costa Blanca.",
+      "image": "images/costa-blanca-games-2026-01-regis-souza.jpg",
+      "imageCredit": "Regis Souza / Image Media",
+      "imagePhotographers": [
+        "Regis Souza",
+        "Jessica Freitas"
+      ],
+      "published": "2026-09-29T16:39:57+01:00",
+      "modified": "2026-09-29T16:39:57+01:00",
+      "eventDate": "2026-09-26",
+      "gridMode": "event",
+      "section": "Sports",
+      "location": "Alicante, Spain",
+      "homepageTag": "Functional Fitness",
+      "homepageTagClass": "tag-functional",
+      "homepageAlt": "An athlete strains through a tyre flip during the Costa Blanca Games in Alicante",
+      "breakingText": "Costa Blanca Games mixed tyre flips, kettlebells and pool challenges in Alicante.",
+      "correspondents": [],
+      "photographers": [
+        "Regis Souza",
+        "Jessica Freitas",
+        "Johnny",
+        "José Ramón Moreno"
+      ],
+      "sourceUrls": [
+        "https://imagemedia.fotop.com/fotos/eventos/index/evento/327655",
+        "https://arena.wodbuster.com/competition.aspx?id=4240",
+        "https://arena.wodbuster.com/",
+        "https://www.instagram.com/crossfitcostablanca/"
+      ]
+    },
+    {
       "file": "article-83.html",
       "headline": "France tops medal table after European slalom showdown in Ivrea",
       "description": "Twelve European titles were decided over three days at the Ivrea Canoe Stadium, with France leading the final standings and host Italy collecting nine medals.",
