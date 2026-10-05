@@ -11,6 +11,39 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-90.html",
+      "headline": "Sète runs from sea to city in an inclusive sixth edition",
+      "description": "The Semi-Marathon de Sète brought 5 km, 10 km, half-marathon and marathon racing to the Mediterranean city in support of inclusion.",
+      "image": "images/semi-marathon-sete-2026-harbour-finish-johnny.jpg",
+      "imageCredit": "Johnny / Image Media",
+      "imagePhotographers": [
+        "Johnny"
+      ],
+      "published": "2026-10-06T00:00:00+01:00",
+      "modified": "2026-10-06T00:00:00+01:00",
+      "eventDate": "2026-10-04",
+      "gridMode": "publication",
+      "section": "Sports",
+      "location": "Sète, Hérault, France",
+      "homepageTag": "Athletics",
+      "homepageTagClass": "tag-athletics",
+      "homepageAlt": "A runner is welcomed beside Sète harbour during the 2026 event",
+      "breakingText": "Sète brought four race formats to its Mediterranean waterfront in an inclusive sixth edition.",
+      "correspondents": [],
+      "photographers": [
+        "Eduardo Castro",
+        "Johnny",
+        "Raul de Godoy",
+        "Casian Nicorescu",
+        "Leandro Rocha"
+      ],
+      "sourceUrls": [
+        "https://imagemedia.fotop.com/fotos/eventos/index/evento/328695",
+        "https://semimarathonsete.fr/",
+        "https://semimarathonsete.fr/faq-questions-reponses/"
+      ]
+    },
+    {
       "file": "article-89.html",
       "headline": "Tercios Legendarios tests strength and resolve across Alcantarilla",
       "description": "A seven-kilometre course and 43 obstacles carried competitors through Alcantarilla and the Zaragoza No. 5 Parachute Infantry Regiment.",
