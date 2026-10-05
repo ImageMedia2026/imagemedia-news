@@ -11,6 +11,39 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-88.html",
+      "headline": "Cabárceno Race brings trail and obstacle racing to Cantabria's nature park",
+      "description": "Image Media documented a weekend of trail routes and obstacle challenges at the Parque de la Naturaleza de Cabárceno.",
+      "image": "images/cabarceno-race-2026-celebration-liane-ferreira.jpg",
+      "imageCredit": "Liane Ferreira / Image Media",
+      "imagePhotographers": [
+        "Liane Ferreira",
+        "Giorgia Donato"
+      ],
+      "published": "2026-10-05T22:15:00+01:00",
+      "modified": "2026-10-05T22:15:00+01:00",
+      "eventDate": "2026-10-03",
+      "gridMode": "publication",
+      "section": "Sports",
+      "location": "Cabárceno, Cantabria, Spain",
+      "homepageTag": "Obstacle Racing",
+      "homepageTagClass": "tag-trail",
+      "homepageAlt": "Mud-covered Cabárceno Race participants celebrate together at an obstacle",
+      "breakingText": "Cabárceno Race brought trail routes and obstacle challenges to Cantabria's nature park.",
+      "correspondents": [],
+      "photographers": [
+        "Pedro Oliveira",
+        "Rodrigo Vieira",
+        "Liane Ferreira",
+        "Giorgia Donato"
+      ],
+      "sourceUrls": [
+        "https://imagemedia.fotop.com/fotos/eventos/index/evento/328689",
+        "https://nortea.es/trail/cabarceno",
+        "https://www.empa-t.com/clasificaciones/"
+      ]
+    },
+    {
       "file": "article-87.html",
       "headline": "Murcia Hybrid brings running and functional fitness to the Cuartel de Artillería",
       "description": "Murcia’s first hybrid fitness race combined 4 km and 8 km formats with eight functional stations in the city centre.",
