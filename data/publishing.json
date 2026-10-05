@@ -11,6 +11,39 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-89.html",
+      "headline": "Tercios Legendarios tests strength and resolve across Alcantarilla",
+      "description": "A seven-kilometre course and 43 obstacles carried competitors through Alcantarilla and the Zaragoza No. 5 Parachute Infantry Regiment.",
+      "image": "images/tercios-legendarios-2026-medal-adilia-pinto.jpg",
+      "imageCredit": "Adilia Pinto / Image Media",
+      "imagePhotographers": [
+        "Adilia Pinto"
+      ],
+      "published": "2026-10-05T23:30:00+01:00",
+      "modified": "2026-10-05T23:30:00+01:00",
+      "eventDate": "2026-10-04",
+      "gridMode": "publication",
+      "section": "Sports",
+      "location": "Alcantarilla, Murcia, Spain",
+      "homepageTag": "Obstacle Racing",
+      "homepageTagClass": "tag-trail",
+      "homepageAlt": "A smiling Tercios Legendarios finisher holds his medal in Alcantarilla",
+      "breakingText": "Tercios Legendarios challenged competitors with seven kilometres and 43 obstacles in Alcantarilla.",
+      "correspondents": [],
+      "photographers": [
+        "Adilia Pinto",
+        "Claudio João",
+        "Fran Paulino",
+        "José Ramón Moreno",
+        "Belmiro Coelho"
+      ],
+      "sourceUrls": [
+        "https://imagemedia.fotop.com/fotos/eventos/index/evento/328698",
+        "https://www.alcantarilla.es/alcantarilla-se-prepara-para-acoger-la-carrera-de-obstaculos-tercios-legendarios-2026/",
+        "https://legendariostercios.com/"
+      ]
+    },
+    {
       "file": "article-88.html",
       "headline": "Cabárceno Race brings trail and obstacle racing to Cantabria's nature park",
       "description": "Image Media documented a weekend of trail routes and obstacle challenges at the Parque de la Naturaleza de Cabárceno.",
