@@ -11,6 +11,38 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-91.html",
+      "headline": "Marín's urban mile turns speed into a city-centre celebration",
+      "description": "Youth, popular and elite races brought the XXVII Milla de San Miguel de Marín to Avenida de Ourense on 3 October.",
+      "image": "images/milla-san-miguel-marin-2026-start-luan-chepernate.jpg",
+      "imageCredit": "Luan Chepernate / Image Media",
+      "imagePhotographers": [
+        "Luan Chepernate"
+      ],
+      "published": "2026-10-06T00:37:00+01:00",
+      "modified": "2026-10-06T00:37:00+01:00",
+      "eventDate": "2026-10-03",
+      "gridMode": "publication",
+      "section": "Sports",
+      "location": "Marín, Pontevedra, Spain",
+      "homepageTag": "Athletics",
+      "homepageTagClass": "tag-athletics",
+      "homepageAlt": "Young runners start a race beneath the event arches in Marín",
+      "breakingText": "Marín brought youth, popular and elite racing together for the 27th Milla Urbana San Miguel.",
+      "correspondents": [],
+      "photographers": [
+        "Luan Chepernate",
+        "Sergio Mendes",
+        "Luciano Inocencio",
+        "Felipe Albano"
+      ],
+      "sourceUrls": [
+        "https://imagemedia.fotop.com/fotos/eventos/index/evento/310084",
+        "https://www.carreirasgalegas.com/events/xxvii-milla-de-san-miguel-de-marn/2jWnB796",
+        "https://www.paxinasgalegas.es/fiestas/milla-urbana-san-miguel-marin-25397.html"
+      ]
+    },
+    {
       "file": "article-90.html",
       "headline": "Sète runs from sea to city in an inclusive sixth edition",
       "description": "The Semi-Marathon de Sète brought 5 km, 10 km, half-marathon and marathon racing to the Mediterranean city in support of inclusion.",
