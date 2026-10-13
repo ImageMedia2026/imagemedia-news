@@ -11,6 +11,41 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-92.html",
+      "headline": "Barrelas Fire Challenge puts teamwork to the test in Vila Nova de Paiva",
+      "description": "A five-kilometre obstacle challenge brought strength, coordination and shared effort to the Portuguese town on 10 October.",
+      "image": "images/barrelas-fire-challenge-2026-tyre-sergio-mendes.jpg",
+      "imageCredit": "Sérgio Mendes / Image Media",
+      "imagePhotographers": [
+        "Sérgio Mendes"
+      ],
+      "published": "2026-10-13T21:46:00+01:00",
+      "modified": "2026-10-13T21:46:00+01:00",
+      "eventDate": "2026-10-10",
+      "gridMode": "event",
+      "section": "Sports",
+      "location": "Vila Nova de Paiva, Portugal",
+      "homepageTag": "Obstacle Racing",
+      "homepageTagClass": "tag-trail",
+      "homepageAlt": "Participants lift a large tyre together at Barrelas Fire Challenge",
+      "breakingText": "A five-kilometre obstacle challenge brought strength, coordination and shared effort to the Portuguese town on 10 October.",
+      "photographers": [
+        "Mateus Pereira",
+        "Adilia Pinto",
+        "Eduardo Almeida",
+        "Iranildo Seabra",
+        "Leandro Rocha",
+        "Claudio João",
+        "Sérgio Mendes",
+        "Raul de Godoy"
+      ],
+      "correspondents": [],
+      "sourceUrls": [
+        "https://imagemedia.fotop.com/eventos/barrelas-fire-challenge-2026/e/337425",
+        "https://www.instagram.com/barrelasfirechallenge/"
+      ]
+    },
+    {
       "file": "article-91.html",
       "headline": "Marín's urban mile turns speed into a city-centre celebration",
       "description": "Youth, popular and elite races brought the XXVII Milla de San Miguel de Marín to Avenida de Ourense on 3 October.",
