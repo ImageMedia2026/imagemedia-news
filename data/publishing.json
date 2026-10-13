@@ -11,6 +11,36 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-94.html",
+      "headline": "Corfu’s coast frames the Greek Hero XTRI endurance challenge",
+      "description": "Image Media follows the 10 October event through an illuminated swim, a coastal run and the people gathered around the extreme triathlon.",
+      "image": "images/greek-hero-xtri-2026-swim-eduardo-castro.png",
+      "imageCredit": "Eduardo Castro / Image Media",
+      "imagePhotographers": [
+        "Eduardo Castro"
+      ],
+      "published": "2026-10-13T23:05:12+01:00",
+      "modified": "2026-10-13T23:05:12+01:00",
+      "eventDate": "2026-10-10",
+      "gridMode": "event",
+      "section": "Sports",
+      "location": "Corfu, Greece",
+      "homepageTag": "Triathlon",
+      "homepageTagClass": "tag-triathlon",
+      "homepageAlt": "Swimmers and illuminated orange floats in dark water at Greek Hero XTRI",
+      "breakingText": "Image Media follows the 10 October event through an illuminated swim, a coastal run and the people gathered around the extreme triathlon.",
+      "photographers": [
+        "Eduardo Castro",
+        "Michael Rosa"
+      ],
+      "correspondents": [],
+      "sourceUrls": [
+        "https://www.xtriworldtour.com/greek-hero",
+        "https://greekheroxtri.com/",
+        "https://imagemedia.fotop.com/fotos/eventos/index/evento/329080"
+      ]
+    },
+    {
       "file": "article-93.html",
       "headline": "Fusion Games brings strength and teamwork to its second edition in Gaia",
       "description": "AVYNT Hybrid Arena hosted the 10 October competition, with Figueirenses e uma Scaled topping the podium announced by the organiser.",
