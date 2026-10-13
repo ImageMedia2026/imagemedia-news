@@ -1,6 +1,7 @@
 param([string]$Root = (Split-Path -Parent $PSScriptRoot))
 
 $ErrorActionPreference = 'Stop'
+& (Join-Path $PSScriptRoot 'validate-editorial-links.ps1') -Root $Root
 $manifest = Get-Content -LiteralPath (Join-Path $Root 'data\publishing.json') -Raw -Encoding utf8 | ConvertFrom-Json -DateKind String
 $errors = [Collections.Generic.List[string]]::new()
 $registered = @{}
