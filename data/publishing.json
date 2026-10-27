@@ -11,6 +11,37 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-95.html",
+      "headline": "Pontevedra takes to the streets for the XLIV Gran Fondo CaixaBank",
+      "description": "The 18 October running event combined a half-marathon, 10K and youth races, with Image Media documenting the start and city-street action.",
+      "image": "images/pontevedra-2026-start-luciano-inocencio.jpg",
+      "imageCredit": "Luciano Inocencio / Image Media",
+      "imagePhotographers": [
+        "Luciano Inocencio"
+      ],
+      "published": "2026-10-27T09:18:40+00:00",
+      "modified": "2026-10-27T09:18:40+00:00",
+      "eventDate": "2026-10-18",
+      "gridMode": "event",
+      "section": "Sports",
+      "location": "Pontevedra, Spain",
+      "homepageTag": "Athletics",
+      "homepageTagClass": "tag-athletics",
+      "homepageAlt": "Runners beneath the XLIV Gran Fondo CaixaBank start arch",
+      "breakingText": "The 18 October running event combined a half-marathon, 10K and youth races, with Image Media documenting the start and city-street action.",
+      "photographers": [
+        "Nemi",
+        "Luciano Inocencio",
+        "Felipe dos Santos",
+        "Fran Paulino"
+      ],
+      "correspondents": [],
+      "sourceUrls": [
+        "https://ccnorte.com/evento/detalle/id/3269/xliv-gran-fondo-caixabank-pontevedra-26",
+        "https://www.sgpontevedra.com/gran-fondo-caixabank-2026-con-novidades/"
+      ]
+    },
+    {
       "file": "article-94.html",
       "headline": "Corfu’s coast frames the Greek Hero XTRI endurance challenge",
       "description": "Image Media follows the 10 October event through an illuminated swim, a coastal run and the people gathered around the extreme triathlon.",
