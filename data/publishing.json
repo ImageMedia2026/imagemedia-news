@@ -11,6 +11,31 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-97.html",
+      "headline": "La Nucía celebrates Saturday cycling before weather postpones Gran Fondo",
+      "description": "La Nucía staged its Kids and International Criteriums on Saturday before the Sunday Gran Fondo was postponed for safety and rescheduled to 7 November.",
+      "image": "images/la-nucia-2026-criterium-michael-rosa.jpeg",
+      "imageCredit": "Michael Rosa / Image Media",
+      "imagePhotographers": ["Michael Rosa", "Paulo Nomade", "Sergio Mendes"],
+      "published": "2026-10-28T20:31:43+00:00",
+      "modified": "2026-10-28T20:31:43+00:00",
+      "eventDate": "2026-10-17",
+      "gridMode": "event",
+      "section": "Sports",
+      "location": "La Nucía, Spain",
+      "homepageTag": "Cycling",
+      "homepageTagClass": "tag-cycling",
+      "homepageAlt": "Two cyclists race through La Nucía during the Saturday criterium",
+      "breakingText": "Saturday's criteriums went ahead in La Nucía before the Gran Fondo was moved to 7 November for safety.",
+      "photographers": ["Eduardo Castro", "Michael Rosa", "Sergio Mendes", "Paulo Nomade", "Luis Moreira", "Lucas Menezes"],
+      "correspondents": [],
+      "sourceUrls": [
+        "https://lanucia.es/Actualidad/noticia/38042-Enric-Mas-y-Paula-Blasi-brillan-Criterium-Internacional-La-Nucia",
+        "https://lanucia.es/Actualidad/noticia/38044-Se-cancela-Gran-Fondo-La-Nucia-causa-previsiones-meteorologicas",
+        "https://ucigranfondoworldseries.com/en/granfondo-la-nucia-rescheduled-to-saturday-7-november/"
+      ]
+    },
+    {
       "file": "article-96.html",
       "headline": "Firestorm Challenge turns Viseu’s historic climb into a test of service and strength",
       "description": "The third Firestorm Challenge sent firefighters and civilians through a steep one-kilometre obstacle course in Viseu, with Image Media documenting the effort and camaraderie.",
