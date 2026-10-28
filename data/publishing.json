@@ -11,6 +11,26 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-100.html",
+      "headline": "Carregal do Sal celebrates a decade of off-road adventure",
+      "description": "The tenth Passeio TT brought motorcycles and quads to the trails around Carregal do Sal on 25 October 2026.",
+      "image": "images/passeio-tt-carregal-2026-riders-adilia-pinto.jpg",
+      "imageCredit": "Adilia Pinto / Image Media",
+      "imagePhotographers": ["Adilia Pinto"],
+      "published": "2026-10-28T23:37:15+00:00",
+      "modified": "2026-10-28T23:37:15+00:00",
+      "eventDate": "2026-10-25",
+      "section": "Sports",
+      "location": "Carregal do Sal, Portugal",
+      "homepageTag": "Motocross",
+      "homepageTagClass": "tag-motocross",
+      "homepageAlt": "Two off-road motorcyclists pause among the rocky trails near Carregal do Sal",
+      "breakingText": "Carregal do Sal celebrates ten editions of off-road adventure.",
+      "correspondents": [],
+      "photographers": ["Adilia Pinto", "Claudio João"],
+      "sourceUrls": ["https://eventostt.pt/events/205", "https://imagemedia.fotop.com/fotos/eventos/index/evento/349584"]
+    },
+    {
       "file": "article-99.html",
       "headline": "Ergathlon brings endurance and community to Santa Maria da Feira",
       "description": "The Ergathlon do it Welness Club 2026 brought athletes together for an indoor endurance event in Santa Maria da Feira on 24 October.",
