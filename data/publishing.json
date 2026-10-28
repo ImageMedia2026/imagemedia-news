@@ -11,6 +11,31 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-98.html",
+      "headline": "HURBAX Madrid crowns Spain's 2026 hybrid fitness champions",
+      "description": "HURBAX Madrid combined five kilometres of running and five functional stations in the 2026 national final at San Sebastián de los Reyes.",
+      "image": "images/hurbax-madrid-2026-run-eduardo-castro.png",
+      "imageCredit": "Eduardo Castro / Image Media",
+      "imagePhotographers": ["Eduardo Castro", "Luis Moreira"],
+      "published": "2026-10-28T21:44:25+00:00",
+      "modified": "2026-10-28T21:44:25+00:00",
+      "eventDate": "2026-10-24",
+      "gridMode": "event",
+      "section": "Sports",
+      "location": "Madrid, Spain",
+      "homepageTag": "Hybrid Fitness",
+      "homepageTagClass": "tag-functional",
+      "homepageAlt": "Athletes begin a running section at HURBAX Madrid",
+      "breakingText": "HURBAX Madrid crowned Spain's 2026 hybrid fitness champions in San Sebastián de los Reyes.",
+      "photographers": ["Eduardo Castro", "Michael Rosa", "Luis Moreira", "Sergio Mendes", "Lucas Menezes"],
+      "correspondents": [],
+      "sourceUrls": [
+        "https://www.hurbax.com/eventos",
+        "https://www.2026.hurbax.com/eventos/madrid",
+        "https://hurbax.com/resultados?ambito=prueba&sede=madrid&vista=prueba"
+      ]
+    },
+    {
       "file": "article-97.html",
       "headline": "La Nucía celebrates Saturday cycling before weather postpones Gran Fondo",
       "description": "La Nucía staged its Kids and International Criteriums on Saturday before the Sunday Gran Fondo was postponed for safety and rescheduled to 7 November.",
