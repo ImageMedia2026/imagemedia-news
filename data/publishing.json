@@ -11,6 +11,31 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-96.html",
+      "headline": "Firestorm Challenge turns Viseu’s historic climb into a test of service and strength",
+      "description": "The third Firestorm Challenge sent firefighters and civilians through a steep one-kilometre obstacle course in Viseu, with Image Media documenting the effort and camaraderie.",
+      "image": "images/firestorm-viseu-2026-celebration-luciano-inocencio.jpg",
+      "imageCredit": "Luciano Inocencio / Image Media",
+      "imagePhotographers": ["Luciano Inocencio"],
+      "published": "2026-10-28T18:13:08+00:00",
+      "modified": "2026-10-28T18:13:08+00:00",
+      "eventDate": "2026-10-24",
+      "gridMode": "event",
+      "section": "Sports",
+      "location": "Viseu, Portugal",
+      "homepageTag": "Obstacle Racing",
+      "homepageTagClass": "tag-trail",
+      "homepageAlt": "Three firefighters celebrate after the Firestorm Challenge in Viseu",
+      "breakingText": "Firestorm Challenge sends firefighters and civilians through a steep obstacle course in Viseu.",
+      "photographers": ["Iranildo Seabra", "Fran Paulino", "Leandro Rocha", "Luciano Inocencio", "Pedro Oliveira", "Raul Godoy", "Liane Ferreira"],
+      "correspondents": [],
+      "sourceUrls": [
+        "https://www.bvviseu.pt/eventos/firestorm-challenge/regulamento",
+        "https://www.diariocoimbra.pt/2026/10/25/bombeiro-pedro-garcia-vence-no-firestorm-challenge-2026-em-viseu/",
+        "https://imagemedia.fotop.com/fotos/eventos/index/evento/344402"
+      ]
+    },
+    {
       "file": "article-95.html",
       "headline": "Pontevedra takes to the streets for the XLIV Gran Fondo CaixaBank",
       "description": "The 18 October running event combined a half-marathon, 10K and youth races, with Image Media documenting the start and city-street action.",
