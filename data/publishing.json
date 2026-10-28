@@ -11,6 +11,26 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-99.html",
+      "headline": "Ergathlon brings endurance and community to Santa Maria da Feira",
+      "description": "The Ergathlon do it Welness Club 2026 brought athletes together for an indoor endurance event in Santa Maria da Feira on 24 October.",
+      "image": "images/ergathlon-feira-2026-rower-mateus-pereira.jpg",
+      "imageCredit": "Mateus Pereira / Image Media",
+      "imagePhotographers": ["Mateus Pereira"],
+      "published": "2026-10-28T22:54:04+00:00",
+      "modified": "2026-10-28T22:54:04+00:00",
+      "eventDate": "2026-10-24",
+      "section": "Sports",
+      "location": "Santa Maria da Feira, Portugal",
+      "homepageTag": "Functional Fitness",
+      "homepageTagClass": "tag-functional",
+      "homepageAlt": "An athlete smiles during the Ergathlon in Santa Maria da Feira",
+      "breakingText": "Ergathlon brought endurance and community together in Santa Maria da Feira.",
+      "correspondents": [],
+      "photographers": ["Mateus Pereira"],
+      "sourceUrls": ["https://imagemedia.fotop.com/fotos/eventos/index/evento/348261"]
+    },
+    {
       "file": "article-98.html",
       "headline": "HURBAX Madrid crowns Spain's 2026 hybrid fitness champions",
       "description": "HURBAX Madrid combined five kilometres of running and five functional stations in the 2026 national final at San Sebastián de los Reyes.",
