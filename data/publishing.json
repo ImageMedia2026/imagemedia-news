@@ -11,6 +11,37 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-103.html",
+      "headline": "Cesena runs and walks together at the 49th Giro dei Gessi",
+      "description": "The 1 November event brought competitive running, noncompetitive routes and activities for children and dogs to Cesena, with Image Media coverage.",
+      "image": "images/giro-gessi-2026-path-michael-rosa.jpg",
+      "imageCredit": "Michael Rosa / Image Media",
+      "imagePhotographers": [
+        "Michael Rosa"
+      ],
+      "published": "2026-11-03T01:00:00+00:00",
+      "modified": "2026-11-03T01:00:00+00:00",
+      "eventDate": "2026-11-01",
+      "section": "Sports",
+      "location": "Cesena, Emilia-Romagna, Italy",
+      "homepageTag": "Athletics",
+      "homepageTagClass": "tag-athletics",
+      "homepageAlt": "Participants and a dog on a tree-lined path at Giro dei Gessi",
+      "breakingText": "Cesena runs and walks together at the 49th Giro dei Gessi",
+      "correspondents": [],
+      "photographers": [
+        "Eduardo Castro",
+        "Michael Rosa",
+        "Johnny",
+        "Giorgia Donato",
+        "Miriam Barbero"
+      ],
+      "sourceUrls": [
+        "https://www.uisp.it/forlicesena/pagina/torna-il-giro-dei-gessi-per-fare-sport-e-ammirare-la-citt-di-cesena",
+        "https://www.uisp.it/forlicesena/podismo/giro-dei-gessi"
+      ]
+    },
+    {
       "file": "article-102.html",
       "headline": "Larida 44 brings Ukraine–Spain boxing to Lleida",
       "description": "Two Larida titles were on the bill for the 31 October event at GBF headquarters, documented by Image Media.",
