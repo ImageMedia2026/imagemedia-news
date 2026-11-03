@@ -11,12 +11,44 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-101.html",
+      "headline": "Serra da Groba brings mountain running to Baiona",
+      "description": "The 13th edition combined trail running and walking on 31 October, with Image Media covering the event.",
+      "image": "images/serra-da-groba-2026-runner-paulo-nomade.jpg",
+      "imageCredit": "Paulo Nômade / Image Media",
+      "imagePhotographers": [
+        "Paulo Nômade"
+      ],
+      "published": "2026-11-03T00:15:00+00:00",
+      "modified": "2026-11-03T00:15:00+00:00",
+      "eventDate": "2026-10-31",
+      "section": "Sports",
+      "location": "Baiona, Galicia, Spain",
+      "homepageTag": "Trail Running",
+      "homepageTagClass": "tag-trail",
+      "homepageAlt": "Runner on open mountain terrain in Serra da Groba",
+      "breakingText": "Serra da Groba brings mountain running to Baiona",
+      "correspondents": [],
+      "photographers": [
+        "Eduardo Almeida",
+        "Claudio João",
+        "Adilia Pinto",
+        "Paulo Nômade"
+      ],
+      "sourceUrls": [
+        "https://ccnorte.com/evento/detalle/id/3272/xiii-trail-de-baiona-serra-da-groba",
+        "https://ccnorte.com/uploads/eventos/reglamento-6a9153a4a70763.69479267.pdf"
+      ]
+    },
+    {
       "file": "article-100.html",
       "headline": "Carregal do Sal celebrates a decade of off-road adventure",
       "description": "The tenth Passeio TT brought motorcycles and quads to the trails around Carregal do Sal on 25 October 2026.",
       "image": "images/passeio-tt-carregal-2026-riders-adilia-pinto.jpg",
       "imageCredit": "Adilia Pinto / Image Media",
-      "imagePhotographers": ["Adilia Pinto"],
+      "imagePhotographers": [
+        "Adilia Pinto"
+      ],
       "published": "2026-10-28T23:37:15+00:00",
       "modified": "2026-10-28T23:37:15+00:00",
       "eventDate": "2026-10-25",
@@ -27,8 +59,14 @@
       "homepageAlt": "Two off-road motorcyclists pause among the rocky trails near Carregal do Sal",
       "breakingText": "Carregal do Sal celebrates ten editions of off-road adventure.",
       "correspondents": [],
-      "photographers": ["Adilia Pinto", "Claudio João"],
-      "sourceUrls": ["https://eventostt.pt/events/205", "https://imagemedia.fotop.com/fotos/eventos/index/evento/349584"]
+      "photographers": [
+        "Adilia Pinto",
+        "Claudio João"
+      ],
+      "sourceUrls": [
+        "https://eventostt.pt/events/205",
+        "https://imagemedia.fotop.com/fotos/eventos/index/evento/349584"
+      ]
     },
     {
       "file": "article-99.html",
@@ -36,7 +74,9 @@
       "description": "The Ergathlon do it Welness Club 2026 brought athletes together for an indoor endurance event in Santa Maria da Feira on 24 October.",
       "image": "images/ergathlon-feira-2026-rower-mateus-pereira.jpg",
       "imageCredit": "Mateus Pereira / Image Media",
-      "imagePhotographers": ["Mateus Pereira"],
+      "imagePhotographers": [
+        "Mateus Pereira"
+      ],
       "published": "2026-10-28T22:54:04+00:00",
       "modified": "2026-10-28T22:54:04+00:00",
       "eventDate": "2026-10-24",
@@ -47,8 +87,12 @@
       "homepageAlt": "An athlete smiles during the Ergathlon in Santa Maria da Feira",
       "breakingText": "Ergathlon brought endurance and community together in Santa Maria da Feira.",
       "correspondents": [],
-      "photographers": ["Mateus Pereira"],
-      "sourceUrls": ["https://imagemedia.fotop.com/fotos/eventos/index/evento/348261"]
+      "photographers": [
+        "Mateus Pereira"
+      ],
+      "sourceUrls": [
+        "https://imagemedia.fotop.com/fotos/eventos/index/evento/348261"
+      ]
     },
     {
       "file": "article-98.html",
@@ -56,7 +100,10 @@
       "description": "HURBAX Madrid combined five kilometres of running and five functional stations in the 2026 national final at San Sebastián de los Reyes.",
       "image": "images/hurbax-madrid-2026-run-eduardo-castro.png",
       "imageCredit": "Eduardo Castro / Image Media",
-      "imagePhotographers": ["Eduardo Castro", "Luis Moreira"],
+      "imagePhotographers": [
+        "Eduardo Castro",
+        "Luis Moreira"
+      ],
       "published": "2026-10-28T21:44:25+00:00",
       "modified": "2026-10-28T21:44:25+00:00",
       "eventDate": "2026-10-24",
@@ -67,7 +114,13 @@
       "homepageTagClass": "tag-functional",
       "homepageAlt": "Athletes begin a running section at HURBAX Madrid",
       "breakingText": "HURBAX Madrid crowned Spain's 2026 hybrid fitness champions in San Sebastián de los Reyes.",
-      "photographers": ["Eduardo Castro", "Michael Rosa", "Luis Moreira", "Sergio Mendes", "Lucas Menezes"],
+      "photographers": [
+        "Eduardo Castro",
+        "Michael Rosa",
+        "Luis Moreira",
+        "Sergio Mendes",
+        "Lucas Menezes"
+      ],
       "correspondents": [],
       "sourceUrls": [
         "https://www.hurbax.com/eventos",
@@ -81,7 +134,11 @@
       "description": "La Nucía staged its Kids and International Criteriums on Saturday before the Sunday Gran Fondo was postponed for safety and rescheduled to 7 November.",
       "image": "images/la-nucia-2026-criterium-michael-rosa.jpeg",
       "imageCredit": "Michael Rosa / Image Media",
-      "imagePhotographers": ["Michael Rosa", "Paulo Nomade", "Sergio Mendes"],
+      "imagePhotographers": [
+        "Michael Rosa",
+        "Paulo Nomade",
+        "Sergio Mendes"
+      ],
       "published": "2026-10-28T20:31:43+00:00",
       "modified": "2026-10-28T20:31:43+00:00",
       "eventDate": "2026-10-17",
@@ -92,7 +149,14 @@
       "homepageTagClass": "tag-cycling",
       "homepageAlt": "Two cyclists race through La Nucía during the Saturday criterium",
       "breakingText": "Saturday's criteriums went ahead in La Nucía before the Gran Fondo was moved to 7 November for safety.",
-      "photographers": ["Eduardo Castro", "Michael Rosa", "Sergio Mendes", "Paulo Nomade", "Luis Moreira", "Lucas Menezes"],
+      "photographers": [
+        "Eduardo Castro",
+        "Michael Rosa",
+        "Sergio Mendes",
+        "Paulo Nomade",
+        "Luis Moreira",
+        "Lucas Menezes"
+      ],
       "correspondents": [],
       "sourceUrls": [
         "https://lanucia.es/Actualidad/noticia/38042-Enric-Mas-y-Paula-Blasi-brillan-Criterium-Internacional-La-Nucia",
@@ -106,7 +170,9 @@
       "description": "The third Firestorm Challenge sent firefighters and civilians through a steep one-kilometre obstacle course in Viseu, with Image Media documenting the effort and camaraderie.",
       "image": "images/firestorm-viseu-2026-celebration-luciano-inocencio.jpg",
       "imageCredit": "Luciano Inocencio / Image Media",
-      "imagePhotographers": ["Luciano Inocencio"],
+      "imagePhotographers": [
+        "Luciano Inocencio"
+      ],
       "published": "2026-10-28T18:13:08+00:00",
       "modified": "2026-10-28T18:13:08+00:00",
       "eventDate": "2026-10-24",
@@ -117,7 +183,15 @@
       "homepageTagClass": "tag-trail",
       "homepageAlt": "Three firefighters celebrate after the Firestorm Challenge in Viseu",
       "breakingText": "Firestorm Challenge sends firefighters and civilians through a steep obstacle course in Viseu.",
-      "photographers": ["Iranildo Seabra", "Fran Paulino", "Leandro Rocha", "Luciano Inocencio", "Pedro Oliveira", "Raul Godoy", "Liane Ferreira"],
+      "photographers": [
+        "Iranildo Seabra",
+        "Fran Paulino",
+        "Leandro Rocha",
+        "Luciano Inocencio",
+        "Pedro Oliveira",
+        "Raul Godoy",
+        "Liane Ferreira"
+      ],
       "correspondents": [],
       "sourceUrls": [
         "https://www.bvviseu.pt/eventos/firestorm-challenge/regulamento",
