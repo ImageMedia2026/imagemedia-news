@@ -11,6 +11,34 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-102.html",
+      "headline": "Larida 44 brings Ukraine–Spain boxing to Lleida",
+      "description": "Two Larida titles were on the bill for the 31 October event at GBF headquarters, documented by Image Media.",
+      "image": "images/larida44-2026-boxing-sergio-mendes.jpg",
+      "imageCredit": "Sergio Mendes / Image Media",
+      "imagePhotographers": [
+        "Sergio Mendes"
+      ],
+      "published": "2026-11-03T00:30:00+00:00",
+      "modified": "2026-11-03T00:30:00+00:00",
+      "eventDate": "2026-10-31",
+      "section": "Sports",
+      "location": "Lleida, Catalonia, Spain",
+      "homepageTag": "Boxing",
+      "homepageTagClass": "tag-combat",
+      "homepageAlt": "Boxers exchange punches in protective headgear at Larida 44",
+      "breakingText": "Larida 44 brings Ukraine–Spain boxing to Lleida",
+      "correspondents": [],
+      "photographers": [
+        "Sergio Mendes",
+        "Luis Moreira",
+        "Casian Nicorescu"
+      ],
+      "sourceUrls": [
+        "https://gbfworld.com/evento/larida-44-2-titulos-larida-ucrania-vs-espana/"
+      ]
+    },
+    {
       "file": "article-101.html",
       "headline": "Serra da Groba brings mountain running to Baiona",
       "description": "The 13th edition combined trail running and walking on 31 October, with Image Media covering the event.",

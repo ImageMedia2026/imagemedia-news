@@ -483,3 +483,6 @@ body.edit-mode{padding-bottom:64px;}
   .latest-landing-grid .story-card:first-child .thumb{height:260px;}
   .latest-landing-follow{align-items:flex-start;flex-direction:column;}
 }
+
+/* Existing Combat category: boxing coverage */
+.tag-combat{background:#743d70;color:#fff}
