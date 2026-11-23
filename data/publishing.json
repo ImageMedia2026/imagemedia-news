@@ -11,6 +11,34 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-105.html",
+      "headline": "Throwdown d’Acciaio brings 216 athletes to Terni",
+      "description": "The second Throwdown d’Acciaio brought 216 athletes from Italy, France and Romania to Terni for team and individual CrossTraining competition on 7–8 November 2026.",
+      "image": "images/throwdown-acciaio-2026-arena-image-media.jpg",
+      "imageCredit": "Image Media",
+      "imagePhotographers": ["Eduardo Castro", "Johnny"],
+      "published": "2026-11-23T17:38:29+00:00",
+      "modified": "2026-11-23T17:38:29+00:00",
+      "eventDate": "2026-11-07",
+      "gridMode": "event",
+      "section": "Sports",
+      "location": "Terni, Umbria, Italy",
+      "homepageTag": "Functional Fitness",
+      "homepageTagClass": "tag-functional",
+      "homepageAlt": "Athletes and judges spread across the competition floor at Throwdown d’Acciaio 2026",
+      "breakingText": "Throwdown d’Acciaio brought 216 athletes from Italy, France and Romania to Terni.",
+      "correspondents": [],
+      "photographers": ["Eduardo Castro", "Johnny"],
+      "sourceUrls": [
+        "https://www.comune.terni.it/eventi/conferenza-stampa/conferenza-stampa-throwdown-dacciaio",
+        "https://linktr.ee/throwdown_acciaio",
+        "https://www.umbriaon.it/throwdown-dacciaio-nel-weekend-terni-diventa-capitale-del-cross-training/",
+        "https://tagumbria.it/terni-throwdown-dacciaio-2026",
+        "https://tagumbria.it/oltre-200-atleti-a-terni-per-il-throwdown-dacciaio",
+        "https://imagemedia.fotop.com/fotos/eventos/index/evento/337438"
+      ]
+    },
+    {
       "file": "article-104.html",
       "headline": "Badajoz–Elvas Throwdown brings 600 athletes to the Coliseu",
       "description": "The Badajoz–Elvas Throwdown brought 600 athletes and around 2,000 spectators to the Coliseu Comendador Rondão Almeida on 7–8 November 2026.",

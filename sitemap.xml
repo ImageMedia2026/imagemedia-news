@@ -3,6 +3,12 @@
   <url><loc>https://imnews.one/about.html</loc></url>
   <url><loc>https://imnews.one/article-1.html</loc></url>
   <url><loc>https://imnews.one/article-10.html</loc></url>
+  <url><loc>https://imnews.one/article-100.html</loc><lastmod>2026-10-28</lastmod></url>
+  <url><loc>https://imnews.one/article-101.html</loc><lastmod>2026-11-03</lastmod></url>
+  <url><loc>https://imnews.one/article-102.html</loc><lastmod>2026-11-03</lastmod></url>
+  <url><loc>https://imnews.one/article-103.html</loc><lastmod>2026-11-03</lastmod></url>
+  <url><loc>https://imnews.one/article-104.html</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://imnews.one/article-105.html</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://imnews.one/article-11.html</loc></url>
   <url><loc>https://imnews.one/article-12.html</loc></url>
   <url><loc>https://imnews.one/article-13.html</loc></url>
@@ -92,12 +98,6 @@
   <url><loc>https://imnews.one/article-90.html</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://imnews.one/article-91.html</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://imnews.one/article-92.html</loc><lastmod>2026-10-13</lastmod></url>
-  <url><loc>https://imnews.one/culture.html</loc></url>
-  <url><loc>https://imnews.one/editorial-standards.html</loc><lastmod>2026-08-14</lastmod></url>
-  <url><loc>https://imnews.one/</loc></url>
-  <url><loc>https://imnews.one/latest.html</loc><lastmod>2026-08-13</lastmod></url>
-  <url><loc>https://imnews.one/privacy.html</loc><lastmod>2026-08-13</lastmod></url>
-  <url><loc>https://imnews.one/sports.html</loc></url>
   <url><loc>https://imnews.one/article-93.html</loc><lastmod>2026-10-13</lastmod></url>
   <url><loc>https://imnews.one/article-94.html</loc><lastmod>2026-10-13</lastmod></url>
   <url><loc>https://imnews.one/article-95.html</loc><lastmod>2026-10-27</lastmod></url>
@@ -105,9 +105,10 @@
   <url><loc>https://imnews.one/article-97.html</loc><lastmod>2026-10-28</lastmod></url>
   <url><loc>https://imnews.one/article-98.html</loc><lastmod>2026-10-28</lastmod></url>
   <url><loc>https://imnews.one/article-99.html</loc><lastmod>2026-10-28</lastmod></url>
-  <url><loc>https://imnews.one/article-100.html</loc><lastmod>2026-10-28</lastmod></url>
-<url><loc>https://imnews.one/article-101.html</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://imnews.one/article-102.html</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://imnews.one/article-103.html</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://imnews.one/article-104.html</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://imnews.one/culture.html</loc></url>
+  <url><loc>https://imnews.one/editorial-standards.html</loc><lastmod>2026-08-14</lastmod></url>
+  <url><loc>https://imnews.one/</loc></url>
+  <url><loc>https://imnews.one/latest.html</loc><lastmod>2026-08-13</lastmod></url>
+  <url><loc>https://imnews.one/privacy.html</loc><lastmod>2026-08-13</lastmod></url>
+  <url><loc>https://imnews.one/sports.html</loc></url>
 </urlset>
