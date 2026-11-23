@@ -11,6 +11,32 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-106.html",
+      "headline": "Loures Throwdown tests strength and teamwork over two days",
+      "description": "Loures Throwdown 2026 brought two days of national functional fitness competition to the Pavilhão Paz e Amizade on 7–8 November.",
+      "image": "images/loures-throwdown-2026-tyre-carry-image-media.jpg",
+      "imageCredit": "Image Media",
+      "imagePhotographers": ["Pedro Oliveira", "Leandro Rocha", "Mateus Pereira", "Luan Chepernate", "Luis Moreira"],
+      "published": "2026-11-23T18:16:41+00:00",
+      "modified": "2026-11-23T18:16:41+00:00",
+      "eventDate": "2026-11-07",
+      "gridMode": "event",
+      "section": "Sports",
+      "location": "Loures, Lisbon, Portugal",
+      "homepageTag": "Functional Fitness",
+      "homepageTagClass": "tag-functional",
+      "homepageAlt": "Teams carry heavy tyres during Loures Throwdown 2026",
+      "breakingText": "Loures Throwdown brought two days of functional fitness competition to the Pavilhão Paz e Amizade.",
+      "correspondents": [],
+      "photographers": ["Pedro Oliveira", "Leandro Rocha", "Mateus Pereira", "Luan Chepernate", "Luis Moreira"],
+      "sourceUrls": [
+        "https://www.aml.pt/agenda/loures-throwdown-2026/",
+        "https://linktr.ee/loures_throwdown_byPDN",
+        "https://localnoticias.pt/loures-recebe-dois-dias-de-competicao-intensa-de-crossfit/",
+        "https://imagemedia.fotop.com/fotos/eventos/index/evento/337444"
+      ]
+    },
+    {
       "file": "article-105.html",
       "headline": "Throwdown d’Acciaio brings 216 athletes to Terni",
       "description": "The second Throwdown d’Acciaio brought 216 athletes from Italy, France and Romania to Terni for team and individual CrossTraining competition on 7–8 November 2026.",
