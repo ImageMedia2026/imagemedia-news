@@ -11,6 +11,32 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-104.html",
+      "headline": "Badajoz–Elvas Throwdown brings 600 athletes to the Coliseu",
+      "description": "The Badajoz–Elvas Throwdown brought 600 athletes and around 2,000 spectators to the Coliseu Comendador Rondão Almeida on 7–8 November 2026.",
+      "image": "images/badajoz-elvas-throwdown-2026-lift-image-media.jpg",
+      "imageCredit": "Image Media coverage team",
+      "imagePhotographers": ["Michael Rosa", "Tiago Chaves", "Fran Paulino", "Thainá Duete", "Liane Ferreira"],
+      "published": "2026-11-23T15:21:20+00:00",
+      "modified": "2026-11-23T15:21:20+00:00",
+      "eventDate": "2026-11-07",
+      "gridMode": "event",
+      "section": "Sports",
+      "location": "Elvas, Portugal",
+      "homepageTag": "Functional Fitness",
+      "homepageTagClass": "tag-functional",
+      "homepageAlt": "An athlete holds a loaded barbell overhead at the 2026 Badajoz–Elvas Throwdown",
+      "breakingText": "Badajoz–Elvas Throwdown brought 600 athletes and around 2,000 spectators to the Coliseu in Elvas.",
+      "correspondents": [],
+      "photographers": ["Michael Rosa", "Tiago Chaves", "Fran Paulino", "Thainá Duete", "Liane Ferreira"],
+      "sourceUrls": [
+        "https://radioelvas.com/2026/11/09/coliseu-de-elvas-recebeu-a-maior-competicao-de-crossfit-da-peninsula-iberica/",
+        "https://canalalentejo.sapo.pt/o-coliseu-comendador-rondao-almeida-em-elvas-recebe-nos-dias-7-e-8-de-novembr/",
+        "https://arena.wodbuster.com/competition.aspx?id=831",
+        "https://imagemedia.fotop.com/fotos/eventos/index/evento/329096"
+      ]
+    },
+    {
       "file": "article-103.html",
       "headline": "Cesena runs and walks together at the 49th Giro dei Gessi",
       "description": "The 1 November event brought competitive running, noncompetitive routes and activities for children and dogs to Cesena, with Image Media coverage.",
