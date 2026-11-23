@@ -11,6 +11,31 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-108.html",
+      "headline": "Gravel & Wine turns Piemonte’s autumn roads into a shared ride",
+      "description": "The third Gravel & Wine offered 50 km and 80 km non-competitive routes through the hills and vineyards around Serravalle Sesia on 8 November 2026.",
+      "image": "images/gravel-wine-2026-autumn-riders-image-media.jpg",
+      "imageCredit": "Giorgia Donato and Miriam Barbero / Image Media",
+      "imagePhotographers": ["Giorgia Donato", "Miriam Barbero"],
+      "published": "2026-11-23T19:27:45+00:00",
+      "modified": "2026-11-23T19:27:45+00:00",
+      "eventDate": "2026-11-08",
+      "gridMode": "event",
+      "section": "Sports",
+      "location": "Serravalle Sesia, Piemonte, Italy",
+      "homepageTag": "Cycling",
+      "homepageTagClass": "tag-cycling",
+      "homepageAlt": "Cyclists ride together on an autumn gravel road near Serravalle Sesia",
+      "breakingText": "Gravel & Wine brought 50 km and 80 km autumn routes to Serravalle Sesia in Piemonte.",
+      "correspondents": [],
+      "photographers": ["Giorgia Donato", "Miriam Barbero"],
+      "sourceUrls": [
+        "https://teamloccabici.it/gravel-wine/",
+        "https://www.endu.net/events/gravel-and-wine",
+        "https://imagemedia.fotop.com/fotos/eventos/index/evento/337431"
+      ]
+    },
+    {
       "file": "article-107.html",
       "headline": "Van der Lycke outsprints Valverde as Milton wins in La Nucía",
       "description": "Nick Van der Lycke and Felicity Milton won the rescheduled UCI Gran Fondo World Series qualifier over 131 kilometres in La Nucía on 7 November 2026.",
