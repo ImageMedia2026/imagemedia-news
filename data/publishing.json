@@ -11,6 +11,32 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-107.html",
+      "headline": "Van der Lycke outsprints Valverde as Milton wins in La Nucía",
+      "description": "Nick Van der Lycke and Felicity Milton won the rescheduled UCI Gran Fondo World Series qualifier over 131 kilometres in La Nucía on 7 November 2026.",
+      "image": "images/uci-gran-fondo-la-nucia-2026-riders-image-media.jpg",
+      "imageCredit": "Image Media",
+      "imagePhotographers": ["Sérgio Mendes", "Paulo Nômade", "Claudio João", "Adilia Pinto", "José Ramón Moreno"],
+      "published": "2026-11-23T18:54:50+00:00",
+      "modified": "2026-11-23T18:54:50+00:00",
+      "eventDate": "2026-11-07",
+      "gridMode": "event",
+      "section": "Sports",
+      "location": "La Nucía, Alicante, Spain",
+      "homepageTag": "Cycling",
+      "homepageTagClass": "tag-cycling",
+      "homepageAlt": "Cyclists riding together on the roads around La Nucía during the UCI Gran Fondo World Series",
+      "breakingText": "Van der Lycke outsprinted Valverde and Milton won the UCI Gran Fondo World Series qualifier in La Nucía.",
+      "correspondents": [],
+      "photographers": ["Sérgio Mendes", "Paulo Nômade", "Claudio João", "Adilia Pinto", "José Ramón Moreno"],
+      "sourceUrls": [
+        "https://ucigranfondoworldseries.com/en/granfondo-la-nucia/",
+        "https://ucigranfondoworldseries.com/en/van-der-lycke-outsprints-valverde-to-win-granfondo-la-nucia/",
+        "https://ucigranfondoworldseries.com/en/granfondo-la-nucia-rescheduled-to-saturday-7-november/",
+        "https://imagemedia.fotop.com/fotos/eventos/index/evento/357012"
+      ]
+    },
+    {
       "file": "article-106.html",
       "headline": "Loures Throwdown tests strength and teamwork over two days",
       "description": "Loures Throwdown 2026 brought two days of national functional fitness competition to the Pavilhão Paz e Amizade on 7–8 November.",
