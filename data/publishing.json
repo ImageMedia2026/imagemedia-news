@@ -11,6 +11,36 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-109.html",
+      "headline": "SC Braga beat Vitória SC 2–0 to reach the Portuguese Cup last 16",
+      "description": "Ricardo Horta converted a penalty and Fran Navarro added the second in the Minho derby in Guimarães.",
+      "image": "images/braga-vitoria-2026-celebration-paulo-nomade.jpg",
+      "imageCredit": "Paulo Nômade / Image Media",
+      "imagePhotographers": [
+        "Paulo Nômade"
+      ],
+      "published": "2026-11-25T11:15:03+00:00",
+      "modified": "2026-11-25T11:15:03+00:00",
+      "eventDate": "2026-11-21",
+      "gridMode": "event",
+      "section": "Sports",
+      "location": "Guimarães, Portugal",
+      "homepageTag": "Football",
+      "homepageTagClass": "tag-football",
+      "homepageAlt": "SC Braga players celebrate together in Guimarães",
+      "breakingText": "SC Braga beat Vitória SC 2–0 to reach the Portuguese Cup last 16",
+      "correspondents": [
+        "Paulo Nômade"
+      ],
+      "photographers": [
+        "Paulo Nômade"
+      ],
+      "sourceUrls": [
+        "https://scbraga.pt/en/news/sc-braga-elimina-vitoria-sc-e-avanca-para-os-oitavos-de-final-da-taca-de-portugal",
+        "https://vsports.pt/vsports/jogo/taca-portugal/vitoria-sc-braga/34310/story"
+      ]
+    },
+    {
       "file": "article-108.html",
       "headline": "Gravel & Wine turns Piemonte’s autumn roads into a shared ride",
       "description": "The third Gravel & Wine offered 50 km and 80 km non-competitive routes through the hills and vineyards around Serravalle Sesia on 8 November 2026.",
