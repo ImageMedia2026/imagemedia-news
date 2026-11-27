@@ -11,6 +11,37 @@
   "managedFromArticle": 64,
   "articles": [
     {
+      "file": "article-110.html",
+      "headline": "Pau Víctor leads Braga to four-goal win over KuPS",
+      "description": "A goal and three assists from the Spanish forward shaped Braga’s 4–0 Conference League victory on 26 November.",
+      "image": "images/braga-kups-2026-celebration-paulo-nomade.jpg",
+      "imageCredit": "Paulo Nomade / Image Media",
+      "imagePhotographers": [
+        "Paulo Nomade"
+      ],
+      "published": "2026-11-27T12:00:00+00:00",
+      "modified": "2026-11-27T12:00:00+00:00",
+      "eventDate": "2026-11-26",
+      "gridMode": "event",
+      "section": "Sports",
+      "location": "Braga, Portugal",
+      "homepageTag": "Football",
+      "homepageTagClass": "tag-football",
+      "homepageAlt": "Braga players celebrate against KuPS",
+      "breakingText": "Pau Víctor leads Braga to four-goal win over KuPS",
+      "correspondents": [
+        "Paulo Nomade"
+      ],
+      "photographers": [
+        "Paulo Nomade"
+      ],
+      "sourceUrls": [
+        "https://scbraga.pt/pt/news/sc-braga-regressa-as-vitorias-na-uefa-conference-league-com-triunfo-claro-sobre-o-kups",
+        "https://www.uefa.com/uefaconferenceleague/news/02a8-217779a8ad3a-b4c75bb82a48-1000--conference-league-league-phase-fixtures-and-results-by-team/",
+        "https://www.laliga.com/en-PE/match/temporada-2026-2027-europa-conference-league-braga-kups-kuopio-4"
+      ]
+    },
+    {
       "file": "article-109.html",
       "headline": "SC Braga beat Vitória SC 2–0 to reach the Portuguese Cup last 16",
       "description": "Ricardo Horta converted a penalty and Fran Navarro added the second in the Minho derby in Guimarães.",
@@ -46,7 +77,10 @@
       "description": "The third Gravel & Wine offered 50 km and 80 km non-competitive routes through the hills and vineyards around Serravalle Sesia on 8 November 2026.",
       "image": "images/gravel-wine-2026-autumn-riders-image-media.jpg",
       "imageCredit": "Giorgia Donato and Miriam Barbero / Image Media",
-      "imagePhotographers": ["Giorgia Donato", "Miriam Barbero"],
+      "imagePhotographers": [
+        "Giorgia Donato",
+        "Miriam Barbero"
+      ],
       "published": "2026-11-23T19:27:45+00:00",
       "modified": "2026-11-23T19:27:45+00:00",
       "eventDate": "2026-11-08",
@@ -58,7 +92,10 @@
       "homepageAlt": "Cyclists ride together on an autumn gravel road near Serravalle Sesia",
       "breakingText": "Gravel & Wine brought 50 km and 80 km autumn routes to Serravalle Sesia in Piemonte.",
       "correspondents": [],
-      "photographers": ["Giorgia Donato", "Miriam Barbero"],
+      "photographers": [
+        "Giorgia Donato",
+        "Miriam Barbero"
+      ],
       "sourceUrls": [
         "https://teamloccabici.it/gravel-wine/",
         "https://www.endu.net/events/gravel-and-wine",
@@ -71,7 +108,13 @@
       "description": "Nick Van der Lycke and Felicity Milton won the rescheduled UCI Gran Fondo World Series qualifier over 131 kilometres in La Nucía on 7 November 2026.",
       "image": "images/uci-gran-fondo-la-nucia-2026-riders-image-media.jpg",
       "imageCredit": "Image Media",
-      "imagePhotographers": ["Sérgio Mendes", "Paulo Nômade", "Claudio João", "Adilia Pinto", "José Ramón Moreno"],
+      "imagePhotographers": [
+        "Sérgio Mendes",
+        "Paulo Nômade",
+        "Claudio João",
+        "Adilia Pinto",
+        "José Ramón Moreno"
+      ],
       "published": "2026-11-23T18:54:50+00:00",
       "modified": "2026-11-23T18:54:50+00:00",
       "eventDate": "2026-11-07",
@@ -83,7 +126,13 @@
       "homepageAlt": "Cyclists riding together on the roads around La Nucía during the UCI Gran Fondo World Series",
       "breakingText": "Van der Lycke outsprinted Valverde and Milton won the UCI Gran Fondo World Series qualifier in La Nucía.",
       "correspondents": [],
-      "photographers": ["Sérgio Mendes", "Paulo Nômade", "Claudio João", "Adilia Pinto", "José Ramón Moreno"],
+      "photographers": [
+        "Sérgio Mendes",
+        "Paulo Nômade",
+        "Claudio João",
+        "Adilia Pinto",
+        "José Ramón Moreno"
+      ],
       "sourceUrls": [
         "https://ucigranfondoworldseries.com/en/granfondo-la-nucia/",
         "https://ucigranfondoworldseries.com/en/van-der-lycke-outsprints-valverde-to-win-granfondo-la-nucia/",
@@ -97,7 +146,13 @@
       "description": "Loures Throwdown 2026 brought two days of national functional fitness competition to the Pavilhão Paz e Amizade on 7–8 November.",
       "image": "images/loures-throwdown-2026-tyre-carry-image-media.jpg",
       "imageCredit": "Image Media",
-      "imagePhotographers": ["Pedro Oliveira", "Leandro Rocha", "Mateus Pereira", "Luan Chepernate", "Luis Moreira"],
+      "imagePhotographers": [
+        "Pedro Oliveira",
+        "Leandro Rocha",
+        "Mateus Pereira",
+        "Luan Chepernate",
+        "Luis Moreira"
+      ],
       "published": "2026-11-23T18:16:41+00:00",
       "modified": "2026-11-23T18:16:41+00:00",
       "eventDate": "2026-11-07",
@@ -109,7 +164,13 @@
       "homepageAlt": "Teams carry heavy tyres during Loures Throwdown 2026",
       "breakingText": "Loures Throwdown brought two days of functional fitness competition to the Pavilhão Paz e Amizade.",
       "correspondents": [],
-      "photographers": ["Pedro Oliveira", "Leandro Rocha", "Mateus Pereira", "Luan Chepernate", "Luis Moreira"],
+      "photographers": [
+        "Pedro Oliveira",
+        "Leandro Rocha",
+        "Mateus Pereira",
+        "Luan Chepernate",
+        "Luis Moreira"
+      ],
       "sourceUrls": [
         "https://www.aml.pt/agenda/loures-throwdown-2026/",
         "https://linktr.ee/loures_throwdown_byPDN",
@@ -123,7 +184,10 @@
       "description": "The second Throwdown d’Acciaio brought 216 athletes from Italy, France and Romania to Terni for team and individual CrossTraining competition on 7–8 November 2026.",
       "image": "images/throwdown-acciaio-2026-arena-image-media.jpg",
       "imageCredit": "Image Media",
-      "imagePhotographers": ["Eduardo Castro", "Johnny"],
+      "imagePhotographers": [
+        "Eduardo Castro",
+        "Johnny"
+      ],
       "published": "2026-11-23T17:38:29+00:00",
       "modified": "2026-11-23T17:38:29+00:00",
       "eventDate": "2026-11-07",
@@ -135,7 +199,10 @@
       "homepageAlt": "Athletes and judges spread across the competition floor at Throwdown d’Acciaio 2026",
       "breakingText": "Throwdown d’Acciaio brought 216 athletes from Italy, France and Romania to Terni.",
       "correspondents": [],
-      "photographers": ["Eduardo Castro", "Johnny"],
+      "photographers": [
+        "Eduardo Castro",
+        "Johnny"
+      ],
       "sourceUrls": [
         "https://www.comune.terni.it/eventi/conferenza-stampa/conferenza-stampa-throwdown-dacciaio",
         "https://linktr.ee/throwdown_acciaio",
@@ -151,7 +218,13 @@
       "description": "The Badajoz–Elvas Throwdown brought 600 athletes and around 2,000 spectators to the Coliseu Comendador Rondão Almeida on 7–8 November 2026.",
       "image": "images/badajoz-elvas-throwdown-2026-arena-image-media.jpg",
       "imageCredit": "Image Media coverage team",
-      "imagePhotographers": ["Michael Rosa", "Tiago Chaves", "Fran Paulino", "Thainá Duete", "Liane Ferreira"],
+      "imagePhotographers": [
+        "Michael Rosa",
+        "Tiago Chaves",
+        "Fran Paulino",
+        "Thainá Duete",
+        "Liane Ferreira"
+      ],
       "published": "2026-11-23T15:21:20+00:00",
       "modified": "2026-11-23T15:21:20+00:00",
       "eventDate": "2026-11-07",
@@ -163,7 +236,13 @@
       "homepageAlt": "A panoramic view of the competition floor and spectators at the 2026 Badajoz–Elvas Throwdown",
       "breakingText": "Badajoz–Elvas Throwdown brought 600 athletes and around 2,000 spectators to the Coliseu in Elvas.",
       "correspondents": [],
-      "photographers": ["Michael Rosa", "Tiago Chaves", "Fran Paulino", "Thainá Duete", "Liane Ferreira"],
+      "photographers": [
+        "Michael Rosa",
+        "Tiago Chaves",
+        "Fran Paulino",
+        "Thainá Duete",
+        "Liane Ferreira"
+      ],
       "sourceUrls": [
         "https://radioelvas.com/2026/11/09/coliseu-de-elvas-recebeu-a-maior-competicao-de-crossfit-da-peninsula-iberica/",
         "https://canalalentejo.sapo.pt/o-coliseu-comendador-rondao-almeida-em-elvas-recebe-nos-dias-7-e-8-de-novembr/",
